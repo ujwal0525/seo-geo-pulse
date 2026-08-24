@@ -122,6 +122,7 @@ select.mini:focus{border-color:var(--accent)}
 .card-title a{text-decoration:none}
 .card-title a:hover{text-decoration:underline; text-underline-offset:2px; text-decoration-color:var(--c,var(--faint))}
 .card-summary{color:var(--muted); font-size:14px; margin:6px 0 0}
+.card-date{color:var(--faint)}
 
 /* ── empty state ──────────────────────────────────────────── */
 .empty{display:none; text-align:center; padding:56px 20px 60px; color:var(--muted)}
@@ -287,6 +288,10 @@ function timeAgo(iso){
   const d=h/24; if(d<7) return Math.round(d)+"d ago";
   return then.toLocaleDateString(undefined,{month:"short",day:"numeric"});
 }
+function fmtDateTime(iso){
+  const d=new Date(iso); if(isNaN(d)) return "";
+  return d.toLocaleString(undefined,{day:"numeric",month:"short",year:"numeric",hour:"numeric",minute:"2-digit"});
+}
 function isNew(iso){ const t=new Date(iso); return !isNaN(t) && (Date.now()-t)/36e5 < 48; }
 function esc(s){ return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
 
@@ -294,8 +299,10 @@ function esc(s){ return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">
 function renderSync(){
   const el=document.getElementById("sync");
   const n=state.items.length;
-  const when = state.usingSeed ? "Sample feed — live data on first sync"
-             : (state.updated ? "Synced "+timeAgo(state.updated) : "Awaiting first sync");
+  let when;
+  if(state.usingSeed) when = "Sample data — refreshes on first sync";
+  else if(state.updated) when = "Last refreshed "+fmtDateTime(state.updated)+" · "+timeAgo(state.updated);
+  else when = "Awaiting first sync";
   el.innerHTML = `<b>${n}</b> ${n===1?"story":"stories"}<span class="sep">·</span>${esc(when)}`;
 }
 
@@ -369,7 +376,8 @@ function renderFeed(){
     return `<article class="card ${c.cls}">
       <div class="card-meta">${newBadge}<span class="card-cat">${esc(c.short)}</span>
         <span class="m-sep">·</span><span>${esc(it.source)}</span>
-        <span class="m-sep">·</span><span>${esc(timeAgo(it.published))}</span></div>
+        <span class="m-sep">·</span><span title="${esc(fmtDateTime(it.published))}">${esc(timeAgo(it.published))}</span>
+        <span class="m-sep">·</span><span class="card-date">${esc(fmtDateTime(it.published))}</span></div>
       <h3 class="card-title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
       ${it.summary?`<p class="card-summary">${esc(it.summary)}</p>`:""}
     </article>`;
