@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T15:40:57Z",
-  "count": 79,
+  "updated": "2026-08-24T17:48:05Z",
+  "count": 80,
   "sources": [
     "Ahrefs Blog",
     "Google (Search)",
@@ -12,6 +12,15 @@
     "SparkToro"
   ],
   "items": [
+    {
+      "id": "170f38bdbd24",
+      "title": "MBA Metrics for SEO: How to Speak Leadership’s Language",
+      "url": "https://ahrefs.com/blog/mba-metrics-for-seo/",
+      "source": "Ahrefs Blog",
+      "summary": "As an SEO professional, metrics like rankings, traffic, and clicks are meaningful to you, but to a leadership team trained on market share and return on investment, they’re noise. That’s not a bias against SEO. It’s just what happens when … Read more ›",
+      "category": "Industry & Platform",
+      "published": "2026-08-24T15:52:49Z"
+    },
     {
       "id": "43e9eb2df913",
       "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
