@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T17:48:05Z",
-  "count": 80,
+  "updated": "2026-08-24T21:05:18Z",
+  "count": 82,
   "sources": [
     "Ahrefs Blog",
     "Google (Search)",
@@ -12,6 +12,24 @@
     "SparkToro"
   ],
   "items": [
+    {
+      "id": "9dab6142d312",
+      "title": "Has Google demoted listicles?",
+      "url": "https://www.growth-memo.com/p/has-google-demoted-listicles",
+      "source": "Growth Memo",
+      "summary": "What 5.32 million search results reveal about Google's actual stance on \"best of\" content.",
+      "category": "Content & Strategy",
+      "published": "2026-08-24T19:18:49Z"
+    },
+    {
+      "id": "da7ab1f6f94b",
+      "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
+      "source": "Search Engine Journal",
+      "summary": "Pew found AI authorship signs on 10% of sampled webpages and 35% of pages carrying a post-ChatGPT publication date. The post 1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-24T18:50:15Z"
+    },
     {
       "id": "170f38bdbd24",
       "title": "MBA Metrics for SEO: How to Speak Leadership’s Language",
