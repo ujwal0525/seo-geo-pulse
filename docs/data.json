@@ -1,6 +1,727 @@
 {
-  "updated": null,
-  "count": 0,
-  "sources": [],
-  "items": []
+  "updated": "2026-08-24T15:40:57Z",
+  "count": 79,
+  "sources": [
+    "Ahrefs Blog",
+    "Google (Search)",
+    "Google Search Central",
+    "Growth Memo",
+    "Marie Haynes",
+    "Search Engine Journal",
+    "Semrush Blog",
+    "SparkToro"
+  ],
+  "items": [
+    {
+      "id": "43e9eb2df913",
+      "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/",
+      "source": "Search Engine Journal",
+      "summary": "Google Ads adds new Search and AI Max experimentation tools for testing budgets, ROI targets, brand controls, location settings, and campaign changes. The post Google Ads Launches New Search and AI Max Experimentation Tools appeared first on Search Engine Journal .",
+      "category": "Tools & Data",
+      "published": "2026-08-24T14:50:16Z"
+    },
+    {
+      "id": "966454b077ff",
+      "title": "SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/",
+      "source": "Search Engine Journal",
+      "summary": "Platforms like Spotify and LinkedIn are cracking down on AI slop. SEOs face a choice: treat AI as a shortcut or as an editorial assistant. The post SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash appeared first on Search Engine Journal .",
+      "category": "Tools & Data",
+      "published": "2026-08-24T14:30:06Z"
+    },
+    {
+      "id": "fc58a44d2774",
+      "title": "How To Audit Publisher Websites In 2026",
+      "url": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/",
+      "source": "Search Engine Journal",
+      "summary": "A practical framework for auditing publisher websites in 2026, covering technical SEO, content quality, E-E-A-T, and entity consistency across passive and active discovery channels. The post How To Audit Publisher Websites In 2026 appeared first on Search Engine Journal .",
+      "category": "Content & Strategy",
+      "published": "2026-08-24T12:00:14Z"
+    },
+    {
+      "id": "9ab003d9b54f",
+      "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/",
+      "source": "Search Engine Journal",
+      "summary": "Google explains whether some industries can get away with focusing on search and ignore GEO altogether. The post Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-24T10:52:48Z"
+    },
+    {
+      "id": "bbdbe4c42067",
+      "title": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
+      "source": "Search Engine Journal",
+      "summary": "Google's August spam update rolls out as generative UI reaches AI Overviews, websites get a new button, and Reddit's ChatGPT citation share falls. The post Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-22T12:30:28Z"
+    },
+    {
+      "id": "c4eeb01b0523",
+      "title": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
+      "source": "Search Engine Journal",
+      "summary": "One year of AI Mode data shows people asking questions, not typing fragments, which is why the lead-first paragraph now beats the narrative arc. The post AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-21T19:00:14Z"
+    },
+    {
+      "id": "76bde8e6a1cf",
+      "title": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/",
+      "source": "Search Engine Journal",
+      "summary": "AI labs are buying pre-2022 books to avoid training on AI slop while quietly building text watermarking, exposing why content-at-scale strategies are a losing bet. The post The House Doesn’t Publish Its Tells appeared first on Search Engine Journal .",
+      "category": "Content & Strategy",
+      "published": "2026-08-21T14:30:45Z"
+    },
+    {
+      "id": "202ed8e83954",
+      "title": "Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
+      "source": "Search Engine Journal",
+      "summary": "AI Overviews can now build interactive tools inside Search. Google’s testing shows generated interfaces often beat top results in head-to-head comparisons. The post Google’s Generated Interfaces Could Compete With Tool Pages appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-21T12:00:32Z"
+    },
+    {
+      "id": "fe8a19e32c62",
+      "title": "What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/",
+      "source": "Search Engine Journal",
+      "summary": "Optimize your marketing strategy by learning the limitations of AI search metrics and how to utilize your data effectively. The post What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-21T07:45:38Z"
+    },
+    {
+      "id": "01633a68d050",
+      "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/",
+      "source": "Search Engine Journal",
+      "summary": "Citation tools answer a different question than rank trackers did: not why you appeared, but whether the phrase you're chasing has already settled. The post The Keyword Universe Was Always Smaller Than We Thought appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-20T19:00:38Z"
+    },
+    {
+      "id": "013f4d583244",
+      "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
+      "source": "Search Engine Journal",
+      "summary": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets. The post Microsoft Ads Is Removing Max CPC From New Campaigns appeared first on Search Engine Journal .",
+      "category": "Industry & Platform",
+      "published": "2026-08-20T18:13:03Z"
+    },
+    {
+      "id": "894db3c5b701",
+      "title": "How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO via @sejournal, @rollerblader",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/",
+      "source": "Search Engine Journal",
+      "summary": "A practical guide to spotting keyword cannibalization using Search Console, site crawlers, and rank trackers, plus fixes like canonicals, meta robots, and internal linking. The post How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO…",
+      "category": "Tools & Data",
+      "published": "2026-08-20T17:30:58Z"
+    },
+    {
+      "id": "e9fa5fc96bee",
+      "title": "Google Expands Personalization Across Search, Discover & News via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/",
+      "source": "Search Engine Journal",
+      "summary": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app. The post Google Expands Personalization Across Search, Discover & News appeared first on Search Engine Journal .",
+      "category": "Industry & Platform",
+      "published": "2026-08-20T16:02:52Z"
+    },
+    {
+      "id": "3ff942dbfffa",
+      "title": "Personalize the content you see on Search, Discover, and News",
+      "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+      "source": "Google (Search)",
+      "summary": "A woman looks at a phone outdoors",
+      "category": "Content & Strategy",
+      "published": "2026-08-20T16:00:00Z"
+    },
+    {
+      "id": "a7c1d5038959",
+      "title": "What Is Information Gain in SEO? (and How To Add It to Your Content)",
+      "url": "https://ahrefs.com/blog/information-gain/",
+      "source": "Ahrefs Blog",
+      "summary": "Whether Google runs a literal information gain score is still unconfirmed. But whether or not it improves your ranking is almost irrelevant. You should care about information gain because it’s your differentiator. The extra effort you put into creating useful, … Read more ›",
+      "category": "Content & Strategy",
+      "published": "2026-08-20T15:39:55Z"
+    },
+    {
+      "id": "b44cdd029781",
+      "title": "Growth Intelligence Brief #23",
+      "url": "https://www.growth-memo.com/p/growth-intelligence-brief-23",
+      "source": "Growth Memo",
+      "summary": "ZipRecruiter gives back July spike, YouTube slides 6th straight week, dictionaries surge, NYC.gov and StreetEasy crash, TheKitchn hits all-time high, Amazon climbs, Reddit stands still",
+      "category": "Industry & Platform",
+      "published": "2026-08-20T15:21:29Z"
+    },
+    {
+      "id": "ee1505317cf0",
+      "title": "The Conversion Setup Errors That Break Smart Bidding",
+      "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
+      "source": "Search Engine Journal",
+      "summary": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns. The post The Conversion Setup Errors That Break Smart Bidding appeared first on Search Engine Journal .",
+      "category": "Tools & Data",
+      "published": "2026-08-20T14:30:03Z"
+    },
+    {
+      "id": "878a41db5fbe",
+      "title": "Google Search Console: the ultimate guide for 2026",
+      "url": "https://www.semrush.com/blog/google-search-console/",
+      "source": "Semrush Blog",
+      "summary": "Learn how to properly set up GSC + use it to spot site issues and areas for improvement.",
+      "category": "Tools & Data",
+      "published": "2026-08-20T12:57:00Z"
+    },
+    {
+      "id": "bddec019c179",
+      "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
+      "url": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/",
+      "source": "Search Engine Journal",
+      "summary": "Hidden white-on-white text was an SEO trick 25 years ago. Now, it tells AI models what to conclude about you. The post Prompt Injections Just Proved Something SEO Has Known For 25 Years appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-20T12:00:39Z"
+    },
+    {
+      "id": "7067ffb16ebc",
+      "title": "Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
+      "source": "Search Engine Journal",
+      "summary": "New Promptwatch data shows a sharp drop in Reddit's ChatGPT Search citations this month. The post Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-19T22:03:26Z"
+    },
+    {
+      "id": "3eb0f092ad95",
+      "title": "Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/",
+      "source": "Search Engine Journal",
+      "summary": "Microsoft Advertising is rolling out AI Max globally, bringing expanded Search matching, text customization, URL expansion and new advertiser controls to Search campaigns. The post Microsoft Advertising Rolls Out AI Max Globally appeared first on Search Engine Journal .",
+      "category": "Industry & Platform",
+      "published": "2026-08-19T19:41:53Z"
+    },
+    {
+      "id": "edf677406932",
+      "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/",
+      "source": "Search Engine Journal",
+      "summary": "Google's generative UI, which builds custom visual layouts and interactive tools, has started reaching AI Overviews after launching in AI Mode last year. The post Google Expands Generative UI Beyond AI Mode Into AI Overviews appeared first on Search Engine Journal .",
+      "category": "AI Search & GEO",
+      "published": "2026-08-19T19:00:27Z"
+    },
+    {
+      "id": "fbf92bafaf8a",
+      "title": "Decision Coverage: Why AI Recommends Some Brands And Not Others via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/",
+      "source": "Search Engine Journal",
+      "summary": "AI doesn't recommend products, it recommends decisions. A SaaS case study shows why missing evidence, not weak authority, causes exclusion from AI recommendations. The post Decision Coverage: Why AI Recommends Some Brands And Not Others appeared first on Search Engine Journal .",
+      "category": "Tools & Data",
+      "published": "2026-08-19T19:00:10Z"
+    },
+    {
+      "id": "314cb75fe2f0",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google (Search)",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "category": "Industry & Platform",
+      "published": "2026-08-19T19:00:00Z"
+    },
+    {
+      "id": "5d2153633e39",
+      "title": "Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
+      "source": "Search Engine Journal",
+      "summary": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix. The post Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show appeared first on Search Engine…",
+      "category": "Industry & Platform",
+      "published": "2026-08-19T14:30:55Z"
+    },
+    {
+      "id": "d0d4f422bb54",
+      "title": "The ultimate guide to creating a content marketing strategy",
+      "url": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
+      "source": "Semrush Blog",
+      "summary": "Learn how to build a content marketing strategy to reach your audience across search, AI, social & more.",
+      "category": "Content & Strategy",
+      "published": "2026-08-19T08:34:00Z"
+    },
+    {
+      "id": "ce0e0f073dba",
+      "title": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
+      "url": "https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/",
+      "source": "Semrush Blog",
+      "summary": "Microsoft Clarity‘s AI Scrape-to-Referral Ratio compares what AI crawlers take from your site with what they send back.",
+      "category": "Industry & Platform",
+      "published": "2026-08-19T08:22:00Z"
+    },
+    {
+      "id": "3fbfea952088",
+      "title": "The Best Persona Tool On the Web Is Now Live",
+      "url": "https://sparktoro.com/blog/the-best-persona-tool-on-the-web-is-now-live/",
+      "source": "SparkToro",
+      "summary": "Starting today, SparkToro’s persona-generation tool is now live and available to all our business and agency-tier subscribers, and it really is the best product in the space for solving this problem. I’m not prone to hyperbole, and I take seriously my responsibility to defend…",
+      "category": "Tools & Data",
+      "published": "2026-08-18T06:36:18Z"
+    },
+    {
+      "id": "09c80cd18031",
+      "title": "SEO content: A complete guide for search and AI",
+      "url": "https://www.semrush.com/blog/seo-content/",
+      "source": "Semrush Blog",
+      "summary": "SEO content now has three audiences: users, search engines, and AI. Follow this five-step workflow to create pages that rank and get cited.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-17T10:53:00Z"
+    },
+    {
+      "id": "f30130f59aa8",
+      "title": "SEO strategy in 2026: how to build one (+ free workbook)",
+      "url": "https://www.semrush.com/blog/seo-strategy/",
+      "source": "Semrush Blog",
+      "summary": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-17T10:08:00Z"
+    },
+    {
+      "id": "efe68b71e697",
+      "title": "SEO for a new website: A sequencing guide for your first 90 days",
+      "url": "https://www.semrush.com/blog/seo-for-new-website/",
+      "source": "Semrush Blog",
+      "summary": "SEO for a new website is all about sequencing. This guide covers what to do before and after launch, plus how to show up in AI answers like ChatGPT.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-17T09:29:00Z"
+    },
+    {
+      "id": "9c86ee728b78",
+      "title": "What is query fan-out? How to find & optimize for subqueries",
+      "url": "https://www.semrush.com/blog/query-fan-out/",
+      "source": "Semrush Blog",
+      "summary": "Query fan-out splits one AI prompt into a dozen or more subqueries. Learn how to find the ones that matter for your brand, and how to cover them.",
+      "category": "Industry & Platform",
+      "published": "2026-08-17T09:16:00Z"
+    },
+    {
+      "id": "e0eb016d7ed7",
+      "title": "How to do prompt research for AI SEO",
+      "url": "https://www.semrush.com/blog/prompt-research-for-ai-seo/",
+      "source": "Semrush Blog",
+      "summary": "Learn a repeatable process for prompt research that shows where your brand competes and where it doesn‘t.",
+      "category": "Tools & Data",
+      "published": "2026-08-17T09:03:00Z"
+    },
+    {
+      "id": "afe85ec9be77",
+      "title": "Slop Antibodies",
+      "url": "https://www.growth-memo.com/p/slop-antibodies",
+      "source": "Growth Memo",
+      "summary": "The connection between Slop, watermarking and Commodity Content shows us the blueprint for successful content in the AI era",
+      "category": "Content & Strategy",
+      "published": "2026-08-17T07:54:02Z"
+    },
+    {
+      "id": "379f8bcd693f",
+      "title": "Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers",
+      "url": "https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/",
+      "source": "Ahrefs Blog",
+      "summary": "For most marketers, I don’t think so. Google has said for years that it doesn’t care how content is produced, only whether it exists to manipulate rankings. And our own research shows that AI-generated content already performs in search: 5.3% … Read more ›",
+      "category": "AI Search & GEO",
+      "published": "2026-08-14T13:39:21Z"
+    },
+    {
+      "id": "8cc5a2e0071f",
+      "title": "Multiply your brand authority",
+      "url": "https://www.growth-memo.com/p/multiply-your-brand-authority",
+      "source": "Growth Memo",
+      "summary": "4 tools that work together for brand authority multiplication",
+      "category": "Tools & Data",
+      "published": "2026-08-14T09:23:19Z"
+    },
+    {
+      "id": "1e9223134bef",
+      "title": "Does Your Website Still Matter in the Zero-Click Era?",
+      "url": "https://sparktoro.com/blog/does-your-website-still-matter-in-the-zero-click-era/",
+      "source": "SparkToro",
+      "summary": "Scholars are divided, but we’re still believers. The website may be visited less, by fewer people, but it’s the only place to give your content efforts a permanent home, to own and control the brand experience, and to thoroughly and correctly inform search, AI tools, and yes…",
+      "category": "Tools & Data",
+      "published": "2026-08-14T08:16:06Z"
+    },
+    {
+      "id": "91f9bb6d7cfc",
+      "title": "AI keyword research: How to use free chatbot tools",
+      "url": "https://www.semrush.com/blog/ai-keyword-research/",
+      "source": "Semrush Blog",
+      "summary": "We tested 5 free chatbots for AI keyword research. See how they performed and how to validate their suggestions with real search data.",
+      "category": "Tools & Data",
+      "published": "2026-08-13T11:09:00Z"
+    },
+    {
+      "id": "ac903b5c6a2b",
+      "title": "37 Proven Ways to Use AI in Marketing",
+      "url": "https://ahrefs.com/blog/how-to-use-ai-in-marketing/",
+      "source": "Ahrefs Blog",
+      "summary": "37 proven ways to use AI in marketing, from SEO to international marketing, each one from a marketer who has done it and shown their working. Read more ›",
+      "category": "Industry & Platform",
+      "published": "2026-08-13T08:32:36Z"
+    },
+    {
+      "id": "3311d1bad157",
+      "title": "234 ChatGPT prompts (and how to write your own)",
+      "url": "https://www.semrush.com/blog/chatgpt-prompts/",
+      "source": "Semrush Blog",
+      "summary": "Copy-ready 234 ChatGPT prompts for marketing, SEO, sales, and 10+ use cases, plus the PROMPT framework for writing your own.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-12T06:58:00Z"
+    },
+    {
+      "id": "be0ef1e591b6",
+      "title": "Topical Gravity: Why topics are the new unit of your search strategy",
+      "url": "https://www.semrush.com/blog/topical-gravity/",
+      "source": "Semrush Blog",
+      "summary": "Search has become a topic-level game. Here‘s a framework to build, measure, and grow topical authority across AI and Google.",
+      "category": "Content & Strategy",
+      "published": "2026-08-11T13:00:00Z"
+    },
+    {
+      "id": "df74d438b0ae",
+      "title": "How to grow your AI Visibility with community signals",
+      "url": "https://www.growth-memo.com/p/community-signals-are-ais-largest",
+      "source": "Growth Memo",
+      "summary": "UGC platforms out-cite review sites at every stage of the buyer journey. Part 4 in our series about organic authority multiplication.",
+      "category": "Content & Strategy",
+      "published": "2026-08-10T11:33:12Z"
+    },
+    {
+      "id": "6753ad3b4f0d",
+      "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
+      "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
+      "source": "Semrush Blog",
+      "summary": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era.",
+      "category": "Industry & Platform",
+      "published": "2026-08-10T09:52:00Z"
+    },
+    {
+      "id": "eef3a6bb1254",
+      "title": "What is organic traffic? (And how to increase it)",
+      "url": "https://www.semrush.com/blog/organic-traffic/",
+      "source": "Semrush Blog",
+      "summary": "Organic traffic is the visitors who land on your site through unpaid search results. Increase yours in 5 steps.",
+      "category": "Industry & Platform",
+      "published": "2026-08-10T08:58:00Z"
+    },
+    {
+      "id": "e5f5fd013eeb",
+      "title": "Local SEO keyword research: A step-by-step guide",
+      "url": "https://www.semrush.com/blog/local-keyword-research/",
+      "source": "Semrush Blog",
+      "summary": "Local SEO keyword research in six steps: find the terms customers use, validate intent, and improve visibility on Google Search, Maps, and AI answers.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-10T08:41:00Z"
+    },
+    {
+      "id": "590d7aa5bb94",
+      "title": "The BRAND New V3 of SparkToro Is Here",
+      "url": "https://sparktoro.com/blog/the-brand-new-v3-of-sparktoro-is-here/",
+      "source": "SparkToro",
+      "summary": "A new version of SparkToro, our 3rd major iteration since the product’s first launch in 2020, just went live today! In this new version you’ll find: A completely overhauled interface, design, branding, and navigation system for the website and the audience research application…",
+      "category": "Tools & Data",
+      "published": "2026-08-05T06:38:21Z"
+    },
+    {
+      "id": "d3753d032c98",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google (Search)",
+      "summary": "July AI recap header",
+      "category": "Industry & Platform",
+      "published": "2026-08-04T13:00:00Z"
+    },
+    {
+      "id": "887d7e558930",
+      "title": "Does topical focus make your brand more visible?",
+      "url": "https://www.growth-memo.com/p/does-topical-focus-make-your-brand",
+      "source": "Growth Memo",
+      "summary": "If you're deciding how far to expand your content strategy, this is the evidence for where authority carries and where it runs out.",
+      "category": "Content & Strategy",
+      "published": "2026-08-03T15:50:05Z"
+    },
+    {
+      "id": "59e28aacb2c1",
+      "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
+      "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
+      "source": "Semrush Blog",
+      "summary": "Can authority in one ChatGPT topic help you win another? Our study shows where topical authority carries over — and where it stops.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-03T13:00:00Z"
+    },
+    {
+      "id": "1e6f67e62f03",
+      "title": "7 best AI visibility tracking tools for agencies by need",
+      "url": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
+      "source": "Semrush Blog",
+      "summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why.",
+      "category": "Tools & Data",
+      "published": "2026-07-31T15:04:00Z"
+    },
+    {
+      "id": "af2808c768d1",
+      "title": "Digital PR for AI visibility: 5 tactics + how to measure",
+      "url": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
+      "source": "Semrush Blog",
+      "summary": "Having a site isn‘t enough to get AI to talk about you. Use these 5 digital PR tactics to grow AI visibility.",
+      "category": "Content & Strategy",
+      "published": "2026-07-30T10:42:00Z"
+    },
+    {
+      "id": "c3a54d700ae1",
+      "title": "What is schema markup? And how to add it to your site",
+      "url": "https://www.semrush.com/blog/schema-markup/",
+      "source": "Semrush Blog",
+      "summary": "Schema markup is code you add to your site to give search engines and AI systems explicit data about your pages.",
+      "category": "Tools & Data",
+      "published": "2026-07-30T10:21:00Z"
+    },
+    {
+      "id": "0497a79552bf",
+      "title": "Content optimization: 20 tactics to boost SEO & AI visibility",
+      "url": "https://www.semrush.com/blog/content-optimization/",
+      "source": "Semrush Blog",
+      "summary": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+      "category": "Content & Strategy",
+      "published": "2026-07-30T10:07:00Z"
+    },
+    {
+      "id": "44fa41ec6e8e",
+      "title": "Platform properties roll out globally, plus a new social and video performance guide",
+      "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
+      "source": "Google Search Central",
+      "summary": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
+      "category": "Tools & Data",
+      "published": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": "50bf9e90585e",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google (Search)",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "category": "AI Search & GEO",
+      "published": "2026-07-28T13:00:00Z"
+    },
+    {
+      "id": "f4ae5122e295",
+      "title": "These Google Trends show people really want to touch grass",
+      "url": "https://blog.google/products-and-platforms/products/search/touch-grass-trends/",
+      "source": "Google (Search)",
+      "summary": "Illustration of a phone in do-not-disturb mode against green grass",
+      "category": "Industry & Platform",
+      "published": "2026-07-28T13:00:00Z"
+    },
+    {
+      "id": "337133ac9fb1",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google (Search)",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "category": "Industry & Platform",
+      "published": "2026-07-28T13:00:00Z"
+    },
+    {
+      "id": "b9f3c7aaa20c",
+      "title": "Vibe Coding for Marketers: A Beginner’s Guide",
+      "url": "https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/",
+      "source": "Ahrefs Blog",
+      "summary": "Canva made this painfully clear: they gave 5,000 employees a full week to explore AI, and most couldn’t figure out how to start. No surprise there, most vibe-coding tools expect you to manage files, wrangle a terminal, and deploy to … Read more ›",
+      "category": "Tools & Data",
+      "published": "2026-07-28T08:06:18Z"
+    },
+    {
+      "id": "35efffde6f11",
+      "title": "NEW: Brand Affinity is Now Live in SparkToro Reports",
+      "url": "https://sparktoro.com/blog/new-brand-affinity-is-now-live-in-sparktoro-reports/",
+      "source": "SparkToro",
+      "summary": "Starting today, SparkToro audience research reports now contain brand affinity data, showing the companies, products, and brand names an audience is most familiar with and/or purchases from. When we first received requests for this data, my cofounder Casey went to work finding a…",
+      "category": "Tools & Data",
+      "published": "2026-07-28T06:57:58Z"
+    },
+    {
+      "id": "8d61edcf4195",
+      "title": "Keyword mapping for SEO: Guide + free template",
+      "url": "https://www.semrush.com/blog/keyword-mapping/",
+      "source": "Semrush Blog",
+      "summary": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+      "category": "Industry & Platform",
+      "published": "2026-07-27T15:11:00Z"
+    },
+    {
+      "id": "2fd3cb36b98d",
+      "title": "AI Halftime Report: H1 2026",
+      "url": "https://www.growth-memo.com/p/ai-halftime-report-h1-2026",
+      "source": "Growth Memo",
+      "summary": "AI's impact kept growing in H1 2026, but the ability to measure it kept falling behind.",
+      "category": "Tools & Data",
+      "published": "2026-07-27T14:27:50Z"
+    },
+    {
+      "id": "2c3fe417be90",
+      "title": "Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)",
+      "url": "https://ahrefs.com/blog/google-doesnt-punish-ai-content/",
+      "source": "Ahrefs Blog",
+      "summary": "On the one hand, Google says they don’t care whether AI is used for content creation, as long as the content isn’t designed “with the primary purpose of manipulating ranking in search results.” On the other hand, people like Lily … Read more ›",
+      "category": "Content & Strategy",
+      "published": "2026-07-27T08:00:13Z"
+    },
+    {
+      "id": "069f39c25ef0",
+      "title": "The future of Search & AI: What I learned from Google’s latest earnings call",
+      "url": "https://www.mariehaynes.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/",
+      "source": "Marie Haynes",
+      "summary": "Google shared some interesting information about the future of Search and AI in their most recent earnings call. While many are focusing on the first negative cash flow since their IPO 20 years ago, I think Google is well on track for massive improvements. Google’s revenue is up…",
+      "category": "Industry & Platform",
+      "published": "2026-07-24T17:55:38Z"
+    },
+    {
+      "id": "b967e8dc67d1",
+      "title": "5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data",
+      "url": "https://ahrefs.com/blog/ai-search-trends/",
+      "source": "Ahrefs Blog",
+      "summary": "Every week brings a new acronym, a new era, a new thing you are supposedly already too late for. Some of it changes how we work, but a lot of it is—let’s be honest—noise. Well, fear not. I’ve curated some … Read more ›",
+      "category": "Tools & Data",
+      "published": "2026-07-24T11:03:53Z"
+    },
+    {
+      "id": "18516af0c2d3",
+      "title": "AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers",
+      "url": "https://ahrefs.com/blog/ai-search-strategy/",
+      "source": "Ahrefs Blog",
+      "summary": "Before someone ever lands on your website, an AI assistant may have already explained what your product does, compared it with competitors, and helped them decide whether you’re worth considering. By the time someone clicks through to your site after … Read more ›",
+      "category": "AI Search & GEO",
+      "published": "2026-07-24T07:55:42Z"
+    },
+    {
+      "id": "cad384c50cba",
+      "title": "7 Reasons Every Marketing Team Should Monitor Brand Mentions",
+      "url": "https://sparktoro.com/blog/7-reasons-every-marketing-team-should-monitor-brand-mentions/",
+      "source": "SparkToro",
+      "summary": "Wait a minute… are you telling me you’re only doing brand monitoring for reputation management?! What is this, 2004? It’s time for an upgrade, not necessarily to your tools (though if you’re still using Google Alerts, OMG stop; Alertmouse is free and 100X better) but to your…",
+      "category": "Tools & Data",
+      "published": "2026-07-24T06:10:57Z"
+    },
+    {
+      "id": "2592b5f93cd7",
+      "title": "Creating and Promoting Were Never the Same Decision",
+      "url": "https://sparktoro.com/blog/creating-and-promoting-were-never-the-same-decision/",
+      "source": "SparkToro",
+      "summary": "I’ll admit I’m kind of a thinkboi (gender neutral). I’m often more interested in the philosophies behind marketing — how we pick our campaigns, which ideas are worth exploring — than in the campaigns themselves. So when Tim Soulo asked me a question on the Ahrefs podcast that I…",
+      "category": "Tools & Data",
+      "published": "2026-07-23T02:57:23Z"
+    },
+    {
+      "id": "8175432038c0",
+      "title": "13 Google tips for a fun, productive summer off from college",
+      "url": "https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/",
+      "source": "Google (Search)",
+      "summary": "Illustration of a woman in front of a computer, a phone searching an image of a plant, a suitcase, and a video feed",
+      "category": "Industry & Platform",
+      "published": "2026-07-21T20:00:00Z"
+    },
+    {
+      "id": "05a86689f213",
+      "title": "Does topical authority matter in AI Search?",
+      "url": "https://www.growth-memo.com/p/does-topical-authority-matter-in",
+      "source": "Growth Memo",
+      "summary": "An analysis of over 50,000 brands shows the impact of topical authority on AEO.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-20T12:05:40Z"
+    },
+    {
+      "id": "c976718c6b79",
+      "title": "Why your pages are stuck in crawled-currently not indexed. And what to do about it.",
+      "url": "https://www.mariehaynes.com/crawled-currently-not-indexed/",
+      "source": "Marie Haynes",
+      "summary": "I have had a number of site owners reach out to ask for help with indexing issues lately. In most cases, I am finding that Google has classified their pages as “crawled-not currently indexed” in the page indexing report in Google Search Console. In almost every case I’ve…",
+      "category": "Tools & Data",
+      "published": "2026-07-16T18:01:30Z"
+    },
+    {
+      "id": "4723831927dc",
+      "title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
+      "url": "https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/",
+      "source": "Google (Search)",
+      "summary": "College students are eager to turn their dull dorm rooms into cozy spaces. Here are the Google Search trends we’re seeing.",
+      "category": "Industry & Platform",
+      "published": "2026-07-16T17:00:00Z"
+    },
+    {
+      "id": "fcb7202e5624",
+      "title": "6 back-to-school shopping tricks every student should know",
+      "url": "https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/",
+      "source": "Google (Search)",
+      "summary": "Four mobile phone screens illustrating Google Shopping features: personalized AI search results, a Google Lens visual search of a shoe, a product listing with a price-tracking button, and a virtual try-on feature showing a shirt on an avatar.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-16T17:00:00Z"
+    },
+    {
+      "id": "85cdb4a3634b",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google (Search)",
+      "summary": "Connected apps rendering",
+      "category": "Industry & Platform",
+      "published": "2026-07-16T16:00:00Z"
+    },
+    {
+      "id": "f21ee6d14d0d",
+      "title": "The DMA should not undercut security & privacy for Europeans",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/",
+      "source": "Google (Search)",
+      "summary": "Today's decisions risk undermining vital privacy and security guardrails for millions of Europeans. We have repeatedly offered solutions to safeguard users while satisfy…",
+      "category": "Industry & Platform",
+      "published": "2026-07-16T12:05:00Z"
+    },
+    {
+      "id": "fbdd35b38e75",
+      "title": "The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators",
+      "url": "https://ahrefs.com/blog/the-free-tools-seo-strategy/",
+      "source": "Ahrefs Blog",
+      "summary": "That’s the free-tools SEO strategy: instead of writing another guide, you build a small, genuinely useful tool, put it on a page, and let it rank for a query that has huge demand and almost no good competition. Done right, … Read more ›",
+      "category": "Tools & Data",
+      "published": "2026-07-16T11:30:20Z"
+    },
+    {
+      "id": "dc9597f1b62f",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google (Search)",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "category": "Industry & Platform",
+      "published": "2026-07-14T16:00:00Z"
+    },
+    {
+      "id": "b2ae643a7ab7",
+      "title": "6 Ways to Automate AEO With Letaido",
+      "url": "https://ahrefs.com/blog/letaido-for-aeo/",
+      "source": "Ahrefs Blog",
+      "summary": "If you’re one of the named brands, you win. If you’re not, you never knew the conversation happened. Optimizing for that is called AEO (or if you prefer, GEO.) This is now part of SEO and/or the marketing team’s … Read more ›",
+      "category": "AI Search & GEO",
+      "published": "2026-07-14T15:23:28Z"
+    },
+    {
+      "id": "9142697827c7",
+      "title": "10 Creative Ways to Write with AI (Without Losing Your Soul)",
+      "url": "https://ahrefs.com/blog/creative-ways-to-write-with-ai/",
+      "source": "Ahrefs Blog",
+      "summary": "So, after years of hearing the same message, people started associating AI-generated content with low-effort, mass-produced slop. AI-assisted content earned a bad reputation before it had a chance to mature. This article is my attempt to reset the conversation. I’ll … Read more ›",
+      "category": "AI Search & GEO",
+      "published": "2026-07-14T10:43:26Z"
+    },
+    {
+      "id": "a0419b113380",
+      "title": "Where AI agents get stuck on your site",
+      "url": "https://www.growth-memo.com/p/where-ai-agents-get-stuck-on-your",
+      "source": "Growth Memo",
+      "summary": "Agents are the future, but many B2B sites break at a critical point",
+      "category": "Industry & Platform",
+      "published": "2026-07-13T09:05:49Z"
+    }
+  ]
 }
