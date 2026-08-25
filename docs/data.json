@@ -1,17 +1,39 @@
 {
-  "updated": "2026-08-25T03:16:32Z",
-  "count": 82,
+  "updated": "2026-08-25T05:34:46Z",
+  "count": 243,
   "sources": [
     "Ahrefs Blog",
+    "Aleyda Solis",
+    "Andrea Volpini (WordLift)",
+    "Backlinko",
+    "Dan Petrovic (DEJAN)",
+    "Glenn Gabe (GSQi)",
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
     "Marie Haynes",
+    "Moz Blog",
+    "Neil Patel",
+    "OpenAI",
+    "Ross Simmonds (Foundation)",
     "Search Engine Journal",
+    "Search Engine Roundtable",
     "Semrush Blog",
-    "SparkToro"
+    "SparkToro",
+    "Yoast",
+    "Zyppy Signal",
+    "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "686ada77dc2b",
+      "title": "Gong showed up in 100% of AI threads but won only 3. Here’s what decided it.",
+      "url": "https://foundationinc.co/lab/vol-306",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Our team asked ChatGPT and Claude the same question 11 times: “Which revenue intelligence platform should replace our stack before we onboard five new SDRs next month?” Gong showed up in all 11 threads. It won three. Showing up in an AI answer and being the AI’s recommendation…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-24T19:53:30Z"
+    },
     {
       "id": "9dab6142d312",
       "title": "Has Google demoted listicles?",
@@ -29,6 +51,15 @@
       "summary": "Pew found AI authorship signs on 10% of sampled webpages and 35% of pages carrying a post-ChatGPT publication date. The post 1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports appeared first on Search Engine Journal .",
       "category": "AI Search & GEO",
       "published": "2026-08-24T18:50:15Z"
+    },
+    {
+      "id": "f1b66bb83b10",
+      "title": "How to Start a Franchise Business (2026 Guide)",
+      "url": "https://neilpatel.com/blog/start-franchise-business/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Learning how to start a franchise can be a great way to become a business owner. To launch a business, you need to perform market research, file for a license, create a marketing plan, and build your brand. Buying a franchise location within a corporation that’s…",
+      "category": "Tools & Data",
+      "published": "2026-08-24T16:00:00Z"
     },
     {
       "id": "170f38bdbd24",
@@ -58,6 +89,15 @@
       "published": "2026-08-24T14:30:06Z"
     },
     {
+      "id": "dd5c6f19354c",
+      "title": "Daily Search Forum Recap: August 24, 2026",
+      "url": "https://www.seroundtable.com/recap-08-24-2026-41933.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google fixed two bugs, the favicon bug and the crawl stats bug in Search Console...",
+      "category": "Tools & Data",
+      "published": "2026-08-24T14:00:00Z"
+    },
+    {
       "id": "fc58a44d2774",
       "title": "How To Audit Publisher Websites In 2026",
       "url": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/",
@@ -65,6 +105,69 @@
       "summary": "A practical framework for auditing publisher websites in 2026, covering technical SEO, content quality, E-E-A-T, and entity consistency across passive and active discovery channels. The post How To Audit Publisher Websites In 2026 appeared first on Search Engine Journal .",
       "category": "Content & Strategy",
       "published": "2026-08-24T12:00:14Z"
+    },
+    {
+      "id": "df015003760c",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "36f760683e07",
+      "title": "Google Makes Minor Updates To Canonicalization Help Docs",
+      "url": "https://www.seroundtable.com/google-updates-canonicalization-help-docs-41925.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has made some minor updates to the canonicalization help documents including the What is canonicalization and Fix canonicalization issues. I am not sure if anything fundamentally is different on the page outside of making it easier to understand and follow what the page…",
+      "category": "Industry & Platform",
+      "published": "2026-08-24T11:51:00Z"
+    },
+    {
+      "id": "8770e4f51e4f",
+      "title": "Google Merchant Center Product Images Minimum Size Will Be 500x500 Pixels",
+      "url": "https://www.seroundtable.com/google-merchant-center-product-images-update-41924.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google sent out an email to Google Merchant Center advertisers and users that the minimum size for product images is going up to 500 x 500 pixels starting on January 31, 2027. Google recommends at least 1500x1500 pixels or above, but the minimum size requirement is 500x500…",
+      "category": "Industry & Platform",
+      "published": "2026-08-24T11:41:00Z"
+    },
+    {
+      "id": "5d682017124b",
+      "title": "Google Aware Of Reviews Missing After Google Business Profile Reinstatement",
+      "url": "https://www.seroundtable.com/reviews-missing-google-business-profile-reinstatement-41927.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is aware of and in the process of addressing an issue where reviews are missing after a Google Business Profile gets reinstated after it was suspended. Google is reportedly actively working on a resolution but there is no estimated time for when that resolution will take…",
+      "category": "Tools & Data",
+      "published": "2026-08-24T11:31:00Z"
+    },
+    {
+      "id": "8be3a7096ef3",
+      "title": "Google Tests Pink Highlights In Featured Snippets",
+      "url": "https://www.seroundtable.com/google-pink-highlights-featured-snippets-41926.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Typically, when Google highlights phrases in a featured snippet or AI Overview within Google Search, the highlighter color is blue. We've seen Google test other colors before, but here is a new one - a pink highlight.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-24T11:21:00Z"
+    },
+    {
+      "id": "5610d3dbae54",
+      "title": "Google Ads Reduces Conversion Cycle For Maximize Conversion Value Bidding",
+      "url": "https://www.seroundtable.com/google-ads-conversion-cycle-max-conv-41919.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the Google Ads help document for About Maximize conversion value bidding with a number of changes. The change that stood out the most was Google lowering the conversion cycles requirement from three cycles to one or two conversion cycles.",
+      "category": "Industry & Platform",
+      "published": "2026-08-24T11:11:00Z"
+    },
+    {
+      "id": "e7ea45fadf67",
+      "title": "Google Search Console Sends New Owner Email Notifications - Bug?",
+      "url": "https://www.seroundtable.com/google-search-console-new-owner-emails-41932.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Many of you may have woken up this morning to emails from Google Search Console notifying you of a new owner on your Search Console accounts. I received a couple, as did many of you. I was a bit alarmed when I saw it but the notifications were about someone who already had…",
+      "category": "Tools & Data",
+      "published": "2026-08-24T11:05:00Z"
     },
     {
       "id": "9ab003d9b54f",
@@ -76,6 +179,33 @@
       "published": "2026-08-24T10:52:48Z"
     },
     {
+      "id": "de996e9fdd11",
+      "title": "Control Groups and Causal Impact for AI-Visibility ROI",
+      "url": "https://wordlift.io/blog/en/control-groups-and-causal-impact-for-ai-visibility-roi/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "Control groups prove causal impact. Assisted-conversion language is what gets it funded. Here's how to use both. The post Control Groups and Causal Impact for AI-Visibility ROI appeared first on WordLift Blog .",
+      "category": "Industry & Platform",
+      "published": "2026-08-24T10:10:10Z"
+    },
+    {
+      "id": "08bc1dd76c28",
+      "title": "Google Fixed Favicon Bug & Crawl Stats Missing Data",
+      "url": "https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has fixed two bugs this weekend related to Google Search. The first is the bug with many favicons not showing up in the Google Search result snippets. The second is the bug with two days of data missing from the Google Search Console crawl stats report.",
+      "category": "Tools & Data",
+      "published": "2026-08-24T00:45:00Z"
+    },
+    {
+      "id": "dff8b4b0bc4e",
+      "title": "Ox Alpha is GLM",
+      "url": "https://dejan.ai/blog/ox-alpha/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Prompt injection and gzip-NCD compression analysis reveal that OX Alpha, a mysterious LLM on OpenRouter, is GLM developed by Z.ai.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-23T03:39:10Z"
+    },
+    {
       "id": "bbdbe4c42067",
       "title": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
@@ -83,6 +213,15 @@
       "summary": "Google's August spam update rolls out as generative UI reaches AI Overviews, websites get a new button, and Reddit's ChatGPT citation share falls. The post Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse appeared first on Search Engine Journal .",
       "category": "AI Search & GEO",
       "published": "2026-08-22T12:30:28Z"
+    },
+    {
+      "id": "26ab254f7092",
+      "title": "Introducing the Dejan Chat Protocol",
+      "url": "https://dejan.ai/blog/introducing-dejan-chat-protocol/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "The DEJAN Chat Protocol is a response format that puts the answer in the first sentence and defers elaboration to the reader's explicit choice.",
+      "category": "Industry & Platform",
+      "published": "2026-08-22T04:45:00Z"
     },
     {
       "id": "c4eeb01b0523",
@@ -94,6 +233,15 @@
       "published": "2026-08-21T19:00:14Z"
     },
     {
+      "id": "2140a26f086b",
+      "title": "Paid Media Forecasting: How to Predict Ad Performance (Without Getting It Wrong)",
+      "url": "https://neilpatel.com/blog/paid-media-forecasting/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Your forecast said this campaign would hit a 4x ROAS by month two. Instead, CPCs are up, CTR is sliding, and leadership is asking questions you don’t have good answers to. This isn’t a strategy problem. It’s a forecasting problem. Most paid media forecasts fail not…",
+      "category": "Content & Strategy",
+      "published": "2026-08-21T16:00:00Z"
+    },
+    {
       "id": "76bde8e6a1cf",
       "title": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
       "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/",
@@ -101,6 +249,24 @@
       "summary": "AI labs are buying pre-2022 books to avoid training on AI slop while quietly building text watermarking, exposing why content-at-scale strategies are a losing bet. The post The House Doesn’t Publish Its Tells appeared first on Search Engine Journal .",
       "category": "Content & Strategy",
       "published": "2026-08-21T14:30:45Z"
+    },
+    {
+      "id": "3ff03440b2d4",
+      "title": "Google Search Console Crawl Stats Missing Two Days Of Data",
+      "url": "https://www.seroundtable.com/google-search-console-crawl-stats-missing-41923.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The crawl stats report within Google Search Console has a data gap again. This time the crawl stats report is missing August 15 and 16th crawl data. Normally, Google can fix the data but Google has not yet fixed it.",
+      "category": "Tools & Data",
+      "published": "2026-08-21T13:12:00Z"
+    },
+    {
+      "id": "13bd0e3cd84c",
+      "title": "Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update, Gemini 3.7 Powers AI Mode, Google and Microsoft Ads News & More",
+      "url": "https://www.seroundtable.com/video-08-21-2026-41915.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has released its third spam update of the 2026 year, the August 2026 spam update this week and finished rolling out Friday morning at 4:50am. Google Search's AI Mode is now being powered sometimes by...",
+      "category": "AI Search & GEO",
+      "published": "2026-08-21T12:01:00Z"
     },
     {
       "id": "202ed8e83954",
@@ -112,6 +278,42 @@
       "published": "2026-08-21T12:00:32Z"
     },
     {
+      "id": "7c265ef317f2",
+      "title": "Google Preferred Source Button Improved For Publishers",
+      "url": "https://www.seroundtable.com/google-preferred-source-button-update-41912.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the Preferred Sources button that publishers have on their websites to make it so that the user is taken right back to the page they were originally on. There is new embed code that handles this process to make it easier for users to go back to where they were…",
+      "category": "Industry & Platform",
+      "published": "2026-08-21T11:51:00Z"
+    },
+    {
+      "id": "c6497d15689b",
+      "title": "Microsoft Advertising Max CPC Won't Be Available For New Campaigns On Oct 1",
+      "url": "https://www.seroundtable.com/microsoft-advertising-max-cpc-sunset-41917.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Advertising sent out emails yesterday announcing changes coming to Max CPC bidding. Microsoft wrote, \"Max CPC will no longer be available when creating new non-portfolio campaigns\" after October 1, 2026.",
+      "category": "Industry & Platform",
+      "published": "2026-08-21T11:41:00Z"
+    },
+    {
+      "id": "fea7cc7eba15",
+      "title": "Google Ads & AI Max New Experimentation & Planning Features",
+      "url": "https://www.seroundtable.com/google-ads-ai-max-experimentation-planning-41910.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google announced it is rolling out new experimentation and planning capabilities in Google Ads and AI Max. There are new A/B test capabilities, brand and location parameters options and new Performance Planner predictions.",
+      "category": "Industry & Platform",
+      "published": "2026-08-21T11:23:00Z"
+    },
+    {
+      "id": "aa1bae5b1586",
+      "title": "Google Local Service Ads Pre-Badge Ads & Expansion Of Verticals",
+      "url": "https://www.seroundtable.com/google-lsa-prebadge-new-verticals-41920.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has made some big updates to Local Service Ads. Even though LSAs are transitioning to Google Ads, Google is clearly still investing in the LSA product. Google added something called pre-badge ads, massively expanded the verticals and the verified ads badge updated its…",
+      "category": "Industry & Platform",
+      "published": "2026-08-21T11:21:00Z"
+    },
+    {
       "id": "fe8a19e32c62",
       "title": "What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/",
@@ -119,6 +321,24 @@
       "summary": "Optimize your marketing strategy by learning the limitations of AI search metrics and how to utilize your data effectively. The post What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] appeared first on Search Engine Journal .",
       "category": "AI Search & GEO",
       "published": "2026-08-21T07:45:38Z"
+    },
+    {
+      "id": "395ef7b56246",
+      "title": "10 Fan-Outs for Prompt Research — Whiteboard Friday",
+      "url": "https://moz.com/blog/10-fan-outs-for-prompt-research-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "Google uses these 10 query fan-outs to split single prompts into multiple background searches. Learn how to map this behavior in this Whiteboard Friday with Tom Capper.",
+      "category": "Tools & Data",
+      "published": "2026-08-21T07:00:00Z"
+    },
+    {
+      "id": "000e323e76aa",
+      "title": "The Reddit Cloud 100: Ranking B2B SaaS Subreddits by AI Visibility",
+      "url": "https://foundationinc.co/lab/reddit-cloud-100",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "The world’s most valuable private cloud companies spend billions building brand recognition. Yet the correlation between that valuation and how often their Reddit communities get cited in AI answers is virtually zero. Given Reddit threads now rank in Google and feed directly…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-20T19:45:29Z"
     },
     {
       "id": "01633a68d050",
@@ -211,6 +431,51 @@
       "published": "2026-08-20T12:00:39Z"
     },
     {
+      "id": "bc9826c377b8",
+      "title": "Third-Party Citation Optimization Prioritization in an AI Search Era: A Framework + Worksheet",
+      "url": "https://www.aleydasolis.com/en/ai-search/third-party-citation-optimization-ai-search/",
+      "source": "Aleyda Solis",
+      "summary": "Which third-party citations and platforms are actually worth investing in when the sources used by AI search platforms can change by vertical, prompt, market, platform and model release? Although it’s easy to target third-party citation optimization with “one trick pony” tactics…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-20T10:11:06Z"
+    },
+    {
+      "id": "027379c08484",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "category": "Industry & Platform",
+      "published": "2026-08-20T07:00:00Z"
+    },
+    {
+      "id": "f4ba3203e372",
+      "title": "Should We Stop Writing With AI?",
+      "url": "https://moz.com/blog/should-we-stop-writing-with-ai",
+      "source": "Moz Blog",
+      "summary": "Should you stop writing with AI as detection, spam, and sameness grow? Learn how expert-led AI content builds trust, audience ownership, and lasting value for years.",
+      "category": "Content & Strategy",
+      "published": "2026-08-20T07:00:00Z"
+    },
+    {
+      "id": "cb030de2dd94",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "source": "OpenAI",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "104b2c93c252",
+      "title": "7 Website Marketing Strategies for 2026",
+      "url": "https://backlinko.com/website-marketing",
+      "source": "Backlinko",
+      "summary": "Website marketing in 2026 no longer works the way it used to. Traditionally, it meant promoting your site to attract visitors and turn them into customers. Your website is still central. But much of the customer journey now happens beyond it. Before someone visits your site…",
+      "category": "Industry & Platform",
+      "published": "2026-08-19T23:53:56Z"
+    },
+    {
       "id": "7067ffb16ebc",
       "title": "Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
@@ -256,6 +521,24 @@
       "published": "2026-08-19T19:00:00Z"
     },
     {
+      "id": "ef913e9fdabc",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "category": "Tools & Data",
+      "published": "2026-08-19T19:00:00Z"
+    },
+    {
+      "id": "d1db7b31a52f",
+      "title": "SEO Forecasting: How to Predict Your Traffic in an AI Era",
+      "url": "https://neilpatel.com/blog/seo-forecasting/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways When it comes to SEO, forecasting can be a tricky concept. You’re trying to predict the future of your website’s traffic and it can be difficult to know which metrics to focus on. It can also be difficult to know if the metrics you selected are giving you and your…",
+      "category": "Industry & Platform",
+      "published": "2026-08-19T16:00:00Z"
+    },
+    {
       "id": "5d2153633e39",
       "title": "Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
@@ -263,6 +546,15 @@
       "summary": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix. The post Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show appeared first on Search Engine…",
       "category": "Industry & Platform",
       "published": "2026-08-19T14:30:55Z"
+    },
+    {
+      "id": "f238d8498245",
+      "title": "Brand Mentions in 2026: How to Earn and Track Them Across the Web",
+      "url": "https://backlinko.com/brand-mentions",
+      "source": "Backlinko",
+      "summary": "You can have an impressive website, great content, and a seamless user experience. But you might still be invisible to search engines and AI tools. That’s because Google and ChatGPT don’t just look at your website. They also look at what other credible sources say about your…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-19T11:04:49Z"
     },
     {
       "id": "d0d4f422bb54",
@@ -283,6 +575,87 @@
       "published": "2026-08-19T08:22:00Z"
     },
     {
+      "id": "9ac0643f2427",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-19T07:00:00Z"
+    },
+    {
+      "id": "e24a9650ceae",
+      "title": "Are Reviews Shaping What LLMs Say About My Local Business?",
+      "url": "https://moz.com/blog/local-business-reviews-and-llms",
+      "source": "Moz Blog",
+      "summary": "Discover how customer reviews directly influence what Large Language Models (LLMs) say about your local business in AI-powered search results and better understand how sentiment, volume, recency, and keyword relevance in reviews shape AI-generated recommendations.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-19T07:00:00Z"
+    },
+    {
+      "id": "e4563871866d",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-18T22:00:00Z"
+    },
+    {
+      "id": "67f37d861d34",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "category": "Industry & Platform",
+      "published": "2026-08-18T19:00:00Z"
+    },
+    {
+      "id": "9765648ad527",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "category": "Industry & Platform",
+      "published": "2026-08-18T11:00:00Z"
+    },
+    {
+      "id": "68c52c81310f",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-18T11:00:00Z"
+    },
+    {
+      "id": "01003c6680bc",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-18T11:00:00Z"
+    },
+    {
+      "id": "7d7eacff40aa",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "source": "OpenAI",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "category": "Industry & Platform",
+      "published": "2026-08-18T07:00:00Z"
+    },
+    {
+      "id": "074f04873926",
+      "title": "Announcing the Final Batch of Speakers for MozCon London",
+      "url": "https://moz.com/blog/announcing-the-final-batch-of-speakers-for-mozcon-london",
+      "source": "Moz Blog",
+      "summary": "We’ve dropped the final speaker lineup for MozCon London on November 13th, 2026! If you’re looking to future-proof your search strategy, this speaker drop gives you a preview of the high-signal, tactical sessions coming your way.",
+      "category": "Tools & Data",
+      "published": "2026-08-18T07:00:00Z"
+    },
+    {
       "id": "3fbfea952088",
       "title": "The Best Persona Tool On the Web Is Now Live",
       "url": "https://sparktoro.com/blog/the-best-persona-tool-on-the-web-is-now-live/",
@@ -290,6 +663,33 @@
       "summary": "Starting today, SparkToro’s persona-generation tool is now live and available to all our business and agency-tier subscribers, and it really is the best product in the space for solving this problem. I’m not prone to hyperbole, and I take seriously my responsibility to defend…",
       "category": "Tools & Data",
       "published": "2026-08-18T06:36:18Z"
+    },
+    {
+      "id": "7e0d50421bde",
+      "title": "YouTube shows up on 80.2% of demo searches. Your demo video is on Wistia.",
+      "url": "https://foundationinc.co/lab/vol-305",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "In 2006, Google paid $1.65 billion for YouTube. Sixteen very smart people sat in a room, argued about numbers, and wrote the check. Twenty years later, YouTube does north of $30 billion a year in ad revenue and sits at number two on the list of most-visited sites on earth…",
+      "category": "Industry & Platform",
+      "published": "2026-08-18T05:45:09Z"
+    },
+    {
+      "id": "dfcf73efa3a6",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "OpenAI",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "8ea3698800fe",
+      "title": "Inside ChatGPT’s Source Preferences: What Query Fanouts Reveal About AI Discoverability",
+      "url": "https://neilpatel.com/blog/chatgpt-query-source-preferences/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Most marketers optimizing for AI search visibility are focused on the wrong layer. They are tracking citations, which is the output. What they should be studying is fanouts, which is the input that determines whether a citation is even possible. A new analysis of…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-17T16:00:00Z"
     },
     {
       "id": "09c80cd18031",
@@ -346,6 +746,69 @@
       "published": "2026-08-17T07:54:02Z"
     },
     {
+      "id": "962609d60ea6",
+      "title": "AI Models Encode Brand Data but Fail to Recall a Third of It",
+      "url": "https://dejan.ai/blog/parametric-memory-impacts-brands/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Google Research found frontier AI models encode 95-98% of brand facts in parametric memory but fail to recall 26-34% of them. The bottleneck is retrieval, not storage.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-17T06:15:14Z"
+    },
+    {
+      "id": "f137d9ea2f9f",
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "category": "Industry & Platform",
+      "published": "2026-08-17T05:30:00Z"
+    },
+    {
+      "id": "ad5623d5cc70",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "category": "Industry & Platform",
+      "published": "2026-08-17T05:00:00Z"
+    },
+    {
+      "id": "96670aeff66e",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "category": "Industry & Platform",
+      "published": "2026-08-17T03:15:00Z"
+    },
+    {
+      "id": "e0a3b19e6c2c",
+      "title": "Google, Anthropic and OpenAI crawlers fetched dejan.ai's robots.txt 1,150 times and its llms.txt 4 times in 30 days",
+      "url": "https://dejan.ai/blog/crawler-census-robots-llms-okf/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "In a 30-day server-log census of dejan.ai's three machine files, the big-three AI crawlers fetched robots.txt 1,150 times combined, llms.txt 4 times, and the OKF content bundle 23 times.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-15T05:02:15Z"
+    },
+    {
+      "id": "1e77d9f3b8ec",
+      "title": "Google Search Is Becoming AI Search: What This Means for Your Brand",
+      "url": "https://neilpatel.com/blog/google-search-becoming-ai-search/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Is Google Search still “search” at all? At Google I/O 2026, Search VP Liz Reid said it plainly: “Google search is AI search.” That’s not a product update. That’s a declaration that the platform has fundamentally changed what it is and what it does. For marketers…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-14T16:00:00Z"
+    },
+    {
+      "id": "f59d94baf526",
+      "title": "A free 300M model predicts Gemini's embeddings at 0.83 cosine",
+      "url": "https://dejan.ai/blog/gemma-gemini-embeddings/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Mapping Gemma embeddings to Gemini embeddings via a linear transform recovers entity vector structures with high fidelity without calling the paid API.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-14T14:38:01Z"
+    },
+    {
       "id": "379f8bcd693f",
       "title": "Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers",
       "url": "https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/",
@@ -373,6 +836,60 @@
       "published": "2026-08-14T08:16:06Z"
     },
     {
+      "id": "32fa61bd3b1b",
+      "title": "In and Out of Model Responses Explained — Whiteboard Friday",
+      "url": "https://moz.com/blog/in-and-out-of-model-responses-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "Is your SEO strategy ready for LLM grounding? Explore the distinction between training data and live web retrieval, and discover how to optimize your brand's visibility in AI search results.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-14T07:00:00Z"
+    },
+    {
+      "id": "870093af6ce2",
+      "title": "Prompt Tracking: How to Find (and Fix) Your AI Visibility Gaps",
+      "url": "https://backlinko.com/llm-prompt-tracking",
+      "source": "Backlinko",
+      "summary": "Your brand could be ranking #1 on Google, but still be invisible to AI. Absent from conversations your customers are having with large language models (LLMs) about your category. Or worse, showing up inaccurately, with outdated or incorrect information that’ll hurt your sales…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-13T21:23:04Z"
+    },
+    {
+      "id": "1b747c1327eb",
+      "title": "Recommended, Not Just Mentioned: What We Learned Running One Buying Prompt 11 Times",
+      "url": "https://foundationinc.co/lab/150-query-fanout",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "There’s a number missing from every AI-visibility report your team has ever reviewed. The headline metric in most AI-visibility reports, share of voice, only measures presence: how often your brand gets mentioned. It doesn’t capture whether the answer recommended you or pointed…",
+      "category": "Tools & Data",
+      "published": "2026-08-13T20:43:10Z"
+    },
+    {
+      "id": "5fcdd4b44a0f",
+      "title": "Content Effort: The Google Ranking Feature Nobody Talks About",
+      "url": "https://signal.zyppy.com/p/content-effort",
+      "source": "Zyppy Signal",
+      "summary": "Google doesn't care about how hard you worked - it's about showing evidence of unique value",
+      "category": "Content & Strategy",
+      "published": "2026-08-13T13:07:24Z"
+    },
+    {
+      "id": "084898bc4dde",
+      "title": "Google Content Effort Audit",
+      "url": "https://signal.zyppy.com/p/google-content-effort-audit",
+      "source": "Zyppy Signal",
+      "summary": "Use this audit to score content effort that aligns with Google guidelines",
+      "category": "Content & Strategy",
+      "published": "2026-08-13T13:07:23Z"
+    },
+    {
+      "id": "d49b8a5eb507",
+      "title": "How To Find And Organize AI Mode Queries Via the Search Analytics API, Analytics Edge, and Claude Cowork",
+      "url": "https://www.gsqi.com/marketing-blog/how-to-find-ai-mode-queries-gsc/",
+      "source": "Glenn Gabe (GSQi)",
+      "summary": "Last week Barry published an article about AI Mode data being surfaced in Google Search Console in the performance reporting. It’s super interesting to see that data and there are some fun things you can do to try and decipher the information. I’ll cover more about that soon…",
+      "category": "Tools & Data",
+      "published": "2026-08-13T13:05:43Z"
+    },
+    {
       "id": "91f9bb6d7cfc",
       "title": "AI keyword research: How to use free chatbot tools",
       "url": "https://www.semrush.com/blog/ai-keyword-research/",
@@ -380,6 +897,33 @@
       "summary": "We tested 5 free chatbots for AI keyword research. See how they performed and how to validate their suggestions with real search data.",
       "category": "Tools & Data",
       "published": "2026-08-13T11:09:00Z"
+    },
+    {
+      "id": "855fa77e93e1",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-13T11:00:00Z"
+    },
+    {
+      "id": "6357d7795d21",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-13T10:00:00Z"
+    },
+    {
+      "id": "9e022b7caa78",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "category": "Industry & Platform",
+      "published": "2026-08-13T09:00:00Z"
     },
     {
       "id": "ac903b5c6a2b",
@@ -391,6 +935,24 @@
       "published": "2026-08-13T08:32:36Z"
     },
     {
+      "id": "0650d3336d26",
+      "title": "Large Language Model (LLM) Editing Quietly Corrupts Documents. Here’s What the Research Says",
+      "url": "https://neilpatel.com/blog/ai-editing-corrupts-documents/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways When large language models (LLMs) edit documents, they make a specific kind of mistake that can be more dangerous than a hallucination. It’s subtle enough to pass a casual review, damaging enough to matter, and systematic enough to compound across multiple editing…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-12T19:00:00Z"
+    },
+    {
+      "id": "c9464363d64e",
+      "title": "Audience-First SEO: How to Rank by Putting Readers First",
+      "url": "https://neilpatel.com/blog/audience-first-seo/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Paid media has always started with the audience. Every campaign begins with who you’re trying to reach before it gets to what you’re going to say. Paid teams buy audiences, not channels. SEO has worked the opposite way for years. Programs get organized around…",
+      "category": "Industry & Platform",
+      "published": "2026-08-12T16:00:00Z"
+    },
+    {
       "id": "3311d1bad157",
       "title": "234 ChatGPT prompts (and how to write your own)",
       "url": "https://www.semrush.com/blog/chatgpt-prompts/",
@@ -398,6 +960,33 @@
       "summary": "Copy-ready 234 ChatGPT prompts for marketing, SEO, sales, and 10+ use cases, plus the PROMPT framework for writing your own.",
       "category": "AI Search & GEO",
       "published": "2026-08-12T06:58:00Z"
+    },
+    {
+      "id": "fb21820d806b",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-12T06:00:00Z"
+    },
+    {
+      "id": "cad35e6294fe",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": "f964ed45b032",
+      "title": "Perplexity cites ClickUp 6,474 times. Notion gets 741… Why?",
+      "url": "https://foundationinc.co/lab/vol-304",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Quick housekeeping before we get into it: this newsletter is moving to Mondays. Same research, same teardowns, now landing at the start of your week instead of the end of it. Look for us first thing every Monday from here on. Last week I sat down with Nick Lafferty from Profound…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-11T15:51:30Z"
     },
     {
       "id": "be0ef1e591b6",
@@ -409,6 +998,78 @@
       "published": "2026-08-11T13:00:00Z"
     },
     {
+      "id": "7998a2f0ce0d",
+      "title": "iPullRank Named to the 2026 Inc. 5000 List of America’s Fastest-Growing Private Companies",
+      "url": "https://ipullrank.com/2026-fastest-growing-companies",
+      "source": "iPullRank (Rank Report)",
+      "summary": "NEW YORK, NY, August 11, 2026 – After 12 years of innovation, determination, and solving client challenges of all sizes, enterprise AI Search agency iPullRank is thrilled to announce its inclusion on the Inc. 5000 list of fastest-growing privately held companies in the United…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-11T11:00:00Z"
+    },
+    {
+      "id": "de2ca3d7578d",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-11T10:00:00Z"
+    },
+    {
+      "id": "b274e00978a8",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "category": "Industry & Platform",
+      "published": "2026-08-11T10:00:00Z"
+    },
+    {
+      "id": "90611a94d0e2",
+      "title": "5 AI Workflows for Local SEO",
+      "url": "https://moz.com/blog/ai-workflows-for-local-seo",
+      "source": "Moz Blog",
+      "summary": "Struggling to use AI in local SEO without wasted spend or unreliable output? Learn five safe workflows that automate execution while keeping strategy in human hands.",
+      "category": "Content & Strategy",
+      "published": "2026-08-11T07:00:00Z"
+    },
+    {
+      "id": "e53d6782996c",
+      "title": "SEO Tips and Strategies for Franchises: A Guide for 2026",
+      "url": "https://neilpatel.com/blog/seo-for-franchises/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Operating a franchise is a fantastic way to start a business. Not only are people already aware of your brand, but you get the support and backing of a well-established organization and a pre-existing customer base ready to buy. However, consistent effort is…",
+      "category": "Industry & Platform",
+      "published": "2026-08-10T19:00:00Z"
+    },
+    {
+      "id": "7a678e9a26d7",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "category": "Industry & Platform",
+      "published": "2026-08-10T17:00:00Z"
+    },
+    {
+      "id": "61282b7420ed",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "category": "Industry & Platform",
+      "published": "2026-08-10T14:00:00Z"
+    },
+    {
+      "id": "c7b962b1d9ef",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "source": "OpenAI",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-10T12:00:00Z"
+    },
+    {
       "id": "df74d438b0ae",
       "title": "How to grow your AI Visibility with community signals",
       "url": "https://www.growth-memo.com/p/community-signals-are-ais-largest",
@@ -416,6 +1077,24 @@
       "summary": "UGC platforms out-cite review sites at every stage of the buyer journey. Part 4 in our series about organic authority multiplication.",
       "category": "Content & Strategy",
       "published": "2026-08-10T11:33:12Z"
+    },
+    {
+      "id": "7f776d7829d0",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "category": "Industry & Platform",
+      "published": "2026-08-10T10:00:00Z"
+    },
+    {
+      "id": "3a8585570cab",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-10T10:00:00Z"
     },
     {
       "id": "6753ad3b4f0d",
@@ -445,6 +1124,150 @@
       "published": "2026-08-10T08:41:00Z"
     },
     {
+      "id": "ee449db47d8d",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source": "OpenAI",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": "8f3f7b571773",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": "1ea3eea3d9a5",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": "560370ee534c",
+      "title": "Finding Bard Inside Google's Gemma 4",
+      "url": "https://dejan.ai/blog/bard-gemma/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "A mechanistic interpretability study shows how ablating specific MLP neurons in Gemma 4 causes the model to revert to its older, dormant Bard identity.",
+      "category": "Tools & Data",
+      "published": "2026-08-08T14:29:42Z"
+    },
+    {
+      "id": "73e0020afc08",
+      "title": "SEO Guide for SaaS Companies",
+      "url": "https://neilpatel.com/blog/saas-seo/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways There are few better traffic sources for software-as-a-service (SaaS) companies than organic search. Recent data shows that B2B SaaS companies see a 702 percent return on investment (ROI) from their SEO efforts. That’s a huge number, and it makes a ton of sense…",
+      "category": "Tools & Data",
+      "published": "2026-08-07T19:00:00Z"
+    },
+    {
+      "id": "833934ee3b25",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "category": "Industry & Platform",
+      "published": "2026-08-07T15:20:00Z"
+    },
+    {
+      "id": "2ee94000fec4",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-07T09:00:00Z"
+    },
+    {
+      "id": "fb5a8573c65e",
+      "title": "The SEO’s Guide to Agentic Commerce — Whiteboard Friday",
+      "url": "https://moz.com/blog/seo-guide-to-agentic-commerce-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "In the latest episode of Whiteboard Friday, Miracle Inameti-Archibong explains how to optimize your website for agentic commerce using Markdown, product feeds, structured data, and MCP.",
+      "category": "Content & Strategy",
+      "published": "2026-08-07T07:00:00Z"
+    },
+    {
+      "id": "6132fc85929c",
+      "title": "How to Optimize Your YouTube Channel for AI Visibility",
+      "url": "https://foundationinc.co/lab/youtube-ai-visibility",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "We analyzed 8,566 keywords across more than 130 B2B SaaS categories to see how often YouTube appears in searches with buying intent. YouTube ranked in Google’s top 10 for 80.2% of “demo” searches, 22.5% of “best” searches, and 20% of “vs” searches. It also outranked at least…",
+      "category": "Industry & Platform",
+      "published": "2026-08-07T03:02:38Z"
+    },
+    {
+      "id": "f37b860e93fa",
+      "title": "What Claude Design Could Mean for UX",
+      "url": "https://neilpatel.com/blog/claude-design-ux/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Most design tools are built for designers. That’s been the assumption for decades, and it’s created a bottleneck that marketers, product managers, and content teams know well: you have an idea, but getting it into a visual form means waiting on someone else’s…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-06T16:00:00Z"
+    },
+    {
+      "id": "6235005ceee9",
+      "title": "Content Prioritization in an AI Search Era: A Framework + Worksheet",
+      "url": "https://www.aleydasolis.com/en/ai-search/content-prioritization-ai-search/",
+      "source": "Aleyda Solis",
+      "summary": "What type of content is still worth creating when AI platforms can answer queries without sending a click? AI answers are much more likely to fully satisfy the user’s need when they only want a quick explanation, and less likely when they still need proof, current or…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-06T14:02:58Z"
+    },
+    {
+      "id": "0f0c1961f93e",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-06T10:00:00Z"
+    },
+    {
+      "id": "06ed1cc02280",
+      "title": "What 50k Query Fan-Outs Reveal About Brands (+ Free Data!)",
+      "url": "https://moz.com/blog/50k-fan-outs-reveal-about-brands",
+      "source": "Moz Blog",
+      "summary": "What do 50k query fan-outs reveal about LLM bias, brand visibility, and search intent? Explore fresh data on Gemini prompts + download the free raw dataset.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-06T07:00:00Z"
+    },
+    {
+      "id": "6da5f2d271da",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "category": "Industry & Platform",
+      "published": "2026-08-06T06:00:00Z"
+    },
+    {
+      "id": "261f3fd40601",
+      "title": "Mechanistic Interpretability of Google's Gemma - Safety and Personality Insights",
+      "url": "https://dejan.ai/blog/gemma-neurosurgery/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Modifying specific self-attention layers in the Gemma language model alters its self-identity and safety responses, blurring real-world harm with video games.",
+      "category": "Industry & Platform",
+      "published": "2026-08-06T02:46:00Z"
+    },
+    {
+      "id": "fea9ae47ebf2",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-06T00:00:00Z"
+    },
+    {
       "id": "590d7aa5bb94",
       "title": "The BRAND New V3 of SparkToro Is Here",
       "url": "https://sparktoro.com/blog/the-brand-new-v3-of-sparktoro-is-here/",
@@ -454,6 +1277,24 @@
       "published": "2026-08-05T06:38:21Z"
     },
     {
+      "id": "977f60f7e5e3",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-04T19:00:00Z"
+    },
+    {
+      "id": "7fe1110a7066",
+      "title": "These SEO Strategies Drive 90% of Your AI Visibility",
+      "url": "https://signal.zyppy.com/p/seo-strategies-for-ai-search",
+      "source": "Zyppy Signal",
+      "summary": "Google says, “good SEO is good GEO”.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-04T18:31:15Z"
+    },
+    {
       "id": "d3753d032c98",
       "title": "The latest AI news we announced in July 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -461,6 +1302,51 @@
       "summary": "July AI recap header",
       "category": "Industry & Platform",
       "published": "2026-08-04T13:00:00Z"
+    },
+    {
+      "id": "e41c06285781",
+      "title": "The Black Box Problem: Why AI-Visibility Buyers Don’t Trust Their Own Reporting (Yet)",
+      "url": "https://wordlift.io/blog/en/the-black-box-problem-why-ai-visibility-buyers-dont-trust-their-own-reporting-yet/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "AI-visibility buyers keep reaching for the same complaint: the reporting feels like a black box. This article breaks down why that happens, why it is not always bad faith, and the five things a transparent reporting framework should show you before you trust it. The post The…",
+      "category": "Tools & Data",
+      "published": "2026-08-04T09:52:41Z"
+    },
+    {
+      "id": "32aaf0821c3d",
+      "title": "I Tested 15 of the Best Brand Monitoring Tools: Here Are My Top 8 Picks",
+      "url": "https://moz.com/blog/best-brand-monitoring-tools",
+      "source": "Moz Blog",
+      "summary": "Looking for the best brand monitoring tool? I tested 15 and ranked my top 8 for AI search visibility, social listening and traditional media.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-04T07:00:00Z"
+    },
+    {
+      "id": "9afd29514a3c",
+      "title": "XM on text diffusion: a small real gain, and a bigger effect we were not looking for",
+      "url": "https://dejan.ai/blog/xm/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "An evaluation of Explorative Modeling on a text diffusion model: a small consistent gain at matched steps, and a larger likelihood-versus-sampling tradeoff that turned out to belong to the training schedule.",
+      "category": "Industry & Platform",
+      "published": "2026-08-04T03:37:31Z"
+    },
+    {
+      "id": "b274d6785ee9",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "2163b413300d",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "category": "Industry & Platform",
+      "published": "2026-08-03T22:00:00Z"
     },
     {
       "id": "887d7e558930",
@@ -481,6 +1367,51 @@
       "published": "2026-08-03T13:00:00Z"
     },
     {
+      "id": "46164ebeeed1",
+      "title": "Why AI Recommends Your Competitors and Not You (and How to Fix It)",
+      "url": "https://wordlift.io/blog/en/why-ai-recommends-competitors-not-you/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "Ranking well on Google no longer guarantees you get recommended when someone asks an AI system the same question. This article breaks down the three concrete reasons AI systems pick competitors, and a practical, budget-free checklist to close the gap. The post Why AI Recommends…",
+      "category": "Industry & Platform",
+      "published": "2026-08-03T11:17:54Z"
+    },
+    {
+      "id": "d04cc35bd3cc",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-03T07:00:00Z"
+    },
+    {
+      "id": "54e616a32e5e",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "category": "Tools & Data",
+      "published": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": "7e75e83cb1a4",
+      "title": "AI Search Is a 3rd-Party Citation Problem With an On-Page Corroboration Base: The Data Across SaaS, Ecommerce and Finance",
+      "url": "https://www.aleydasolis.com/en/ai-search/ai-search-citations/",
+      "source": "Aleyda Solis",
+      "summary": "AI search is largely a 3rd-party citation problem, supported by an on-page corroboration base: your site owned pages establish accurate, accessible facts while social, community, publisher, review, marketplace and competitor sources validate, demonstrate, compare or challenge…",
+      "category": "AI Search & GEO",
+      "published": "2026-08-02T12:51:34Z"
+    },
+    {
+      "id": "6d58997b466c",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-01T00:00:00Z"
+    },
+    {
       "id": "1e6f67e62f03",
       "title": "7 best AI visibility tracking tools for agencies by need",
       "url": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
@@ -488,6 +1419,96 @@
       "summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why.",
       "category": "Tools & Data",
       "published": "2026-07-31T15:04:00Z"
+    },
+    {
+      "id": "b86dc435d64a",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "category": "Industry & Platform",
+      "published": "2026-07-31T15:00:00Z"
+    },
+    {
+      "id": "6e145b017b5a",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "category": "Industry & Platform",
+      "published": "2026-07-31T15:00:00Z"
+    },
+    {
+      "id": "b87c0cd17512",
+      "title": "AI Visibility, GEO, AEO: A Guide to the Terms Your Team (and Your Boss) Keep Hearing",
+      "url": "https://wordlift.io/blog/en/ai-visibility-geo-aeo-guide-management/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "AI visibility, GEO, and AEO now show up in the same meeting, often meaning three different things to three different people. This field guide defines each term, shows how they connect, and flags the vocabulary trap most teams fall into. The post AI Visibility, GEO, AEO: A Guide…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-31T10:40:33Z"
+    },
+    {
+      "id": "487981959078",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-31T07:00:00Z"
+    },
+    {
+      "id": "c940b01c3d18",
+      "title": "Readers spot AI writing 64% of the time: the first 1,636 answers from the AI vs Human test",
+      "url": "https://dejan.ai/blog/ai-vs-human-test-results/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "First results from the dejan.ai AI vs Human test: 1,636 answers, 64% correct overall, 18 perfect rounds against 0.14 expected from guessing, and accuracy rising from 55% to 75% with reading time.",
+      "category": "Industry & Platform",
+      "published": "2026-07-31T05:54:37Z"
+    },
+    {
+      "id": "c5ad624a6ffb",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": "85da2497a2a9",
+      "title": "An AI agent did a marketer’s job for two weeks. The numbers are in.",
+      "url": "https://foundationinc.co/lab/vol-303",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "For two years, AI marketing tools have mostly been dashboards. Sharper data, richer charts, precise reports on exactly where you were losing… and no help closing the gap. That era is ending. The agents have arrived, and they don’t watch the work. They do it. Case in point…",
+      "category": "Tools & Data",
+      "published": "2026-07-30T20:00:14Z"
+    },
+    {
+      "id": "851f12414cc1",
+      "title": "Canva Built a 90-Million-Backlink Empire. Does It Survive AI Search?",
+      "url": "https://foundationinc.co/lab/canva-breakdown",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "In 2020, we published a breakdown of how Canva built a backlink empire: 4.24 million links from 100,000 domains, landing pages for every conceivable use case, and an outreach team with sales-style quotas. Since then, the question has changed. Buyers now start with a prompt as…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-30T15:30:13Z"
+    },
+    {
+      "id": "e90dd349be1e",
+      "title": "How to Report SEO & AI Visibility ROI to Leadership Who Do Not Care About Rankings",
+      "url": "https://wordlift.io/blog/en/report-ai-visibility-roi-leadership/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "Rankings don't win budget conversations, outcomes do. Here's how to translate AI-visibility tracking into the four KPIs leadership actually cares about, and how WordLift's reporting engine builds that case for you automatically, causal-impact analysis included. The post How to…",
+      "category": "Tools & Data",
+      "published": "2026-07-30T13:24:20Z"
+    },
+    {
+      "id": "098dd1dbe0ed",
+      "title": "What 13 Billion Google Searches Reveal About Zero-Click Behavior",
+      "url": "https://ipullrank.com/zero-click-behavior-analysis-q3-2026",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Most clicks go to sites the searcher never named, Google absorbs about a third of Wikipedia’s would-be traffic but barely dents Reddit’s, and ChatGPT now pulls more of its clicks from ads than any other top destination. TL;DR Nearly half of Google searches now end without a…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-30T11:00:00Z"
     },
     {
       "id": "af2808c768d1",
@@ -517,6 +1538,42 @@
       "published": "2026-07-30T10:07:00Z"
     },
     {
+      "id": "fc362ba711f5",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-30T10:00:00Z"
+    },
+    {
+      "id": "9146ff1756af",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "source": "OpenAI",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": "cc8e132c6199",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "category": "Tools & Data",
+      "published": "2026-07-29T15:00:00Z"
+    },
+    {
+      "id": "14fd05ad34f9",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-29T10:00:00Z"
+    },
+    {
       "id": "44fa41ec6e8e",
       "title": "Platform properties roll out globally, plus a new social and video performance guide",
       "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
@@ -524,6 +1581,24 @@
       "summary": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
       "category": "Tools & Data",
       "published": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": "6d964f10c333",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "source": "OpenAI",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": "df22037e3e0f",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "category": "Tools & Data",
+      "published": "2026-07-28T17:00:00Z"
     },
     {
       "id": "50bf9e90585e",
@@ -551,6 +1626,15 @@
       "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
       "category": "Industry & Platform",
       "published": "2026-07-28T13:00:00Z"
+    },
+    {
+      "id": "4d845890ff2f",
+      "title": "Can AI Agents Actually Use Your Website?",
+      "url": "https://wordlift.io/blog/en/can-ai-agents-use-your-website/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "A website can be crawlable, structured, and still unusable to an AI agent. Across 17 runtime records we found that \"AI-readable\" is not a page property: it is a compatibility relationship between the site, the runtime, and the retrieval path. The post Can AI Agents Actually Use…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-28T08:26:50Z"
     },
     {
       "id": "b9f3c7aaa20c",
@@ -589,6 +1673,15 @@
       "published": "2026-07-27T14:27:50Z"
     },
     {
+      "id": "bfd23765d650",
+      "title": "How long does it really take to build a website with AI?",
+      "url": "https://yoast.com/how-long-it-takes-to-build-website-with-ai/",
+      "source": "Yoast",
+      "summary": "Most AI website builders promise you can create a website in minutes, but what does that timeline actually include? While AI can generate a professional-looking website surprisingly quickly, you’ll still need time to choose a domain, review the generated content, make a few…",
+      "category": "Content & Strategy",
+      "published": "2026-07-27T10:22:28Z"
+    },
+    {
       "id": "2c3fe417be90",
       "title": "Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)",
       "url": "https://ahrefs.com/blog/google-doesnt-punish-ai-content/",
@@ -596,6 +1689,42 @@
       "summary": "On the one hand, Google says they don’t care whether AI is used for content creation, as long as the content isn’t designed “with the primary purpose of manipulating ranking in search results.” On the other hand, people like Lily … Read more ›",
       "category": "Content & Strategy",
       "published": "2026-07-27T08:00:13Z"
+    },
+    {
+      "id": "f143efbfe201",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-27T03:30:00Z"
+    },
+    {
+      "id": "fcaa6aeb96d0",
+      "title": "Advanced New Tail Keyword Research",
+      "url": "https://dejan.ai/blog/newtail/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Show 100 people a photo of your product and ask what they would type into Google. A survey on Zoysia Tenuifolia grass returned 68 terms: 24 already on the top-ranking page and 44 it had never used.",
+      "category": "Tools & Data",
+      "published": "2026-07-27T03:12:48Z"
+    },
+    {
+      "id": "4cacbe958762",
+      "title": "Gemini picks whichever web page it reads first 92% of the time. Only pages rewritten to its measured preferences ever beat that.",
+      "url": "https://dejan.ai/blog/rank-signal-recipe/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Shown two web pages, Gemini picks the first one 92% of the time. Pages rewritten to 31 measured text preferences win 15% from the second slot. Ordinary pages: 0%.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-26T07:58:29Z"
+    },
+    {
+      "id": "f578133e97df",
+      "title": "Personality on Reddit Matters More Than You Think: How a Branded Persona Account Unlocks Real Brand Possibilities",
+      "url": "https://foundationinc.co/lab/reddit-persona-accounts",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Reddit has 116+ million daily active users, and the platform was built to reject you. Post from a company logo, push a product link, sound even slightly like a press release, and the community will downvote and forget you before you finish the sentence. As our Senior Reddit…",
+      "category": "Industry & Platform",
+      "published": "2026-07-24T22:42:03Z"
     },
     {
       "id": "069f39c25ef0",
@@ -634,6 +1763,24 @@
       "published": "2026-07-24T06:10:57Z"
     },
     {
+      "id": "ba69095fc190",
+      "title": "Google pays Reddit $60M a year. For what, exactly?",
+      "url": "https://foundationinc.co/lab/vol-302",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Reddit just told Google: pay up or lose access. Per the Wall Street Journal, Reddit is weighing whether to restrict Google’s ability to use its content as the two renegotiate their AI data licensing deal… an agreement signed in 2024 worth roughly $60M a year. The market noticed…",
+      "category": "Tools & Data",
+      "published": "2026-07-23T21:20:55Z"
+    },
+    {
+      "id": "2a8aa97033ac",
+      "title": "2037. AGI. China probably.",
+      "url": "https://dejan.ai/blog/agi-china/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "An exploration of DeepSeek founder Liang Wenfeng's strategy of deliberate restraint, continual learning, and open weights in the race toward AGI.",
+      "category": "Content & Strategy",
+      "published": "2026-07-23T12:03:12Z"
+    },
+    {
       "id": "2592b5f93cd7",
       "title": "Creating and Promoting Were Never the Same Decision",
       "url": "https://sparktoro.com/blog/creating-and-promoting-were-never-the-same-decision/",
@@ -641,6 +1788,60 @@
       "summary": "I’ll admit I’m kind of a thinkboi (gender neutral). I’m often more interested in the philosophies behind marketing — how we pick our campaigns, which ideas are worth exploring — than in the campaigns themselves. So when Tim Soulo asked me a question on the Ahrefs podcast that I…",
       "category": "Tools & Data",
       "published": "2026-07-23T02:57:23Z"
+    },
+    {
+      "id": "7569338ee0d3",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": "bd6ce42035f5",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-22T13:00:00Z"
+    },
+    {
+      "id": "130e23c4bd2f",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "category": "Tools & Data",
+      "published": "2026-07-22T13:00:00Z"
+    },
+    {
+      "id": "fc3528d001b5",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source": "OpenAI",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "category": "Industry & Platform",
+      "published": "2026-07-22T12:00:00Z"
+    },
+    {
+      "id": "c54f46e53d48",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "category": "Industry & Platform",
+      "published": "2026-07-22T05:30:00Z"
+    },
+    {
+      "id": "ce627deb9928",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "source": "OpenAI",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-22T00:00:00Z"
     },
     {
       "id": "8175432038c0",
@@ -652,6 +1853,60 @@
       "published": "2026-07-21T20:00:00Z"
     },
     {
+      "id": "d42362617c64",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-21T17:00:00Z"
+    },
+    {
+      "id": "c7acf5fb2455",
+      "title": "New in the Yoast SEO Bulk Editor: filters, focus keyphrases, and AI drafts",
+      "url": "https://yoast.com/yoast-seo-july-21-2026/",
+      "source": "Yoast",
+      "summary": "The Yoast SEO Bulk Editor already gave you one place to update titles and meta descriptions across your whole site. Now it does much more. This release adds focus keyphrases to the editor, new search and status filters, a dedicated view for every content type, and AI-drafted…",
+      "category": "Content & Strategy",
+      "published": "2026-07-21T07:30:46Z"
+    },
+    {
+      "id": "20b0eb2d5c14",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-21T07:00:00Z"
+    },
+    {
+      "id": "27e5f8caf821",
+      "title": "No, AI doesn't prefer Reddit. Search does.",
+      "url": "https://dejan.ai/blog/reddit-ai/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Analysis of citation mining data shows Reddit has a 99.39% rejection rate from OpenAI, zero citations from Anthropic, and heavy usage by Google.",
+      "category": "Industry & Platform",
+      "published": "2026-07-21T03:50:37Z"
+    },
+    {
+      "id": "40359dbf5a24",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "source": "OpenAI",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "category": "Industry & Platform",
+      "published": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": "fd7a29a01016",
+      "title": "6 Digital PR Strategies to Boost AI Visibility",
+      "url": "https://backlinko.com/digital-pr-strategies",
+      "source": "Backlinko",
+      "summary": "Digital PR is the single most important strategy to win in AI search. A study by Muck Rack found that 84% of AI citations come from earned media, third-party sources like editorial coverage, reviews, and forums. In AI search, third-party validation beats self-promotion…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-20T12:57:45Z"
+    },
+    {
       "id": "05a86689f213",
       "title": "Does topical authority matter in AI Search?",
       "url": "https://www.growth-memo.com/p/does-topical-authority-matter-in",
@@ -659,6 +1914,78 @@
       "summary": "An analysis of over 50,000 brands shows the impact of topical authority on AEO.",
       "category": "AI Search & GEO",
       "published": "2026-07-20T12:05:40Z"
+    },
+    {
+      "id": "d4ff9ec891b7",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-20T10:00:00Z"
+    },
+    {
+      "id": "3f5ba7f47890",
+      "title": "Hosting guide: How to pick the right host for your site",
+      "url": "https://yoast.com/hosting-guide-how-to-pick-the-right-host-for-your-site/",
+      "source": "Yoast",
+      "summary": "Do you want to start a blog or online store? Then you’ll need a website. But did you know you’ll also need web hosting to get your website online? There are many aspects to web hosting, and you might not be sure what it entails. You have to choose a host, a hosting type, and […]…",
+      "category": "Industry & Platform",
+      "published": "2026-07-20T09:45:11Z"
+    },
+    {
+      "id": "f40db6327eb4",
+      "title": "Codified Operations: Building the Knowledge Layer AI Agents Need",
+      "url": "https://wordlift.io/blog/en/codified-operations-knowledge-layer-ai-agents/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "Learn why AI agents need structured evidence packs, not better marketing copy, and how to build the knowledge layer that makes your brand verifiable, trustworthy, and actionable for machines. The post Codified Operations: Building the Knowledge Layer AI Agents Need appeared…",
+      "category": "Industry & Platform",
+      "published": "2026-07-20T08:43:38Z"
+    },
+    {
+      "id": "42c2791ed69e",
+      "title": "Engadget: Quantitative Linguistic Analysis",
+      "url": "https://dejan.ai/blog/engadget-analysis/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "This paper analyzes Engadget's article corpus from 2006 to 2023 using Shannon entropy and data compression to track editorial trends and article length.",
+      "category": "Tools & Data",
+      "published": "2026-07-19T06:47:06Z"
+    },
+    {
+      "id": "9865be121ddb",
+      "title": "The Verge: Quantitative Linguistic Analysis",
+      "url": "https://dejan.ai/blog/the-verge-analysis/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "This paper profiles the recovered corpus of The Verge from 2011 to 2023 using Shannon entropy and data compression to analyze changes in article structure.",
+      "category": "Tools & Data",
+      "published": "2026-07-19T05:58:30Z"
+    },
+    {
+      "id": "3ebda52fc80e",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "category": "Industry & Platform",
+      "published": "2026-07-17T10:00:00Z"
+    },
+    {
+      "id": "9822d4117b03",
+      "title": "How Vanta’s $517K/month SEO Moat Translates Into AI Visibility",
+      "url": "https://foundationinc.co/lab/vanta-breakdown",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Ask ChatGPT or Google AI Mode for the best compliance software, and Vanta is already in the room. That kind of presence would cost $517K a month to buy through paid search alone. Vanta has built one of the strongest SEO moats in B2B SaaS by organizing their content around the…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-16T21:40:20Z"
+    },
+    {
+      "id": "748235793d70",
+      "title": "Stripe just bid $53.4B for PayPal. Here’s the part nobody’s pricing in.",
+      "url": "https://foundationinc.co/lab/vol-301",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Ross here. The biggest number in marketing this week came out of fintech. Stripe and Advent put $53.4B on the table for PayPal, and the reason should make every B2B marketer look up. On tap today: what that bid says about AI-led buying, the distribution stack that gets you…",
+      "category": "Industry & Platform",
+      "published": "2026-07-16T19:48:47Z"
     },
     {
       "id": "c976718c6b79",
@@ -697,6 +2024,33 @@
       "published": "2026-07-16T16:00:00Z"
     },
     {
+      "id": "8fe39edff791",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-16T16:00:00Z"
+    },
+    {
+      "id": "81ca61af07d2",
+      "title": "What It Takes for SaaS Brands to Win in AI Search: 5 Data-Backed Findings and Actions",
+      "url": "https://www.aleydasolis.com/en/ai-search/saas-ai-search-optimization/",
+      "source": "Aleyda Solis",
+      "summary": "Which pages help ChatGPT and Google AI Mode build their SaaS related answers? Which third-party sources reinforce those answers? And once a user (or increasingly an AI agent) decides to continue, where does the measurable referral actually go? To answer these questions, I…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-16T15:35:02Z"
+    },
+    {
+      "id": "7d88402ec12e",
+      "title": "How We Reorganized our Agency Around AI Search",
+      "url": "https://ipullrank.com/ai-search-agency",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Let’s be honest about where most marketing teams are right now. Traffic is disappearing in ways that are hard to explain in a report, attribution is getting confusing, and AI platforms are recommending competitors in categories where you’ve spent years building authority. Nobody…",
+      "category": "AI Search & GEO",
+      "published": "2026-07-16T15:00:00Z"
+    },
+    {
       "id": "f21ee6d14d0d",
       "title": "The DMA should not undercut security & privacy for Europeans",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/",
@@ -713,6 +2067,51 @@
       "summary": "That’s the free-tools SEO strategy: instead of writing another guide, you build a small, genuinely useful tool, put it on a page, and let it rank for a query that has huge demand and almost no good competition. Done right, … Read more ›",
       "category": "Tools & Data",
       "published": "2026-07-16T11:30:20Z"
+    },
+    {
+      "id": "eeac6a04af4f",
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "url": "https://openai.com/index/codex-collaborator-creative-team",
+      "source": "OpenAI",
+      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "category": "Tools & Data",
+      "published": "2026-07-16T07:00:00Z"
+    },
+    {
+      "id": "6f16a999c8dd",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "source": "OpenAI",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "category": "Industry & Platform",
+      "published": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": "dafb26d86083",
+      "title": "Stripe’s $53.4B Bid For PayPal & What It Means For Agentic Commerce",
+      "url": "https://foundationinc.co/lab/stripe-paypal",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Okay, so this week Stripe and Advent International put $53.4 billion on the table for PayPal. $60.50 a share. A 28% premium. PayPal’s board has not said a word yet, so this is still an offer, not a deal. The internet did what the internet does… It reached for the calculator. And…",
+      "category": "Industry & Platform",
+      "published": "2026-07-15T22:17:17Z"
+    },
+    {
+      "id": "1e97faa490fa",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "category": "Industry & Platform",
+      "published": "2026-07-15T12:00:00Z"
+    },
+    {
+      "id": "ee230258f27f",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-15T10:00:00Z"
     },
     {
       "id": "dc9597f1b62f",
@@ -742,6 +2141,51 @@
       "published": "2026-07-14T10:43:26Z"
     },
     {
+      "id": "ab4d3ab6f74f",
+      "title": "SEO for musicians: get found, grow fans, increase streams",
+      "url": "https://yoast.com/seo-tip-for-musicians/",
+      "source": "Yoast",
+      "summary": "Imagine writing a melody so catchy that people hum it for years. Now imagine that same song blowing up on TikTok or Instagram, only for listeners to remember the trend, the dance, or the sound, but not the artist behind it. As a musician, that’s the nightmare. You don’t just…",
+      "category": "Industry & Platform",
+      "published": "2026-07-14T10:30:08Z"
+    },
+    {
+      "id": "92ab1f77dd8c",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "category": "Industry & Platform",
+      "published": "2026-07-14T10:00:00Z"
+    },
+    {
+      "id": "caf00af8cedf",
+      "title": "Your Product Pages Are Making Promises Your Feed Can’t Keep",
+      "url": "https://wordlift.io/blog/en/merchant-listing-category-sale-duration-structured-data/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "Google just tightened the rules on merchant listing structured data. Here's what changed, why it matters for every online store — not just the technical SEO team — and how WordLift already handles it. The post Your Product Pages Are Making Promises Your Feed Can’t Keep appeared…",
+      "category": "Content & Strategy",
+      "published": "2026-07-14T09:30:50Z"
+    },
+    {
+      "id": "b9a7811027c8",
+      "title": "Data science workflows with ChatGPT Work",
+      "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "source": "OpenAI",
+      "summary": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": "40d7f59e4718",
+      "title": "Sales workflows with ChatGPT Work",
+      "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "summary": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-14T00:00:00Z"
+    },
+    {
       "id": "a0419b113380",
       "title": "Where AI agents get stuck on your site",
       "url": "https://www.growth-memo.com/p/where-ai-agents-get-stuck-on-your",
@@ -749,6 +2193,24 @@
       "summary": "Agents are the future, but many B2B sites break at a critical point",
       "category": "Industry & Platform",
       "published": "2026-07-13T09:05:49Z"
+    },
+    {
+      "id": "fa04e7c40c21",
+      "title": "How Brave's AI Search Works",
+      "url": "https://dejan.ai/blog/brave-ai-search/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "DEJAN AI reveals the system instructions for Brave Ask, detailing how the AI grounding and generation pipeline processes web evidence to produce answers.",
+      "category": "AI Search & GEO",
+      "published": "2026-07-13T06:59:52Z"
+    },
+    {
+      "id": "fae5aa95b813",
+      "title": "The Paradox of Average and AI Visibility",
+      "url": "https://dejan.ai/blog/average-paradox/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "A study by DEJAN AI examines how AI rankers prioritize prototypical content over brand authority, suggesting a dual strategy for SEO and human conversion.",
+      "category": "Content & Strategy",
+      "published": "2026-07-12T06:52:56Z"
     }
   ]
 }
