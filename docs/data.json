@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T14:28:57Z",
+  "updated": "2026-08-25T17:48:08Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -25,6 +25,33 @@
     "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "d166c936f8c1",
+      "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/",
+      "source": "Search Engine Journal",
+      "summary": "Google has brought its developing-topic link carousels to AI Mode, putting timely article links and Preferred Sources prominently inside AI responses. The post Google Brings Developing-Topic Link Carousels To AI Mode appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-25T17:39:07Z"
+    },
+    {
+      "id": "3668e64c1eca",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google (Search)",
+      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+      "category": "Industry",
+      "published": "2026-08-25T16:00:00Z"
+    },
+    {
+      "id": "dfd6bbdc2312",
+      "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
+      "url": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/",
+      "source": "Search Engine Journal",
+      "summary": "AI can flatten decades of localized expertise into one generic brand impression, meaning global brands must translate credentials into evidence machines actually recognize. The post Why International SEO Needs Machine-Recognizable E-E-A-T appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-08-25T14:30:30Z"
+    },
     {
       "id": "731c46fe9753",
       "title": "Daily Search Forum Recap: August 25, 2026",
@@ -143,6 +170,24 @@
       "published": "2026-08-25T07:45:03Z"
     },
     {
+      "id": "829e237a888d",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "category": "Industry",
+      "published": "2026-08-25T07:05:00Z"
+    },
+    {
+      "id": "9ad99bb5f40a",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "category": "Industry",
+      "published": "2026-08-25T07:00:00Z"
+    },
+    {
       "id": "20cb776024f2",
       "title": "Anti-AI sentiment attaches to visible AI: labels, generated media, chatbots and data centers",
       "url": "https://dejan.ai/blog/invisible-ai/",
@@ -158,6 +203,15 @@
       "source": "OpenAI",
       "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "category": "SEO",
+      "published": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "cfc376addf8c",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "source": "OpenAI",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "category": "GEO",
       "published": "2026-08-25T00:00:00Z"
     },
     {
@@ -2220,60 +2274,6 @@
       "summary": "Okay, so this week Stripe and Advent International put $53.4 billion on the table for PayPal. $60.50 a share. A 28% premium. PayPal’s board has not said a word yet, so this is still an offer, not a deal. The internet did what the internet does… It reached for the calculator. And…",
       "category": "Industry",
       "published": "2026-07-15T22:17:17Z"
-    },
-    {
-      "id": "1e97faa490fa",
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "category": "Industry",
-      "published": "2026-07-15T12:00:00Z"
-    },
-    {
-      "id": "ee230258f27f",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "category": "GEO",
-      "published": "2026-07-15T10:00:00Z"
-    },
-    {
-      "id": "dc9597f1b62f",
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google (Search)",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "category": "Industry",
-      "published": "2026-07-14T16:00:00Z"
-    },
-    {
-      "id": "b2ae643a7ab7",
-      "title": "6 Ways to Automate AEO With Letaido",
-      "url": "https://ahrefs.com/blog/letaido-for-aeo/",
-      "source": "Ahrefs Blog",
-      "summary": "If you’re one of the named brands, you win. If you’re not, you never knew the conversation happened. Optimizing for that is called AEO (or if you prefer, GEO.) This is now part of SEO and/or the marketing team’s … Read more ›",
-      "category": "GEO",
-      "published": "2026-07-14T15:23:28Z"
-    },
-    {
-      "id": "9142697827c7",
-      "title": "10 Creative Ways to Write with AI (Without Losing Your Soul)",
-      "url": "https://ahrefs.com/blog/creative-ways-to-write-with-ai/",
-      "source": "Ahrefs Blog",
-      "summary": "So, after years of hearing the same message, people started associating AI-generated content with low-effort, mass-produced slop. AI-assisted content earned a bad reputation before it had a chance to mature. This article is my attempt to reset the conversation. I’ll … Read more ›",
-      "category": "GEO",
-      "published": "2026-07-14T10:43:26Z"
-    },
-    {
-      "id": "ab4d3ab6f74f",
-      "title": "SEO for musicians: get found, grow fans, increase streams",
-      "url": "https://yoast.com/seo-tip-for-musicians/",
-      "source": "Yoast",
-      "summary": "Imagine writing a melody so catchy that people hum it for years. Now imagine that same song blowing up on TikTok or Instagram, only for listeners to remember the trend, the dance, or the sound, but not the artist behind it. As a musician, that’s the nightmare. You don’t just…",
-      "category": "Industry",
-      "published": "2026-07-14T10:30:08Z"
     }
   ]
 }
