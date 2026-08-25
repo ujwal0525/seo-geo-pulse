@@ -82,50 +82,44 @@ FEEDS = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
-#  CATEGORIES
-#  Each story is scored against every category (count of keyword hits in the
-#  title + summary). Highest score wins; ties break by the order in
-#  CATEGORY_ORDER; zero hits falls back to "Industry & Platform".
-#  Tune by adding words your sources actually use.
+#  CATEGORIES  —  four buckets: GEO, Algorithms, SEO, Industry
+#  Each story is scored against every bucket (count of keyword hits in the
+#  title + summary). Highest score wins; ties break by CATEGORY_ORDER below;
+#  zero hits falls back to "Industry". Tune by adding words your sources use.
 # ─────────────────────────────────────────────────────────────────────────────
 CATEGORY_RULES = {
-    "AI Search & GEO": [
+    "GEO": [
         "ai overview", "ai overviews", "aio", "ai mode", "ai search", "ai answer",
-        "generative engine", "geo ", " geo", "llm", "llmo", "aeo", "answer engine",
-        "chatgpt", "perplexity", "gemini", "copilot", "claude", "rag ", "retrieval",
-        "citation", "cited", "ai citation", "brand visibility", "ai-generated",
-        "ai assistant", "ai referral", "search live", "gpt",
+        "generative engine", "geo ", " geo", "aeo", "llmo", "answer engine",
+        "llm", "chatgpt", "searchgpt", "perplexity", "gemini", "copilot", "claude",
+        "rag ", "retrieval", "citation", "cited", "ai citation", "brand visibility",
+        "ai-generated", "ai assistant", "ai referral", "search live", "gpt", "prompt",
     ],
-    "Algorithm & Core Updates": [
+    "Algorithms": [
         "core update", "broad core", "spam update", "helpful content", "algorithm",
         "ranking update", "ranking volatility", "volatility", "ranking incident",
         "search status", "penalty", "manual action", "deindex", "reconsideration",
         "google dance", "everflux", "serp volatility", "ranking shuffle", "rollout",
+        "unconfirmed update", "ranking drop", "traffic drop",
     ],
-    "Tools & Data": [
+    "SEO": [
+        "content", "e-e-a-t", "eeat", "authority", "backlink", "link building",
+        "links", "digital pr", "anchor text", "topical", "keyword", "on-page",
+        "off-page", "technical seo", "schema", "structured data", "internal link",
+        "topic cluster", "crawl", "indexing", "index ", "sitemap", "canonical",
+        "redirect", "core web vitals", "page speed", "local seo", "featured snippet",
+        "rich result", "meta description", "title tag", "audit", "migration",
         "semrush", "ahrefs", "moz", "screaming frog", "search console", " gsc",
-        "analytics", "study", "research", "report", "dataset", "data ", "benchmark",
-        "indexing", "index ", "tool", "dashboard", " api", "tracking", "case study",
+        "study", "research", "report", "benchmark", "tool", "tutorial", "guide", "tips",
     ],
-    "Content & Strategy": [
-        "content", "e-e-a-t", "eeat", "strategy", "authority", "backlink",
-        "link building", "digital pr", "topical", "keyword research", "on-page",
-        "schema", "structured data", "internal link", "topic cluster", "byline",
-    ],
-    "Industry & Platform": [
-        "acquisition", "acquire", "funding", "launch", "lawsuit", "antitrust",
-        "policy", "cloudflare", "reddit", "wordpress", "bing", "microsoft",
-        "openai", "partnership", "shutdown", "outage",
+    "Industry": [
+        "acquisition", "acquire", "acquired", "merger", "funding", "raised",
+        "valuation", "ipo", "layoff", "lawsuit", "antitrust", "regulation",
+        "policy", "shutdown", "outage", "partnership", "earnings", "conference",
     ],
 }
-CATEGORY_ORDER = [
-    "AI Search & GEO",
-    "Algorithm & Core Updates",
-    "Tools & Data",
-    "Content & Strategy",
-    "Industry & Platform",
-]
-DEFAULT_CATEGORY = "Industry & Platform"
+CATEGORY_ORDER = ["GEO", "Algorithms", "SEO", "Industry"]
+DEFAULT_CATEGORY = "Industry"
 
 # ─── Tunables ────────────────────────────────────────────────────────────────
 MAX_AGE_DAYS = 45      # drop anything older than this
@@ -292,10 +286,11 @@ def build_dataset(new_items: list, existing: dict) -> dict:
         if old is None or len(rec["summary"]) > len(old["summary"]):
             merged[nid] = rec
 
-    # existing stories first (they already carry category + ISO published)
+    # existing stories first — re-categorize with the CURRENT rules so that
+    # changing the buckets re-buckets the whole archive on the next run
     for it in existing.get("items", []):
         add(it.get("title", ""), it.get("url", ""), it.get("source", ""),
-            it.get("summary", ""), it.get("category"), it.get("published"))
+            it.get("summary", ""), None, it.get("published"))
 
     # then the freshly fetched ones
     for it in new_items:
