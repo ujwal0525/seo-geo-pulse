@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T05:49:53Z",
-  "count": 243,
+  "updated": "2026-08-25T09:55:58Z",
+  "count": 248,
   "sources": [
     "Ahrefs Blog",
     "Aleyda Solis",
@@ -25,6 +25,51 @@
     "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "63b90718ba18",
+      "title": "Webflow’s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/",
+      "source": "Search Engine Journal",
+      "summary": "Webflow adds Codex support with built-in Skills that vastly simplifies automating common website management and development tasks. The post Webflow’s New OpenAI Codex Integration Simplifies Site Management appeared first on Search Engine Journal .",
+      "category": "Industry & Platform",
+      "published": "2026-08-25T09:17:23Z"
+    },
+    {
+      "id": "970cae91df71",
+      "title": "Our OpenAI fanout data shows no rise in site: operator use",
+      "url": "https://dejan.ai/blog/site-fanouts/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Promptwatch recorded ChatGPT site:-scoped fanouts rising from 0.37% to 16.8% on 8 August 2026. Our capture of 196,692 OpenAI fanout queries shows 0.14% in August and no change on that date.",
+      "category": "AI Search & GEO",
+      "published": "2026-08-25T08:39:34Z"
+    },
+    {
+      "id": "959fafe4fb2d",
+      "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
+      "url": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/",
+      "source": "Search Engine Journal",
+      "summary": "Google is folding Local Services Ads into Performance Max. Join CallRail's on 9/8 for the audit checklist to run before and after your account migrates. The post Google Local Services Ads Are Moving To Performance Max: What To Check First appeared first on Search Engine Journal .",
+      "category": "Industry & Platform",
+      "published": "2026-08-25T07:45:03Z"
+    },
+    {
+      "id": "20cb776024f2",
+      "title": "Anti-AI sentiment attaches to visible AI: labels, generated media, chatbots and data centers",
+      "url": "https://dejan.ai/blog/invisible-ai/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Experiments and survey data show growing public distrust of AI, with labels reducing content value and widespread opposition to local data centers.",
+      "category": "Tools & Data",
+      "published": "2026-08-25T06:10:46Z"
+    },
+    {
+      "id": "da55f7d7bd9d",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "category": "Tools & Data",
+      "published": "2026-08-25T00:00:00Z"
+    },
     {
       "id": "686ada77dc2b",
       "title": "Gong showed up in 100% of AI threads but won only 3. Here’s what decided it.",
