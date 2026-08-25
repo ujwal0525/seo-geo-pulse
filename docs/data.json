@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T10:17:22Z",
-  "count": 249,
+  "updated": "2026-08-25T14:28:57Z",
+  "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Aleyda Solis",
@@ -25,6 +25,87 @@
     "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "731c46fe9753",
+      "title": "Daily Search Forum Recap: August 25, 2026",
+      "url": "https://www.seroundtable.com/recap-08-25-2026-41938.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "Industry",
+      "published": "2026-08-25T14:00:00Z"
+    },
+    {
+      "id": "53fdd1b7ddf8",
+      "title": "Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
+      "source": "Search Engine Journal",
+      "summary": "An owned promo code page can keep purchase-ready shoppers away from coupon affiliates and recover revenue leaking from ecommerce checkout flows. The post Your Promo Code Field May Be Sending Revenue To Affiliates appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-25T12:30:50Z"
+    },
+    {
+      "id": "36eb3e5f3fcb",
+      "title": "Google To Charge For Missed & Subsequent Calls On LSAs",
+      "url": "https://www.seroundtable.com/google-lsa-missed-subsequent-calls-41940.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google sent out emails to some advertisers notifying them that starting October 1st, Google Local Service Ads will charge for some missed and subsequent calls over the platform. \"On October 01, 2026, we are updating how and when you are charged for call leads originating from…",
+      "category": "Industry",
+      "published": "2026-08-25T11:57:00Z"
+    },
+    {
+      "id": "f0ba10298c41",
+      "title": "Google Shows AI Overviews Above Stock Charts For Stock Price Queries",
+      "url": "https://www.seroundtable.com/google-ai-overviews-stock-price-queries-41934.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be showing AI Overviews at the top of the search results page when you specifically search for stock price queries - such as for [GOOG stock] or [MSFT stock] and so on. I was able to replicate this myself and it is just weird to show the AI Overview at the top…",
+      "category": "GEO",
+      "published": "2026-08-25T11:51:00Z"
+    },
+    {
+      "id": "ef40248b4338",
+      "title": "Google Ads Tests Loading Sponsored Results Using Gemini With Animation",
+      "url": "https://www.seroundtable.com/google-ads-loading-gemini-41937.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is testing loading the sponsored results in the mobile search results interface with an animation. It shows that Gemini is also involved by saying, \"Evaluating sponsored results\" and has a Google and Gemini logo as the ads load in.",
+      "category": "GEO",
+      "published": "2026-08-25T11:41:00Z"
+    },
+    {
+      "id": "8dee0978ce4b",
+      "title": "Google: There Is Nothing Special To Do For Generative AI Responses In Search",
+      "url": "https://www.seroundtable.com/google-generative-ai-search-responses-todo-41916.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller said on Bluesky that there is nothing special for one to do for generative AI responses within Google Search. He wrote, \"from our POV there's nothing really special you need to do for generative AI responses in search.\"",
+      "category": "Industry",
+      "published": "2026-08-25T11:31:00Z"
+    },
+    {
+      "id": "f55a2ebaad5c",
+      "title": "Google Says Google's Crawlers Don't Parse JSON",
+      "url": "https://www.seroundtable.com/google-crawlers-dont-parse-json-41936.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Gary Illyes from Google reiterated this morning that Googlebot, Google's crawler, does not parse JSON files. Instead, Googlebot just downloads the files and then the indexer does the rest.",
+      "category": "SEO",
+      "published": "2026-08-25T11:21:00Z"
+    },
+    {
+      "id": "279b5c5f56b9",
+      "title": "Reports Indicate Google’s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/",
+      "source": "Search Engine Journal",
+      "summary": "Google's recent Spam Update may have partially focused on catching mass-generated SEO AI content. The post Reports Indicate Google’s Spam Update Focused On SEO AI Content appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-08-25T11:20:31Z"
+    },
+    {
+      "id": "e25153b7ef15",
+      "title": "Google Copyable Emojis In AI Overviews",
+      "url": "https://www.seroundtable.com/google-copyable-emojis-ai-overviews-41929.html",
+      "source": "Search Engine Roundtable",
+      "summary": "About a year ago, Google added the ability to copy emojis directly from the search results in an answer box. Now, Google is also showing copyable emojis to AI Overviews in the Google Search results.",
+      "category": "GEO",
+      "published": "2026-08-25T11:11:00Z"
+    },
     {
       "id": "8af4502be339",
       "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster",
@@ -141,15 +222,6 @@
       "summary": "Platforms like Spotify and LinkedIn are cracking down on AI slop. SEOs face a choice: treat AI as a shortcut or as an editorial assistant. The post SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-08-24T14:30:06Z"
-    },
-    {
-      "id": "dd5c6f19354c",
-      "title": "Daily Search Forum Recap: August 24, 2026",
-      "url": "https://www.seroundtable.com/recap-08-24-2026-41933.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google fixed two bugs, the favicon bug and the crawl stats bug in Search Console...",
-      "category": "SEO",
-      "published": "2026-08-24T14:00:00Z"
     },
     {
       "id": "fc58a44d2774",
@@ -2202,69 +2274,6 @@
       "summary": "Imagine writing a melody so catchy that people hum it for years. Now imagine that same song blowing up on TikTok or Instagram, only for listeners to remember the trend, the dance, or the sound, but not the artist behind it. As a musician, that’s the nightmare. You don’t just…",
       "category": "Industry",
       "published": "2026-07-14T10:30:08Z"
-    },
-    {
-      "id": "92ab1f77dd8c",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "category": "Industry",
-      "published": "2026-07-14T10:00:00Z"
-    },
-    {
-      "id": "caf00af8cedf",
-      "title": "Your Product Pages Are Making Promises Your Feed Can’t Keep",
-      "url": "https://wordlift.io/blog/en/merchant-listing-category-sale-duration-structured-data/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Google just tightened the rules on merchant listing structured data. Here's what changed, why it matters for every online store — not just the technical SEO team — and how WordLift already handles it. The post Your Product Pages Are Making Promises Your Feed Can’t Keep appeared…",
-      "category": "SEO",
-      "published": "2026-07-14T09:30:50Z"
-    },
-    {
-      "id": "b9a7811027c8",
-      "title": "Data science workflows with ChatGPT Work",
-      "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-      "source": "OpenAI",
-      "summary": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
-      "category": "GEO",
-      "published": "2026-07-14T00:00:00Z"
-    },
-    {
-      "id": "40d7f59e4718",
-      "title": "Sales workflows with ChatGPT Work",
-      "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "summary": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
-      "category": "GEO",
-      "published": "2026-07-14T00:00:00Z"
-    },
-    {
-      "id": "a0419b113380",
-      "title": "Where AI agents get stuck on your site",
-      "url": "https://www.growth-memo.com/p/where-ai-agents-get-stuck-on-your",
-      "source": "Growth Memo",
-      "summary": "Agents are the future, but many B2B sites break at a critical point",
-      "category": "Industry",
-      "published": "2026-07-13T09:05:49Z"
-    },
-    {
-      "id": "fa04e7c40c21",
-      "title": "How Brave's AI Search Works",
-      "url": "https://dejan.ai/blog/brave-ai-search/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "DEJAN AI reveals the system instructions for Brave Ask, detailing how the AI grounding and generation pipeline processes web evidence to produce answers.",
-      "category": "GEO",
-      "published": "2026-07-13T06:59:52Z"
-    },
-    {
-      "id": "fae5aa95b813",
-      "title": "The Paradox of Average and AI Visibility",
-      "url": "https://dejan.ai/blog/average-paradox/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "A study by DEJAN AI examines how AI rankers prioritize prototypical content over brand authority, suggesting a dual strategy for SEO and human conversion.",
-      "category": "SEO",
-      "published": "2026-07-12T06:52:56Z"
     }
   ]
 }
