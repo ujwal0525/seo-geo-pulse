@@ -28,28 +28,57 @@ from urllib.parse import urlparse, urlunparse
 #  log line for that source and fix the URL here.
 # ─────────────────────────────────────────────────────────────────────────────
 FEEDS = [
-    # Core SEO news
-    {"name": "Search Engine Land",       "url": "https://searchengineland.com/feed"},
-    {"name": "Search Engine Journal",    "url": "https://www.searchenginejournal.com/feed/"},
-    {"name": "Search Engine Roundtable", "url": "https://www.seroundtable.com/feed"},
-    {"name": "Search Engine Watch",      "url": "https://www.searchenginewatch.com/feed/"},
-    {"name": "Google Search Central",    "url": "https://developers.google.com/search/blog/feed.xml"},
-    {"name": "Google (Search)",          "url": "https://blog.google/products/search/rss/"},
+    # ── Daily news desks ────────────────────────────────────────────────────
+    {"name": "Search Engine Roundtable",  "url": "https://www.seroundtable.com/index.xml"},
+    {"name": "Search Engine Land",         "url": "https://searchengineland.com/feed"},
+    {"name": "Search Engine Journal",      "url": "https://www.searchenginejournal.com/feed/"},
+    {"name": "Search Engine Watch",        "url": "https://www.searchenginewatch.com/feed/"},
 
-    # Tools / data / research
-    {"name": "Moz Blog",                 "url": "https://moz.com/blog/feed"},
-    {"name": "Ahrefs Blog",              "url": "https://ahrefs.com/blog/feed/"},
-    {"name": "Semrush Blog",             "url": "https://www.semrush.com/blog/feed/"},
+    # ── Official platform / AI sources ──────────────────────────────────────
+    {"name": "Google Search Central",      "url": "https://developers.google.com/search/blog/feed.xml"},
+    {"name": "Google (Search)",            "url": "https://blog.google/products/search/rss/"},
+    {"name": "Bing Webmaster",             "url": "https://blogs.bing.com/webmaster/feed"},
+    {"name": "OpenAI",                     "url": "https://openai.com/news/rss.xml"},
 
-    # GEO / AI-search voices & newsletters (RSS where available)
-    {"name": "Growth Memo",              "url": "https://www.growth-memo.com/feed"},
-    {"name": "SparkToro",                "url": "https://sparktoro.com/blog/feed/"},
-    {"name": "Marie Haynes",             "url": "https://www.mariehaynes.com/feed/"},
-    {"name": "Detailed",                 "url": "https://detailed.com/feed/"},
+    # ── Tool-company research blogs ─────────────────────────────────────────
+    {"name": "Ahrefs Blog",                "url": "https://ahrefs.com/blog/feed/"},
+    {"name": "Semrush Blog",               "url": "https://www.semrush.com/blog/feed/"},
+    {"name": "Moz Blog",                   "url": "https://moz.com/feeds/blog.rss"},
+    {"name": "Backlinko",                  "url": "https://backlinko.com/feed"},
+    {"name": "Yoast",                      "url": "https://yoast.com/feed/"},
+    {"name": "Neil Patel",                 "url": "https://neilpatel.com/feed/"},
 
-    # ↓ add your own must-have sources below ↓
-    # {"name": "Aleyda / SEOFOMO",       "url": "https://www.aleydasolis.com/en/feed/"},
-    # {"name": "Lily Ray (Amsive)",      "url": "https://www.amsive.com/insights/feed/"},
+    # ── GEO / AI-search voices & newsletters ────────────────────────────────
+    {"name": "Growth Memo",                "url": "https://www.growth-memo.com/feed"},
+    {"name": "SparkToro",                  "url": "https://sparktoro.com/blog/feed/"},
+    {"name": "Zyppy Signal",               "url": "https://signal.zyppy.com/feed"},
+    {"name": "Marie Haynes",               "url": "https://www.mariehaynes.com/feed/"},
+    {"name": "Glenn Gabe (GSQi)",          "url": "https://www.gsqi.com/marketing-blog/feed/"},
+    {"name": "Aleyda Solis",               "url": "https://www.aleydasolis.com/en/feed"},
+    {"name": "Detailed",                   "url": "https://detailed.com/feed/"},
+    {"name": "SEOSLY",                     "url": "https://seosly.com/feed/"},
+
+    # ── Needs a test-fetch: standard WordPress /feed guesses ────────────────
+    #   If any of these shows an error or "0 items" in the run log, its URL
+    #   needs a tweak — fix it here or just delete the line.
+    {"name": "iPullRank (Rank Report)",    "url": "https://ipullrank.com/feed/"},
+    {"name": "Lily Ray (Amsive)",          "url": "https://amsive.com/insights/feed/"},
+    {"name": "Dan Petrovic (DEJAN)",       "url": "https://dejan.ai/feed/"},
+    {"name": "Andrea Volpini (WordLift)",  "url": "https://wordlift.io/blog/en/feed/"},
+    {"name": "Kristina Azarenko",          "url": "https://marketingsyrup.com/feed/"},
+    {"name": "Otterly.ai",                 "url": "https://otterly.ai/blog/feed/"},
+    {"name": "NewzDash (News SEO)",        "url": "https://www.newzdash.com/feed"},
+    {"name": "Candour",                    "url": "https://candour.co.nz/feed/"},
+    {"name": "Ross Simmonds (Foundation)", "url": "https://foundationinc.co/lab/feed/"},
+
+    # ── Community — Reddit often blocks automated fetches; uncomment to try ──
+    # {"name": "r/SEO",                    "url": "https://www.reddit.com/r/SEO/.rss"},
+    # {"name": "r/bigseo",                 "url": "https://www.reddit.com/r/bigseo/.rss"},
+
+    # ── No public RSS (NOT added) — need email→RSS or social ingestion:
+    #   Profound, Peec AI, Scrunch AI, #SEOFOMO (its author Aleyda is covered
+    #   above), SEO Notebook, #SEOForLunch, Google Search Liaison (X only).
+    #   Cleanest path later: Kill-the-Newsletter turns their emails into a feed.
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
