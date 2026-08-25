@@ -91,8 +91,8 @@ a{color:inherit}
 .chip .dot{width:7px; height:7px; border-radius:50%; background:var(--c,var(--faint)); flex:none}
 .chip.on{background:var(--accent); color:var(--surface); border-color:var(--accent)}
 .chip.on .dot{box-shadow:0 0 0 1.5px color-mix(in srgb, var(--surface) 55%, transparent)}
-.cat-ai{--c:var(--cat-ai)} .cat-algo{--c:var(--cat-algo)} .cat-tools{--c:var(--cat-tools)}
-.cat-content{--c:var(--cat-content)} .cat-industry{--c:var(--cat-industry)}
+.cat-seo{--c:var(--cat-content)} .cat-geo{--c:var(--cat-ai)} .cat-algo{--c:var(--cat-algo)}
+.cat-industry{--c:var(--cat-industry)}
 .selects{display:flex; gap:7px; margin-left:auto}
 select.mini{
   font-family:var(--mono); font-size:11.5px; color:var(--muted);
@@ -200,78 +200,77 @@ footer{border-top:1px solid var(--hair); padding:24px 0 40px; color:var(--faint)
 // The deployed site reads docs/data.json; when that's empty or unreachable,
 // these render instead so the page is never blank.
 const SEED_DATA = { updated: null, items: [
-  {category:"Algorithm & Core Updates", source:"Search Engine Roundtable", published:"2026-08-03T14:00:00Z",
+  {category:"Algorithms", source:"Search Engine Roundtable", published:"2026-08-03T14:00:00Z",
    url:"https://www.seroundtable.com/google-search-ranking-volatility-august-1-41811.html",
    title:"Search ranking volatility spikes across tracking tools, August 1–3",
    summary:"Multiple third-party trackers lit up and community chatter surged, though Google's Search Status Dashboard listed no confirmed incident. The last confirmed change remains the June 2026 spam update."},
-  {category:"Algorithm & Core Updates", source:"Search Engine Watch", published:"2026-08-06T09:30:00Z",
+  {category:"Algorithms", source:"Search Engine Watch", published:"2026-08-06T09:30:00Z",
    url:"https://searchenginewatch.com/google-algorithm-update-august-2026/",
    title:"Is there an August 2026 Google update? What the evidence actually shows",
    summary:"Publishers reported abrupt traffic drops and unstable Discover behaviour, but overlapping disruptions and inconsistent timing make it hard to call an unconfirmed core update."},
-  {category:"Algorithm & Core Updates", source:"Search Engine Land", published:"2026-08-17T19:55:00Z",
+  {category:"Algorithms", source:"Search Engine Land", published:"2026-08-17T19:55:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Google confirms a Search issue from August 13 that lowered impressions",
    summary:"Google acknowledged an issue beginning August 13 that reduced impressions in Search Console; a fix was said to be rolling out over several days."},
-  {category:"AI Search & GEO", source:"Adido Digital", published:"2026-08-12T10:00:00Z",
+  {category:"GEO", source:"Adido Digital", published:"2026-08-12T10:00:00Z",
    url:"https://www.adido-digital.co.uk/insights/seo-news-august-2026/",
    title:"AI Mode passes one billion monthly active users, Google says on earnings call",
    summary:"Alphabet said AI Mode crossed a billion MAUs and claimed AI search now sends billions of clicks to sites weekly — figures offered without an independent breakdown."},
-  {category:"AI Search & GEO", source:"Search Engine Land", published:"2026-08-17T13:00:00Z",
+  {category:"GEO", source:"Search Engine Land", published:"2026-08-17T13:00:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"New research maps the mechanics behind ChatGPT citations",
    summary:"A study breaks down what ChatGPT retrieves, what it actually reads, and what ultimately gets cited — useful signal for teams trying to earn AI mentions."},
-  {category:"AI Search & GEO", source:"Leapd", published:"2026-04-17T08:00:00Z",
+  {category:"GEO", source:"Leapd", published:"2026-04-17T08:00:00Z",
    url:"https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026",
    title:"Only 11% of domains are cited by both ChatGPT and Perplexity",
    summary:"An analysis of 680M citations finds each engine runs on distinct sourcing logic, with AI Overviews now appearing in roughly half of all searches."},
-  {category:"AI Search & GEO", source:"Neogen Media", published:"2026-06-16T09:00:00Z",
+  {category:"GEO", source:"Neogen Media", published:"2026-06-16T09:00:00Z",
    url:"https://neogenmedia.com/blog/generative-engine-optimization",
    title:"Overlap between Google's top rankings and AI citations has collapsed below 20%",
    summary:"2026 studies put ChatGPT/Google top-10 citation overlap near 7%, and outline a 'Citation Triad' — primary sources, attributed stats, named experts — that lifts AI quoting rates."},
-  {category:"Content & Strategy", source:"Search Engine Land", published:"2026-08-17T14:00:00Z",
+  {category:"SEO", source:"Search Engine Land", published:"2026-08-17T14:00:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Some brands dominate Google but barely surface in AI answers",
    summary:"Where traditional authority and AI recall diverge, and what that gap means for brands that assumed ranking strength would carry into AI answers."},
-  {category:"Content & Strategy", source:"Search Engine Land", published:"2026-08-17T13:05:00Z",
+  {category:"SEO", source:"Search Engine Land", published:"2026-08-17T13:05:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Monitoring keyword and topic trends to publish early and get cited",
    summary:"How tracking emerging queries helps you ship content sooner, build authority, and improve the odds of being cited in AI search."},
-  {category:"Tools & Data", source:"Search Engine Land", published:"2026-08-18T11:00:00Z",
+  {category:"SEO", source:"Search Engine Land", published:"2026-08-18T11:00:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Google updates Branded Searches docs — PMax dropped from supported types",
    summary:"Performance Max is no longer listed among campaign types supported for Branded Searches, a quiet documentation change worth noting for paid + organic teams."},
-  {category:"AI Search & GEO", source:"Position Digital", published:"2026-08-14T10:00:00Z",
+  {category:"GEO", source:"Position Digital", published:"2026-08-14T10:00:00Z",
    url:"https://www.position.digital/blog/ai-seo-news/",
    title:"Google unveils an 'Intelligent Search box' powered by Gemini 3.5 Flash",
    summary:"Billed as the biggest search-box change in 25 years: it expands queries, takes multimodal input, and moves users from AI Overviews into AI Mode follow-ups while keeping context."},
-  {category:"Industry & Platform", source:"Position Digital", published:"2026-08-14T10:30:00Z",
+  {category:"Industry", source:"Position Digital", published:"2026-08-14T10:30:00Z",
    url:"https://www.position.digital/blog/ai-seo-news/",
    title:"Cloudflare launches Content Signal Policy to control AI bot use via robots.txt",
    summary:"A new robots.txt directive lets site owners specify how AI crawlers may access and reuse their content — another front in the publisher-vs-AI access debate."},
-  {category:"Industry & Platform", source:"WebmasterWorld", published:"2026-08-10T12:00:00Z",
+  {category:"Industry", source:"WebmasterWorld", published:"2026-08-10T12:00:00Z",
    url:"https://www.webmasterworld.com/google/5133446.htm",
    title:"Publishers weigh blocking Google as AI Overviews erode click-through",
    summary:"Forum discussion captures the mood: year-over-year traffic sliding as AIO takes more SERP space, with some large publishers considering pulling out of Google Search entirely."},
-  {category:"AI Search & GEO", source:"Tech Times", published:"2026-06-14T09:00:00Z",
+  {category:"GEO", source:"Tech Times", published:"2026-06-14T09:00:00Z",
    url:"https://www.techtimes.com/articles/318359/20260614/generative-engine-optimization-geo-2026-how-get-your-content-cited-chatgpt-ai-overviews.htm",
    title:"Adobe frames a major acquisition around brand visibility 'in the agentic AI era'",
    summary:"A market signal for GEO as a standalone channel: vendors increasingly pitch AI-answer visibility as sitting beside SEO rather than replacing it."},
-  {category:"Tools & Data", source:"Numinix", published:"2026-08-14T08:00:00Z",
+  {category:"SEO", source:"Numinix", published:"2026-08-14T08:00:00Z",
    url:"https://www.numinix.com/blog/august-2026-seo-algorithm-news-update/",
    title:"August 2026 roundup: no confirmed ranking update — watch the trends instead",
    summary:"With the dashboard clear, the month is one for reading Search Console trends and measuring visibility across both classic and AI search rather than chasing volatility."},
-  {category:"AI Search & GEO", source:"Numinix", published:"2026-08-14T08:05:00Z",
+  {category:"GEO", source:"Numinix", published:"2026-08-14T08:05:00Z",
    url:"https://www.numinix.com/blog/august-2026-seo-algorithm-news-update/",
    title:"Users click a source inside an AI Overview only ~1% of the time, study finds",
    summary:"A panel study of 900 U.S. adults found AI Overviews were associated with fewer clicks and a higher chance the session simply ended after the search."}
 ]};
 
 const CATS = {
-  "AI Search & GEO":         {cls:"cat-ai",       short:"AI & GEO"},
-  "Algorithm & Core Updates":{cls:"cat-algo",     short:"Algorithm"},
-  "Tools & Data":            {cls:"cat-tools",    short:"Tools & Data"},
-  "Content & Strategy":      {cls:"cat-content",  short:"Content"},
-  "Industry & Platform":     {cls:"cat-industry", short:"Industry"},
+  "SEO":        {cls:"cat-seo",      short:"SEO"},
+  "GEO":        {cls:"cat-geo",      short:"GEO"},
+  "Algorithms": {cls:"cat-algo",     short:"Algorithms"},
+  "Industry":   {cls:"cat-industry", short:"Industry"},
 };
 const CAT_ORDER = Object.keys(CATS);
 
@@ -371,7 +370,7 @@ function renderFeed(){
   if(!list.length){ feed.innerHTML=""; empty.style.display="block"; return; }
   empty.style.display="none";
   feed.innerHTML=list.map(it=>{
-    const c=CATS[it.category]||CATS["Industry & Platform"];
+    const c=CATS[it.category]||CATS["Industry"];
     const newBadge=isNew(it.published)?`<span class="badge-new">NEW</span><span class="m-sep">·</span>`:"";
     return `<article class="card ${c.cls}">
       <div class="card-meta">${newBadge}<span class="card-cat">${esc(c.short)}</span>
