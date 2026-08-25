@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:48:08Z",
+  "updated": "2026-08-25T21:03:17Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -25,6 +25,15 @@
     "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "c25113d25962",
+      "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/",
+      "source": "Search Engine Journal",
+      "summary": "84 Reddit threads entered the retrieval pool. Zero got cited. The new tool-call format shows what ChatGPT fetches before it answers. The post ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-25T19:00:30Z"
+    },
     {
       "id": "d166c936f8c1",
       "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
@@ -2265,15 +2274,6 @@
       "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "category": "Industry",
       "published": "2026-07-16T00:00:00Z"
-    },
-    {
-      "id": "dafb26d86083",
-      "title": "Stripe’s $53.4B Bid For PayPal & What It Means For Agentic Commerce",
-      "url": "https://foundationinc.co/lab/stripe-paypal",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Okay, so this week Stripe and Advent International put $53.4 billion on the table for PayPal. $60.50 a share. A 28% premium. PayPal’s board has not said a word yet, so this is still an offer, not a deal. The internet did what the internet does… It reached for the calculator. And…",
-      "category": "Industry",
-      "published": "2026-07-15T22:17:17Z"
     }
   ]
 }
