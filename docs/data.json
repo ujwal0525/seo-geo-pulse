@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:05:47Z",
+  "updated": "2026-08-26T14:27:35Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -25,6 +25,87 @@
     "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "f0d5a811db60",
+      "title": "Daily Search Forum Recap: August 26, 2026",
+      "url": "https://www.seroundtable.com/recap-08-26-2026-41951.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "Industry",
+      "published": "2026-08-26T14:00:00Z"
+    },
+    {
+      "id": "520dc66db74d",
+      "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
+      "url": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/",
+      "source": "Search Engine Journal",
+      "summary": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen. The post How To Advertise In Google AI Mode For Ecommerce appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-26T12:00:17Z"
+    },
+    {
+      "id": "c438c0d747f7",
+      "title": "Google Search Ranking Volatility Continues Post Spam Update",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-continues-41952.html",
+      "source": "Search Engine Roundtable",
+      "summary": "As you know, Google's August 2026 spam update began on August 18th and concluded on August 21st. But the volatility has not calmed down since and I think it is time I document it. We've been seeing chatter within the SEO community, in addition to the third-party Google tracking…",
+      "category": "Algorithms",
+      "published": "2026-08-26T11:55:00Z"
+    },
+    {
+      "id": "9ed05e214365",
+      "title": "Google Massively Expands Booking Partners On Local Services Ads",
+      "url": "https://www.seroundtable.com/google-lsa-expands-booking-partners-41945.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has expanded the booking partners for Local Service Ads from about 20 partners to over 500 partners. That is about a 2,400 percent increase. \"We're vastly expanding booking capabilities for Local Services Ads to include more than 500 Reserve with Google booking partners…",
+      "category": "Industry",
+      "published": "2026-08-26T11:51:00Z"
+    },
+    {
+      "id": "dd09dde1b02e",
+      "title": "Google AI Mode Also Gains Link Carousels For Developing Topics",
+      "url": "https://www.seroundtable.com/google-ai-mode-link-carousels-41947.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Back in June, Google released link carousels for top stories or developing topics to AI Overviews. I was happy. Now, Google is also releasing this for AI Mode queries, which adds carousels of web pages directly in the AI Mode response.",
+      "category": "GEO",
+      "published": "2026-08-26T11:41:00Z"
+    },
+    {
+      "id": "24958b46403e",
+      "title": "Google Ads Customer Lifecycle Optimization Within Conversion Goals",
+      "url": "https://www.seroundtable.com/google-ads-customer-lifecycle-optimization-conversion-goals-41941.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has placed Customer Lifecycle Optimization directly within the conversion goals section of the Google Ads platform.",
+      "category": "Industry",
+      "published": "2026-08-26T11:31:00Z"
+    },
+    {
+      "id": "00f2eee834e8",
+      "title": "Bing Tests Shorts Video Tab In Search Menu",
+      "url": "https://www.seroundtable.com/bing-shorts-video-tab-41892.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Bing is testing a new \"Shorts\" tab in the search menu on Bing Search. This should filter the results by short videos across YouTube, Instagram, TikTok, Facebook and so on. The tab is called \"Shorts\" and looks like a video play icon in vertical format.",
+      "category": "Industry",
+      "published": "2026-08-26T11:21:00Z"
+    },
+    {
+      "id": "6246c6a4b9a5",
+      "title": "Google Ads AI-Created Product Titles Report Beta",
+      "url": "https://www.seroundtable.com/google-ads-product-titles-report-41948.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is beta testing a new Product title report within Google Ads. This is a special product title report for Al-created product titles. The report should show in your ads when they're more relevant than your original titles, Google wrote.",
+      "category": "SEO",
+      "published": "2026-08-26T11:11:00Z"
+    },
+    {
+      "id": "dd0af12245c6",
+      "title": "Google Ads Channel Settings Prioritization Slider (Alpha Test)",
+      "url": "https://www.seroundtable.com/google-ads-channel-settings-prioritization-slider-41949.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a new \"Channels\" slider that lets you adjust how much you prioritize conversions from your Google Ads channels, such as Google Search, Google Partners, Discover, Maps, YouTube, the Display Network and Gmail.",
+      "category": "Industry",
+      "published": "2026-08-26T11:05:00Z"
+    },
     {
       "id": "d374a59dc48c",
       "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents via @sejournal, @martinibuster",
@@ -105,15 +186,6 @@
       "summary": "AI can flatten decades of localized expertise into one generic brand impression, meaning global brands must translate credentials into evidence machines actually recognize. The post Why International SEO Needs Machine-Recognizable E-E-A-T appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-08-25T14:30:30Z"
-    },
-    {
-      "id": "731c46fe9753",
-      "title": "Daily Search Forum Recap: August 25, 2026",
-      "url": "https://www.seroundtable.com/recap-08-25-2026-41938.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "Industry",
-      "published": "2026-08-25T14:00:00Z"
     },
     {
       "id": "53fdd1b7ddf8",
@@ -2202,78 +2274,6 @@
       "summary": "This paper profiles the recovered corpus of The Verge from 2011 to 2023 using Shannon entropy and data compression to analyze changes in article structure.",
       "category": "Industry",
       "published": "2026-07-19T05:58:30Z"
-    },
-    {
-      "id": "3ebda52fc80e",
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "source": "OpenAI",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "category": "Industry",
-      "published": "2026-07-17T10:00:00Z"
-    },
-    {
-      "id": "9822d4117b03",
-      "title": "How Vanta’s $517K/month SEO Moat Translates Into AI Visibility",
-      "url": "https://foundationinc.co/lab/vanta-breakdown",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Ask ChatGPT or Google AI Mode for the best compliance software, and Vanta is already in the room. That kind of presence would cost $517K a month to buy through paid search alone. Vanta has built one of the strongest SEO moats in B2B SaaS by organizing their content around the…",
-      "category": "GEO",
-      "published": "2026-07-16T21:40:20Z"
-    },
-    {
-      "id": "748235793d70",
-      "title": "Stripe just bid $53.4B for PayPal. Here’s the part nobody’s pricing in.",
-      "url": "https://foundationinc.co/lab/vol-301",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Ross here. The biggest number in marketing this week came out of fintech. Stripe and Advent put $53.4B on the table for PayPal, and the reason should make every B2B marketer look up. On tap today: what that bid says about AI-led buying, the distribution stack that gets you…",
-      "category": "Industry",
-      "published": "2026-07-16T19:48:47Z"
-    },
-    {
-      "id": "c976718c6b79",
-      "title": "Why your pages are stuck in crawled-currently not indexed. And what to do about it.",
-      "url": "https://www.mariehaynes.com/crawled-currently-not-indexed/",
-      "source": "Marie Haynes",
-      "summary": "I have had a number of site owners reach out to ask for help with indexing issues lately. In most cases, I am finding that Google has classified their pages as “crawled-not currently indexed” in the page indexing report in Google Search Console. In almost every case I’ve…",
-      "category": "SEO",
-      "published": "2026-07-16T18:01:30Z"
-    },
-    {
-      "id": "4723831927dc",
-      "title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
-      "url": "https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/",
-      "source": "Google (Search)",
-      "summary": "College students are eager to turn their dull dorm rooms into cozy spaces. Here are the Google Search trends we’re seeing.",
-      "category": "Industry",
-      "published": "2026-07-16T17:00:00Z"
-    },
-    {
-      "id": "fcb7202e5624",
-      "title": "6 back-to-school shopping tricks every student should know",
-      "url": "https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/",
-      "source": "Google (Search)",
-      "summary": "Four mobile phone screens illustrating Google Shopping features: personalized AI search results, a Google Lens visual search of a shoe, a product listing with a price-tracking button, and a virtual try-on feature showing a shirt on an avatar.",
-      "category": "GEO",
-      "published": "2026-07-16T17:00:00Z"
-    },
-    {
-      "id": "85cdb4a3634b",
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google (Search)",
-      "summary": "Connected apps rendering",
-      "category": "Industry",
-      "published": "2026-07-16T16:00:00Z"
-    },
-    {
-      "id": "8fe39edff791",
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "category": "GEO",
-      "published": "2026-07-16T16:00:00Z"
     }
   ]
 }
