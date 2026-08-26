@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:03:17Z",
+  "updated": "2026-08-26T03:36:06Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -25,6 +25,24 @@
     "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "ebe7257a7805",
+      "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/",
+      "source": "Search Engine Journal",
+      "summary": "Data shows that alternative domain extensions show stronger performance over traditional .com domains. The post .Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-25T22:36:35Z"
+    },
+    {
+      "id": "8c2755d0c9c8",
+      "title": "Google Search Showing Fewer PDF Files. But Why?",
+      "url": "https://www.seroundtable.com/google-search-fewer-pdf-files-41946.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be showing fewer and fewer PDF files, and when it does show PDF files, it seems not to show them from some pretty important sites, like IRS.gov, New York State, and some others. But in some cases we are seeing Google show PDF documents, without you having to…",
+      "category": "Industry",
+      "published": "2026-08-25T21:01:00Z"
+    },
     {
       "id": "c25113d25962",
       "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
@@ -194,6 +212,15 @@
       "source": "OpenAI",
       "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "category": "Industry",
+      "published": "2026-08-25T07:00:00Z"
+    },
+    {
+      "id": "6af27fc2b05c",
+      "title": "Local SEO That Actually Works: Some Assembly Required (AI Not Included)",
+      "url": "https://moz.com/blog/local-seo-actually-works",
+      "source": "Moz Blog",
+      "summary": "Traffic, rankings, and content output are all up. GBP actions are flat. Amanda Jordan explains why local SEO breaks at scale and shares the SEO-first audit framework that fixes it.",
+      "category": "SEO",
       "published": "2026-08-25T07:00:00Z"
     },
     {
@@ -2247,33 +2274,6 @@
       "summary": "Today's decisions risk undermining vital privacy and security guardrails for millions of Europeans. We have repeatedly offered solutions to safeguard users while satisfy…",
       "category": "Industry",
       "published": "2026-07-16T12:05:00Z"
-    },
-    {
-      "id": "fbdd35b38e75",
-      "title": "The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators",
-      "url": "https://ahrefs.com/blog/the-free-tools-seo-strategy/",
-      "source": "Ahrefs Blog",
-      "summary": "That’s the free-tools SEO strategy: instead of writing another guide, you build a small, genuinely useful tool, put it on a page, and let it rank for a query that has huge demand and almost no good competition. Done right, … Read more ›",
-      "category": "SEO",
-      "published": "2026-07-16T11:30:20Z"
-    },
-    {
-      "id": "eeac6a04af4f",
-      "title": "How Codex became a collaborator for OpenAI’s creative team",
-      "url": "https://openai.com/index/codex-collaborator-creative-team",
-      "source": "OpenAI",
-      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
-      "category": "SEO",
-      "published": "2026-07-16T07:00:00Z"
-    },
-    {
-      "id": "6f16a999c8dd",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "source": "OpenAI",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "category": "Industry",
-      "published": "2026-07-16T00:00:00Z"
     }
   ]
 }
