@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:53:58Z",
+  "updated": "2026-08-26T10:05:47Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -25,6 +25,33 @@
     "iPullRank (Rank Report)"
   ],
   "items": [
+    {
+      "id": "d374a59dc48c",
+      "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/",
+      "source": "Search Engine Journal",
+      "summary": "Wix introduced Symphony, an easy and safe way for small to medium size local businesses to use AI agents. The post Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-26T09:17:38Z"
+    },
+    {
+      "id": "3574ef554342",
+      "title": "How We’d Market a $400 Skincare Device Before Black Friday",
+      "url": "https://sparktoro.com/blog/how-wed-market-a-400-skincare-device-before-black-friday/",
+      "source": "SparkToro",
+      "summary": "I’ve been trying to streamline my skincare routine while still getting solid results. The 10-step Korean skincare routine? It’s lovely, but I no longer have the patience to fit that into my schedule… or into my budget. So I started on a tretinoin prescription, Vanicream Daily…",
+      "category": "Industry",
+      "published": "2026-08-26T04:19:38Z"
+    },
+    {
+      "id": "d34e82eae2f2",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "source": "OpenAI",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "category": "Industry",
+      "published": "2026-08-26T00:00:00Z"
+    },
     {
       "id": "ebe7257a7805",
       "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
@@ -2247,33 +2274,6 @@
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "category": "GEO",
       "published": "2026-07-16T16:00:00Z"
-    },
-    {
-      "id": "81ca61af07d2",
-      "title": "What It Takes for SaaS Brands to Win in AI Search: 5 Data-Backed Findings and Actions",
-      "url": "https://www.aleydasolis.com/en/ai-search/saas-ai-search-optimization/",
-      "source": "Aleyda Solis",
-      "summary": "Which pages help ChatGPT and Google AI Mode build their SaaS related answers? Which third-party sources reinforce those answers? And once a user (or increasingly an AI agent) decides to continue, where does the measurable referral actually go? To answer these questions, I…",
-      "category": "GEO",
-      "published": "2026-07-16T15:35:02Z"
-    },
-    {
-      "id": "7d88402ec12e",
-      "title": "How We Reorganized our Agency Around AI Search",
-      "url": "https://ipullrank.com/ai-search-agency",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Let’s be honest about where most marketing teams are right now. Traffic is disappearing in ways that are hard to explain in a report, attribution is getting confusing, and AI platforms are recommending competitors in categories where you’ve spent years building authority. Nobody…",
-      "category": "SEO",
-      "published": "2026-07-16T15:00:00Z"
-    },
-    {
-      "id": "f21ee6d14d0d",
-      "title": "The DMA should not undercut security & privacy for Europeans",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/",
-      "source": "Google (Search)",
-      "summary": "Today's decisions risk undermining vital privacy and security guardrails for millions of Europeans. We have repeatedly offered solutions to safeguard users while satisfy…",
-      "category": "Industry",
-      "published": "2026-07-16T12:05:00Z"
     }
   ]
 }
