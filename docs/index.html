@@ -118,6 +118,8 @@ select.mini:focus{border-color:var(--accent)}
 .card-cat{color:var(--c,var(--faint)); font-weight:500}
 .m-sep{opacity:.4}
 .badge-new{color:var(--live); border:1px solid color-mix(in srgb,var(--live) 45%, transparent); border-radius:4px; padding:1px 5px; letter-spacing:.06em}
+.badge-impact{color:var(--cat-algo); border:1px solid color-mix(in srgb,var(--cat-algo) 50%, transparent); border-radius:4px; padding:1px 5px; letter-spacing:.05em; font-weight:500}
+.card-cov{color:var(--faint)}
 .card-title{font-family:var(--display); font-weight:600; font-size:17.5px; line-height:1.28; letter-spacing:-.01em; margin:0}
 .card-title a{text-decoration:none}
 .card-title a:hover{text-decoration:underline; text-underline-offset:2px; text-decoration-color:var(--c,var(--faint))}
@@ -203,67 +205,67 @@ const SEED_DATA = { updated: null, items: [
   {category:"Algorithms", source:"Search Engine Roundtable", published:"2026-08-03T14:00:00Z",
    url:"https://www.seroundtable.com/google-search-ranking-volatility-august-1-41811.html",
    title:"Search ranking volatility spikes across tracking tools, August 1–3",
-   summary:"Multiple third-party trackers lit up and community chatter surged, though Google's Search Status Dashboard listed no confirmed incident. The last confirmed change remains the June 2026 spam update."},
+   summary:"Multiple third-party trackers lit up and community chatter surged, though Google's Search Status Dashboard listed no confirmed incident. The last confirmed change remains the June 2026 spam update.", impact:8.0, coverage:1},
   {category:"Algorithms", source:"Search Engine Watch", published:"2026-08-06T09:30:00Z",
    url:"https://searchenginewatch.com/google-algorithm-update-august-2026/",
    title:"Is there an August 2026 Google update? What the evidence actually shows",
-   summary:"Publishers reported abrupt traffic drops and unstable Discover behaviour, but overlapping disruptions and inconsistent timing make it hard to call an unconfirmed core update."},
+   summary:"Publishers reported abrupt traffic drops and unstable Discover behaviour, but overlapping disruptions and inconsistent timing make it hard to call an unconfirmed core update.", impact:8.0, coverage:1},
   {category:"Algorithms", source:"Search Engine Land", published:"2026-08-17T19:55:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Google confirms a Search issue from August 13 that lowered impressions",
-   summary:"Google acknowledged an issue beginning August 13 that reduced impressions in Search Console; a fix was said to be rolling out over several days."},
+   summary:"Google acknowledged an issue beginning August 13 that reduced impressions in Search Console; a fix was said to be rolling out over several days.", impact:6.0, coverage:1},
   {category:"GEO", source:"Adido Digital", published:"2026-08-12T10:00:00Z",
    url:"https://www.adido-digital.co.uk/insights/seo-news-august-2026/",
    title:"AI Mode passes one billion monthly active users, Google says on earnings call",
-   summary:"Alphabet said AI Mode crossed a billion MAUs and claimed AI search now sends billions of clicks to sites weekly — figures offered without an independent breakdown."},
+   summary:"Alphabet said AI Mode crossed a billion MAUs and claimed AI search now sends billions of clicks to sites weekly — figures offered without an independent breakdown.", impact:4.0, coverage:1},
   {category:"GEO", source:"Search Engine Land", published:"2026-08-17T13:00:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"New research maps the mechanics behind ChatGPT citations",
-   summary:"A study breaks down what ChatGPT retrieves, what it actually reads, and what ultimately gets cited — useful signal for teams trying to earn AI mentions."},
+   summary:"A study breaks down what ChatGPT retrieves, what it actually reads, and what ultimately gets cited — useful signal for teams trying to earn AI mentions.", impact:5.0, coverage:1},
   {category:"GEO", source:"Leapd", published:"2026-04-17T08:00:00Z",
    url:"https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026",
    title:"Only 11% of domains are cited by both ChatGPT and Perplexity",
-   summary:"An analysis of 680M citations finds each engine runs on distinct sourcing logic, with AI Overviews now appearing in roughly half of all searches."},
+   summary:"An analysis of 680M citations finds each engine runs on distinct sourcing logic, with AI Overviews now appearing in roughly half of all searches.", impact:5.0, coverage:1},
   {category:"GEO", source:"Neogen Media", published:"2026-06-16T09:00:00Z",
    url:"https://neogenmedia.com/blog/generative-engine-optimization",
    title:"Overlap between Google's top rankings and AI citations has collapsed below 20%",
-   summary:"2026 studies put ChatGPT/Google top-10 citation overlap near 7%, and outline a 'Citation Triad' — primary sources, attributed stats, named experts — that lifts AI quoting rates."},
+   summary:"2026 studies put ChatGPT/Google top-10 citation overlap near 7%, and outline a 'Citation Triad' — primary sources, attributed stats, named experts — that lifts AI quoting rates.", impact:3.0, coverage:1},
   {category:"SEO", source:"Search Engine Land", published:"2026-08-17T14:00:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Some brands dominate Google but barely surface in AI answers",
-   summary:"Where traditional authority and AI recall diverge, and what that gap means for brands that assumed ranking strength would carry into AI answers."},
+   summary:"Where traditional authority and AI recall diverge, and what that gap means for brands that assumed ranking strength would carry into AI answers.", impact:4.0, coverage:1},
   {category:"SEO", source:"Search Engine Land", published:"2026-08-17T13:05:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Monitoring keyword and topic trends to publish early and get cited",
-   summary:"How tracking emerging queries helps you ship content sooner, build authority, and improve the odds of being cited in AI search."},
+   summary:"How tracking emerging queries helps you ship content sooner, build authority, and improve the odds of being cited in AI search.", impact:4.0, coverage:1},
   {category:"SEO", source:"Search Engine Land", published:"2026-08-18T11:00:00Z",
    url:"https://searchengineland.com/library/seo",
    title:"Google updates Branded Searches docs — PMax dropped from supported types",
-   summary:"Performance Max is no longer listed among campaign types supported for Branded Searches, a quiet documentation change worth noting for paid + organic teams."},
+   summary:"Performance Max is no longer listed among campaign types supported for Branded Searches, a quiet documentation change worth noting for paid + organic teams.", impact:4.0, coverage:1},
   {category:"GEO", source:"Position Digital", published:"2026-08-14T10:00:00Z",
    url:"https://www.position.digital/blog/ai-seo-news/",
    title:"Google unveils an 'Intelligent Search box' powered by Gemini 3.5 Flash",
-   summary:"Billed as the biggest search-box change in 25 years: it expands queries, takes multimodal input, and moves users from AI Overviews into AI Mode follow-ups while keeping context."},
+   summary:"Billed as the biggest search-box change in 25 years: it expands queries, takes multimodal input, and moves users from AI Overviews into AI Mode follow-ups while keeping context.", impact:6.0, coverage:1},
   {category:"Industry", source:"Position Digital", published:"2026-08-14T10:30:00Z",
    url:"https://www.position.digital/blog/ai-seo-news/",
    title:"Cloudflare launches Content Signal Policy to control AI bot use via robots.txt",
-   summary:"A new robots.txt directive lets site owners specify how AI crawlers may access and reuse their content — another front in the publisher-vs-AI access debate."},
+   summary:"A new robots.txt directive lets site owners specify how AI crawlers may access and reuse their content — another front in the publisher-vs-AI access debate.", impact:3.5, coverage:1},
   {category:"Industry", source:"WebmasterWorld", published:"2026-08-10T12:00:00Z",
    url:"https://www.webmasterworld.com/google/5133446.htm",
    title:"Publishers weigh blocking Google as AI Overviews erode click-through",
-   summary:"Forum discussion captures the mood: year-over-year traffic sliding as AIO takes more SERP space, with some large publishers considering pulling out of Google Search entirely."},
+   summary:"Forum discussion captures the mood: year-over-year traffic sliding as AIO takes more SERP space, with some large publishers considering pulling out of Google Search entirely.", impact:3.5, coverage:1},
   {category:"GEO", source:"Tech Times", published:"2026-06-14T09:00:00Z",
    url:"https://www.techtimes.com/articles/318359/20260614/generative-engine-optimization-geo-2026-how-get-your-content-cited-chatgpt-ai-overviews.htm",
    title:"Adobe frames a major acquisition around brand visibility 'in the agentic AI era'",
-   summary:"A market signal for GEO as a standalone channel: vendors increasingly pitch AI-answer visibility as sitting beside SEO rather than replacing it."},
+   summary:"A market signal for GEO as a standalone channel: vendors increasingly pitch AI-answer visibility as sitting beside SEO rather than replacing it.", impact:4.0, coverage:1},
   {category:"SEO", source:"Numinix", published:"2026-08-14T08:00:00Z",
    url:"https://www.numinix.com/blog/august-2026-seo-algorithm-news-update/",
    title:"August 2026 roundup: no confirmed ranking update — watch the trends instead",
-   summary:"With the dashboard clear, the month is one for reading Search Console trends and measuring visibility across both classic and AI search rather than chasing volatility."},
+   summary:"With the dashboard clear, the month is one for reading Search Console trends and measuring visibility across both classic and AI search rather than chasing volatility.", impact:4.0, coverage:1},
   {category:"GEO", source:"Numinix", published:"2026-08-14T08:05:00Z",
    url:"https://www.numinix.com/blog/august-2026-seo-algorithm-news-update/",
    title:"Users click a source inside an AI Overview only ~1% of the time, study finds",
-   summary:"A panel study of 900 U.S. adults found AI Overviews were associated with fewer clicks and a higher chance the session simply ended after the search."}
+   summary:"A panel study of 900 U.S. adults found AI Overviews were associated with fewer clicks and a higher chance the session simply ended after the search.", impact:5.0, coverage:1}
 ]};
 
 const CATS = {
@@ -274,7 +276,17 @@ const CATS = {
 };
 const CAT_ORDER = Object.keys(CATS);
 
-const state = { items:[], usingSeed:false, q:"", cats:new Set(), source:"all", sort:"new" };
+const state = { items:[], usingSeed:false, q:"", cats:new Set(), source:"all", sort:"top" };
+
+// Priority = static impact (from the aggregator) blended with live recency, so a
+// high-impact story stays near the top for a few days while trivia decays fast.
+const GRAVITY = 1.5;
+function priorityScore(it){
+  const impact = (typeof it.impact === "number") ? it.impact : 1;
+  const ageDays = Math.max(0, (Date.now() - new Date(it.published).getTime()) / 864e5);
+  return impact / Math.pow(ageDays + 2, GRAVITY);
+}
+const HIGH_IMPACT = 6;   // stories at/above this get a "high impact" flag
 
 // ── helpers ─────────────────────────────────────────────────
 function timeAgo(iso){
@@ -344,7 +356,7 @@ function renderFilters(){
   src.innerHTML=`<option value="all">All sources</option>`+sources.map(s=>`<option value="${esc(s)}"${state.source===s?" selected":""}>${esc(s)}</option>`).join("");
   src.onchange=e=>{ state.source=e.target.value; render(); };
   const sort=document.createElement("select"); sort.className="mini"; sort.setAttribute("aria-label","Sort stories");
-  sort.innerHTML=`<option value="new">Newest</option><option value="old">Oldest</option><option value="source">By source</option>`;
+  sort.innerHTML=`<option value="top">Top</option><option value="new">Newest</option><option value="old">Oldest</option><option value="source">By source</option>`;
   sort.value=state.sort;
   sort.onchange=e=>{ state.sort=e.target.value; render(); };
   wrap.appendChild(src); wrap.appendChild(sort); box.appendChild(wrap);
@@ -358,9 +370,10 @@ function currentList(){
     const q=state.q.toLowerCase();
     list=list.filter(i=>(i.title+" "+i.summary+" "+i.source).toLowerCase().includes(q));
   }
-  if(state.sort==="old") list.sort((a,b)=>a.published<b.published?-1:1);
+  if(state.sort==="new") list.sort((a,b)=>a.published<b.published?1:-1);
+  else if(state.sort==="old") list.sort((a,b)=>a.published<b.published?-1:1);
   else if(state.sort==="source") list.sort((a,b)=>a.source.localeCompare(b.source)||(a.published<b.published?1:-1));
-  else list.sort((a,b)=>a.published<b.published?1:-1);
+  else list.sort((a,b)=>priorityScore(b)-priorityScore(a));   // "top" (default)
   return list;
 }
 
@@ -371,10 +384,13 @@ function renderFeed(){
   empty.style.display="none";
   feed.innerHTML=list.map(it=>{
     const c=CATS[it.category]||CATS["Industry"];
+    const highImpact = (typeof it.impact==="number" && it.impact>=HIGH_IMPACT);
+    const impactBadge = highImpact?`<span class="badge-impact">HIGH&nbsp;IMPACT</span><span class="m-sep">·</span>`:"";
     const newBadge=isNew(it.published)?`<span class="badge-new">NEW</span><span class="m-sep">·</span>`:"";
+    const cov=(it.coverage&&it.coverage>=2)?`<span class="m-sep">·</span><span class="card-cov">${it.coverage} sources</span>`:"";
     return `<article class="card ${c.cls}">
-      <div class="card-meta">${newBadge}<span class="card-cat">${esc(c.short)}</span>
-        <span class="m-sep">·</span><span>${esc(it.source)}</span>
+      <div class="card-meta">${impactBadge}${newBadge}<span class="card-cat">${esc(c.short)}</span>
+        <span class="m-sep">·</span><span>${esc(it.source)}</span>${cov}
         <span class="m-sep">·</span><span title="${esc(fmtDateTime(it.published))}">${esc(timeAgo(it.published))}</span>
         <span class="m-sep">·</span><span class="card-date">${esc(fmtDateTime(it.published))}</span></div>
       <h3 class="card-title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
