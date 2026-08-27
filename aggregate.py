@@ -246,6 +246,152 @@ def impact_score(title: str, summary: str, source: str, category: str, coverage:
     return round(max(0.5, source_weight(source) + topic + corro), 2)
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+#  PLATFORM TIMELINE  —  milestones for search engines & LLM models only
+#
+#  Two sources feed the timeline:
+#    1. CURATED_MILESTONES below — a hand-kept list you edit when something big
+#       ships. Add a line: date, family ("engine"|"model"), platform, title, url.
+#    2. Auto-append — each run, high-impact launch/update stories about the
+#       tracked platforms are detected from the feed and remembered (persisted in
+#       data.json, kept ~200 days) so the timeline grows on its own.
+#  Curated always wins over an auto-detected copy of the same event.
+# ─────────────────────────────────────────────────────────────────────────────
+MILESTONE_MIN_IMPACT = 6       # auto-detect only genuinely high-impact events
+MILESTONE_MAX_AGE_DAYS = 200   # how long auto-detected milestones stay
+MILESTONE_MAX = 80
+
+# family + platform detection; checked in order (model names before "google")
+PLATFORM_RULES = [
+    ("model",  "OpenAI",     ["gpt-5", "gpt-6", "gpt 5", "chatgpt", "openai", "sora", "searchgpt"]),
+    ("model",  "Gemini",     ["gemini"]),
+    ("model",  "Anthropic",  ["claude", "anthropic"]),
+    ("model",  "Perplexity", ["perplexity"]),
+    ("model",  "Meta AI",    ["llama", "meta ai"]),
+    ("model",  "xAI",        ["grok"]),
+    ("engine", "Google",     ["core update", "spam update", "ai overview", "ai overviews",
+                              "ai mode", "google search", "search central", "helpful content",
+                              "search generative", "google"]),
+    ("engine", "Microsoft",  ["bing", "copilot", "microsoft"]),
+]
+# must also read like a launch/update/rollout — not a how-to or opinion piece
+MILESTONE_SIGNALS = [
+    "launch", "launches", "launched", "release", "releases", "released", "rolling out",
+    "rollout", "roll out", "rolls out", "now available", "introduc", "unveil", "announce",
+    "announced", "announces", "core update", "spam update", "new model", "goes live",
+    "now live", "general availability", "debuts", "shipping",
+]
+
+# Hand-kept milestones (edit freely). id/near-dup handled in merge_milestones().
+CURATED_MILESTONES = [
+    # ── Google Search (engine) ──
+    {"date": "2026-02-05", "family": "engine", "platform": "Google", "title": "February 2026 Discover core update", "url": "https://ahrefs.com/google-algorithm-updates", "curated": True},
+    {"date": "2026-03-24", "family": "engine", "platform": "Google", "title": "March 2026 spam update", "url": "https://ahrefs.com/google-algorithm-updates", "curated": True},
+    {"date": "2026-03-27", "family": "engine", "platform": "Google", "title": "March 2026 core update", "url": "https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/", "curated": True},
+    {"date": "2026-05-19", "family": "engine", "platform": "Google", "title": "Google I/O: AI Mode 'intelligent search box' (Gemini 3.5 Flash)", "url": "", "curated": True},
+    {"date": "2026-05-21", "family": "engine", "platform": "Google", "title": "May 2026 core update", "url": "https://searchengineland.com/google-may-2026-core-update-rollout-is-now-complete-479119", "curated": True},
+    {"date": "2026-06-26", "family": "engine", "platform": "Google", "title": "June 2026 spam update", "url": "https://ahrefs.com/google-algorithm-updates", "curated": True},
+    # ── OpenAI (model) ──
+    {"date": "2026-03-06", "family": "model", "platform": "OpenAI", "title": "GPT-5.4", "url": "https://en.wikipedia.org/wiki/GPT-5.6", "curated": True},
+    {"date": "2026-04-23", "family": "model", "platform": "OpenAI", "title": "GPT-5.5", "url": "https://en.wikipedia.org/wiki/GPT-5.6", "curated": True},
+    {"date": "2026-07-09", "family": "model", "platform": "OpenAI", "title": "GPT-5.6 — Luna, Terra, Sol", "url": "https://en.wikipedia.org/wiki/GPT-5.6", "curated": True},
+    {"date": "2026-08-01", "family": "model", "platform": "OpenAI", "title": "OpenAI names Astra (next model)", "url": "https://en.wikipedia.org/wiki/GPT-5.6", "curated": True},
+    {"date": "2026-08-10", "family": "model", "platform": "OpenAI", "title": "GPT-5.6-Cyber", "url": "https://en.wikipedia.org/wiki/GPT-5.6", "curated": True},
+    # ── Google Gemini (model) ──
+    {"date": "2026-02-12", "family": "model", "platform": "Gemini", "title": "Gemini 3 Deep Think", "url": "https://en.wikipedia.org/wiki/Google_Gemini", "curated": True},
+    {"date": "2026-02-19", "family": "model", "platform": "Gemini", "title": "Gemini 3.1 Pro", "url": "https://en.wikipedia.org/wiki/Google_Gemini", "curated": True},
+    {"date": "2026-05-19", "family": "model", "platform": "Gemini", "title": "Gemini 3.5 Flash", "url": "https://en.wikipedia.org/wiki/Google_Gemini", "curated": True},
+    {"date": "2026-08-13", "family": "model", "platform": "Gemini", "title": "Gemini 3.7 Flash", "url": "https://en.wikipedia.org/wiki/Google_Gemini", "curated": True},
+    # ── Anthropic Claude (model) ──
+    {"date": "2026-02-17", "family": "model", "platform": "Anthropic", "title": "Claude Sonnet 4.6", "url": "https://en.wikipedia.org/wiki/Claude_(language_model)", "curated": True},
+    {"date": "2026-05-28", "family": "model", "platform": "Anthropic", "title": "Claude Opus 4.8", "url": "https://en.wikipedia.org/wiki/Claude_(language_model)", "curated": True},
+    {"date": "2026-06-09", "family": "model", "platform": "Anthropic", "title": "Claude Fable 5 & Mythos 5", "url": "https://en.wikipedia.org/wiki/Claude_(language_model)", "curated": True},
+]
+
+
+def classify_platform(text: str):
+    t = f" {text.lower()} "
+    for fam, plat, kws in PLATFORM_RULES:
+        if any(k in t for k in kws):
+            return fam, plat
+    return None, None
+
+
+def _ms_id(m: dict) -> str:
+    return hashlib.sha1((m.get("date", "") + "|" + m.get("title", "")).encode("utf-8")).hexdigest()[:12]
+
+
+def detect_milestone(item: dict):
+    """Return a milestone dict if this scored item is a platform launch/update."""
+    if item.get("impact", 0) < MILESTONE_MIN_IMPACT:
+        return None
+    text = f"{item.get('title','')} {item.get('summary','')}"
+    fam, plat = classify_platform(text)
+    if not plat:
+        return None
+    if not any(sig in f" {text.lower()} " for sig in MILESTONE_SIGNALS):
+        return None
+    return {
+        "date": (item.get("published") or now_iso())[:10],
+        "family": fam,
+        "platform": plat,
+        "title": item.get("title", ""),
+        "url": item.get("url", ""),
+        "source": item.get("source", ""),
+        "curated": False,
+    }
+
+
+def merge_milestones(existing_ms: list, curated: list, detected: list) -> list:
+    """Merge curated + auto milestones; curated wins; drop near-dups; age-filter."""
+    from datetime import date as _date
+    cutoff = (_now() - timedelta(days=MILESTONE_MAX_AGE_DAYS)).strftime("%Y-%m-%d")
+
+    def pd(s):
+        try:
+            return _date.fromisoformat((s or "")[:10])
+        except Exception:
+            return None
+
+    # de-dupe exact (date+title) collisions, curated preferred
+    by_id = {}
+    for m in list(existing_ms) + list(detected) + list(curated):
+        m = dict(m)
+        m["id"] = _ms_id(m)
+        prev = by_id.get(m["id"])
+        if prev is None or (m.get("curated") and not prev.get("curated")):
+            by_id[m["id"]] = m
+
+    items = [m for m in by_id.values() if m.get("curated") or m.get("date", "") >= cutoff]
+
+    def same_event(a, b):
+        # only ever merge within one platform and a two-week window, so distinct
+        # monthly updates / different model versions always stay separate
+        if a.get("platform") and b.get("platform") and a["platform"] != b["platform"]:
+            return False
+        da, db = pd(a.get("date")), pd(b.get("date"))
+        if da and db and abs((da - db).days) > 14:
+            return False
+        ta, tb = norm_title(a["title"]), norm_title(b["title"])
+        if not ta or not tb:
+            return False
+        if similar(ta, tb) >= 0.85:
+            return True
+        short, lng = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
+        return short in lng   # terse curated label contained in a verbose headline
+
+    # collapse near-duplicate events (curated kept as the representative)
+    ranked = sorted(items, key=lambda m: (bool(m.get("curated")), m.get("date", "")), reverse=True)
+    kept = []
+    for m in ranked:
+        if any(same_event(m, k) for k in kept):
+            continue
+        kept.append(m)
+
+    kept.sort(key=lambda m: m.get("date", ""), reverse=True)
+    return kept[:MILESTONE_MAX]
+
+
 # ─── Date helpers ────────────────────────────────────────────────────────────
 def _now() -> datetime:
     return datetime.now(timezone.utc)
@@ -400,10 +546,17 @@ def build_dataset(new_items: list, existing: dict) -> dict:
     scored.sort(key=lambda i: i["published"], reverse=True)
     scored = scored[:MAX_ITEMS]
     sources = sorted({i["source"] for i in scored})
+
+    # platform timeline: detect milestones from this run, merge with the kept
+    # history + the curated seed list
+    detected = [m for m in (detect_milestone(i) for i in scored) if m]
+    milestones = merge_milestones(existing.get("milestones", []), CURATED_MILESTONES, detected)
+
     return {
         "updated": now_iso(),
         "count": len(scored),
         "sources": sources,
+        "milestones": milestones,
         "items": scored,
     }
 
