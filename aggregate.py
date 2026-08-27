@@ -181,6 +181,71 @@ def categorize(title: str, summary: str = "") -> str:
     return best
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+#  PRIORITY / IMPACT SCORING  (balanced: source authority ≈ topic weight)
+#
+#  impact = source_weight + topic_weight + corroboration_boost   (floored at 0.5)
+#    · source_weight   1–4  — how authoritative the outlet is for "what changed"
+#    · topic_weight         — category base (+2 Algo/GEO, +1 SEO, +0.5 Industry)
+#                             plus keyword adjust (+high-impact / −tutorial),
+#                             clamped to ±3 so wording never dominates
+#    · corroboration        — how many DISTINCT sources ran the same story
+#                             (0 / +1.5 / +3 / +4.5 for 1 / 2 / 3 / 4+ sources)
+#
+#  The frontend then blends this with recency:  priority = impact /(age_days+2)^g
+#  Tune any number below — it's all transparent.
+# ─────────────────────────────────────────────────────────────────────────────
+SOURCE_WEIGHTS = {
+    # 4 — official / primary sources (they ARE the change)
+    "Google Search Central": 4, "Google (Search)": 4, "Bing Webmaster": 4, "OpenAI": 4,
+    # 3 — daily news desks that break & confirm updates
+    "Search Engine Roundtable": 3, "Search Engine Land": 3,
+    "Search Engine Journal": 3, "Search Engine Watch": 3,
+    # 2 — original research & senior analysts
+    "Growth Memo": 2, "SparkToro": 2, "Marie Haynes": 2, "Glenn Gabe (GSQi)": 2,
+    "Aleyda Solis": 2, "iPullRank (Rank Report)": 2, "Lily Ray (Amsive)": 2,
+    "Zyppy Signal": 2, "Ahrefs Blog": 2, "Semrush Blog": 2, "Moz Blog": 2,
+    "Detailed": 2, "Dan Petrovic (DEJAN)": 2, "Andrea Volpini (WordLift)": 2,
+    # everything else defaults to 1 (general / tutorial / niche)
+}
+DEFAULT_SOURCE_WEIGHT = 1
+
+CATEGORY_IMPACT = {"Algorithms": 2, "GEO": 2, "SEO": 1, "Industry": 0.5}
+
+# terms that signal a high-impact, act-on-it story (+1 each, capped)
+IMPACT_HIGH = [
+    "core update", "spam update", "algorithm update", "major update", "confirmed",
+    "rolling out", "rollout", "now live", "launches", "launched", "announces",
+    "announced", "penalty", "manual action", "de-indexed", "deindex", "volatility",
+    "ranking drop", "traffic drop", "ai overview", "ai overviews", "ai mode",
+    "policy", "outage", "leak", "acquires", "acquisition", "shuts down", "breaking",
+]
+# tutorial / evergreen / promo signals that should sink (−1 each, capped)
+IMPACT_LOW = [
+    "how to", "how-to", "ultimate guide", "complete guide", "guide to", "beginner",
+    "tips", "tutorial", "webinar", "sponsored", "checklist", "template",
+    "best practices", "step-by-step", "examples", "ways to",
+]
+
+CORRO_STEP = 1.5      # boost per additional source
+CORRO_MAX_EXTRA = 3   # count at most 3 extra sources (so 4+ all cap out)
+KEYWORD_CLAMP = 3     # keyword adjust limited to ±this
+
+
+def source_weight(name: str) -> float:
+    return SOURCE_WEIGHTS.get(name, DEFAULT_SOURCE_WEIGHT)
+
+
+def impact_score(title: str, summary: str, source: str, category: str, coverage: int) -> float:
+    text = f" {title} {summary} ".lower()
+    hi = sum(1 for kw in IMPACT_HIGH if kw in text)
+    lo = sum(1 for kw in IMPACT_LOW if kw in text)
+    kw_adj = max(-KEYWORD_CLAMP, min(KEYWORD_CLAMP, hi - lo))
+    topic = CATEGORY_IMPACT.get(category, 0.5) + kw_adj
+    corro = min(max(coverage - 1, 0), CORRO_MAX_EXTRA) * CORRO_STEP
+    return round(max(0.5, source_weight(source) + topic + corro), 2)
+
+
 # ─── Date helpers ────────────────────────────────────────────────────────────
 def _now() -> datetime:
     return datetime.now(timezone.utc)
@@ -304,25 +369,42 @@ def build_dataset(new_items: list, existing: dict) -> dict:
     items = [i for i in items
              if i["published"] and (parse_iso(i["published"]) or cutoff) >= cutoff]
 
-    # newest first
-    items.sort(key=lambda i: i["published"], reverse=True)
+    # cross-source clustering: group near-identical headlines, keep the most
+    # authoritative (then newest) copy as the representative, and count how many
+    # DISTINCT sources ran the story — that count drives the corroboration boost.
+    items.sort(key=lambda i: (source_weight(i["source"]), i["published"] or ""),
+               reverse=True)
+    clusters = []  # each: {"nt": normalized_title, "rep": item, "sources": set}
+    for it in items:
+        nt = norm_title(it["title"])
+        home = None
+        if nt:
+            for cl in clusters:
+                if similar(nt, cl["nt"]) >= TITLE_DUP_RATIO:
+                    home = cl
+                    break
+        if home is None:
+            clusters.append({"nt": nt, "rep": it, "sources": {it["source"]}})
+        else:
+            home["sources"].add(it["source"])
 
-    # near-duplicate-title pass (keeps the newest of a near-dup pair)
-    deduped, kept_titles = [], []
-    for i in items:
-        nt = norm_title(i["title"])
-        if nt and any(similar(nt, kt) >= TITLE_DUP_RATIO for kt in kept_titles):
-            continue
-        deduped.append(i)
-        kept_titles.append(nt)
+    scored = []
+    for cl in clusters:
+        rep = dict(cl["rep"])
+        rep["coverage"] = len(cl["sources"])
+        rep["impact"] = impact_score(rep["title"], rep["summary"],
+                                     rep["source"], rep["category"], rep["coverage"])
+        scored.append(rep)
 
-    deduped = deduped[:MAX_ITEMS]
-    sources = sorted({i["source"] for i in deduped})
+    # store newest-first (the frontend re-sorts live by priority); cap the archive
+    scored.sort(key=lambda i: i["published"], reverse=True)
+    scored = scored[:MAX_ITEMS]
+    sources = sorted({i["source"] for i in scored})
     return {
         "updated": now_iso(),
-        "count": len(deduped),
+        "count": len(scored),
         "sources": sources,
-        "items": deduped,
+        "items": scored,
     }
 
 
