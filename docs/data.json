@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T08:22:48Z",
+  "updated": "2026-08-27T08:56:04Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -24,7 +24,332 @@
     "Zyppy Signal",
     "iPullRank (Rank Report)"
   ],
+  "milestones": [
+    {
+      "date": "2026-08-26",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Confirmed: Google Search Rolling Out google.com/goto Tracking Parameters",
+      "url": "https://www.seroundtable.com/google-search-goto-tracking-41957.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "ea73eb0f3cec"
+    },
+    {
+      "date": "2026-08-26",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Search Ranking Volatility Continues Post Spam Update",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-continues-41952.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "22bc694c589f"
+    },
+    {
+      "date": "2026-08-26",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google AI Mode Also Gains Link Carousels For Developing Topics",
+      "url": "https://www.seroundtable.com/google-ai-mode-link-carousels-41947.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "301509b703df"
+    },
+    {
+      "date": "2026-08-25",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "a16dfde7ecaf"
+    },
+    {
+      "date": "2026-08-22",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "470a085b1250"
+    },
+    {
+      "date": "2026-08-21",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update, Gemini 3.7 Powers AI Mode, Google and Microsoft Ads News & More",
+      "url": "https://www.seroundtable.com/video-08-21-2026-41915.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "2ff65708cab0"
+    },
+    {
+      "date": "2026-08-20",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "546f40207c40"
+    },
+    {
+      "date": "2026-08-19",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "82883f76ab92"
+    },
+    {
+      "date": "2026-08-19",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "49e5c59e9904"
+    },
+    {
+      "date": "2026-08-18",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "7ced1501af7c"
+    },
+    {
+      "date": "2026-08-18",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "82c2340734b6"
+    },
+    {
+      "date": "2026-08-13",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Gemini 3.7 Flash",
+      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
+      "curated": true,
+      "id": "7401478b5d68"
+    },
+    {
+      "date": "2026-08-10",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "GPT-5.6-Cyber",
+      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
+      "curated": true,
+      "id": "523dc2557aec"
+    },
+    {
+      "date": "2026-08-06",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "b4b65e085feb"
+    },
+    {
+      "date": "2026-08-01",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "OpenAI names Astra (next model)",
+      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
+      "curated": true,
+      "id": "e7103cdf7b10"
+    },
+    {
+      "date": "2026-07-29",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Platform properties roll out globally, plus a new social and video performance guide",
+      "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
+      "source": "Google Search Central",
+      "curated": false,
+      "id": "0920e95ab91d"
+    },
+    {
+      "date": "2026-07-23",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "ca1bcf23ae76"
+    },
+    {
+      "date": "2026-07-22",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "f7d15167519c"
+    },
+    {
+      "date": "2026-07-09",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "GPT-5.6 — Luna, Terra, Sol",
+      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
+      "curated": true,
+      "id": "f42408d88dce"
+    },
+    {
+      "date": "2026-06-26",
+      "family": "engine",
+      "platform": "Google",
+      "title": "June 2026 spam update",
+      "url": "https://ahrefs.com/google-algorithm-updates",
+      "curated": true,
+      "id": "30c975a9dced"
+    },
+    {
+      "date": "2026-06-09",
+      "family": "model",
+      "platform": "Anthropic",
+      "title": "Claude Fable 5 & Mythos 5",
+      "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+      "curated": true,
+      "id": "afb6b2070e24"
+    },
+    {
+      "date": "2026-05-28",
+      "family": "model",
+      "platform": "Anthropic",
+      "title": "Claude Opus 4.8",
+      "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+      "curated": true,
+      "id": "f0e05ca36ff3"
+    },
+    {
+      "date": "2026-05-21",
+      "family": "engine",
+      "platform": "Google",
+      "title": "May 2026 core update",
+      "url": "https://searchengineland.com/google-may-2026-core-update-rollout-is-now-complete-479119",
+      "curated": true,
+      "id": "5657df9e6eb3"
+    },
+    {
+      "date": "2026-05-19",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google I/O: AI Mode 'intelligent search box' (Gemini 3.5 Flash)",
+      "url": "",
+      "curated": true,
+      "id": "4bf7d8a6b9e1"
+    },
+    {
+      "date": "2026-05-19",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Gemini 3.5 Flash",
+      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
+      "curated": true,
+      "id": "022579c37993"
+    },
+    {
+      "date": "2026-04-23",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "GPT-5.5",
+      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
+      "curated": true,
+      "id": "002cdbd183ae"
+    },
+    {
+      "date": "2026-03-27",
+      "family": "engine",
+      "platform": "Google",
+      "title": "March 2026 core update",
+      "url": "https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/",
+      "curated": true,
+      "id": "26dcaeede1f7"
+    },
+    {
+      "date": "2026-03-24",
+      "family": "engine",
+      "platform": "Google",
+      "title": "March 2026 spam update",
+      "url": "https://ahrefs.com/google-algorithm-updates",
+      "curated": true,
+      "id": "f44236f48e34"
+    },
+    {
+      "date": "2026-03-06",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "GPT-5.4",
+      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
+      "curated": true,
+      "id": "1f991f66a725"
+    },
+    {
+      "date": "2026-02-19",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Gemini 3.1 Pro",
+      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
+      "curated": true,
+      "id": "484b0f561d2e"
+    },
+    {
+      "date": "2026-02-17",
+      "family": "model",
+      "platform": "Anthropic",
+      "title": "Claude Sonnet 4.6",
+      "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+      "curated": true,
+      "id": "50c32bc31ba8"
+    },
+    {
+      "date": "2026-02-12",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Gemini 3 Deep Think",
+      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
+      "curated": true,
+      "id": "be8f0058d023"
+    },
+    {
+      "date": "2026-02-05",
+      "family": "engine",
+      "platform": "Google",
+      "title": "February 2026 Discover core update",
+      "url": "https://ahrefs.com/google-algorithm-updates",
+      "curated": true,
+      "id": "fbce5e55f879"
+    }
+  ],
   "items": [
+    {
+      "id": "36b02d3d1f7f",
+      "title": "Relax. Google won't penalize all AI generated content.",
+      "url": "https://dejan.ai/blog/ai-penalty/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Google evaluates content based on substance and user behavior signals rather than penalizing pages simply because AI generation is detected.",
+      "category": "SEO",
+      "published": "2026-08-27T08:15:30Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "ac1671e7e961",
       "title": "Judge In Penske Vs Google Says AI Situation “Seems Really Unfair” via @sejournal, @martinibuster",
@@ -2763,17 +3088,6 @@
       "published": "2026-07-22T13:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "fc3528d001b5",
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "category": "Industry",
-      "published": "2026-07-22T12:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
     }
   ]
 }
