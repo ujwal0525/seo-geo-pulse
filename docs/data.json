@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T01:10:26Z",
+  "updated": "2026-08-28T21:55:55Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-08-28",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Won't Enforce Its Site Reputation Policy Manual Actions In Europe",
+      "url": "https://www.seroundtable.com/google-site-reputation-policy-eea-41968.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "9631c16d6d65"
+    },
     {
       "date": "2026-08-27",
       "family": "engine",
@@ -358,6 +368,237 @@
   ],
   "items": [
     {
+      "id": "f8b12140d888",
+      "title": "How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
+      "source": "Search Engine Journal",
+      "summary": "Add Google's Preferred Sources button with the standard embed, a configurable WordPress widget, or a deeplink. The post How To Add Google’s Preferred Sources Button To Your Website appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-28T19:00:53Z",
+      "coverage": 1,
+      "impact": 2.5
+    },
+    {
+      "id": "feb78107da4c",
+      "title": "Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button",
+      "url": "https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search is testing pushing searchers into AI Mode from the AI Overview by default, without having to click the \"Show more\" button. The new AI Overview experience that Google is testing shows a much fuller AI answer, like you'd get in AI Mode, and loads the follow up \"Ask…",
+      "category": "GEO",
+      "published": "2026-08-28T17:30:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "83c134c92dd7",
+      "title": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
+      "source": "Search Engine Journal",
+      "summary": "When Meta's ad AI altered approved creative without warning, it exposed a deeper problem: marketing teams rarely define who owns AI mistakes after sign-off. The post AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It appeared first on Search Engine Journal…",
+      "category": "Industry",
+      "published": "2026-08-28T14:30:07Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "3d24749f5611",
+      "title": "Daily Search Forum Recap: August 28, 2026",
+      "url": "https://www.seroundtable.com/recap-08-28-2026-41971.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. A first, Google won't enforce a spam policy within the European region...",
+      "category": "Industry",
+      "published": "2026-08-28T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.5
+    },
+    {
+      "id": "ca5f4fe7637b",
+      "title": "How We Use AI for Every Article Without Making AI Slop",
+      "url": "https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/",
+      "source": "Ahrefs Blog",
+      "summary": "Yes, every one. We have even built a Letaido pipeline that can research, outline, draft, and fact-check a nearly publish-ready article in six to twelve minutes. In theory, it could produce tens of thousands of articles. (It could… but that’s … Read more ›",
+      "category": "SEO",
+      "published": "2026-08-28T13:05:40Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "084f1286f66f",
+      "title": "How to track AI Overviews with Semrush",
+      "url": "https://www.semrush.com/blog/semrush-ai-overview-research/",
+      "source": "Semrush Blog",
+      "summary": "AI Overviews are growing and impacting SEO campaigns. Learn how to track AI Overviews with Semrush.",
+      "category": "GEO",
+      "published": "2026-08-28T12:40:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0e0157276392",
+      "title": "Search News Buzz Video Recap: Google GoTo Parameter Fight, PDFs Go Missing In Google, SEO For AI Responses & Google and Microsoft Ads News",
+      "url": "https://www.seroundtable.com/video-08-28-2026-41963.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Another week, more volatility within the Google Search results. Google is also swapping out direct links to go-to URL redirect links in its search results to protect...",
+      "category": "SEO",
+      "published": "2026-08-28T12:01:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "6e7cc764d6dc",
+      "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
+      "source": "Search Engine Journal",
+      "summary": "OpenAI, Shopify, and Cloudflare are putting WebMCP into live products, giving AI agents a structured way to use websites without relying on visual clicks. The post WebMCP Connects AI Agents To Actions Inside Websites appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-28T12:00:10Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "b8b378b12c09",
+      "title": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
+      "source": "Search Engine Journal",
+      "summary": "More than 100 organizations, including OpenAI, Google, and Microsoft, urge governments and website owners to prepare now for escalating AI cyberattacks. The post AI Is Changing Website Security. Here’s What SEO Teams Should Know appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-28T11:56:38Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "f0f3e27af242",
+      "title": "Google Ads Book Buttons Expand To Search & Performance Max",
+      "url": "https://www.seroundtable.com/google-ads-book-buttons-41964.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is expanding the book button through Reserve with Google partner integration to Google Ads Search and Performance Max campaigns. Previously, I believe, this was only available on Google Local Service Ads and maps ads.",
+      "category": "Industry",
+      "published": "2026-08-28T11:51:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "255478ccd752",
+      "title": "Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
+      "source": "Search Engine Journal",
+      "summary": "Google explains why a named update can shake up rankings without giving affected site owners anything specific to act on. The post Google Answers If Updates Come With Actionable SEO Signals appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-28T11:45:08Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "805251427f2d",
+      "title": "Google Announces Search Updates For Transparency, Actionable Updates Get Blog Posts",
+      "url": "https://www.seroundtable.com/google-announces-search-updates-41969.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller said Google \"primarily\" announces search updates to provide \"transparency for site owners.\" He added that when Google publishes blog posts, updates policies, and help center documentation, that is an actionable announcement site owners could use.",
+      "category": "Industry",
+      "published": "2026-08-28T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.5
+    },
+    {
+      "id": "84d4cfcec221",
+      "title": "Google Preferred Sources, Tailor Your Feed & Search Profiles Are Different",
+      "url": "https://www.seroundtable.com/google-preferred-sources-tailor-your-feed-41965.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has two, well, maybe three, features that are being confused as one. The preferred sources, the tailor your feed and also search profiles. All kind of customize what you see across Google Search features including Google Search, AI Mode, Discover and so on. But they are…",
+      "category": "GEO",
+      "published": "2026-08-28T11:31:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "de49206dfe1a",
+      "title": "Google Alcohol Advertising Policy Update On September 30",
+      "url": "https://www.seroundtable.com/google-update-alcohol-advertising-policy-41966.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google will be updating its alcohol advertising policy on September 30, 2026. The update \"revises country-specific guidelines, expands allowed advertising locations, and provides clearer details on specific advertiser requirements and responsibilities,\" Google wrote.",
+      "category": "SEO",
+      "published": "2026-08-28T11:21:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "1fbbfb2668c1",
+      "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
+      "source": "Search Engine Journal",
+      "summary": "Google is replacing site reputation abuse manual actions in the EEA with a system that can rank affected site sections independently. The post Google Updates Site Reputation Abuse (Parasite SEO) Policy appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-08-28T11:18:58Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "0ba5fe4cb258",
+      "title": "Google Search Having Indexing/Serving Issues August 28th",
+      "url": "https://www.seroundtable.com/google-search-indexing-issues-41972.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search seems to be having indexing or serving issues in the past hour or so. New content from the past hour doesn't seem to be showing up in Google Search results. Content from the Wall Street Journal, New York Times, CNN and other news sites that post content constantly…",
+      "category": "SEO",
+      "published": "2026-08-28T11:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "56d3f06fe53e",
+      "title": "Google AI Mode Asking Searchers To Sign In",
+      "url": "https://www.seroundtable.com/google-ai-mode-sign-in-41962.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing asking searchers to sign in within the AI Mode response. Google shows a big Google super logo and a sign in button that says \"Sign in to save your...\"",
+      "category": "GEO",
+      "published": "2026-08-28T11:11:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "69c45f2879cc",
+      "title": "Google Search Now Lists The Supported Favicon File Formats",
+      "url": "https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the favicon search developer documentation to list out the supported favicon file formats. Google added this line that reads, \"Google Search supports the following favicon file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF.\"",
+      "category": "Industry",
+      "published": "2026-08-28T11:05:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "427fbac870e6",
+      "title": "Google Won't Enforce Its Site Reputation Policy Manual Actions In Europe",
+      "url": "https://www.seroundtable.com/google-site-reputation-policy-eea-41968.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google announced it will not enforce manual actions under the site reputation abuse policy in the European Economic Area (EEA) due to a mandate set by the European Commission, effective August 30, 2026. Google said searchers in the EEA will not benefit from Google's spam…",
+      "category": "Algorithms",
+      "published": "2026-08-28T05:00:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "0b00c80d502c",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "category": "Industry",
+      "published": "2026-08-28T02:00:00Z",
+      "coverage": 1,
+      "impact": 4.5
+    },
+    {
+      "id": "09f26968a3c4",
+      "title": "Update to the Site Reputation Policy",
+      "url": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
+      "source": "Google Search Central",
+      "summary": "In 2024, we introduced our site reputation policy to stop a practice where third-party content is published on a trusted website just to exploit that site's good reputation to rank higher in Search. This practice hurts search quality, and creates a bad experience for users.",
+      "category": "SEO",
+      "published": "2026-08-28T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "80e923623e53",
       "title": "Brex Ranks #1 on Google and Appears in Half of AI Answers. The Recommendation Still Goes to a Competitor.",
       "url": "https://foundationinc.co/lab/brex-ai-visibility",
@@ -455,17 +696,6 @@
       "published": "2026-08-27T14:30:58Z",
       "coverage": 1,
       "impact": 2.5
-    },
-    {
-      "id": "32d54a58d0ef",
-      "title": "Daily Search Forum Recap: August 27, 2026",
-      "url": "https://www.seroundtable.com/recap-08-27-2026-41960.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "Industry",
-      "published": "2026-08-27T14:00:00Z",
-      "coverage": 1,
-      "impact": 3.5
     },
     {
       "id": "7c5c86d7dea3",
@@ -2886,226 +3116,6 @@
       "published": "2026-07-31T10:40:33Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "487981959078",
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "source": "OpenAI",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "category": "GEO",
-      "published": "2026-07-31T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "c940b01c3d18",
-      "title": "Readers spot AI writing 64% of the time: the first 1,636 answers from the AI vs Human test",
-      "url": "https://dejan.ai/blog/ai-vs-human-test-results/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "First results from the dejan.ai AI vs Human test: 1,636 answers, 64% correct overall, 18 perfect rounds against 0.14 expected from guessing, and accuracy rising from 55% to 75% with reading time.",
-      "category": "Industry",
-      "published": "2026-07-31T05:54:37Z",
-      "coverage": 1,
-      "impact": 2.5
-    },
-    {
-      "id": "c5ad624a6ffb",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "category": "GEO",
-      "published": "2026-07-31T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "85da2497a2a9",
-      "title": "An AI agent did a marketer’s job for two weeks. The numbers are in.",
-      "url": "https://foundationinc.co/lab/vol-303",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "For two years, AI marketing tools have mostly been dashboards. Sharper data, richer charts, precise reports on exactly where you were losing… and no help closing the gap. That era is ending. The agents have arrived, and they don’t watch the work. They do it. Case in point…",
-      "category": "SEO",
-      "published": "2026-07-30T20:00:14Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "851f12414cc1",
-      "title": "Canva Built a 90-Million-Backlink Empire. Does It Survive AI Search?",
-      "url": "https://foundationinc.co/lab/canva-breakdown",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "In 2020, we published a breakdown of how Canva built a backlink empire: 4.24 million links from 100,000 domains, landing pages for every conceivable use case, and an outreach team with sales-style quotas. Since then, the question has changed. Buyers now start with a prompt as…",
-      "category": "GEO",
-      "published": "2026-07-30T15:30:13Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "e90dd349be1e",
-      "title": "How to Report SEO & AI Visibility ROI to Leadership Who Do Not Care About Rankings",
-      "url": "https://wordlift.io/blog/en/report-ai-visibility-roi-leadership/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Rankings don't win budget conversations, outcomes do. Here's how to translate AI-visibility tracking into the four KPIs leadership actually cares about, and how WordLift's reporting engine builds that case for you automatically, causal-impact analysis included. The post How to…",
-      "category": "SEO",
-      "published": "2026-07-30T13:24:20Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "098dd1dbe0ed",
-      "title": "What 13 Billion Google Searches Reveal About Zero-Click Behavior",
-      "url": "https://ipullrank.com/zero-click-behavior-analysis-q3-2026",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Most clicks go to sites the searcher never named, Google absorbs about a third of Wikipedia’s would-be traffic but barely dents Reddit’s, and ChatGPT now pulls more of its clicks from ads than any other top destination. TL;DR Nearly half of Google searches now end without a…",
-      "category": "GEO",
-      "published": "2026-07-30T11:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "af2808c768d1",
-      "title": "Digital PR for AI visibility: 5 tactics + how to measure",
-      "url": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
-      "source": "Semrush Blog",
-      "summary": "Having a site isn‘t enough to get AI to talk about you. Use these 5 digital PR tactics to grow AI visibility.",
-      "category": "SEO",
-      "published": "2026-07-30T10:42:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "c3a54d700ae1",
-      "title": "What is schema markup? And how to add it to your site",
-      "url": "https://www.semrush.com/blog/schema-markup/",
-      "source": "Semrush Blog",
-      "summary": "Schema markup is code you add to your site to give search engines and AI systems explicit data about your pages.",
-      "category": "SEO",
-      "published": "2026-07-30T10:21:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "0497a79552bf",
-      "title": "Content optimization: 20 tactics to boost SEO & AI visibility",
-      "url": "https://www.semrush.com/blog/content-optimization/",
-      "source": "Semrush Blog",
-      "summary": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-      "category": "SEO",
-      "published": "2026-07-30T10:07:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "fc362ba711f5",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "OpenAI",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "category": "GEO",
-      "published": "2026-07-30T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "9146ff1756af",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "source": "OpenAI",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "category": "GEO",
-      "published": "2026-07-30T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "cc8e132c6199",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "category": "GEO",
-      "published": "2026-07-29T15:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "14fd05ad34f9",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "category": "GEO",
-      "published": "2026-07-29T10:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "44fa41ec6e8e",
-      "title": "Platform properties roll out globally, plus a new social and video performance guide",
-      "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
-      "source": "Google Search Central",
-      "summary": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
-      "category": "SEO",
-      "published": "2026-07-29T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "6d964f10c333",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "category": "GEO",
-      "published": "2026-07-29T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "df22037e3e0f",
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "source": "OpenAI",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "category": "SEO",
-      "published": "2026-07-28T17:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "50bf9e90585e",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google (Search)",
-      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "category": "GEO",
-      "published": "2026-07-28T13:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "f4ae5122e295",
-      "title": "These Google Trends show people really want to touch grass",
-      "url": "https://blog.google/products-and-platforms/products/search/touch-grass-trends/",
-      "source": "Google (Search)",
-      "summary": "Illustration of a phone in do-not-disturb mode against green grass",
-      "category": "Industry",
-      "published": "2026-07-28T13:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "337133ac9fb1",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google (Search)",
-      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-      "category": "Industry",
-      "published": "2026-07-28T13:00:00Z",
-      "coverage": 1,
-      "impact": 3.5
     }
   ]
 }
