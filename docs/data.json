@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T08:56:04Z",
+  "updated": "2026-08-28T01:10:26Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -11,7 +11,6 @@
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
-    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -20,11 +19,30 @@
     "Search Engine Roundtable",
     "Semrush Blog",
     "SparkToro",
-    "Yoast",
     "Zyppy Signal",
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-08-27",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "fcbfbd68cefc"
+    },
+    {
+      "date": "2026-08-27",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google AI Mode Adds Flight Price Tracking, Mile Rates & Hotel Booking",
+      "url": "https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "a9268adaf69f"
+    },
     {
       "date": "2026-08-26",
       "family": "engine",
@@ -340,6 +358,237 @@
   ],
   "items": [
     {
+      "id": "80e923623e53",
+      "title": "Brex Ranks #1 on Google and Appears in Half of AI Answers. The Recommendation Still Goes to a Competitor.",
+      "url": "https://foundationinc.co/lab/brex-ai-visibility",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "By every conventional SEO measure, Brex’s content strategy is working. Since our first breakdown last year, their Spend Trends library has nearly doubled in estimated traffic value to $536,000. Brex ranks #1 for “business credit cards for startups,” a query aimed directly at…",
+      "category": "GEO",
+      "published": "2026-08-27T20:48:31Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "75c89c472e83",
+      "title": "AI Search Didn’t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/",
+      "source": "Search Engine Journal",
+      "summary": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test. The post AI Search Didn’t Remove Cognitive Load, It Moved It appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-27T19:00:52Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "975a586ec82d",
+      "title": "IRS Website Drops Heavily In Google Search",
+      "url": "https://www.seroundtable.com/irs-website-drops-google-search-41967.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Over the past few days, the IRS website (and other government sites) has tanked within Google's search results. My gut feeling is that the federal government implemented some bot-blocking that was too aggressive and blocked Google, among others, resulting in Google not fully…",
+      "category": "Industry",
+      "published": "2026-08-27T18:23:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "6b57e14b2703",
+      "title": "New Claude skill: Commodity Content Audit",
+      "url": "https://www.growth-memo.com/p/new-claude-skill-commodity-content",
+      "source": "Growth Memo",
+      "summary": "Score how replaceable your content is",
+      "category": "SEO",
+      "published": "2026-08-27T17:55:25Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "d15623358126",
+      "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
+      "source": "Search Engine Journal",
+      "summary": "Google is rolling out hotel booking in AI Mode with Google Pay checkout. Flight alerts and rewards pricing are available in supported markets. The post Google Starts Rolling Out Hotel Booking In AI Mode appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-27T16:00:35Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "38e38808c623",
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google (Search)",
+      "summary": "Graphic depicting new travel features for AI Mode in Search",
+      "category": "GEO",
+      "published": "2026-08-27T16:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "1a21fb91c3ec",
+      "title": "Google AI Mode Adds Flight Price Tracking, Mile Rates & Hotel Booking",
+      "url": "https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is rolling out three new travel features within AI Mode in Google Search. These features include track flight prices, view points or miles rates, and book hotels directly within AI Mode, through your conversational search.",
+      "category": "GEO",
+      "published": "2026-08-27T16:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "6ae11da9b4c9",
+      "title": "OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/",
+      "source": "Search Engine Journal",
+      "summary": "OpenAI added WebMCP support to ChatGPT’s desktop browser, letting supported webpages expose structured actions to ChatGPT Work and Codex. The post OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-27T15:18:34Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "446c9e19e841",
+      "title": "How To Become A Strategic Partner & Keep Clients Years Longer",
+      "url": "https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/",
+      "source": "Search Engine Journal",
+      "summary": "Client-agency relationships now average seven years, but only when agencies act as strategic partners instead of task-completing vendors clients can replace. The post How To Become A Strategic Partner & Keep Clients Years Longer appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-27T14:30:58Z",
+      "coverage": 1,
+      "impact": 2.5
+    },
+    {
+      "id": "32d54a58d0ef",
+      "title": "Daily Search Forum Recap: August 27, 2026",
+      "url": "https://www.seroundtable.com/recap-08-27-2026-41960.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "Industry",
+      "published": "2026-08-27T14:00:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "7c5c86d7dea3",
+      "title": "Analysis: Reddit Appears in 83.9% of Google’s Discussions and Forums Results",
+      "url": "https://ahrefs.com/blog/discussions-and-forums-serps/",
+      "source": "Ahrefs Blog",
+      "summary": "The most prominent domain was Reddit.com, which showed up in 87.8% of SERPs (83.9% worldwide), with an average of 1.29 link appearances. Along with Ahrefs’ data scientist Xibeijia Guan, I set out to uncover how prominent other sites were, whether … Read more ›",
+      "category": "SEO",
+      "published": "2026-08-27T13:49:03Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a061815325f8",
+      "title": "We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com",
+      "url": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/",
+      "source": "Search Engine Journal",
+      "summary": "Discover the top citation sources for AI answers and how they impact recommendations across major AI platforms. The post We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-27T13:37:27Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "cf3c76bf1839",
+      "title": "ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/",
+      "source": "Search Engine Journal",
+      "summary": "Reddit still wins ChatGPT citations where a forum is the best source. Two captures, four days apart, show what actually decides the credit. The post ChatGPT Searches Individual Subreddits By Name appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-27T12:00:30Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b868af2296dc",
+      "title": "Bing Tests Renaming Copilot Search Answer To AI Overviews",
+      "url": "https://www.seroundtable.com/bing-testing-copilot-search-ai-overviews-41953.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is testing renaming the Copilot Search AI answer box at the top of the Bing Search results to AI Overviews. That is the name Google uses for its AI answer results in Google Search. Microsoft is still placing the Copilot logo with the box but trying to use the name \"AI…",
+      "category": "GEO",
+      "published": "2026-08-27T11:51:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "fe38042f1390",
+      "title": "Google Ask Advisor Soon To Get Shared Memory Across Tools",
+      "url": "https://www.seroundtable.com/google-ask-advisor-shared-memory-across-tools-41961.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google posted on X that Ask Advisor, which is in Google Ads, Google Analytics, Google Merchant Center and more Google tools, will soon \"maintain shared memory across your Google marketing tools.\" When this rolls out, when you ask a question on Google Ads, and then ask a question…",
+      "category": "SEO",
+      "published": "2026-08-27T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "baec45155f5f",
+      "title": "Microsoft Advertising Search Term Landing Page Report For AI Max",
+      "url": "https://www.seroundtable.com/microsoft-advertising-ai-max-search-term-landing-page-report-41950.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Advertising, with the release of AI Max globally, has rolled out a new Search term landing page reporting template. This report gives advertisers \"full insights into all parts of AI Max's performance,\" said Navah Hopkins, the Microsoft Ads Liaison.",
+      "category": "SEO",
+      "published": "2026-08-27T11:31:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "ded5f539b809",
+      "title": "Google Ads Tests Swipeable Categories For Sponsored Results Again",
+      "url": "https://www.seroundtable.com/google-ads-swipeable-categories-41959.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing once again testing swipeable Google Ads sponsored results, where you can swipe a carousel of categories to potentially change the sponsored results listed below. We saw this for shopping ads in October 2024 and Google has continued to test this since.",
+      "category": "Industry",
+      "published": "2026-08-27T11:21:00Z",
+      "coverage": 1,
+      "impact": 2.5
+    },
+    {
+      "id": "25c67b7595a0",
+      "title": "OpenAI Pins Shopping To ChatGPT Sidebar",
+      "url": "https://www.seroundtable.com/shopping-pinned-to-chatgpt-sidebar-41893.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI has pinned the Shopping tab to the left sidebar on ChatGPT. Clicking on it takes you to a landing page and a dedicated search page focused on shopping.",
+      "category": "GEO",
+      "published": "2026-08-27T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "2a678c377217",
+      "title": "Google Ads New Troubleshoot Performance Fluctuations & Changes",
+      "url": "https://www.seroundtable.com/google-ads-troubleshoot-performance-fluctuations-docs-41958.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has released several new \"Troubleshoot performance fluctuations and changes\" across Google Ads, Performance Max, Search campaigns, Display, video, shopping, app, and more. At least I think these documents are new based on my tools, but the Wayback Machine has been…",
+      "category": "SEO",
+      "published": "2026-08-27T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1c87eb527c11",
+      "title": "What is Nvidia up to buying Hugging Face and Groq?",
+      "url": "https://dejan.ai/blog/nvidia-buys/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Nvidia's $12.9B Hugging Face and $20B Groq acquisitions consolidate control over AI software and low-latency inference hardware amid supply chain constraints.",
+      "category": "Industry",
+      "published": "2026-08-27T09:21:25Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "3062d8cdad5f",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "category": "GEO",
+      "published": "2026-08-27T09:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "36b02d3d1f7f",
       "title": "Relax. Google won't penalize all AI generated content.",
       "url": "https://dejan.ai/blog/ai-penalty/",
@@ -349,6 +598,17 @@
       "published": "2026-08-27T08:15:30Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "57e276283c19",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "category": "Industry",
+      "published": "2026-08-27T03:00:00Z",
+      "coverage": 1,
+      "impact": 4.5
     },
     {
       "id": "ac1671e7e961",
@@ -437,17 +697,6 @@
       "published": "2026-08-26T14:30:21Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "f0d5a811db60",
-      "title": "Daily Search Forum Recap: August 26, 2026",
-      "url": "https://www.seroundtable.com/recap-08-26-2026-41951.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "Industry",
-      "published": "2026-08-26T14:00:00Z",
-      "coverage": 1,
-      "impact": 3.5
     },
     {
       "id": "520dc66db74d",
@@ -2857,237 +3106,6 @@
       "published": "2026-07-28T13:00:00Z",
       "coverage": 1,
       "impact": 3.5
-    },
-    {
-      "id": "4d845890ff2f",
-      "title": "Can AI Agents Actually Use Your Website?",
-      "url": "https://wordlift.io/blog/en/can-ai-agents-use-your-website/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "A website can be crawlable, structured, and still unusable to an AI agent. Across 17 runtime records we found that \"AI-readable\" is not a page property: it is a compatibility relationship between the site, the runtime, and the retrieval path. The post Can AI Agents Actually Use…",
-      "category": "GEO",
-      "published": "2026-07-28T08:26:50Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b9f3c7aaa20c",
-      "title": "Vibe Coding for Marketers: A Beginner’s Guide",
-      "url": "https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/",
-      "source": "Ahrefs Blog",
-      "summary": "Canva made this painfully clear: they gave 5,000 employees a full week to explore AI, and most couldn’t figure out how to start. No surprise there, most vibe-coding tools expect you to manage files, wrangle a terminal, and deploy to … Read more ›",
-      "category": "SEO",
-      "published": "2026-07-28T08:06:18Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "35efffde6f11",
-      "title": "NEW: Brand Affinity is Now Live in SparkToro Reports",
-      "url": "https://sparktoro.com/blog/new-brand-affinity-is-now-live-in-sparktoro-reports/",
-      "source": "SparkToro",
-      "summary": "Starting today, SparkToro audience research reports now contain brand affinity data, showing the companies, products, and brand names an audience is most familiar with and/or purchases from. When we first received requests for this data, my cofounder Casey went to work finding a…",
-      "category": "SEO",
-      "published": "2026-07-28T06:57:58Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8d61edcf4195",
-      "title": "Keyword mapping for SEO: Guide + free template",
-      "url": "https://www.semrush.com/blog/keyword-mapping/",
-      "source": "Semrush Blog",
-      "summary": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-      "category": "SEO",
-      "published": "2026-07-27T15:11:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "2fd3cb36b98d",
-      "title": "AI Halftime Report: H1 2026",
-      "url": "https://www.growth-memo.com/p/ai-halftime-report-h1-2026",
-      "source": "Growth Memo",
-      "summary": "AI's impact kept growing in H1 2026, but the ability to measure it kept falling behind.",
-      "category": "SEO",
-      "published": "2026-07-27T14:27:50Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "bfd23765d650",
-      "title": "How long does it really take to build a website with AI?",
-      "url": "https://yoast.com/how-long-it-takes-to-build-website-with-ai/",
-      "source": "Yoast",
-      "summary": "Most AI website builders promise you can create a website in minutes, but what does that timeline actually include? While AI can generate a professional-looking website surprisingly quickly, you’ll still need time to choose a domain, review the generated content, make a few…",
-      "category": "SEO",
-      "published": "2026-07-27T10:22:28Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "2c3fe417be90",
-      "title": "Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)",
-      "url": "https://ahrefs.com/blog/google-doesnt-punish-ai-content/",
-      "source": "Ahrefs Blog",
-      "summary": "On the one hand, Google says they don’t care whether AI is used for content creation, as long as the content isn’t designed “with the primary purpose of manipulating ranking in search results.” On the other hand, people like Lily … Read more ›",
-      "category": "SEO",
-      "published": "2026-07-27T08:00:13Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "f143efbfe201",
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "category": "GEO",
-      "published": "2026-07-27T03:30:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "fcaa6aeb96d0",
-      "title": "Advanced New Tail Keyword Research",
-      "url": "https://dejan.ai/blog/newtail/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Show 100 people a photo of your product and ask what they would type into Google. A survey on Zoysia Tenuifolia grass returned 68 terms: 24 already on the top-ranking page and 44 it had never used.",
-      "category": "SEO",
-      "published": "2026-07-27T03:12:48Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "4cacbe958762",
-      "title": "Gemini picks whichever web page it reads first 92% of the time. Only pages rewritten to its measured preferences ever beat that.",
-      "url": "https://dejan.ai/blog/rank-signal-recipe/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Shown two web pages, Gemini picks the first one 92% of the time. Pages rewritten to 31 measured text preferences win 15% from the second slot. Ordinary pages: 0%.",
-      "category": "GEO",
-      "published": "2026-07-26T07:58:29Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f578133e97df",
-      "title": "Personality on Reddit Matters More Than You Think: How a Branded Persona Account Unlocks Real Brand Possibilities",
-      "url": "https://foundationinc.co/lab/reddit-persona-accounts",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Reddit has 116+ million daily active users, and the platform was built to reject you. Post from a company logo, push a product link, sound even slightly like a press release, and the community will downvote and forget you before you finish the sentence. As our Senior Reddit…",
-      "category": "Industry",
-      "published": "2026-07-24T22:42:03Z",
-      "coverage": 1,
-      "impact": 1.5
-    },
-    {
-      "id": "069f39c25ef0",
-      "title": "The future of Search & AI: What I learned from Google’s latest earnings call",
-      "url": "https://www.mariehaynes.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/",
-      "source": "Marie Haynes",
-      "summary": "Google shared some interesting information about the future of Search and AI in their most recent earnings call. While many are focusing on the first negative cash flow since their IPO 20 years ago, I think Google is well on track for massive improvements. Google’s revenue is up…",
-      "category": "Industry",
-      "published": "2026-07-24T17:55:38Z",
-      "coverage": 1,
-      "impact": 2.5
-    },
-    {
-      "id": "b967e8dc67d1",
-      "title": "5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data",
-      "url": "https://ahrefs.com/blog/ai-search-trends/",
-      "source": "Ahrefs Blog",
-      "summary": "Every week brings a new acronym, a new era, a new thing you are supposedly already too late for. Some of it changes how we work, but a lot of it is—let’s be honest—noise. Well, fear not. I’ve curated some … Read more ›",
-      "category": "GEO",
-      "published": "2026-07-24T11:03:53Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "18516af0c2d3",
-      "title": "AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers",
-      "url": "https://ahrefs.com/blog/ai-search-strategy/",
-      "source": "Ahrefs Blog",
-      "summary": "Before someone ever lands on your website, an AI assistant may have already explained what your product does, compared it with competitors, and helped them decide whether you’re worth considering. By the time someone clicks through to your site after … Read more ›",
-      "category": "GEO",
-      "published": "2026-07-24T07:55:42Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "cad384c50cba",
-      "title": "7 Reasons Every Marketing Team Should Monitor Brand Mentions",
-      "url": "https://sparktoro.com/blog/7-reasons-every-marketing-team-should-monitor-brand-mentions/",
-      "source": "SparkToro",
-      "summary": "Wait a minute… are you telling me you’re only doing brand monitoring for reputation management?! What is this, 2004? It’s time for an upgrade, not necessarily to your tools (though if you’re still using Google Alerts, OMG stop; Alertmouse is free and 100X better) but to your…",
-      "category": "SEO",
-      "published": "2026-07-24T06:10:57Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "ba69095fc190",
-      "title": "Google pays Reddit $60M a year. For what, exactly?",
-      "url": "https://foundationinc.co/lab/vol-302",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Reddit just told Google: pay up or lose access. Per the Wall Street Journal, Reddit is weighing whether to restrict Google’s ability to use its content as the two renegotiate their AI data licensing deal… an agreement signed in 2024 worth roughly $60M a year. The market noticed…",
-      "category": "SEO",
-      "published": "2026-07-23T21:20:55Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "2a8aa97033ac",
-      "title": "2037. AGI. China probably.",
-      "url": "https://dejan.ai/blog/agi-china/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "An exploration of DeepSeek founder Liang Wenfeng's strategy of deliberate restraint, continual learning, and open weights in the race toward AGI.",
-      "category": "Industry",
-      "published": "2026-07-23T12:03:12Z",
-      "coverage": 1,
-      "impact": 2.5
-    },
-    {
-      "id": "2592b5f93cd7",
-      "title": "Creating and Promoting Were Never the Same Decision",
-      "url": "https://sparktoro.com/blog/creating-and-promoting-were-never-the-same-decision/",
-      "source": "SparkToro",
-      "summary": "I’ll admit I’m kind of a thinkboi (gender neutral). I’m often more interested in the philosophies behind marketing — how we pick our campaigns, which ideas are worth exploring — than in the campaigns themselves. So when Tim Soulo asked me a question on the Ahrefs podcast that I…",
-      "category": "SEO",
-      "published": "2026-07-23T02:57:23Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "7569338ee0d3",
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "category": "GEO",
-      "published": "2026-07-23T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "bd6ce42035f5",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "category": "GEO",
-      "published": "2026-07-22T13:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "130e23c4bd2f",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "category": "SEO",
-      "published": "2026-07-22T13:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
