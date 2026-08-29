@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T00:06:24Z",
+  "updated": "2026-08-29T04:06:38Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -564,6 +564,17 @@
       "published": "2026-08-28T11:05:00Z",
       "coverage": 1,
       "impact": 3.5
+    },
+    {
+      "id": "092c8de02e8b",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "category": "GEO",
+      "published": "2026-08-28T06:00:00Z",
+      "coverage": 1,
+      "impact": 8.0
     },
     {
       "id": "427fbac870e6",
@@ -3105,17 +3116,6 @@
       "published": "2026-07-31T15:00:00Z",
       "coverage": 1,
       "impact": 4.5
-    },
-    {
-      "id": "b87c0cd17512",
-      "title": "AI Visibility, GEO, AEO: A Guide to the Terms Your Team (and Your Boss) Keep Hearing",
-      "url": "https://wordlift.io/blog/en/ai-visibility-geo-aeo-guide-management/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "AI visibility, GEO, and AEO now show up in the same meeting, often meaning three different things to three different people. This field guide defines each term, shows how they connect, and flags the vocabulary trap most teams fall into. The post AI Visibility, GEO, AEO: A Guide…",
-      "category": "GEO",
-      "published": "2026-07-31T10:40:33Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
