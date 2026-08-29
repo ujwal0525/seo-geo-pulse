@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T12:07:27Z",
+  "updated": "2026-08-29T16:06:26Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-08-29",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "89a7d5482636"
+    },
     {
       "date": "2026-08-28",
       "family": "engine",
@@ -367,6 +377,17 @@
     }
   ],
   "items": [
+    {
+      "id": "4ad16831de73",
+      "title": "Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
+      "source": "Search Engine Journal",
+      "summary": "This week’s SEO Pulse covers Google’s AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT’s Reddit behavior in search. The post Judge Questions Google AI, Spam Update Fallout – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-29T12:30:49Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "f8b12140d888",
       "title": "How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev",
@@ -3101,17 +3122,6 @@
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "source": "OpenAI",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "category": "Industry",
-      "published": "2026-07-31T15:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "6e145b017b5a",
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "category": "Industry",
       "published": "2026-07-31T15:00:00Z",
       "coverage": 1,
