@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T08:06:26Z",
+  "updated": "2026-08-30T12:06:47Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -377,6 +377,17 @@
     }
   ],
   "items": [
+    {
+      "id": "93731d3a760b",
+      "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
+      "source": "Search Engine Journal",
+      "summary": "New allegations surfaced that Rank Math has introduced a functionality that silently gives the company administrator-level permissions over WordPress sites. The access is triggered when a user installs Rank Math and opens the plugin’s Help & Support area. Allegedly There Is Zero…",
+      "category": "Industry",
+      "published": "2026-08-30T11:11:17Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
     {
       "id": "0ec46fec0e73",
       "title": "Semantic Image Optimizer",
@@ -3115,17 +3126,6 @@
       "published": "2026-08-01T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "1e6f67e62f03",
-      "title": "7 best AI visibility tracking tools for agencies by need",
-      "url": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
-      "source": "Semrush Blog",
-      "summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why.",
-      "category": "SEO",
-      "published": "2026-07-31T15:04:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
