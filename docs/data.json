@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T08:06:59Z",
+  "updated": "2026-08-31T12:07:14Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -377,6 +377,138 @@
     }
   ],
   "items": [
+    {
+      "id": "f75d0464cbbb",
+      "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
+      "source": "Search Engine Journal",
+      "summary": "As Google Ads automates more decisions, advertisers must define success beyond platform metrics, tracking leads and sales through to actual business outcomes. The post Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better appeared first on Search Engine…",
+      "category": "Industry",
+      "published": "2026-08-31T12:00:36Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "206ff6b2a843",
+      "title": "The August 2026 Google Spam Update – Scaled Content Abuse, AI Content, Programmatic Content, Thin Affiliates, And More [Case Studies]",
+      "url": "https://www.gsqi.com/marketing-blog/august-2026-google-spam-update-case-studies/",
+      "source": "Glenn Gabe (GSQi)",
+      "summary": "Google rolled out yet another spam update on August 18, 2026 after rolling one out in late June. As a reminder, Google can roll out specific spam updates when it determines sites using spammy tactics are ranking well via its core ranking system. You can think of spam updates as…",
+      "category": "Algorithms",
+      "published": "2026-08-31T11:38:35Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ed2efe1188e8",
+      "title": "Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/",
+      "source": "Search Engine Journal",
+      "summary": "Google's John Mueller shares what happened when he checked whether AI crawlers were actually asking his sites for markdown. The post Google’s Mueller Shares Their Experience With Markdown For AI SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-08-31T10:44:54Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "01505ecea2b3",
+      "title": "UCP Releases Spec Update With Schema Changes via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/",
+      "source": "Search Engine Journal",
+      "summary": "The Universal Commerce Protocol's first spec release since April adds grocery readiness, lays groundwork for food and lodging, and brings schema changes. The post UCP Releases Spec Update With Schema Changes appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-08-31T10:00:27Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "dba6dcf9be7c",
+      "title": "How to use AI tools for competitor analysis in 2026",
+      "url": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/",
+      "source": "Semrush Blog",
+      "summary": "ChatGPT alone won‘t cut it. See how to use AI tools for competitor analysis the right way, with Semrush MCP and a step-by-step workflow.",
+      "category": "GEO",
+      "published": "2026-08-31T09:42:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "81379665a7be",
+      "title": "18 SEO KPIs to measure organic & AI search performance",
+      "url": "https://www.semrush.com/blog/seo-kpis/",
+      "source": "Semrush Blog",
+      "summary": "Relevant SEO KPIs to track include AI visibility, keyword rankings, organic traffic, and brand mentions.",
+      "category": "GEO",
+      "published": "2026-08-31T09:23:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e5467b12c8bf",
+      "title": "What makes a good listicle?",
+      "url": "https://www.growth-memo.com/p/what-makes-a-good-listicle",
+      "source": "Growth Memo",
+      "summary": "Author bios, schema markup, word count: all noise . Only freshness predicted top-three rankings.",
+      "category": "SEO",
+      "published": "2026-08-31T09:10:43Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "ecd4bf9f64c4",
+      "title": "Enterprise SEO: What it is & how to build a winning strategy",
+      "url": "https://www.semrush.com/blog/enterprise-seo/",
+      "source": "Semrush Blog",
+      "summary": "Enterprise SEO involves optimizing a website’s visibility at scale, using templated and automated approaches.",
+      "category": "Industry",
+      "published": "2026-08-31T09:09:00Z",
+      "coverage": 1,
+      "impact": 0.5
+    },
+    {
+      "id": "aa6562bd1cad",
+      "title": "How to rank in ChatGPT search: 8 steps to improve visibility",
+      "url": "https://www.semrush.com/blog/chatgpt-search/",
+      "source": "Semrush Blog",
+      "summary": "Rank in ChatGPT search by making your content easy for AI systems to extract and by building off-site consensus.",
+      "category": "GEO",
+      "published": "2026-08-31T08:45:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "429e291418e9",
+      "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/",
+      "source": "Search Engine Journal",
+      "summary": "New data finds Claude and Claude Code search at different rates, mention different brands, and send their agents to different types of pages. The post Claude Searches Web Differently From Claude Code, Data Shows appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-31T08:30:36Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "34bba47893d3",
+      "title": "Why is SEO important? 11 reasons it still matters.",
+      "url": "https://www.semrush.com/blog/importance-of-seo/",
+      "source": "Semrush Blog",
+      "summary": "SEO improves your online visibility + complements answer engine optimization. Here’s why it matters in 2026.",
+      "category": "GEO",
+      "published": "2026-08-31T08:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e38e2b21155e",
+      "title": "8 Best AI Content Marketing Tools for 2026 (Tried & Tested)",
+      "url": "https://www.semrush.com/blog/best-ai-content-marketing-tools/",
+      "source": "Semrush Blog",
+      "summary": "The best AI content marketing tools include Semrush‘s AI Visibility Toolkit and ChatGPT.",
+      "category": "SEO",
+      "published": "2026-08-31T07:41:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "511e2b8e8a9e",
       "title": "Facebook Groups Are Google’s No. 2 Forum Source via @sejournal, @MattGSouthern",
@@ -2994,138 +3126,6 @@
       "published": "2026-08-05T06:38:21Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "977f60f7e5e3",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "category": "GEO",
-      "published": "2026-08-04T19:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "7fe1110a7066",
-      "title": "These SEO Strategies Drive 90% of Your AI Visibility",
-      "url": "https://signal.zyppy.com/p/seo-strategies-for-ai-search",
-      "source": "Zyppy Signal",
-      "summary": "Google says, “good SEO is good GEO”.",
-      "category": "GEO",
-      "published": "2026-08-04T18:31:15Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d3753d032c98",
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google (Search)",
-      "summary": "July AI recap header",
-      "category": "Industry",
-      "published": "2026-08-04T13:00:00Z",
-      "coverage": 1,
-      "impact": 5.5
-    },
-    {
-      "id": "e41c06285781",
-      "title": "The Black Box Problem: Why AI-Visibility Buyers Don’t Trust Their Own Reporting (Yet)",
-      "url": "https://wordlift.io/blog/en/the-black-box-problem-why-ai-visibility-buyers-dont-trust-their-own-reporting-yet/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "AI-visibility buyers keep reaching for the same complaint: the reporting feels like a black box. This article breaks down why that happens, why it is not always bad faith, and the five things a transparent reporting framework should show you before you trust it. The post The…",
-      "category": "SEO",
-      "published": "2026-08-04T09:52:41Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "32aaf0821c3d",
-      "title": "I Tested 15 of the Best Brand Monitoring Tools: Here Are My Top 8 Picks",
-      "url": "https://moz.com/blog/best-brand-monitoring-tools",
-      "source": "Moz Blog",
-      "summary": "Looking for the best brand monitoring tool? I tested 15 and ranked my top 8 for AI search visibility, social listening and traditional media.",
-      "category": "GEO",
-      "published": "2026-08-04T07:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9afd29514a3c",
-      "title": "XM on text diffusion: a small real gain, and a bigger effect we were not looking for",
-      "url": "https://dejan.ai/blog/xm/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "An evaluation of Explorative Modeling on a text diffusion model: a small consistent gain at matched steps, and a larger likelihood-versus-sampling tradeoff that turned out to belong to the training schedule.",
-      "category": "Industry",
-      "published": "2026-08-04T03:37:31Z",
-      "coverage": 1,
-      "impact": 2.5
-    },
-    {
-      "id": "b274d6785ee9",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "source": "OpenAI",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "category": "GEO",
-      "published": "2026-08-04T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2163b413300d",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "category": "Industry",
-      "published": "2026-08-03T22:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "887d7e558930",
-      "title": "Does topical focus make your brand more visible?",
-      "url": "https://www.growth-memo.com/p/does-topical-focus-make-your-brand",
-      "source": "Growth Memo",
-      "summary": "If you're deciding how far to expand your content strategy, this is the evidence for where authority carries and where it runs out.",
-      "category": "SEO",
-      "published": "2026-08-03T15:50:05Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "59e28aacb2c1",
-      "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
-      "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
-      "source": "Semrush Blog",
-      "summary": "Can authority in one ChatGPT topic help you win another? Our study shows where topical authority carries over — and where it stops.",
-      "category": "SEO",
-      "published": "2026-08-03T13:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "46164ebeeed1",
-      "title": "Why AI Recommends Your Competitors and Not You (and How to Fix It)",
-      "url": "https://wordlift.io/blog/en/why-ai-recommends-competitors-not-you/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Ranking well on Google no longer guarantees you get recommended when someone asks an AI system the same question. This article breaks down the three concrete reasons AI systems pick competitors, and a practical, budget-free checklist to close the gap. The post Why AI Recommends…",
-      "category": "Industry",
-      "published": "2026-08-03T11:17:54Z",
-      "coverage": 1,
-      "impact": 0.5
-    },
-    {
-      "id": "d04cc35bd3cc",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "category": "GEO",
-      "published": "2026-08-03T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
