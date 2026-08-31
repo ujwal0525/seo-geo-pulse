@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T16:06:36Z",
+  "updated": "2026-08-31T20:06:28Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -387,6 +387,61 @@
     }
   ],
   "items": [
+    {
+      "id": "5861166d626d",
+      "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/",
+      "source": "Search Engine Journal",
+      "summary": "Google says Search Console's generative AI performance reports, which track AI Overviews and AI Mode impressions, have now rolled out to all sites worldwide. The post Google Search Console AI Reports Rolled Out Worldwide appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-31T19:04:38Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "8680262e3d46",
+      "title": "Google: We Don't Penalize For Old Outbound Links With Shady Content",
+      "url": "https://www.seroundtable.com/google-old-shady-links-41987.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller was asked if Google would penalize a site for old outbound links to a site that once hosted quality content and now changed ownership and hosts shady content. John said Google won't penalize such links; he said \"no\" and added, \"the web is full of turmoil.\"",
+      "category": "SEO",
+      "published": "2026-08-31T18:59:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8b47ae0c478c",
+      "title": "ChatGPT Is Now A “Very Large Online Search Engine” In The EU via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/",
+      "source": "Search Engine Journal",
+      "summary": "ChatGPT is now a very large online search engine under the EU Digital Services Act after OpenAI reported about 159.1 million average monthly search recipients. The post ChatGPT Is Now A “Very Large Online Search Engine” In The EU appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-31T18:31:32Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ed35d5d450a2",
+      "title": "30 out of 71 Cloud 100 subreddits are invisible to AI. Here’s what’s missing.",
+      "url": "https://foundationinc.co/lab/vol-307",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Grammarly’s subreddit has 8,000 followers. It’s unofficial, and no one at the company manages it. And yet it’s earned 1,001 AI citations, more than communities built by companies many times Grammarly’s size. Compare that to Flock Safety. It has 47,000 followers, nearly 6x…",
+      "category": "GEO",
+      "published": "2026-08-31T18:00:40Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "772e2041a828",
+      "title": "Google European Search Dataset Licensing Program Details",
+      "url": "https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated its Google European Search Dataset Licensing Program page with details on the program. Google has been designated as a \"gatekeeper\" under the DMA and is thus legally required to share its search data with competing search engines to foster fair competition.",
+      "category": "Industry",
+      "published": "2026-08-31T16:13:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
     {
       "id": "d8373033ed7e",
       "title": "Best PPC Companies of 2026",
@@ -3081,61 +3136,6 @@
       "published": "2026-08-08T14:29:42Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "73e0020afc08",
-      "title": "SEO Guide for SaaS Companies",
-      "url": "https://neilpatel.com/blog/saas-seo/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways There are few better traffic sources for software-as-a-service (SaaS) companies than organic search. Recent data shows that B2B SaaS companies see a 702 percent return on investment (ROI) from their SEO efforts. That’s a huge number, and it makes a ton of sense…",
-      "category": "SEO",
-      "published": "2026-08-07T19:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "833934ee3b25",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "category": "Industry",
-      "published": "2026-08-07T15:20:00Z",
-      "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "2ee94000fec4",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "category": "GEO",
-      "published": "2026-08-07T09:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "fb5a8573c65e",
-      "title": "The SEO’s Guide to Agentic Commerce — Whiteboard Friday",
-      "url": "https://moz.com/blog/seo-guide-to-agentic-commerce-whiteboard-friday",
-      "source": "Moz Blog",
-      "summary": "In the latest episode of Whiteboard Friday, Miracle Inameti-Archibong explains how to optimize your website for agentic commerce using Markdown, product feeds, structured data, and MCP.",
-      "category": "SEO",
-      "published": "2026-08-07T07:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "6132fc85929c",
-      "title": "How to Optimize Your YouTube Channel for AI Visibility",
-      "url": "https://foundationinc.co/lab/youtube-ai-visibility",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "We analyzed 8,566 keywords across more than 130 B2B SaaS categories to see how often YouTube appears in searches with buying intent. YouTube ranked in Google’s top 10 for 80.2% of “demo” searches, 22.5% of “best” searches, and 20% of “vs” searches. It also outranked at least…",
-      "category": "SEO",
-      "published": "2026-08-07T03:02:38Z",
-      "coverage": 1,
-      "impact": 1.0
     }
   ]
 }
