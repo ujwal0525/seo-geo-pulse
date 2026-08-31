@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T20:06:27Z",
+  "updated": "2026-08-31T00:08:15Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -377,6 +377,17 @@
     }
   ],
   "items": [
+    {
+      "id": "9722567c495e",
+      "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/",
+      "source": "Search Engine Journal",
+      "summary": "Anthropic warns that infostealer malware is stealing Claude login sessions to drain account usage. The post Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-30T22:45:39Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "93731d3a760b",
       "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster",
@@ -3115,17 +3126,6 @@
       "published": "2026-08-02T12:51:34Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "6d58997b466c",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "category": "GEO",
-      "published": "2026-08-01T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
