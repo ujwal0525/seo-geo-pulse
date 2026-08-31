@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T12:07:14Z",
+  "updated": "2026-08-31T16:06:36Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-08-31",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Confirms Search Spam Team Is Fighting & Well Resourced",
+      "url": "https://www.seroundtable.com/google-search-spam-team-fighting-41980.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "dba8c3034766"
+    },
     {
       "date": "2026-08-29",
       "family": "model",
@@ -378,6 +388,39 @@
   ],
   "items": [
     {
+      "id": "d8373033ed7e",
+      "title": "Best PPC Companies of 2026",
+      "url": "https://neilpatel.com/blog/ppc-companies/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Pay-per-click (PPC) advertising delivers an average return on investment (ROI) of 200 percent. Marketers are taking notice. About 93 percent of them view PPC advertising as effective or highly effective, second only to content marketing. A lot of that success…",
+      "category": "SEO",
+      "published": "2026-08-31T16:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "102f9c5e15f0",
+      "title": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
+      "url": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
+      "source": "Search Engine Journal",
+      "summary": "Three role changes and a budget rebalance can move a marketing team from invisible to cited in AI search results, no new headcount required. The post How To Restructure Your Marketing Team & Budget For The AI-Search Era appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-08-31T14:30:03Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9f1f83269a62",
+      "title": "Daily Search Forum Recap: August 31, 2026",
+      "url": "https://www.seroundtable.com/recap-08-31-2026-41981.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search is making AI Overviews fully expanded for some queries, making it more like AI Mode and pushing the core search results…",
+      "category": "GEO",
+      "published": "2026-08-31T14:00:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
       "id": "f75d0464cbbb",
       "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
@@ -389,6 +432,28 @@
       "impact": 3.5
     },
     {
+      "id": "569535490516",
+      "title": "Microsoft Advertising New Updated Design Preview",
+      "url": "https://www.seroundtable.com/microsoft-advertising-updated-design-preview-41978.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Advertising is previewing a new design and usability update for its ad platform. This update has a redesigned navigation and improved tables and layouts. This update should make managing your ad campaigns more efficient and intuitive.",
+      "category": "Industry",
+      "published": "2026-08-31T11:51:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "ac4c881f3a6b",
+      "title": "Google Merchant Center Popular Products Enhanced Coverage & Insights",
+      "url": "https://www.seroundtable.com/google-merchant-center-popular-products-report-enhanced-41977.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google posted a note that it has made enhancements to the Merchant Center's Popular products reports. Specifically, the coverage and insights sections were improved back in June of this year, but Google just posted about this information on this past Friday afternoon.",
+      "category": "SEO",
+      "published": "2026-08-31T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "206ff6b2a843",
       "title": "The August 2026 Google Spam Update – Scaled Content Abuse, AI Content, Programmatic Content, Thin Affiliates, And More [Case Studies]",
       "url": "https://www.gsqi.com/marketing-blog/august-2026-google-spam-update-case-studies/",
@@ -396,6 +461,39 @@
       "summary": "Google rolled out yet another spam update on August 18, 2026 after rolling one out in late June. As a reminder, Google can roll out specific spam updates when it determines sites using spammy tactics are ranking well via its core ranking system. You can think of spam updates as…",
       "category": "Algorithms",
       "published": "2026-08-31T11:38:35Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b9c133343859",
+      "title": "Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers",
+      "url": "https://www.seroundtable.com/microsoft-copilot-login-41975.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is now forcing all users to log in before using Copilot, but this currently does not apply to Copilot Search answers within Bing Search. When you try to go directly to Copilot, even by clicking on the Copilot button on Bing's home page, you are asked to sign into your…",
+      "category": "GEO",
+      "published": "2026-08-31T11:31:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "be6b209e4d67",
+      "title": "Google Confirms Search Spam Team Is Fighting & Well Resourced",
+      "url": "https://www.seroundtable.com/google-search-spam-team-fighting-41980.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Rajan Patel, VP of Engineering for Google Search, has confirmed that the Google Search team is still well-resourced in its fight against search spam. The spam team continues to update its spam algorithms, such as the latest Google August 2026 spam update, to help reduce spam in…",
+      "category": "Algorithms",
+      "published": "2026-08-31T11:21:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "25eb6b24f565",
+      "title": "Google AI Mode With Inline Shopping Carousel Ads & Single Ad Unit",
+      "url": "https://www.seroundtable.com/google-ai-mode-shopping-carousel-ads-41973.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is now showing shopping ads in a carousel format inline within AI Mode results. Plus, Google is also showing a similar ad unit at the bottom of the AI Mode results. We got a lot of ads in AI Mode now, and I guess Google is looking for more and more ways to monetize those…",
+      "category": "GEO",
+      "published": "2026-08-31T11:11:00Z",
       "coverage": 1,
       "impact": 5.0
     },
@@ -532,6 +630,17 @@
       "impact": 4.0
     },
     {
+      "id": "44f61163770f",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "category": "GEO",
+      "published": "2026-08-31T04:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "9722567c495e",
       "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/",
@@ -607,17 +716,6 @@
       "published": "2026-08-28T14:30:07Z",
       "coverage": 1,
       "impact": 3.5
-    },
-    {
-      "id": "3d24749f5611",
-      "title": "Daily Search Forum Recap: August 28, 2026",
-      "url": "https://www.seroundtable.com/recap-08-28-2026-41971.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. A first, Google won't enforce a spam policy within the European region...",
-      "category": "Industry",
-      "published": "2026-08-28T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
     },
     {
       "id": "ca5f4fe7637b",
@@ -3038,94 +3136,6 @@
       "published": "2026-08-07T03:02:38Z",
       "coverage": 1,
       "impact": 1.0
-    },
-    {
-      "id": "f37b860e93fa",
-      "title": "What Claude Design Could Mean for UX",
-      "url": "https://neilpatel.com/blog/claude-design-ux/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Most design tools are built for designers. That’s been the assumption for decades, and it’s created a bottleneck that marketers, product managers, and content teams know well: you have an idea, but getting it into a visual form means waiting on someone else’s…",
-      "category": "SEO",
-      "published": "2026-08-06T16:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "6235005ceee9",
-      "title": "Content Prioritization in an AI Search Era: A Framework + Worksheet",
-      "url": "https://www.aleydasolis.com/en/ai-search/content-prioritization-ai-search/",
-      "source": "Aleyda Solis",
-      "summary": "What type of content is still worth creating when AI platforms can answer queries without sending a click? AI answers are much more likely to fully satisfy the user’s need when they only want a quick explanation, and less likely when they still need proof, current or…",
-      "category": "GEO",
-      "published": "2026-08-06T14:02:58Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0f0c1961f93e",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "category": "GEO",
-      "published": "2026-08-06T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "06ed1cc02280",
-      "title": "What 50k Query Fan-Outs Reveal About Brands (+ Free Data!)",
-      "url": "https://moz.com/blog/50k-fan-outs-reveal-about-brands",
-      "source": "Moz Blog",
-      "summary": "What do 50k query fan-outs reveal about LLM bias, brand visibility, and search intent? Explore fresh data on Gemini prompts + download the free raw dataset.",
-      "category": "GEO",
-      "published": "2026-08-06T07:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6da5f2d271da",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "category": "Industry",
-      "published": "2026-08-06T06:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "261f3fd40601",
-      "title": "Mechanistic Interpretability of Google's Gemma - Safety and Personality Insights",
-      "url": "https://dejan.ai/blog/gemma-neurosurgery/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Modifying specific self-attention layers in the Gemma language model alters its self-identity and safety responses, blurring real-world harm with video games.",
-      "category": "Industry",
-      "published": "2026-08-06T02:46:00Z",
-      "coverage": 1,
-      "impact": 2.5
-    },
-    {
-      "id": "fea9ae47ebf2",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "category": "GEO",
-      "published": "2026-08-06T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "590d7aa5bb94",
-      "title": "The BRAND New V3 of SparkToro Is Here",
-      "url": "https://sparktoro.com/blog/the-brand-new-v3-of-sparktoro-is-here/",
-      "source": "SparkToro",
-      "summary": "A new version of SparkToro, our 3rd major iteration since the product’s first launch in 2020, just went live today! In this new version you’ll find: A completely overhauled interface, design, branding, and navigation system for the website and the audience research application…",
-      "category": "SEO",
-      "published": "2026-08-05T06:38:21Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
