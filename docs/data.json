@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T08:13:05Z",
+  "updated": "2026-09-01T12:15:37Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -19,6 +19,7 @@
     "Search Engine Roundtable",
     "Semrush Blog",
     "SparkToro",
+    "Yoast",
     "Zyppy Signal",
     "iPullRank (Rank Report)"
   ],
@@ -387,6 +388,50 @@
     }
   ],
   "items": [
+    {
+      "id": "1533b4b8d5bc",
+      "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/",
+      "source": "Search Engine Journal",
+      "summary": "WordPress announced an initiative to scale security as AI makes it easier for criminal to find and exploit vulnerabilities. The post WordPress Announces A Proactive Security Initiative appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-09-01T12:10:20Z",
+      "coverage": 1,
+      "impact": 5.5
+    },
+    {
+      "id": "16adc2c553db",
+      "title": "Schema For AI Citations: How To Become A Trusted Source via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/",
+      "source": "Search Engine Journal",
+      "summary": "Schema is not a magic ranking switch. Loren Baker explains how consistent structured data strengthens entity trust across local, ecommerce, and author-driven content. The post Schema For AI Citations: How To Become A Trusted Source appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-01T12:00:02Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a24b93cc3e9f",
+      "title": "What’s new in Yoast SEO 28.4: find, fix, and generate at scale",
+      "url": "https://yoast.com/yoast-seo-sept-1-2026/",
+      "source": "Yoast",
+      "summary": "The Yoast SEO Bulk Editor already helps you update titles, meta descriptions, and focus keyphrases across your whole site, filter by content type, and let Yoast AI draft metadata you approve before it saves. This update builds on that: it’s now easier to spot exactly which posts…",
+      "category": "SEO",
+      "published": "2026-09-01T08:53:20Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "d65ffa66a844",
+      "title": "How did the 1955 plan for AI go? Surprisingly well!",
+      "url": "https://dejan.ai/blog/1955/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "This page compares the 1955 Dartmouth artificial intelligence proposal with the public record of AI capabilities and world models as of 2026.",
+      "category": "Industry",
+      "published": "2026-09-01T08:26:51Z",
+      "coverage": 1,
+      "impact": 2.5
+    },
     {
       "id": "d9e9ce6fe4be",
       "title": "Where does AI get its information? And how to get cited",
@@ -3092,50 +3137,6 @@
       "published": "2026-08-10T12:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "df74d438b0ae",
-      "title": "How to grow your AI Visibility with community signals",
-      "url": "https://www.growth-memo.com/p/community-signals-are-ais-largest",
-      "source": "Growth Memo",
-      "summary": "UGC platforms out-cite review sites at every stage of the buyer journey. Part 4 in our series about organic authority multiplication.",
-      "category": "SEO",
-      "published": "2026-08-10T11:33:12Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "7f776d7829d0",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "source": "OpenAI",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "category": "Industry",
-      "published": "2026-08-10T10:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "3a8585570cab",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "category": "GEO",
-      "published": "2026-08-10T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "6753ad3b4f0d",
-      "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
-      "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
-      "source": "Semrush Blog",
-      "summary": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era.",
-      "category": "Industry",
-      "published": "2026-08-10T09:52:00Z",
-      "coverage": 1,
-      "impact": 1.5
     }
   ]
 }
