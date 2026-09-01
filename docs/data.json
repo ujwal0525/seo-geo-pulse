@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T20:06:28Z",
+  "updated": "2026-09-01T00:18:32Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -388,6 +388,28 @@
   ],
   "items": [
     {
+      "id": "56223ef25fb3",
+      "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
+      "source": "Search Engine Journal",
+      "summary": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion. The post FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-31T23:49:40Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "50dce853decf",
+      "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
+      "source": "Search Engine Journal",
+      "summary": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back. The post Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-08-31T21:40:45Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
       "id": "5861166d626d",
       "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/",
@@ -672,6 +694,17 @@
       "published": "2026-08-31T07:00:24Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "7bc341571432",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "category": "GEO",
+      "published": "2026-08-31T07:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "3c578389bfa4",
@@ -3103,39 +3136,6 @@
       "published": "2026-08-10T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "8f3f7b571773",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "source": "OpenAI",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "category": "GEO",
-      "published": "2026-08-10T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "1ea3eea3d9a5",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "source": "OpenAI",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "category": "GEO",
-      "published": "2026-08-10T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "560370ee534c",
-      "title": "Finding Bard Inside Google's Gemma 4",
-      "url": "https://dejan.ai/blog/bard-gemma/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "A mechanistic interpretability study shows how ablating specific MLP neurons in Gemma 4 causes the model to revert to its older, dormant Bard identity.",
-      "category": "SEO",
-      "published": "2026-08-08T14:29:42Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
