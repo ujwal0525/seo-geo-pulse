@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T16:40:25Z",
+  "updated": "2026-09-01T20:11:51Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,16 @@
     "Zyppy Signal"
   ],
   "milestones": [
+    {
+      "date": "2026-09-01",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "7205989fbd35"
+    },
     {
       "date": "2026-08-31",
       "family": "engine",
@@ -388,6 +398,50 @@
   ],
   "items": [
     {
+      "id": "185fafb3a964",
+      "title": "Google Working On Fixing Local Service Ads Bug",
+      "url": "https://www.seroundtable.com/google-local-service-ads-bug-41999.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is working on fixing a bug with Local Service Ads where it seems Local Service Ads are being unlinked from the associated Google Business Profiles. There are also complaints of instability and slowness on the Local Service Ads platform.",
+      "category": "Industry",
+      "published": "2026-09-01T19:17:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "442b589528a9",
+      "title": "The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing",
+      "url": "https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/",
+      "source": "Search Engine Journal",
+      "summary": "Getting cited in AI responses is the easy part. Our audit of 50 major websites shows where real AI readiness begins. The post The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-01T19:00:47Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "2b13c86d7a82",
+      "title": "Google Details Who Can License Its Search Data In Europe via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/",
+      "source": "Search Engine Journal",
+      "summary": "Google published eligibility rules, samples, and key dates for licensing ranking, query, click, and view data from EEA Search under the EU's Digital Markets Act. The post Google Details Who Can License Its Search Data In Europe appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-09-01T17:20:25Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "3b5f2688fec1",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "category": "Industry",
+      "published": "2026-09-01T17:00:00Z",
+      "coverage": 1,
+      "impact": 4.5
+    },
+    {
       "id": "1fb88b9d0c95",
       "title": "Daily Search Forum Recap: September 1, 2026",
       "url": "https://www.seroundtable.com/recap-09-01-2026-41989.html",
@@ -397,6 +451,17 @@
       "published": "2026-09-01T14:00:00Z",
       "coverage": 1,
       "impact": 3.5
+    },
+    {
+      "id": "309be27bdcfe",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "category": "GEO",
+      "published": "2026-09-01T13:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "1533b4b8d5bc",
@@ -419,6 +484,17 @@
       "published": "2026-09-01T12:00:02Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "50e05f9b472e",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "category": "GEO",
+      "published": "2026-09-01T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "53a36ede0d2d",
@@ -3068,72 +3144,6 @@
       "summary": "Key Takeaways When large language models (LLMs) edit documents, they make a specific kind of mistake that can be more dangerous than a hallucination. It’s subtle enough to pass a casual review, damaging enough to matter, and systematic enough to compound across multiple editing…",
       "category": "GEO",
       "published": "2026-08-12T19:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c9464363d64e",
-      "title": "Audience-First SEO: How to Rank by Putting Readers First",
-      "url": "https://neilpatel.com/blog/audience-first-seo/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Paid media has always started with the audience. Every campaign begins with who you’re trying to reach before it gets to what you’re going to say. Paid teams buy audiences, not channels. SEO has worked the opposite way for years. Programs get organized around…",
-      "category": "Industry",
-      "published": "2026-08-12T16:00:00Z",
-      "coverage": 1,
-      "impact": 0.5
-    },
-    {
-      "id": "3311d1bad157",
-      "title": "234 ChatGPT prompts (and how to write your own)",
-      "url": "https://www.semrush.com/blog/chatgpt-prompts/",
-      "source": "Semrush Blog",
-      "summary": "Copy-ready 234 ChatGPT prompts for marketing, SEO, sales, and 10+ use cases, plus the PROMPT framework for writing your own.",
-      "category": "GEO",
-      "published": "2026-08-12T06:58:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "fb21820d806b",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "category": "GEO",
-      "published": "2026-08-12T06:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "cad35e6294fe",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "source": "OpenAI",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "category": "GEO",
-      "published": "2026-08-12T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "f964ed45b032",
-      "title": "Perplexity cites ClickUp 6,474 times. Notion gets 741… Why?",
-      "url": "https://foundationinc.co/lab/vol-304",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Quick housekeeping before we get into it: this newsletter is moving to Mondays. Same research, same teardowns, now landing at the start of your week instead of the end of it. Look for us first thing every Monday from here on. Last week I sat down with Nick Lafferty from Profound…",
-      "category": "GEO",
-      "published": "2026-08-11T15:51:30Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "be0ef1e591b6",
-      "title": "Topical Gravity: Why topics are the new unit of your search strategy",
-      "url": "https://www.semrush.com/blog/topical-gravity/",
-      "source": "Semrush Blog",
-      "summary": "Search has become a topic-level game. Here‘s a framework to build, measure, and grow topical authority across AI and Google.",
-      "category": "SEO",
-      "published": "2026-08-11T13:00:00Z",
       "coverage": 1,
       "impact": 3.0
     }
