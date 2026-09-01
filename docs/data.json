@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T04:11:17Z",
+  "updated": "2026-09-01T08:13:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -388,6 +388,28 @@
   ],
   "items": [
     {
+      "id": "d9e9ce6fe4be",
+      "title": "Where does AI get its information? And how to get cited",
+      "url": "https://www.semrush.com/blog/where-does-ai-get-its-information/",
+      "source": "Semrush Blog",
+      "summary": "AI gets information from channels like training data, live online information, and licensing partnerships.",
+      "category": "GEO",
+      "published": "2026-09-01T07:52:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "118ff0cebb92",
+      "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/",
+      "source": "Search Engine Journal",
+      "summary": "Kevin Rowe broke down the digital PR system behind 1,000+ earned citations, which data stories journalists cover, and how research wins AI Overviews spots. The post How We Earned 1,000+ Links For GEO/SEO appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-01T07:45:17Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
       "id": "56223ef25fb3",
       "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
@@ -705,6 +727,17 @@
       "published": "2026-08-31T07:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "0703988e3a33",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "category": "Industry",
+      "published": "2026-08-31T07:00:00Z",
+      "coverage": 1,
+      "impact": 4.5
     },
     {
       "id": "3c578389bfa4",
@@ -3103,39 +3136,6 @@
       "published": "2026-08-10T09:52:00Z",
       "coverage": 1,
       "impact": 1.5
-    },
-    {
-      "id": "eef3a6bb1254",
-      "title": "What is organic traffic? (And how to increase it)",
-      "url": "https://www.semrush.com/blog/organic-traffic/",
-      "source": "Semrush Blog",
-      "summary": "Organic traffic is the visitors who land on your site through unpaid search results. Increase yours in 5 steps.",
-      "category": "Industry",
-      "published": "2026-08-10T08:58:00Z",
-      "coverage": 1,
-      "impact": 1.5
-    },
-    {
-      "id": "e5f5fd013eeb",
-      "title": "Local SEO keyword research: A step-by-step guide",
-      "url": "https://www.semrush.com/blog/local-keyword-research/",
-      "source": "Semrush Blog",
-      "summary": "Local SEO keyword research in six steps: find the terms customers use, validate intent, and improve visibility on Google Search, Maps, and AI answers.",
-      "category": "SEO",
-      "published": "2026-08-10T08:41:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "ee449db47d8d",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source": "OpenAI",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "category": "GEO",
-      "published": "2026-08-10T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
