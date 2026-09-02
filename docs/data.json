@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T00:18:04Z",
+  "updated": "2026-09-02T04:13:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -616,6 +616,28 @@
       "published": "2026-09-01T07:45:17Z",
       "coverage": 1,
       "impact": 7.0
+    },
+    {
+      "id": "3d23cff59952",
+      "title": "Demystifying Grounding Queries with Real Data",
+      "url": "https://moz.com/blog/demystifying-grounding-queries-with-real-data",
+      "source": "Moz Blog",
+      "summary": "Stop targeting zero-volume keywords. Discover how Google Gemini uses grounding queries to source real-time facts, and how to optimize your content for machine search.",
+      "category": "SEO",
+      "published": "2026-09-01T07:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "631a857c7a24",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "source": "OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "category": "GEO",
+      "published": "2026-09-01T01:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "56223ef25fb3",
@@ -3124,28 +3146,6 @@
       "published": "2026-08-13T09:00:00Z",
       "coverage": 1,
       "impact": 4.5
-    },
-    {
-      "id": "ac903b5c6a2b",
-      "title": "37 Proven Ways to Use AI in Marketing",
-      "url": "https://ahrefs.com/blog/how-to-use-ai-in-marketing/",
-      "source": "Ahrefs Blog",
-      "summary": "37 proven ways to use AI in marketing, from SEO to international marketing, each one from a marketer who has done it and shown their working. Read more ›",
-      "category": "Industry",
-      "published": "2026-08-13T08:32:36Z",
-      "coverage": 1,
-      "impact": 1.5
-    },
-    {
-      "id": "0650d3336d26",
-      "title": "Large Language Model (LLM) Editing Quietly Corrupts Documents. Here’s What the Research Says",
-      "url": "https://neilpatel.com/blog/ai-editing-corrupts-documents/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways When large language models (LLMs) edit documents, they make a specific kind of mistake that can be more dangerous than a hallucination. It’s subtle enough to pass a casual review, damaging enough to matter, and systematic enough to compound across multiple editing…",
-      "category": "GEO",
-      "published": "2026-08-12T19:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
