@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T15:14:46Z",
+  "updated": "2026-09-02T16:12:19Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -407,6 +407,17 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-02",
+      "company": "Salesforce",
+      "move": "Funding",
+      "detail": "$5B · $550M",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch",
+      "curated": false,
+      "id": "04e13f9fe540"
+    },
+    {
       "date": "2026-09-01",
       "company": "Canva",
       "move": "News",
@@ -452,6 +463,28 @@
     }
   ],
   "items": [
+    {
+      "id": "897c3bcb8fc1",
+      "title": "Google Search Using Gemini 3.8 Flash In AI Mode",
+      "url": "https://www.seroundtable.com/google-search-ai-mode-gemini-38-42009.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's Robby Stein, VP of Product at Google Search, said on X, \"Gemini 3.8 Flash has landed in Search.\" This comes only a couple of weeks after Google brought Gemini 3.7 Flash to AI Mode within Google Search.",
+      "category": "GEO",
+      "published": "2026-09-02T15:59:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "b057eb879a30",
+      "title": "Judge Rules Google Ad Tech Business Won't Be Broken Up",
+      "url": "https://www.seroundtable.com/google-ad-tech-business-ruling-42008.html",
+      "source": "Search Engine Roundtable",
+      "summary": "A federal judge in Virginia ruled against breaking up Google's ad tech business after Google was found to be a monopoly over its ad technology platforms. The judge ordered Google to end its practices that depress ad rates for web publishers, but declined to order divestiture of…",
+      "category": "SEO",
+      "published": "2026-09-02T15:31:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "ba5a3bd7282e",
       "title": "Entities Are The Foundation Of Modern SEO",
@@ -3177,28 +3210,6 @@
       "summary": "Google Research found frontier AI models encode 95-98% of brand facts in parametric memory but fail to recall 26-34% of them. The bottleneck is retrieval, not storage.",
       "category": "GEO",
       "published": "2026-08-17T06:15:14Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f137d9ea2f9f",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "category": "SEO",
-      "published": "2026-08-17T05:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ad5623d5cc70",
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "category": "SEO",
-      "published": "2026-08-17T05:00:00Z",
       "coverage": 1,
       "impact": 5.0
     }
