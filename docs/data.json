@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T16:12:19Z",
+  "updated": "2026-09-02T20:12:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "Yoast"
   ],
   "milestones": [
+    {
+      "date": "2026-09-02",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "01a4d069e527"
+    },
     {
       "date": "2026-09-01",
       "family": "model",
@@ -463,6 +473,39 @@
     }
   ],
   "items": [
+    {
+      "id": "56d1329162e0",
+      "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
+      "source": "Search Engine Journal",
+      "summary": "Google added Gemini 3.8 Flash to AI Mode's model menu on release day. The post Google Adds Gemini 3.8 Flash To AI Mode appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-02T19:41:19Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "f885d8bb2904",
+      "title": "The Next AI Protocol Won’t Save Your SEO Strategy via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/",
+      "source": "Search Engine Journal",
+      "summary": "Publishing a format is not the same as possessing the knowledge. Bill Hunt on why knowledge architecture outlasts every AI protocol. The post The Next AI Protocol Won’t Save Your SEO Strategy appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-02T19:00:07Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "94cca52cf7cb",
+      "title": "Meta Description Best Practices for SEO: Tips and Examples for 2026",
+      "url": "https://neilpatel.com/blog/meta-description-magic/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways You spent time crafting what you thought was a great meta description for your page. You agonized over word choice and character count for what felt like hours, only to have Google ignore it and choose a random sentence from your content to display as the search…",
+      "category": "SEO",
+      "published": "2026-09-02T19:00:00Z",
+      "coverage": 1,
+      "impact": 0.5
+    },
     {
       "id": "897c3bcb8fc1",
       "title": "Google Search Using Gemini 3.8 Flash In AI Mode",
@@ -3179,39 +3222,6 @@
       "published": "2026-08-17T09:16:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "e0eb016d7ed7",
-      "title": "How to do prompt research for AI SEO",
-      "url": "https://www.semrush.com/blog/prompt-research-for-ai-seo/",
-      "source": "Semrush Blog",
-      "summary": "Learn a repeatable process for prompt research that shows where your brand competes and where it doesn‘t.",
-      "category": "GEO",
-      "published": "2026-08-17T09:03:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "afe85ec9be77",
-      "title": "Slop Antibodies",
-      "url": "https://www.growth-memo.com/p/slop-antibodies",
-      "source": "Growth Memo",
-      "summary": "The connection between Slop, watermarking and Commodity Content shows us the blueprint for successful content in the AI era",
-      "category": "SEO",
-      "published": "2026-08-17T07:54:02Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "962609d60ea6",
-      "title": "AI Models Encode Brand Data but Fail to Recall a Third of It",
-      "url": "https://dejan.ai/blog/parametric-memory-impacts-brands/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Google Research found frontier AI models encode 95-98% of brand facts in parametric memory but fail to recall 26-34% of them. The bottleneck is retrieval, not storage.",
-      "category": "GEO",
-      "published": "2026-08-17T06:15:14Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
