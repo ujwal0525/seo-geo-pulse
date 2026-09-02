@@ -134,6 +134,13 @@ select.mini:focus{border-color:var(--accent)}
 .m-sep{opacity:.4}
 .badge-new{color:var(--live); border:1px solid color-mix(in srgb,var(--live) 45%, transparent); border-radius:4px; padding:1px 5px; letter-spacing:.06em}
 .badge-impact{color:var(--cat-algo); border:1px solid color-mix(in srgb,var(--cat-algo) 50%, transparent); border-radius:4px; padding:1px 5px; letter-spacing:.05em; font-weight:500}
+/* competitor board */
+.card.comp{--c:var(--cmc,var(--cat-industry))}
+.cmove-funding{--cmc:var(--live)} .cmove-ma{--cmc:#C9852B} .cmove-launch{--cmc:var(--cat-ai)}
+.cmove-campaign{--cmc:#D9488B} .cmove-news{--cmc:var(--cat-industry)}
+.comp-badge{font-family:var(--mono); font-size:10px; font-weight:500; letter-spacing:.05em; color:var(--cmc,var(--cat-industry)); border:1px solid color-mix(in srgb, var(--cmc,var(--cat-industry)) 45%, transparent); border-radius:4px; padding:1px 5px}
+.comp-co{font-family:var(--mono); font-size:11.5px; font-weight:500; color:var(--ink)}
+.comp-detail{font-family:var(--mono); font-size:12.5px; font-weight:500; color:var(--ink); margin:6px 0 0}
 .card-cov{color:var(--faint)}
 .card-title{font-family:var(--display); font-weight:600; font-size:17.5px; line-height:1.28; letter-spacing:-.01em; margin:0}
 .card-title a{text-decoration:none}
@@ -285,8 +292,6 @@ const SEED_DATA = { updated: null, items: [
    summary:"A panel study of 900 U.S. adults found AI Overviews were associated with fewer clicks and a higher chance the session simply ended after the search.", impact:5.0, coverage:1}
 ]};
 
-// Platform milestones shown before the first live sync (mirrors the curated
-// seed list in aggregate.py). Live data.json.milestones replaces this.
 const SEED_MILESTONES = [
   {date:"2026-08-13", family:"model",  platform:"Gemini",    title:"Gemini 3.7 Flash", url:"https://en.wikipedia.org/wiki/Google_Gemini"},
   {date:"2026-08-10", family:"model",  platform:"OpenAI",    title:"GPT-5.6-Cyber", url:"https://en.wikipedia.org/wiki/GPT-5.6"},
@@ -306,6 +311,13 @@ const SEED_MILESTONES = [
   {date:"2026-02-17", family:"model",  platform:"Anthropic", title:"Claude Sonnet 4.6", url:"https://en.wikipedia.org/wiki/Claude_(language_model)"},
   {date:"2026-02-12", family:"model",  platform:"Gemini",    title:"Gemini 3 Deep Think", url:"https://en.wikipedia.org/wiki/Google_Gemini"},
   {date:"2026-02-05", family:"engine", platform:"Google",    title:"February 2026 Discover core update", url:"https://ahrefs.com/google-algorithm-updates"}
+];
+
+// Competitor moves shown before the first live sync (mirrors curated seeds in
+// aggregate.py). Live data.json.competitors replaces this.
+const SEED_COMPETITORS = [
+  {date:"2026-08-17", company:"Higgsfield", move:"Funding", detail:"$400M Series B · $5.4B valuation", title:"Higgsfield raises $400M Series B at a $5.4B valuation", url:"https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html", source:"PR Newswire"},
+  {date:"2026-02-04", company:"ElevenLabs", move:"Funding", detail:"$500M Series D", title:"ElevenLabs raises $500M Series D", url:"https://tracxn.com/d/companies/elevenlabs", source:"Tracxn"}
 ];
 
 const CATS = {
@@ -389,7 +401,11 @@ function renderFilters(){
     const c=CATS[cat], b=document.createElement("button");
     b.className="chip "+c.cls+(state.cats.has(cat)?" on":""); b.type="button";
     b.innerHTML=`<span class="dot"></span>${c.short}`;
-    b.onclick=()=>{ state.cats.has(cat)?state.cats.delete(cat):state.cats.add(cat); render(); };
+    b.onclick=()=>{
+      if(cat==="Industry"){ state.cats.has("Industry")?state.cats.delete("Industry"):(state.cats.clear(),state.cats.add("Industry")); }
+      else { state.cats.delete("Industry"); state.cats.has(cat)?state.cats.delete(cat):state.cats.add(cat); }
+      render();
+    };
     box.appendChild(b);
   });
   const wrap=document.createElement("div"); wrap.className="selects";
@@ -421,6 +437,7 @@ function currentList(){
 
 function renderFeed(){
   const feed=document.getElementById("feed"), empty=document.getElementById("empty");
+  if(state.cats.has("Industry")){ renderCompetitorBoard(feed,empty); return; }
   const list=currentList();
   if(!list.length){ feed.innerHTML=""; empty.style.display="block"; return; }
   empty.style.display="none";
@@ -437,6 +454,28 @@ function renderFeed(){
         <span class="m-sep">·</span><span class="card-date">${esc(fmtDateTime(it.published))}</span></div>
       <h3 class="card-title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
       ${it.summary?`<p class="card-summary">${esc(it.summary)}</p>`:""}
+    </article>`;
+  }).join("");
+}
+
+function renderCompetitorBoard(feed,empty){
+  let list=(state.competitors||[]).slice();
+  if(state.q){ const q=state.q.toLowerCase(); list=list.filter(m=>(m.company+" "+m.title+" "+(m.detail||"")+" "+m.move).toLowerCase().includes(q)); }
+  list.sort((a,b)=> a.date<b.date?1:-1);
+  if(!list.length){ feed.innerHTML=""; empty.style.display="block"; return; }
+  empty.style.display="none";
+  feed.innerHTML=list.map(m=>{
+    const mv=(m.move||"News").toLowerCase().replace(/[^a-z]/g,"");
+    const d=new Date((m.date||"")+"T00:00:00");
+    const dstr=isNaN(d)?esc(m.date||""):d.toLocaleDateString(undefined,{day:"numeric",month:"short",year:"numeric"});
+    const title=m.url?`<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.title)}</a>`:esc(m.title);
+    return `<article class="card comp cmove-${mv}">
+      <div class="card-meta"><span class="comp-badge">${esc((m.move||"News").toUpperCase())}</span>
+        <span class="m-sep">·</span><span class="comp-co">${esc(m.company||"")}</span>
+        <span class="m-sep">·</span><span>${dstr}</span>
+        <span class="m-sep">·</span><span>${esc(m.source||"")}</span></div>
+      <h3 class="card-title">${title}</h3>
+      ${m.detail?`<p class="comp-detail">${esc(m.detail)}</p>`:""}
     </article>`;
   }).join("");
 }
@@ -458,6 +497,7 @@ async function boot(){
   if(!data || !Array.isArray(data.items) || data.items.length===0){ data=SEED_DATA; state.usingSeed=true; }
   state.items=data.items; state.updated=data.updated;
   state.milestones=(data.milestones && data.milestones.length)?data.milestones:SEED_MILESTONES;
+  state.competitors=(data.competitors && data.competitors.length)?data.competitors:SEED_COMPETITORS;
   document.getElementById("search").addEventListener("input",e=>{ state.q=e.target.value.trim(); renderFeed(); });
   document.getElementById("clearBtn").addEventListener("click",()=>{
     state.q=""; state.cats.clear(); state.source="all"; document.getElementById("search").value=""; render();
