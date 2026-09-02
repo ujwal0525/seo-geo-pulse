@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T08:13:01Z",
+  "updated": "2026-09-02T12:15:57Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -19,8 +19,7 @@
     "Search Engine Roundtable",
     "Semrush Blog",
     "SparkToro",
-    "Yoast",
-    "Zyppy Signal"
+    "Yoast"
   ],
   "milestones": [
     {
@@ -397,6 +396,72 @@
     }
   ],
   "items": [
+    {
+      "id": "cf043082ce99",
+      "title": "What Happens To PPC When You Stop Managing Google Ads Through Google Ads via @sejournal, @siliconvallaeys",
+      "url": "https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/",
+      "source": "Search Engine Journal",
+      "summary": "As agents and MCP connectors take over PPC management outside the Google Ads UI, this piece maps the risks and the governance needed to avoid. The post What Happens To PPC When You Stop Managing Google Ads Through Google Ads appeared first on Search Engine Journal .",
+      "category": "Industry",
+      "published": "2026-09-02T12:00:10Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "47b399054918",
+      "title": "Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/",
+      "source": "Search Engine Journal",
+      "summary": "Interview with head of Google DeepMind explains how Gemini is moving beyond answers toward AI that can use tools and accomplish tasks. The post Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-02T11:24:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ec1f2992b4a1",
+      "title": "Google Analytics September 1 Data Missing",
+      "url": "https://www.seroundtable.com/google-analytics-broken-42002.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Analytics seems to have another bug, this time with data missing from the main charts. September 1, 2026 data is showing zero traffic to websites; I believe this is across every Google Analytics install.",
+      "category": "Industry",
+      "published": "2026-09-02T10:13:00Z",
+      "coverage": 1,
+      "impact": 3.5
+    },
+    {
+      "id": "0746342f8270",
+      "title": "The August 2026 SEO Update by Yoast recap",
+      "url": "https://yoast.com/the-august-2026-seo-update-by-yoast-recap/",
+      "source": "Yoast",
+      "summary": "Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google’s new tools for publishers, the impact of AI on search visibility, and how to adapt to the evolving digital landscape. Watch the full…",
+      "category": "SEO",
+      "published": "2026-09-02T10:00:15Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "c2071c4b7b73",
+      "title": "Create an AI Brand Visibility Report [+ Template]",
+      "url": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
+      "source": "Semrush Blog",
+      "summary": "Pair AI share of voice, citations, and sentiment with GA4 conversions in one report leadership can act on. Free template and Semrush steps included.",
+      "category": "GEO",
+      "published": "2026-09-02T09:33:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "7e105043e258",
+      "title": "How to prepare your site for AI agents",
+      "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/",
+      "source": "Semrush Blog",
+      "summary": "AI agents browse, compare, and recommend on behalf of users. Learn how to make your site crawlable, readable, trustworthy, and easy to cite in AI-driven decision workflows.",
+      "category": "SEO",
+      "published": "2026-09-02T09:18:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "9bce1d03aa35",
       "title": "3 Steps That Turn AI Into Leverage, Not Extra Labour",
@@ -3080,72 +3145,6 @@
       "published": "2026-08-13T20:43:10Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "5fcdd4b44a0f",
-      "title": "Content Effort: The Google Ranking Feature Nobody Talks About",
-      "url": "https://signal.zyppy.com/p/content-effort",
-      "source": "Zyppy Signal",
-      "summary": "Google doesn't care about how hard you worked - it's about showing evidence of unique value",
-      "category": "SEO",
-      "published": "2026-08-13T13:07:24Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "084898bc4dde",
-      "title": "Google Content Effort Audit",
-      "url": "https://signal.zyppy.com/p/google-content-effort-audit",
-      "source": "Zyppy Signal",
-      "summary": "Use this audit to score content effort that aligns with Google guidelines",
-      "category": "SEO",
-      "published": "2026-08-13T13:07:23Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "d49b8a5eb507",
-      "title": "How To Find And Organize AI Mode Queries Via the Search Analytics API, Analytics Edge, and Claude Cowork",
-      "url": "https://www.gsqi.com/marketing-blog/how-to-find-ai-mode-queries-gsc/",
-      "source": "Glenn Gabe (GSQi)",
-      "summary": "Last week Barry published an article about AI Mode data being surfaced in Google Search Console in the performance reporting. It’s super interesting to see that data and there are some fun things you can do to try and decipher the information. I’ll cover more about that soon…",
-      "category": "GEO",
-      "published": "2026-08-13T13:05:43Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "91f9bb6d7cfc",
-      "title": "AI keyword research: How to use free chatbot tools",
-      "url": "https://www.semrush.com/blog/ai-keyword-research/",
-      "source": "Semrush Blog",
-      "summary": "We tested 5 free chatbots for AI keyword research. See how they performed and how to validate their suggestions with real search data.",
-      "category": "SEO",
-      "published": "2026-08-13T11:09:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "855fa77e93e1",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "category": "GEO",
-      "published": "2026-08-13T11:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6357d7795d21",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "category": "GEO",
-      "published": "2026-08-13T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
