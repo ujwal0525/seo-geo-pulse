@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T12:15:57Z",
+  "updated": "2026-09-02T15:14:46Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -141,6 +141,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "2ff65708cab0"
+    },
+    {
+      "date": "2026-08-21",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Ads & AI Max New Experimentation & Planning Features",
+      "url": "https://www.seroundtable.com/google-ads-ai-max-experimentation-planning-41910.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "82aa803ed54a"
     },
     {
       "date": "2026-08-20",
@@ -395,17 +405,162 @@
       "id": "fbce5e55f879"
     }
   ],
+  "competitors": [
+    {
+      "date": "2026-09-01",
+      "company": "Canva",
+      "move": "News",
+      "detail": "",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch",
+      "curated": false,
+      "id": "0e7a764b45f8"
+    },
+    {
+      "date": "2026-09-01",
+      "company": "Perplexity",
+      "move": "Launch",
+      "detail": "",
+      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
+      "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
+      "source": "VentureBeat",
+      "curated": false,
+      "id": "5429fc5cf8bf"
+    },
+    {
+      "date": "2026-08-17",
+      "company": "Higgsfield",
+      "move": "Funding",
+      "detail": "$400M Series B · $5.4B valuation",
+      "title": "Higgsfield raises $400M Series B at a $5.4B valuation",
+      "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
+      "source": "PR Newswire",
+      "curated": true,
+      "id": "ae14cbdba89d"
+    },
+    {
+      "date": "2026-02-04",
+      "company": "ElevenLabs",
+      "move": "Funding",
+      "detail": "$500M Series D",
+      "title": "ElevenLabs raises $500M Series D",
+      "url": "https://tracxn.com/d/companies/elevenlabs",
+      "source": "Tracxn",
+      "curated": true,
+      "id": "820e17766eda"
+    }
+  ],
   "items": [
+    {
+      "id": "ba5a3bd7282e",
+      "title": "Entities Are The Foundation Of Modern SEO",
+      "url": "https://www.searchenginejournal.com/entities-are-the-foundation-of-modern-seo/587886/",
+      "source": "Search Engine Journal",
+      "summary": "GEO is just entity SEO with a new name. The foundations haven't changed in 15 years, but most brands still ignore them. The post Entities Are The Foundation Of Modern SEO appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-02T14:31:43Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "82cf4f038b80",
+      "title": "Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/",
+      "source": "Search Engine Journal",
+      "summary": "Google says a new Gemini system that inspects frames, audio, and transcripts on demand will power Ask YouTube on video watch pages. The post Google To Bring New Video Understanding Tech To Ask YouTube appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-02T14:08:29Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "6b7b4083f791",
+      "title": "Daily Search Forum Recap: September 2, 2026",
+      "url": "https://www.seroundtable.com/recap-09-02-2026-42003.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-09-02T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8821dd3af52a",
+      "title": "Prompts to programming: Vibe coding vs. traditional coding a website",
+      "url": "https://yoast.com/traditional-coding-vs-vibe-coding-website/",
+      "source": "Yoast",
+      "summary": "Good vibes can spark great ideas, and now they can even help you build a website. With vibe coding, you don’t need to start by writing lines of code. Instead, you tell AI what you want to create, refine the results through conversation, and watch your website take shape. While…",
+      "category": "GEO",
+      "published": "2026-09-02T13:46:42Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "78e70b0263d6",
+      "title": "Google Trends Explore Page Adds Category Filtering",
+      "url": "https://www.seroundtable.com/google-trends-filter-category-42007.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Trends now lets you filter your results by category, either with or without a query. This can give you a more refined view of the trends for a specific query or zoom you out more on category level trends within Google Search.",
+      "category": "SEO",
+      "published": "2026-09-02T13:38:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "454ee9ca67c0",
+      "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/",
+      "source": "Search Engine Journal",
+      "summary": "YouTube's Todd Beaupré says the desktop homepage redesign with larger thumbnails drove more long-form engagement despite showing fewer videos at once. The post YouTube Says Bigger Thumbnails Drove More Long-Form Views appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-02T13:11:52Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "cf043082ce99",
       "title": "What Happens To PPC When You Stop Managing Google Ads Through Google Ads via @sejournal, @siliconvallaeys",
       "url": "https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/",
       "source": "Search Engine Journal",
       "summary": "As agents and MCP connectors take over PPC management outside the Google Ads UI, this piece maps the risks and the governance needed to avoid. The post What Happens To PPC When You Stop Managing Google Ads Through Google Ads appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-02T12:00:10Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
+    },
+    {
+      "id": "b083de6de7d3",
+      "title": "Google: The Disavow Tool Does Have Effects",
+      "url": "https://www.seroundtable.com/google-disavow-tool-effects-42004.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller said the Google disavow tool \"does have effects,\" adding, \"but it has its place & time.\" This was in response a complaint about a site dropping in the search results after adding links to the disavow link tool.",
+      "category": "SEO",
+      "published": "2026-09-02T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9e94209c0277",
+      "title": "Google Ads New Pre-Fill Asset Groups With Generated Assets",
+      "url": "https://www.seroundtable.com/google-ads-pre-fill-asset-groups-41993.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads added a new section to the how asset groups work help documentation for pre-fill asset groups with generated assets. This section goes over new features like in-construction callout and automatic pre-fill.",
+      "category": "SEO",
+      "published": "2026-09-02T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4869434224b4",
+      "title": "Google AdSense Begin-to-Render Impression Measurement Coming",
+      "url": "https://www.seroundtable.com/google-adsense-begin-to-render-41992.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google AdSense will change how it counts impressions for display ads starting on February 17, 2027. Google will use what it calls the Begin-to-Render methodology and will only count the impression once the ad has successfully loaded and has started to render on the user's device.",
+      "category": "SEO",
+      "published": "2026-09-02T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "47b399054918",
@@ -419,15 +574,37 @@
       "impact": 5.0
     },
     {
+      "id": "bd8804edc33b",
+      "title": "Google Tell Maps Starts To Roll Out",
+      "url": "https://www.seroundtable.com/google-tell-maps-42001.html",
+      "source": "Search Engine Roundtable",
+      "summary": "About a month ago, Google announced Tell Maps, a way for Google Maps contributors to use AI to tell Google Maps more about places. \"You can suggest edits conversationally, right from Ask Maps and the Contribute tab,\" Google said about Tell Maps.",
+      "category": "SEO",
+      "published": "2026-09-02T11:21:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "2fdfe6868d70",
+      "title": "Bing Tests Search Result Snippets Without Site Names",
+      "url": "https://www.seroundtable.com/bing-search-snippets-without-sitenames-41990.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is testing removing the site names from the Bing search results and instead showing only the site's URL. Google tested this about a year ago, so I guess it makes sense for Bing to test as well.",
+      "category": "SEO",
+      "published": "2026-09-02T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "ec1f2992b4a1",
       "title": "Google Analytics September 1 Data Missing",
       "url": "https://www.seroundtable.com/google-analytics-broken-42002.html",
       "source": "Search Engine Roundtable",
       "summary": "Google Analytics seems to have another bug, this time with data missing from the main charts. September 1, 2026 data is showing zero traffic to websites; I believe this is across every Google Analytics install.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-02T10:13:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "0746342f8270",
@@ -479,10 +656,10 @@
       "url": "https://www.seroundtable.com/google-local-service-ads-bug-41999.html",
       "source": "Search Engine Roundtable",
       "summary": "Google is working on fixing a bug with Local Service Ads where it seems Local Service Ads are being unlinked from the associated Google Business Profiles. There are also complaints of instability and slowness on the Local Service Ads platform.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-01T19:17:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "442b589528a9",
@@ -501,10 +678,10 @@
       "url": "https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/",
       "source": "Search Engine Journal",
       "summary": "Google published eligibility rules, samples, and key dates for licensing ranking, query, click, and view data from EEA Search under the EU's Digital Markets Act. The post Google Details Who Can License Its Search Data In Europe appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-01T17:20:25Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "3b5f2688fec1",
@@ -512,21 +689,10 @@
       "url": "https://openai.com/index/ai-native-company-workflows",
       "source": "OpenAI",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-01T17:00:00Z",
       "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "1fb88b9d0c95",
-      "title": "Daily Search Forum Recap: September 1, 2026",
-      "url": "https://www.seroundtable.com/recap-09-01-2026-41989.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "Industry",
-      "published": "2026-09-01T14:00:00Z",
-      "coverage": 1,
-      "impact": 3.5
+      "impact": 5.0
     },
     {
       "id": "309be27bdcfe",
@@ -545,10 +711,10 @@
       "url": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/",
       "source": "Search Engine Journal",
       "summary": "WordPress announced an initiative to scale security as AI makes it easier for criminal to find and exploit vulnerabilities. The post WordPress Announces A Proactive Security Initiative appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-01T12:10:20Z",
       "coverage": 1,
-      "impact": 5.5
+      "impact": 6.0
     },
     {
       "id": "16adc2c553db",
@@ -600,10 +766,10 @@
       "url": "https://www.seroundtable.com/google-ads-pmax-help-doc-updated-41982.html",
       "source": "Search Engine Roundtable",
       "summary": "On Friday, Google pushed out a pretty big overhaul of the Performance Max documentation within the Google Ads support area. I've been waiting to compare the old and new documents, but the Wayback Machine has been down for about a week now.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-01T11:31:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "013b67626430",
@@ -611,10 +777,10 @@
       "url": "https://www.seroundtable.com/google-search-verifying-your-request-continue-41985.html",
       "source": "Search Engine Roundtable",
       "summary": "In early August, Google was testing requiring searchers to sign in to verify they are humans to continue to see search results. Now, Google is testing a similar feature without requiring you to sign in, but instead, Google is asking you to click a \"Continue\" button after a few…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-01T11:21:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "8febf36a1d2c",
@@ -666,10 +832,10 @@
       "url": "https://dejan.ai/blog/1955/",
       "source": "Dan Petrovic (DEJAN)",
       "summary": "This page compares the 1955 Dartmouth artificial intelligence proposal with the public record of AI capabilities and world models as of 2026.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-09-01T08:26:51Z",
       "coverage": 1,
-      "impact": 2.5
+      "impact": 3.0
     },
     {
       "id": "d9e9ce6fe4be",
@@ -721,10 +887,10 @@
       "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
       "source": "Search Engine Journal",
       "summary": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion. The post FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-31T23:49:40Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "50dce853decf",
@@ -732,10 +898,10 @@
       "url": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
       "source": "Search Engine Journal",
       "summary": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back. The post Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-31T21:40:45Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "5861166d626d",
@@ -787,10 +953,10 @@
       "url": "https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html",
       "source": "Search Engine Roundtable",
       "summary": "Google has updated its Google European Search Dataset Licensing Program page with details on the program. Google has been designated as a \"gatekeeper\" under the DMA and is thus legally required to share its search data with competing search engines to foster fair competition.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-31T16:13:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "d8373033ed7e",
@@ -831,10 +997,10 @@
       "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
       "source": "Search Engine Journal",
       "summary": "As Google Ads automates more decisions, advertisers must define success beyond platform metrics, tracking leads and sales through to actual business outcomes. The post Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better appeared first on Search Engine…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-31T12:00:36Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "569535490516",
@@ -842,10 +1008,10 @@
       "url": "https://www.seroundtable.com/microsoft-advertising-updated-design-preview-41978.html",
       "source": "Search Engine Roundtable",
       "summary": "Microsoft Advertising is previewing a new design and usability update for its ad platform. This update has a redesigned navigation and improved tables and layouts. This update should make managing your ad campaigns more efficient and intuitive.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-31T11:51:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "ac4c881f3a6b",
@@ -963,10 +1129,10 @@
       "url": "https://www.semrush.com/blog/enterprise-seo/",
       "source": "Semrush Blog",
       "summary": "Enterprise SEO involves optimizing a website’s visibility at scale, using templated and automated approaches.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-31T09:09:00Z",
       "coverage": 1,
-      "impact": 0.5
+      "impact": 1.0
     },
     {
       "id": "aa6562bd1cad",
@@ -1040,10 +1206,10 @@
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "source": "OpenAI",
       "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-31T07:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "3c578389bfa4",
@@ -1084,10 +1250,10 @@
       "url": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
       "source": "Search Engine Journal",
       "summary": "New allegations surfaced that Rank Math has introduced a functionality that silently gives the company administrator-level permissions over WordPress sites. The access is triggered when a user installs Rank Math and opens the plugin’s Help & Support area. Allegedly There Is Zero…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-30T11:11:17Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "0ec46fec0e73",
@@ -1117,10 +1283,10 @@
       "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
       "source": "Search Engine Journal",
       "summary": "Add Google's Preferred Sources button with the standard embed, a configurable WordPress widget, or a deeplink. The post How To Add Google’s Preferred Sources Button To Your Website appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T19:00:53Z",
       "coverage": 1,
-      "impact": 2.5
+      "impact": 3.0
     },
     {
       "id": "feb78107da4c",
@@ -1139,10 +1305,10 @@
       "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
       "source": "Search Engine Journal",
       "summary": "When Meta's ad AI altered approved creative without warning, it exposed a deeper problem: marketing teams rarely define who owns AI mistakes after sign-off. The post AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It appeared first on Search Engine Journal…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T14:30:07Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "ca5f4fe7637b",
@@ -1183,10 +1349,10 @@
       "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
       "source": "Search Engine Journal",
       "summary": "OpenAI, Shopify, and Cloudflare are putting WebMCP into live products, giving AI agents a structured way to use websites without relying on visual clicks. The post WebMCP Connects AI Agents To Actions Inside Websites appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T12:00:10Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "b8b378b12c09",
@@ -1194,10 +1360,10 @@
       "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
       "source": "Search Engine Journal",
       "summary": "More than 100 organizations, including OpenAI, Google, and Microsoft, urge governments and website owners to prepare now for escalating AI cyberattacks. The post AI Is Changing Website Security. Here’s What SEO Teams Should Know appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T11:56:38Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "f0f3e27af242",
@@ -1205,10 +1371,10 @@
       "url": "https://www.seroundtable.com/google-ads-book-buttons-41964.html",
       "source": "Search Engine Roundtable",
       "summary": "Google is expanding the book button through Reserve with Google partner integration to Google Ads Search and Performance Max campaigns. Previously, I believe, this was only available on Google Local Service Ads and maps ads.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T11:51:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "255478ccd752",
@@ -1216,10 +1382,10 @@
       "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
       "source": "Search Engine Journal",
       "summary": "Google explains why a named update can shake up rankings without giving affected site owners anything specific to act on. The post Google Answers If Updates Come With Actionable SEO Signals appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T11:45:08Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "805251427f2d",
@@ -1227,10 +1393,10 @@
       "url": "https://www.seroundtable.com/google-announces-search-updates-41969.html",
       "source": "Search Engine Roundtable",
       "summary": "Google's John Mueller said Google \"primarily\" announces search updates to provide \"transparency for site owners.\" He added that when Google publishes blog posts, updates policies, and help center documentation, that is an actionable announcement site owners could use.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T11:41:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "84d4cfcec221",
@@ -1293,10 +1459,10 @@
       "url": "https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html",
       "source": "Search Engine Roundtable",
       "summary": "Google has updated the favicon search developer documentation to list out the supported favicon file formats. Google added this line that reads, \"Google Search supports the following favicon file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF.\"",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T11:05:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "092c8de02e8b",
@@ -1326,10 +1492,10 @@
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "source": "OpenAI",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-28T02:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "09f26968a3c4",
@@ -1370,10 +1536,10 @@
       "url": "https://www.seroundtable.com/irs-website-drops-google-search-41967.html",
       "source": "Search Engine Roundtable",
       "summary": "Over the past few days, the IRS website (and other government sites) has tanked within Google's search results. My gut feeling is that the federal government implemented some bot-blocking that was too aggressive and blocked Google, among others, resulting in Google not fully…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-27T18:23:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "6b57e14b2703",
@@ -1436,10 +1602,10 @@
       "url": "https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/",
       "source": "Search Engine Journal",
       "summary": "Client-agency relationships now average seven years, but only when agencies act as strategic partners instead of task-completing vendors clients can replace. The post How To Become A Strategic Partner & Keep Clients Years Longer appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-27T14:30:58Z",
       "coverage": 1,
-      "impact": 2.5
+      "impact": 3.0
     },
     {
       "id": "7c5c86d7dea3",
@@ -1513,10 +1679,10 @@
       "url": "https://www.seroundtable.com/google-ads-swipeable-categories-41959.html",
       "source": "Search Engine Roundtable",
       "summary": "Google is testing once again testing swipeable Google Ads sponsored results, where you can swipe a carousel of categories to potentially change the sponsored results listed below. We saw this for shopping ads in October 2024 and Google has continued to test this since.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-27T11:21:00Z",
       "coverage": 1,
-      "impact": 2.5
+      "impact": 3.0
     },
     {
       "id": "25c67b7595a0",
@@ -1546,10 +1712,10 @@
       "url": "https://dejan.ai/blog/nvidia-buys/",
       "source": "Dan Petrovic (DEJAN)",
       "summary": "Nvidia's $12.9B Hugging Face and $20B Groq acquisitions consolidate control over AI software and low-latency inference hardware amid supply chain constraints.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-27T09:21:25Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "3062d8cdad5f",
@@ -1579,10 +1745,10 @@
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
       "source": "OpenAI",
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-27T03:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "ac1671e7e961",
@@ -1634,10 +1800,10 @@
       "url": "https://www.seroundtable.com/dolly-parton-easter-egg-41955.html",
       "source": "Search Engine Roundtable",
       "summary": "To commemorate the life of Dolly Parton, Google has released a new easter egg in its search results. If you search for [Dolly Parton] within Google Search...",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T18:41:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "9174de66dc80",
@@ -1700,10 +1866,10 @@
       "url": "https://www.seroundtable.com/google-lsa-expands-booking-partners-41945.html",
       "source": "Search Engine Roundtable",
       "summary": "Google has expanded the booking partners for Local Service Ads from about 20 partners to over 500 partners. That is about a 2,400 percent increase. \"We're vastly expanding booking capabilities for Local Services Ads to include more than 500 Reserve with Google booking partners…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T11:51:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "dd09dde1b02e",
@@ -1722,10 +1888,10 @@
       "url": "https://www.seroundtable.com/google-ads-customer-lifecycle-optimization-conversion-goals-41941.html",
       "source": "Search Engine Roundtable",
       "summary": "Google Ads has placed Customer Lifecycle Optimization directly within the conversion goals section of the Google Ads platform.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T11:31:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "00f2eee834e8",
@@ -1733,10 +1899,10 @@
       "url": "https://www.seroundtable.com/bing-shorts-video-tab-41892.html",
       "source": "Search Engine Roundtable",
       "summary": "Microsoft Bing is testing a new \"Shorts\" tab in the search menu on Bing Search. This should filter the results by short videos across YouTube, Instagram, TikTok, Facebook and so on. The tab is called \"Shorts\" and looks like a video play icon in vertical format.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T11:21:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "6246c6a4b9a5",
@@ -1755,10 +1921,10 @@
       "url": "https://www.seroundtable.com/google-ads-channel-settings-prioritization-slider-41949.html",
       "source": "Search Engine Roundtable",
       "summary": "Google is testing a new \"Channels\" slider that lets you adjust how much you prioritize conversions from your Google Ads channels, such as Google Search, Google Partners, Discover, Maps, YouTube, the Display Network and Gmail.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T11:05:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "d6bb1031e66b",
@@ -1788,10 +1954,10 @@
       "url": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/",
       "source": "Search Engine Journal",
       "summary": "Wix introduced Symphony, an easy and safe way for small to medium size local businesses to use AI agents. The post Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T09:17:38Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "1bd602fb4ef8",
@@ -1843,10 +2009,10 @@
       "url": "https://sparktoro.com/blog/how-wed-market-a-400-skincare-device-before-black-friday/",
       "source": "SparkToro",
       "summary": "I’ve been trying to streamline my skincare routine while still getting solid results. The 10-step Korean skincare routine? It’s lovely, but I no longer have the patience to fit that into my schedule… or into my budget. So I started on a tretinoin prescription, Vanicream Daily…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T04:19:38Z",
       "coverage": 1,
-      "impact": 2.5
+      "impact": 3.0
     },
     {
       "id": "d34e82eae2f2",
@@ -1854,10 +2020,10 @@
       "url": "https://openai.com/index/loveholidays",
       "source": "OpenAI",
       "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-26T00:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "504dd1ec9508",
@@ -1876,10 +2042,10 @@
       "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/",
       "source": "Search Engine Journal",
       "summary": "Data shows that alternative domain extensions show stronger performance over traditional .com domains. The post .Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T22:36:35Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "8c2755d0c9c8",
@@ -1887,10 +2053,10 @@
       "url": "https://www.seroundtable.com/google-search-fewer-pdf-files-41946.html",
       "source": "Search Engine Roundtable",
       "summary": "Google seems to be showing fewer and fewer PDF files, and when it does show PDF files, it seems not to show them from some pretty important sites, like IRS.gov, New York State, and some others. But in some cases we are seeing Google show PDF documents, without you having to…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T21:01:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "c25113d25962",
@@ -1920,10 +2086,10 @@
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "source": "Google (Search)",
       "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T16:00:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "dfd6bbdc2312",
@@ -1942,10 +2108,10 @@
       "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
       "source": "Search Engine Journal",
       "summary": "An owned promo code page can keep purchase-ready shoppers away from coupon affiliates and recover revenue leaking from ecommerce checkout flows. The post Your Promo Code Field May Be Sending Revenue To Affiliates appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T12:30:50Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "36eb3e5f3fcb",
@@ -1953,10 +2119,10 @@
       "url": "https://www.seroundtable.com/google-lsa-missed-subsequent-calls-41940.html",
       "source": "Search Engine Roundtable",
       "summary": "Google sent out emails to some advertisers notifying them that starting October 1st, Google Local Service Ads will charge for some missed and subsequent calls over the platform. \"On October 01, 2026, we are updating how and when you are charged for call leads originating from…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T11:57:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "f0ba10298c41",
@@ -1986,10 +2152,10 @@
       "url": "https://www.seroundtable.com/google-generative-ai-search-responses-todo-41916.html",
       "source": "Search Engine Roundtable",
       "summary": "Google's John Mueller said on Bluesky that there is nothing special for one to do for generative AI responses within Google Search. He wrote, \"from our POV there's nothing really special you need to do for generative AI responses in search.\"",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T11:31:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "f55a2ebaad5c",
@@ -2030,10 +2196,10 @@
       "url": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/",
       "source": "Search Engine Journal",
       "summary": "Cloudflare's EmDash CMS, the spiritual successor to WordPress, is set to release version 1.0 soon after proving itself on their high traffic blog. The post Cloudflare Says EmDash Version 1.0 Is Releasing Soon appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T10:14:19Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "63b90718ba18",
@@ -2041,10 +2207,10 @@
       "url": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/",
       "source": "Search Engine Journal",
       "summary": "Webflow adds Codex support with built-in Skills that vastly simplifies automating common website management and development tasks. The post Webflow’s New OpenAI Codex Integration Simplifies Site Management appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T09:17:23Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "970cae91df71",
@@ -2074,10 +2240,10 @@
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "source": "OpenAI",
       "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T07:05:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "9ad99bb5f40a",
@@ -2085,10 +2251,10 @@
       "url": "https://openai.com/index/jalapeno-first-results",
       "source": "OpenAI",
       "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-25T07:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "6af27fc2b05c",
@@ -2184,10 +2350,10 @@
       "url": "https://ahrefs.com/blog/mba-metrics-for-seo/",
       "source": "Ahrefs Blog",
       "summary": "As an SEO professional, metrics like rankings, traffic, and clicks are meaningful to you, but to a leadership team trained on market share and return on investment, they’re noise. That’s not a bias against SEO. It’s just what happens when … Read more ›",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-24T15:52:49Z",
       "coverage": 1,
-      "impact": 1.5
+      "impact": 2.0
     },
     {
       "id": "43e9eb2df913",
@@ -2250,10 +2416,10 @@
       "url": "https://www.seroundtable.com/google-merchant-center-product-images-update-41924.html",
       "source": "Search Engine Roundtable",
       "summary": "Google sent out an email to Google Merchant Center advertisers and users that the minimum size for product images is going up to 500 x 500 pixels starting on January 31, 2027. Google recommends at least 1500x1500 pixels or above, but the minimum size requirement is 500x500…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-24T11:41:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "5d682017124b",
@@ -2283,10 +2449,10 @@
       "url": "https://www.seroundtable.com/google-ads-conversion-cycle-max-conv-41919.html",
       "source": "Search Engine Roundtable",
       "summary": "Google has updated the Google Ads help document for About Maximize conversion value bidding with a number of changes. The change that stood out the most was Google lowering the conversion cycles requirement from three cycles to one or two conversion cycles.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-24T11:11:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "e7ea45fadf67",
@@ -2316,10 +2482,10 @@
       "url": "https://wordlift.io/blog/en/control-groups-and-causal-impact-for-ai-visibility-roi/",
       "source": "Andrea Volpini (WordLift)",
       "summary": "Control groups prove causal impact. Assisted-conversion language is what gets it funded. Here's how to use both. The post Control Groups and Causal Impact for AI-Visibility ROI appeared first on WordLift Blog .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-24T10:10:10Z",
       "coverage": 1,
-      "impact": 1.5
+      "impact": 2.0
     },
     {
       "id": "08bc1dd76c28",
@@ -2360,10 +2526,10 @@
       "url": "https://dejan.ai/blog/introducing-dejan-chat-protocol/",
       "source": "Dan Petrovic (DEJAN)",
       "summary": "The DEJAN Chat Protocol is a response format that puts the answer in the first sentence and defers elaboration to the reader's explicit choice.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-22T04:45:00Z",
       "coverage": 1,
-      "impact": 2.5
+      "impact": 3.0
     },
     {
       "id": "c4eeb01b0523",
@@ -2382,10 +2548,10 @@
       "url": "https://neilpatel.com/blog/paid-media-forecasting/",
       "source": "Neil Patel",
       "summary": "Key Takeaways Your forecast said this campaign would hit a 4x ROAS by month two. Instead, CPCs are up, CTR is sliding, and leadership is asking questions you don’t have good answers to. This isn’t a strategy problem. It’s a forecasting problem. Most paid media forecasts fail not…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-21T16:00:00Z",
       "coverage": 1,
-      "impact": 0.5
+      "impact": 1.0
     },
     {
       "id": "76bde8e6a1cf",
@@ -2437,10 +2603,10 @@
       "url": "https://www.seroundtable.com/google-preferred-source-button-update-41912.html",
       "source": "Search Engine Roundtable",
       "summary": "Google has updated the Preferred Sources button that publishers have on their websites to make it so that the user is taken right back to the page they were originally on. There is new embed code that handles this process to make it easier for users to go back to where they were…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-21T11:51:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "c6497d15689b",
@@ -2448,10 +2614,10 @@
       "url": "https://www.seroundtable.com/microsoft-advertising-max-cpc-sunset-41917.html",
       "source": "Search Engine Roundtable",
       "summary": "Microsoft Advertising sent out emails yesterday announcing changes coming to Max CPC bidding. Microsoft wrote, \"Max CPC will no longer be available when creating new non-portfolio campaigns\" after October 1, 2026.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-21T11:41:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "fea7cc7eba15",
@@ -2459,10 +2625,10 @@
       "url": "https://www.seroundtable.com/google-ads-ai-max-experimentation-planning-41910.html",
       "source": "Search Engine Roundtable",
       "summary": "Google announced it is rolling out new experimentation and planning capabilities in Google Ads and AI Max. There are new A/B test capabilities, brand and location parameters options and new Performance Planner predictions.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-21T11:23:00Z",
       "coverage": 1,
-      "impact": 5.5
+      "impact": 6.0
     },
     {
       "id": "aa1bae5b1586",
@@ -2470,10 +2636,10 @@
       "url": "https://www.seroundtable.com/google-lsa-prebadge-new-verticals-41920.html",
       "source": "Search Engine Roundtable",
       "summary": "Google has made some big updates to Local Service Ads. Even though LSAs are transitioning to Google Ads, Google is clearly still investing in the LSA product. Google added something called pre-badge ads, massively expanded the verticals and the verified ads badge updated its…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-21T11:21:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "fe8a19e32c62",
@@ -2525,10 +2691,10 @@
       "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
       "source": "Search Engine Journal",
       "summary": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets. The post Microsoft Ads Is Removing Max CPC From New Campaigns appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-20T18:13:03Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "894db3c5b701",
@@ -2547,10 +2713,10 @@
       "url": "https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/",
       "source": "Search Engine Journal",
       "summary": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app. The post Google Expands Personalization Across Search, Discover & News appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-20T16:02:52Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "3ff942dbfffa",
@@ -2580,10 +2746,10 @@
       "url": "https://www.growth-memo.com/p/growth-intelligence-brief-23",
       "source": "Growth Memo",
       "summary": "ZipRecruiter gives back July spike, YouTube slides 6th straight week, dictionaries surge, NYC.gov and StreetEasy crash, TheKitchn hits all-time high, Amazon climbs, Reddit stands still",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-20T15:21:29Z",
       "coverage": 1,
-      "impact": 2.5
+      "impact": 3.0
     },
     {
       "id": "ee1505317cf0",
@@ -2591,10 +2757,10 @@
       "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
       "source": "Search Engine Journal",
       "summary": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns. The post The Conversion Setup Errors That Break Smart Bidding appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-20T14:30:03Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "878a41db5fbe",
@@ -2635,10 +2801,10 @@
       "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-20T07:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "f4ba3203e372",
@@ -2668,10 +2834,10 @@
       "url": "https://backlinko.com/website-marketing",
       "source": "Backlinko",
       "summary": "Website marketing in 2026 no longer works the way it used to. Traditionally, it meant promoting your site to attract visitors and turn them into customers. Your website is still central. But much of the customer journey now happens beyond it. Before someone visits your site…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-19T23:53:56Z",
       "coverage": 1,
-      "impact": 1.5
+      "impact": 2.0
     },
     {
       "id": "7067ffb16ebc",
@@ -2690,10 +2856,10 @@
       "url": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/",
       "source": "Search Engine Journal",
       "summary": "Microsoft Advertising is rolling out AI Max globally, bringing expanded Search matching, text customization, URL expansion and new advertiser controls to Search campaigns. The post Microsoft Advertising Rolls Out AI Max Globally appeared first on Search Engine Journal .",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-19T19:41:53Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "edf677406932",
@@ -2723,10 +2889,10 @@
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "source": "Google (Search)",
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-19T19:00:00Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "ef913e9fdabc",
@@ -2734,10 +2900,10 @@
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-19T19:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "d1db7b31a52f",
@@ -2745,10 +2911,10 @@
       "url": "https://neilpatel.com/blog/seo-forecasting/",
       "source": "Neil Patel",
       "summary": "Key Takeaways When it comes to SEO, forecasting can be a tricky concept. You’re trying to predict the future of your website’s traffic and it can be difficult to know which metrics to focus on. It can also be difficult to know if the metrics you selected are giving you and your…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-19T16:00:00Z",
       "coverage": 1,
-      "impact": 0.5
+      "impact": 1.0
     },
     {
       "id": "5d2153633e39",
@@ -2756,10 +2922,10 @@
       "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
       "source": "Search Engine Journal",
       "summary": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix. The post Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show appeared first on Search Engine…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-19T14:30:55Z",
       "coverage": 1,
-      "impact": 3.5
+      "impact": 4.0
     },
     {
       "id": "f238d8498245",
@@ -2844,10 +3010,10 @@
       "url": "https://openai.com/index/partnering-with-codeai",
       "source": "OpenAI",
       "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-18T11:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "68c52c81310f",
@@ -2877,10 +3043,10 @@
       "url": "https://openai.com/index/asana",
       "source": "OpenAI",
       "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-18T07:00:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "074f04873926",
@@ -2910,10 +3076,10 @@
       "url": "https://foundationinc.co/lab/vol-305",
       "source": "Ross Simmonds (Foundation)",
       "summary": "In 2006, Google paid $1.65 billion for YouTube. Sixteen very smart people sat in a room, argued about numbers, and wrote the check. Twenty years later, YouTube does north of $30 billion a year in ad revenue and sits at number two on the list of most-visited sites on earth…",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-18T05:45:09Z",
       "coverage": 1,
-      "impact": 1.5
+      "impact": 2.0
     },
     {
       "id": "dfcf73efa3a6",
@@ -3020,10 +3186,10 @@
       "url": "https://openai.com/index/the-defenders-window",
       "source": "OpenAI",
       "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-17T05:30:00Z",
       "coverage": 1,
-      "impact": 4.5
+      "impact": 5.0
     },
     {
       "id": "ad5623d5cc70",
@@ -3031,120 +3197,10 @@
       "url": "https://openai.com/index/openai-joins-ports-pike-project",
       "source": "OpenAI",
       "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "category": "Industry",
+      "category": "SEO",
       "published": "2026-08-17T05:00:00Z",
       "coverage": 1,
-      "impact": 4.5
-    },
-    {
-      "id": "96670aeff66e",
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "category": "Industry",
-      "published": "2026-08-17T03:15:00Z",
-      "coverage": 1,
-      "impact": 5.5
-    },
-    {
-      "id": "e0a3b19e6c2c",
-      "title": "Google, Anthropic and OpenAI crawlers fetched dejan.ai's robots.txt 1,150 times and its llms.txt 4 times in 30 days",
-      "url": "https://dejan.ai/blog/crawler-census-robots-llms-okf/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "In a 30-day server-log census of dejan.ai's three machine files, the big-three AI crawlers fetched robots.txt 1,150 times combined, llms.txt 4 times, and the OKF content bundle 23 times.",
-      "category": "SEO",
-      "published": "2026-08-15T05:02:15Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "1e77d9f3b8ec",
-      "title": "Google Search Is Becoming AI Search: What This Means for Your Brand",
-      "url": "https://neilpatel.com/blog/google-search-becoming-ai-search/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Is Google Search still “search” at all? At Google I/O 2026, Search VP Liz Reid said it plainly: “Google search is AI search.” That’s not a product update. That’s a declaration that the platform has fundamentally changed what it is and what it does. For marketers…",
-      "category": "GEO",
-      "published": "2026-08-14T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "f59d94baf526",
-      "title": "A free 300M model predicts Gemini's embeddings at 0.83 cosine",
-      "url": "https://dejan.ai/blog/gemma-gemini-embeddings/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Mapping Gemma embeddings to Gemini embeddings via a linear transform recovers entity vector structures with high fidelity without calling the paid API.",
-      "category": "GEO",
-      "published": "2026-08-14T14:38:01Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "379f8bcd693f",
-      "title": "Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers",
-      "url": "https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/",
-      "source": "Ahrefs Blog",
-      "summary": "For most marketers, I don’t think so. Google has said for years that it doesn’t care how content is produced, only whether it exists to manipulate rankings. And our own research shows that AI-generated content already performs in search: 5.3% … Read more ›",
-      "category": "GEO",
-      "published": "2026-08-14T13:39:21Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8cc5a2e0071f",
-      "title": "Multiply your brand authority",
-      "url": "https://www.growth-memo.com/p/multiply-your-brand-authority",
-      "source": "Growth Memo",
-      "summary": "4 tools that work together for brand authority multiplication",
-      "category": "SEO",
-      "published": "2026-08-14T09:23:19Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "1e9223134bef",
-      "title": "Does Your Website Still Matter in the Zero-Click Era?",
-      "url": "https://sparktoro.com/blog/does-your-website-still-matter-in-the-zero-click-era/",
-      "source": "SparkToro",
-      "summary": "Scholars are divided, but we’re still believers. The website may be visited less, by fewer people, but it’s the only place to give your content efforts a permanent home, to own and control the brand experience, and to thoroughly and correctly inform search, AI tools, and yes…",
-      "category": "SEO",
-      "published": "2026-08-14T08:16:06Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "32fa61bd3b1b",
-      "title": "In and Out of Model Responses Explained — Whiteboard Friday",
-      "url": "https://moz.com/blog/in-and-out-of-model-responses-whiteboard-friday",
-      "source": "Moz Blog",
-      "summary": "Is your SEO strategy ready for LLM grounding? Explore the distinction between training data and live web retrieval, and discover how to optimize your brand's visibility in AI search results.",
-      "category": "GEO",
-      "published": "2026-08-14T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "870093af6ce2",
-      "title": "Prompt Tracking: How to Find (and Fix) Your AI Visibility Gaps",
-      "url": "https://backlinko.com/llm-prompt-tracking",
-      "source": "Backlinko",
-      "summary": "Your brand could be ranking #1 on Google, but still be invisible to AI. Absent from conversations your customers are having with large language models (LLMs) about your category. Or worse, showing up inaccurately, with outdated or incorrect information that’ll hurt your sales…",
-      "category": "GEO",
-      "published": "2026-08-13T21:23:04Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "1b747c1327eb",
-      "title": "Recommended, Not Just Mentioned: What We Learned Running One Buying Prompt 11 Times",
-      "url": "https://foundationinc.co/lab/150-query-fanout",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "There’s a number missing from every AI-visibility report your team has ever reviewed. The headline metric in most AI-visibility reports, share of voice, only measures presence: how often your brand gets mentioned. It doesn’t capture whether the answer recommended you or pointed…",
-      "category": "GEO",
-      "published": "2026-08-13T20:43:10Z",
-      "coverage": 1,
-      "impact": 3.0
+      "impact": 5.0
     }
   ]
 }
