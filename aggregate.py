@@ -81,6 +81,15 @@ FEEDS = [
     #   Cleanest path later: Kill-the-Newsletter turns their emails into a feed.
 ]
 
+# Company-news feeds for the COMPETITOR board ONLY. Their items never enter the
+# SEO/GEO/Algorithms feed — an item surfaces only if it names a tracked
+# competitor (see COMPETITORS) and reads like a real move.
+INTEL_FEEDS = [
+    {"name": "TechCrunch",  "url": "https://techcrunch.com/feed/"},
+    {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
+    {"name": "The Verge",   "url": "https://www.theverge.com/rss/index.xml"},
+]
+
 # ─────────────────────────────────────────────────────────────────────────────
 #  CATEGORIES  —  four buckets: GEO, Algorithms, SEO, Industry
 #  Each story is scored against every bucket (count of keyword hits in the
@@ -112,14 +121,9 @@ CATEGORY_RULES = {
         "semrush", "ahrefs", "moz", "screaming frog", "search console", " gsc",
         "study", "research", "report", "benchmark", "tool", "tutorial", "guide", "tips",
     ],
-    "Industry": [
-        "acquisition", "acquire", "acquired", "merger", "funding", "raised",
-        "valuation", "ipo", "layoff", "lawsuit", "antitrust", "regulation",
-        "policy", "shutdown", "outage", "partnership", "earnings", "conference",
-    ],
 }
-CATEGORY_ORDER = ["GEO", "Algorithms", "SEO", "Industry"]
-DEFAULT_CATEGORY = "Industry"
+CATEGORY_ORDER = ["GEO", "Algorithms", "SEO"]
+DEFAULT_CATEGORY = "SEO"
 
 # ─── Tunables ────────────────────────────────────────────────────────────────
 MAX_AGE_DAYS = 45      # drop anything older than this
@@ -392,6 +396,168 @@ def merge_milestones(existing_ms: list, curated: list, detected: list) -> list:
     return kept[:MILESTONE_MAX]
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+#  COMPETITOR INTEL  —  the Industry tab
+#
+#  A move enters the board only when all three hold:
+#    1. it names a company on the COMPETITORS watchlist,
+#    2. it reads like a real move (raise / M&A / launch / campaign), and
+#    3. it clears a significance bar (funding needs a $ size, or 2+ outlets, or
+#       high impact).
+#  Same curated-plus-auto model as the timeline: pin the big ones in
+#  CURATED_COMPETITOR_MOVES, and intel feeds auto-append the rest.
+# ─────────────────────────────────────────────────────────────────────────────
+COMPETITOR_MAX_AGE_DAYS = 200
+COMPETITOR_MAX = 60
+
+# name -> match keywords (lowercased). Edit freely; grouped by Adobe front.
+COMPETITORS = {
+    # Generative AI media (Firefly)
+    "Midjourney": ["midjourney"], "Runway": ["runwayml", "runway ml", "runway"],
+    "Stability AI": ["stability ai", "stable diffusion"], "Leonardo AI": ["leonardo.ai", "leonardo ai"],
+    "Ideogram": ["ideogram"], "Recraft": ["recraft"], "Freepik": ["freepik"],
+    "Higgsfield": ["higgsfield"], "Pika": ["pika labs", "pika "], "Luma AI": ["luma ai", "luma labs"],
+    "Krea": ["krea ai", "krea "], "ElevenLabs": ["elevenlabs", "eleven labs"],
+    # Creative & design
+    "Canva": ["canva"], "Figma": ["figma"], "Affinity": ["affinity"], "Framer": ["framer"],
+    "CorelDRAW": ["coreldraw", "corel"],
+    # Video
+    "CapCut": ["capcut"], "Descript": ["descript"], "HeyGen": ["heygen"], "Synthesia": ["synthesia"],
+    # Documents & e-sign (Acrobat)
+    "DocuSign": ["docusign"], "Dropbox Sign": ["dropbox sign", "hellosign"], "PandaDoc": ["pandadoc"],
+    "Foxit": ["foxit"], "Nitro": ["nitro pdf", "nitro software"], "Smallpdf": ["smallpdf"],
+    # Marketing & experience
+    "Salesforce": ["salesforce"], "HubSpot": ["hubspot"], "Braze": ["braze"],
+    "Optimizely": ["optimizely"], "Contentful": ["contentful"],
+    # Stock / answer
+    "Shutterstock": ["shutterstock"], "Getty Images": ["getty images"], "Perplexity": ["perplexity"],
+}
+
+# move classification, checked in order (M&A and funding before launches)
+MOVE_RULES = [
+    ("M&A",      ["acquires", "acquired", "acquisition", "to acquire", "merger", "buys "]),
+    ("Funding",  ["raises", "raised", "series a", "series b", "series c", "series d",
+                  "series e", "funding round", "seed round", "valuation", "secures $",
+                  "closes $", "investment round", "raise "]),
+    ("Campaign", ["ad campaign", "goes viral", "viral campaign", "super bowl ad",
+                  "rebrand", "brand refresh", "marketing campaign"]),
+    ("Launch",   ["launches", "launched", "unveils", "unveiled", "introduces", "introducing",
+                  "releases", "released", "rolls out", "new model", "now available", "debuts"]),
+]
+
+_AMT_RE = re.compile(r"\$\s?\d[\d.,]*\s?(?:billion|million|bn|b|m)\b", re.I)
+
+# Pinned competitor moves (edit freely).
+CURATED_COMPETITOR_MOVES = [
+    {"date": "2026-08-17", "company": "Higgsfield", "move": "Funding",
+     "detail": "$400M Series B · $5.4B valuation",
+     "title": "Higgsfield raises $400M Series B at a $5.4B valuation",
+     "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
+     "source": "PR Newswire", "curated": True},
+    {"date": "2026-02-04", "company": "ElevenLabs", "move": "Funding",
+     "detail": "$500M Series D",
+     "title": "ElevenLabs raises $500M Series D",
+     "url": "https://tracxn.com/d/companies/elevenlabs", "source": "Tracxn", "curated": True},
+]
+
+
+def match_competitor(text: str):
+    t = f" {text.lower()} "
+    for name, kws in COMPETITORS.items():
+        if any(k in t for k in kws):
+            return name
+    return None
+
+
+def classify_move(text: str) -> str:
+    t = f" {text.lower()} "
+    for label, kws in MOVE_RULES:
+        if any(k in t for k in kws):
+            return label
+    return "News"
+
+
+def extract_detail(text: str) -> str:
+    seen = []
+    for m in _AMT_RE.finditer(text):
+        a = re.sub(r"\s+", " ", m.group(0)).strip()
+        if a.lower() not in [s.lower() for s in seen]:
+            seen.append(a)
+    return " · ".join(seen[:2])
+
+
+def detect_competitor_move(item: dict, from_intel: bool, impact: float = 0, coverage: int = 1):
+    text = f"{item.get('title','')} {item.get('summary','')}"
+    company = match_competitor(text)
+    if not company:
+        return None
+    move = classify_move(text)
+    detail = extract_detail(text)
+    has_amount = bool(detail)
+    # significance gate
+    if from_intel:
+        # intel feeds are already niche; a funding claim still wants a size or corroboration
+        if move in ("Funding", "M&A") and not has_amount and coverage < 2:
+            return None
+    else:
+        # general SEO/GEO feeds: only concrete moves with real weight, never generic mentions
+        if move == "News":
+            return None
+        if not has_amount and coverage < 2 and impact < 6:
+            return None
+    return {
+        "date": (item.get("published") or now_iso())[:10],
+        "company": company, "move": move, "detail": detail,
+        "title": item.get("title", ""), "url": item.get("url", ""),
+        "source": item.get("source", ""), "curated": False,
+    }
+
+
+def merge_competitor_moves(existing: list, curated: list, detected: list) -> list:
+    from datetime import date as _date
+    cutoff = (_now() - timedelta(days=COMPETITOR_MAX_AGE_DAYS)).strftime("%Y-%m-%d")
+
+    def pd(s):
+        try:
+            return _date.fromisoformat((s or "")[:10])
+        except Exception:
+            return None
+
+    by_id = {}
+    for m in list(existing) + list(detected) + list(curated):
+        m = dict(m)
+        m["id"] = _ms_id(m)
+        prev = by_id.get(m["id"])
+        if prev is None or (m.get("curated") and not prev.get("curated")):
+            by_id[m["id"]] = m
+
+    items = [m for m in by_id.values() if m.get("curated") or m.get("date", "") >= cutoff]
+
+    def same_event(a, b):
+        if a.get("company") and b.get("company") and a["company"] != b["company"]:
+            return False
+        da, db = pd(a.get("date")), pd(b.get("date"))
+        if da and db and abs((da - db).days) > 14:
+            return False
+        ta, tb = norm_title(a["title"]), norm_title(b["title"])
+        if not ta or not tb:
+            return False
+        if similar(ta, tb) >= 0.82:
+            return True
+        short, lng = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
+        return short in lng
+
+    ranked = sorted(items, key=lambda m: (bool(m.get("curated")), m.get("date", "")), reverse=True)
+    kept = []
+    for m in ranked:
+        if any(same_event(m, k) for k in kept):
+            continue
+        kept.append(m)
+
+    kept.sort(key=lambda m: m.get("date", ""), reverse=True)
+    return kept[:COMPETITOR_MAX]
+
+
 # ─── Date helpers ────────────────────────────────────────────────────────────
 def _now() -> datetime:
     return datetime.now(timezone.utc)
@@ -475,8 +641,9 @@ def fetch_feed(feed: dict) -> list:
 
 
 # ─── Build ───────────────────────────────────────────────────────────────────
-def build_dataset(new_items: list, existing: dict) -> dict:
-    """Merge new + existing items, dedupe, age-filter, sort, cap."""
+def build_dataset(new_items: list, existing: dict, intel_items: list = None) -> dict:
+    """Merge new + existing items, dedupe, age-filter, sort, cap. Also builds the
+    platform timeline and the competitor board."""
     cutoff = _now() - timedelta(days=MAX_AGE_DAYS)
     merged: dict = {}
 
@@ -552,11 +719,32 @@ def build_dataset(new_items: list, existing: dict) -> dict:
     detected = [m for m in (detect_milestone(i) for i in scored) if m]
     milestones = merge_milestones(existing.get("milestones", []), CURATED_MILESTONES, detected)
 
+    # competitor board: scan scored news items + the intel feeds for real moves
+    intel_items = intel_items or []
+    moves = []
+    for i in scored:
+        m = detect_competitor_move(i, from_intel=False, impact=i.get("impact", 0),
+                                   coverage=i.get("coverage", 1))
+        if m:
+            moves.append(m)
+    for it in intel_items:
+        cat = categorize(it.get("title", ""), it.get("summary", ""))
+        imp = impact_score(it.get("title", ""), it.get("summary", ""), it.get("source", ""), cat, 1)
+        row = {"title": it.get("title", ""), "summary": it.get("summary", ""),
+               "source": it.get("source", ""), "url": it.get("url", ""),
+               "published": to_iso(it["published_dt"]) if it.get("published_dt") else now_iso()}
+        m = detect_competitor_move(row, from_intel=True, impact=imp, coverage=1)
+        if m:
+            moves.append(m)
+    competitors = merge_competitor_moves(existing.get("competitors", []),
+                                         CURATED_COMPETITOR_MOVES, moves)
+
     return {
         "updated": now_iso(),
         "count": len(scored),
         "sources": sources,
         "milestones": milestones,
+        "competitors": competitors,
         "items": scored,
     }
 
@@ -583,7 +771,11 @@ def main() -> None:
     new_items = []
     for feed in FEEDS:
         new_items.extend(fetch_feed(feed))
-    ds = build_dataset(new_items, existing)
+    print("  fetching competitor-intel feeds…")
+    intel_items = []
+    for feed in INTEL_FEEDS:
+        intel_items.extend(fetch_feed(feed))
+    ds = build_dataset(new_items, existing, intel_items)
     write_dataset(ds)
     by_cat = {}
     for i in ds["items"]:
@@ -593,6 +785,8 @@ def main() -> None:
     for cat in CATEGORY_ORDER:
         if by_cat.get(cat):
             print(f"    {cat}: {by_cat[cat]}")
+    print(f"  timeline: {len(ds['milestones'])} milestones")
+    print(f"  competitors: {len(ds['competitors'])} moves")
 
 
 if __name__ == "__main__":
