@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T04:13:34Z",
+  "updated": "2026-09-02T08:13:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -397,6 +397,17 @@
     }
   ],
   "items": [
+    {
+      "id": "9bce1d03aa35",
+      "title": "3 Steps That Turn AI Into Leverage, Not Extra Labour",
+      "url": "https://foundationinc.co/lab/ai-leverage-three-steps",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Hey folks, Enzo here. I’m the AI Service Delivery Lead at Foundation. It’s a long title that boils down to my unofficial titles of “robot guy” or “Claude whisperer”. I speak with you today because Ross asked me to “write a piece about AI and how you’re seeing it impact the…",
+      "category": "GEO",
+      "published": "2026-09-02T07:03:41Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "185fafb3a964",
       "title": "Google Working On Fixing Local Service Ads Bug",
@@ -3135,17 +3146,6 @@
       "published": "2026-08-13T10:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "9e022b7caa78",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "category": "Industry",
-      "published": "2026-08-13T09:00:00Z",
-      "coverage": 1,
-      "impact": 4.5
     }
   ]
 }
