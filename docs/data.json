@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T05:34:16Z",
+  "updated": "2026-09-03T08:13:15Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -473,6 +473,17 @@
     }
   ],
   "items": [
+    {
+      "id": "4d442d99efdc",
+      "title": "Google AI Mode Prices Differ From Product Carousel For Same Items via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-mode-prices-differ-from-product-carousel-for-same-items/588227/",
+      "source": "Search Engine Journal",
+      "summary": "Data finds Google AI Mode rarely shows the same products as the regular results carousel, and often lists a different seller when it does. The post Google AI Mode Prices Differ From Product Carousel For Same Items appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-03T08:00:14Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "47658d33007e",
       "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster",
@@ -3211,17 +3222,6 @@
       "published": "2026-08-17T10:53:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "f30130f59aa8",
-      "title": "SEO strategy in 2026: how to build one (+ free workbook)",
-      "url": "https://www.semrush.com/blog/seo-strategy/",
-      "source": "Semrush Blog",
-      "summary": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter.",
-      "category": "GEO",
-      "published": "2026-08-17T10:08:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
