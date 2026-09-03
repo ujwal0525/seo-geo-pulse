@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T16:13:01Z",
+  "updated": "2026-09-03T20:11:12Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -495,6 +495,17 @@
     }
   ],
   "items": [
+    {
+      "id": "efd7bbe57f88",
+      "title": "Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
+      "source": "Search Engine Journal",
+      "summary": "Ten Speed's citation study shows product pages beating Reddit nearly six to one for B2B buyers, verified only after six pointed fact-check questions. The post Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-03T19:00:45Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "226dc3816771",
       "title": "When AI Has Nothing On Your Company, It Describes Someone Else via @sejournal, @DuaneForrester",
@@ -3231,17 +3242,6 @@
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
       "category": "GEO",
       "published": "2026-08-18T22:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "67f37d861d34",
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "category": "SEO",
-      "published": "2026-08-18T19:00:00Z",
       "coverage": 1,
       "impact": 6.0
     }
