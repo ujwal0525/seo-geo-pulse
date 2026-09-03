@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T12:16:13Z",
+  "updated": "2026-09-03T16:13:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -417,6 +417,28 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-03",
+      "company": "Contentful",
+      "move": "News",
+      "detail": "",
+      "title": "The AI visibility gap: Why great brands disappear from AI answers",
+      "url": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
+      "source": "VentureBeat",
+      "curated": false,
+      "id": "7374383277de"
+    },
+    {
+      "date": "2026-09-03",
+      "company": "ElevenLabs",
+      "move": "Launch",
+      "detail": "",
+      "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+      "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
+      "source": "VentureBeat",
+      "curated": false,
+      "id": "8403fc605521"
+    },
+    {
       "date": "2026-09-02",
       "company": "Salesforce",
       "move": "Funding",
@@ -474,6 +496,28 @@
   ],
   "items": [
     {
+      "id": "226dc3816771",
+      "title": "When AI Has Nothing On Your Company, It Describes Someone Else via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/when-ai-has-nothing-on-your-company-it-describes-someone-else/587876/",
+      "source": "Search Engine Journal",
+      "summary": "Publishing more content won't fix AI substitution. Retrieval repeats the same popularity bias that thinned your presence in the weights. The post When AI Has Nothing On Your Company, It Describes Someone Else appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-03T14:30:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "e9355b833dc1",
+      "title": "Daily Search Forum Recap: September 3, 2026",
+      "url": "https://www.seroundtable.com/recap-09-03-2026-42013.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has dodged being broken up for a second time on its monopoly ruling...",
+      "category": "SEO",
+      "published": "2026-09-03T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "e67e1971131b",
       "title": "Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO via @sejournal, @HelenPollitt1",
       "url": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/",
@@ -481,6 +525,61 @@
       "summary": "Robots.txt relies on bot compliance, while WAF, CDN, and server-level blocks enforce it. A breakdown of which layer stops AI crawlers for good. The post Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-03T12:00:18Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "19fe28e6504a",
+      "title": "Publishers Noticing Google News Tab Content Disappearing",
+      "url": "https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Over the past several days, I have been hearing from some publishers that while their content is being crawled, indexed, and served in Google Search results, some of it is missing from the news tab. It may then later show up in the news tab, much later. I was able to replicate…",
+      "category": "SEO",
+      "published": "2026-09-03T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ba3a166b8287",
+      "title": "Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?",
+      "url": "https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html",
+      "source": "Search Engine Roundtable",
+      "summary": "As you know, Google rolled out Gemini 3.8 Flash for subscribers to AI Mode and some have started to play with it. And the early feedback is that AI Mode running Gemini 3.8 Flash is not link or citation friendly. Meaning, AI Mode with Google's latest AI model is less likely to…",
+      "category": "GEO",
+      "published": "2026-09-03T11:41:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "7ac0efaaad61",
+      "title": "Google Expands Merchant Center AI Performance Insights",
+      "url": "https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html",
+      "source": "Search Engine Roundtable",
+      "summary": "In July, Google began to roll out AI performance reports within Google Merchant Center to United States based merchants. Google said the AI reports are now available to merchants within Australia, Canada, India & New Zealand as well.",
+      "category": "SEO",
+      "published": "2026-09-03T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "cdde8903dc50",
+      "title": "Google Ads Under Re-Review Label Status",
+      "url": "https://www.seroundtable.com/google-ads-under-re-review-status-41976.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is showing under the status of your ads a label that says \"Under Re-Review.\" It says the ad is eligible but limited and \"this ad is serving to a limited audience.\" It then breaks down where the ad may not be serving.",
+      "category": "SEO",
+      "published": "2026-09-03T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "dbb53162d765",
+      "title": "Google Ads New Phone Call & Offline Conversions Details",
+      "url": "https://www.seroundtable.com/google-ads-phone-call-offline-conversions-42000.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google added some new nuggets to its Google Ads help documentation on about conversion measurement, specifically on phone call conversions and offline conversions.",
+      "category": "SEO",
+      "published": "2026-09-03T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -615,17 +714,6 @@
       "published": "2026-09-02T14:08:29Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "6b7b4083f791",
-      "title": "Daily Search Forum Recap: September 2, 2026",
-      "url": "https://www.seroundtable.com/recap-09-02-2026-42003.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-09-02T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "8821dd3af52a",
@@ -3156,72 +3244,6 @@
       "published": "2026-08-18T19:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "9765648ad527",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "category": "SEO",
-      "published": "2026-08-18T11:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "68c52c81310f",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "category": "GEO",
-      "published": "2026-08-18T11:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "01003c6680bc",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "source": "OpenAI",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "category": "GEO",
-      "published": "2026-08-18T11:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "7d7eacff40aa",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "source": "OpenAI",
-      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "category": "SEO",
-      "published": "2026-08-18T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "074f04873926",
-      "title": "Announcing the Final Batch of Speakers for MozCon London",
-      "url": "https://moz.com/blog/announcing-the-final-batch-of-speakers-for-mozcon-london",
-      "source": "Moz Blog",
-      "summary": "We’ve dropped the final speaker lineup for MozCon London on November 13th, 2026! If you’re looking to future-proof your search strategy, this speaker drop gives you a preview of the high-signal, tactical sessions coming your way.",
-      "category": "SEO",
-      "published": "2026-08-18T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "3fbfea952088",
-      "title": "The Best Persona Tool On the Web Is Now Live",
-      "url": "https://sparktoro.com/blog/the-best-persona-tool-on-the-web-is-now-live/",
-      "source": "SparkToro",
-      "summary": "Starting today, SparkToro’s persona-generation tool is now live and available to all our business and agency-tier subscribers, and it really is the best product in the space for solving this problem. I’m not prone to hyperbole, and I take seriously my responsibility to defend…",
-      "category": "SEO",
-      "published": "2026-08-18T06:36:18Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
