@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T08:13:15Z",
+  "updated": "2026-09-03T12:16:13Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -473,6 +473,50 @@
     }
   ],
   "items": [
+    {
+      "id": "e67e1971131b",
+      "title": "Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO via @sejournal, @HelenPollitt1",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/",
+      "source": "Search Engine Journal",
+      "summary": "Robots.txt relies on bot compliance, while WAF, CDN, and server-level blocks enforce it. A breakdown of which layer stops AI crawlers for good. The post Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-03T12:00:18Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "572c5940946a",
+      "title": "Long-tail keywords: the ultimate guide",
+      "url": "https://www.semrush.com/blog/how-to-choose-long-tail-keywords/",
+      "source": "Semrush Blog",
+      "summary": "Use long-tail keywords to drive quality traffic to your site from search and AI. Here’s how.",
+      "category": "SEO",
+      "published": "2026-09-03T10:48:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "87cbcdb5499d",
+      "title": "Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-says-ranking-recovery-takes-months-after-seo-issues-are-fixed/588268/",
+      "source": "Search Engine Journal",
+      "summary": "Google explains why fixing what caused a ranking drop doesn’t necessarily mean rankings will come back anytime soon. The post Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-09-03T10:37:14Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "c2dba9931259",
+      "title": "AI Slop Cleanup Job Listings Up 87%, Report Says via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-slop-cleanup-job-listings-report/588235/",
+      "source": "Search Engine Journal",
+      "summary": "The Guardian reports AI cleanup listings are up 87%, while freelancers say clients lowball the work. The post AI Slop Cleanup Job Listings Up 87%, Report Says appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-03T09:30:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "4d442d99efdc",
       "title": "Google AI Mode Prices Differ From Product Carousel For Same Items via @sejournal, @MattGSouthern",
@@ -3178,50 +3222,6 @@
       "published": "2026-08-18T06:36:18Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "7e0d50421bde",
-      "title": "YouTube shows up on 80.2% of demo searches. Your demo video is on Wistia.",
-      "url": "https://foundationinc.co/lab/vol-305",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "In 2006, Google paid $1.65 billion for YouTube. Sixteen very smart people sat in a room, argued about numbers, and wrote the check. Twenty years later, YouTube does north of $30 billion a year in ad revenue and sits at number two on the list of most-visited sites on earth…",
-      "category": "SEO",
-      "published": "2026-08-18T05:45:09Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "dfcf73efa3a6",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "source": "OpenAI",
-      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "category": "GEO",
-      "published": "2026-08-18T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "8ea3698800fe",
-      "title": "Inside ChatGPT’s Source Preferences: What Query Fanouts Reveal About AI Discoverability",
-      "url": "https://neilpatel.com/blog/chatgpt-query-source-preferences/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Most marketers optimizing for AI search visibility are focused on the wrong layer. They are tracking citations, which is the output. What they should be studying is fanouts, which is the input that determines whether a citation is even possible. A new analysis of…",
-      "category": "GEO",
-      "published": "2026-08-17T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "09c80cd18031",
-      "title": "SEO content: A complete guide for search and AI",
-      "url": "https://www.semrush.com/blog/seo-content/",
-      "source": "Semrush Blog",
-      "summary": "SEO content now has three audiences: users, search engines, and AI. Follow this five-step workflow to create pages that rank and get cited.",
-      "category": "SEO",
-      "published": "2026-08-17T10:53:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
