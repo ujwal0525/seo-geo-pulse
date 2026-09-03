@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:12:07Z",
+  "updated": "2026-09-03T00:19:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -474,6 +474,17 @@
   ],
   "items": [
     {
+      "id": "47658d33007e",
+      "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/",
+      "source": "Search Engine Journal",
+      "summary": "Google's Mueller comments on a sitemap SEO method that forces search engines to crawl and index web pages every day. The post Google Responds To Sitemap SEO Technique That Forces Daily Crawling appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-02T22:09:39Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "56d1329162e0",
       "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
@@ -604,6 +615,17 @@
       "published": "2026-09-02T12:00:10Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "b07b0b2b4d66",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "category": "GEO",
+      "published": "2026-09-02T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "b083de6de7d3",
@@ -3198,28 +3220,6 @@
       "summary": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter.",
       "category": "GEO",
       "published": "2026-08-17T10:08:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "efe68b71e697",
-      "title": "SEO for a new website: A sequencing guide for your first 90 days",
-      "url": "https://www.semrush.com/blog/seo-for-new-website/",
-      "source": "Semrush Blog",
-      "summary": "SEO for a new website is all about sequencing. This guide covers what to do before and after launch, plus how to show up in AI answers like ChatGPT.",
-      "category": "GEO",
-      "published": "2026-08-17T09:29:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "9c86ee728b78",
-      "title": "What is query fan-out? How to find & optimize for subqueries",
-      "url": "https://www.semrush.com/blog/query-fan-out/",
-      "source": "Semrush Blog",
-      "summary": "Query fan-out splits one AI prompt into a dozen or more subqueries. Learn how to find the ones that matter for your brand, and how to cover them.",
-      "category": "GEO",
-      "published": "2026-08-17T09:16:00Z",
       "coverage": 1,
       "impact": 3.0
     }
