@@ -1,11 +1,10 @@
 {
-  "updated": "2026-09-04T12:15:39Z",
+  "updated": "2026-09-04T16:12:31Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Aleyda Solis",
     "Andrea Volpini (WordLift)",
-    "Backlinko",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
@@ -496,6 +495,72 @@
   ],
   "items": [
     {
+      "id": "00a165e18720",
+      "title": "Meta Tags for SEO: What They Are, Why They Matter, and How to Use Them",
+      "url": "https://neilpatel.com/blog/why-meta-tags-are-so-important/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways What does the term “meta tags” cover, and which ones matter for SEO? Some of the advice out there is outdated, and plenty of tags that sound important don’t really affect your rankings. This guide covers the meta tags for SEO that influence how search engines and…",
+      "category": "SEO",
+      "published": "2026-09-04T16:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "aeb279e2a8f1",
+      "title": "Google Job Search Not Showing New Jobs?",
+      "url": "https://www.seroundtable.com/google-job-search-bug-42022.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google may have a bug with its job search feature because it is barely showing any new jobs within its search results. This has been happening for the past week and it is unclear why.",
+      "category": "SEO",
+      "published": "2026-09-04T15:12:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "baae30e7d27c",
+      "title": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+      "source": "Search Engine Journal",
+      "summary": "Getting surfaced in ChatGPT is the easy half. Three checks every retailer should run before connecting a fourth agentic commerce protocol. The post Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-04T14:30:02Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "61fe69939b07",
+      "title": "Daily Search Forum Recap: September 4, 2026",
+      "url": "https://www.seroundtable.com/recap-09-04-2026-42020.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-09-04T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "92b94970a9b8",
+      "title": "How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find)",
+      "url": "https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/",
+      "source": "Search Engine Journal",
+      "summary": "Explore how to improve your brand's visibility in AI search results and understand ranking discrepancies with traditional methods. The post How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find) appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-04T13:57:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3a0351e8738d",
+      "title": "Search News Buzz Video Recap: Google Ad Tech Monopoly Wonât Be Broken Up, AI Mode Takes Over, Gemini Not Citing, AdSense Impression Changes & Bugs",
+      "url": "https://www.seroundtable.com/video-09-04-2026-42015.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This week, we covered how Google for the second time dodged being broken up, this time over its ad tech monopoly. Google AI Overviews are expanding by default...",
+      "category": "GEO",
+      "published": "2026-09-04T12:01:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
       "id": "5b637cd2819d",
       "title": "People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/",
@@ -505,6 +570,72 @@
       "published": "2026-09-04T12:00:01Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "7a585e94e183",
+      "title": "New Google Business Profiles Submit A Business Photo For Verification",
+      "url": "https://www.seroundtable.com/google-business-profiles-business-photo-verification-42019.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Business Profiles seems to be adding a fifth way to verify your business, this new method is by submitting a photo of your business location. The other methods are phone or text, email, live video call or a postcard in the mail.",
+      "category": "SEO",
+      "published": "2026-09-04T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fa5af597e21f",
+      "title": "Google Expands Waze Ads Beyond The United States",
+      "url": "https://www.seroundtable.com/google-expands-waze-ads-42018.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has expanded access to Waze Ads beyond the United States and to a total of 42 countries. Google updated the PMax help documents in the Google Ads help center with this new information. It now says, \"Waze Ads are currently available across select global markets...\"",
+      "category": "SEO",
+      "published": "2026-09-04T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "bc7aebfefb0f",
+      "title": "Google Ads Collapsing Sitelinks That You Can Expand",
+      "url": "https://www.seroundtable.com/google-ads-collapsing-sitelinks-42014.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is testing another variation of expandable sitelinks, where sitelinks are collapsed by default and a number indicator shows how many more are available. You can then click to expand the sitelinks to show more.",
+      "category": "SEO",
+      "published": "2026-09-04T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4a80310cc079",
+      "title": "Bing Tests Bolded HTTPS URLs In Snippets",
+      "url": "https://www.seroundtable.com/bing-bolded-https-urls-41939.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is testing bolding the https portion of the URLs in the Bing Search results. We've seen Microsoft test HTTPS labels in various forms over the years, including using lock icons. But here, Microsoft Bing is being more subtle about it by just bolding the HTTPS portion of…",
+      "category": "SEO",
+      "published": "2026-09-04T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "02659d511247",
+      "title": "Google Ads Pushing Dismissed Recommendations",
+      "url": "https://www.seroundtable.com/google-ads-dismissed-recommendations-42016.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is now pushing notifications to advertisers for recommendations they have previously dismissed. Google shows a message in the ads console that reads, \"You still have dismissed recommendations for this campaign,\" which you can dismiss once again?",
+      "category": "SEO",
+      "published": "2026-09-04T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "da0284b7b6cb",
+      "title": "ChatGPT Ads Manager Plugin, Audience Updates, Product Feeds & More",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42017.html",
+      "source": "Search Engine Roundtable",
+      "summary": "We got a number of updates coming from OpenAI about ChatGPT Ads and the ChatGPT Ads Manager, we also suspect that the shopping results coming from ChatGPT only come from those who submit product feeds. The other updates include a plugin for integration with ChatGPT and/or Codex…",
+      "category": "GEO",
+      "published": "2026-09-04T11:05:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "1694f6f0e587",
@@ -538,17 +669,6 @@
       "published": "2026-09-03T14:30:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "e9355b833dc1",
-      "title": "Daily Search Forum Recap: September 3, 2026",
-      "url": "https://www.seroundtable.com/recap-09-03-2026-42013.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has dodged being broken up for a second time on its monopoly ruling...",
-      "category": "SEO",
-      "published": "2026-09-03T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "5190d2a1dccd",
@@ -3123,127 +3243,6 @@
       "published": "2026-08-20T10:11:06Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "027379c08484",
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI",
-      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "category": "SEO",
-      "published": "2026-08-20T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f4ba3203e372",
-      "title": "Should We Stop Writing With AI?",
-      "url": "https://moz.com/blog/should-we-stop-writing-with-ai",
-      "source": "Moz Blog",
-      "summary": "Should you stop writing with AI as detection, spam, and sameness grow? Learn how expert-led AI content builds trust, audience ownership, and lasting value for years.",
-      "category": "SEO",
-      "published": "2026-08-20T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "cb030de2dd94",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "category": "GEO",
-      "published": "2026-08-20T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "104b2c93c252",
-      "title": "7 Website Marketing Strategies for 2026",
-      "url": "https://backlinko.com/website-marketing",
-      "source": "Backlinko",
-      "summary": "Website marketing in 2026 no longer works the way it used to. Traditionally, it meant promoting your site to attract visitors and turn them into customers. Your website is still central. But much of the customer journey now happens beyond it. Before someone visits your site…",
-      "category": "SEO",
-      "published": "2026-08-19T23:53:56Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "7067ffb16ebc",
-      "title": "Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
-      "source": "Search Engine Journal",
-      "summary": "New Promptwatch data shows a sharp drop in Reddit's ChatGPT Search citations this month. The post Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-19T22:03:26Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "3eb0f092ad95",
-      "title": "Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/",
-      "source": "Search Engine Journal",
-      "summary": "Microsoft Advertising is rolling out AI Max globally, bringing expanded Search matching, text customization, URL expansion and new advertiser controls to Search campaigns. The post Microsoft Advertising Rolls Out AI Max Globally appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-19T19:41:53Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "edf677406932",
-      "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/",
-      "source": "Search Engine Journal",
-      "summary": "Google's generative UI, which builds custom visual layouts and interactive tools, has started reaching AI Overviews after launching in AI Mode last year. The post Google Expands Generative UI Beyond AI Mode Into AI Overviews appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-19T19:00:27Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "fbf92bafaf8a",
-      "title": "Decision Coverage: Why AI Recommends Some Brands And Not Others via @sejournal, @billhunt",
-      "url": "https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/",
-      "source": "Search Engine Journal",
-      "summary": "AI doesn't recommend products, it recommends decisions. A SaaS case study shows why missing evidence, not weak authority, causes exclusion from AI recommendations. The post Decision Coverage: Why AI Recommends Some Brands And Not Others appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-19T19:00:10Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "314cb75fe2f0",
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google (Search)",
-      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
-      "category": "SEO",
-      "published": "2026-08-19T19:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ef913e9fdabc",
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "category": "SEO",
-      "published": "2026-08-19T19:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "d1db7b31a52f",
-      "title": "SEO Forecasting: How to Predict Your Traffic in an AI Era",
-      "url": "https://neilpatel.com/blog/seo-forecasting/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways When it comes to SEO, forecasting can be a tricky concept. You’re trying to predict the future of your website’s traffic and it can be difficult to know which metrics to focus on. It can also be difficult to know if the metrics you selected are giving you and your…",
-      "category": "SEO",
-      "published": "2026-08-19T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
     }
   ]
 }
