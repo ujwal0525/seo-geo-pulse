@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T20:11:12Z",
+  "updated": "2026-09-04T00:17:06Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -496,6 +496,17 @@
   ],
   "items": [
     {
+      "id": "1694f6f0e587",
+      "title": "Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
+      "source": "Search Engine Journal",
+      "summary": "Google's latest Search integration is another step to a future where users get things done without traditional search results. The post Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-03T21:00:25Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "efd7bbe57f88",
       "title": "Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
@@ -529,6 +540,17 @@
       "impact": 4.0
     },
     {
+      "id": "5190d2a1dccd",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "category": "SEO",
+      "published": "2026-09-03T13:15:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "e67e1971131b",
       "title": "Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO via @sejournal, @HelenPollitt1",
       "url": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/",
@@ -538,6 +560,28 @@
       "published": "2026-09-03T12:00:18Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "be4a3c542626",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "category": "GEO",
+      "published": "2026-09-03T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "7a45b185cff5",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "category": "GEO",
+      "published": "2026-09-03T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "19fe28e6504a",
@@ -635,6 +679,17 @@
       "summary": "Data finds Google AI Mode rarely shows the same products as the regular results carousel, and often lists a different seller when it does. The post Google AI Mode Prices Differ From Product Carousel For Same Items appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-03T08:00:14Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "2e155b11d809",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "category": "GEO",
+      "published": "2026-09-03T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
     },
@@ -3189,61 +3244,6 @@
       "published": "2026-08-19T11:04:49Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "d0d4f422bb54",
-      "title": "The ultimate guide to creating a content marketing strategy",
-      "url": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to build a content marketing strategy to reach your audience across search, AI, social & more.",
-      "category": "SEO",
-      "published": "2026-08-19T08:34:00Z",
-      "coverage": 1,
-      "impact": 0.5
-    },
-    {
-      "id": "ce0e0f073dba",
-      "title": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
-      "url": "https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/",
-      "source": "Semrush Blog",
-      "summary": "Microsoft Clarity‘s AI Scrape-to-Referral Ratio compares what AI crawlers take from your site with what they send back.",
-      "category": "SEO",
-      "published": "2026-08-19T08:22:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "9ac0643f2427",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "source": "OpenAI",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "category": "GEO",
-      "published": "2026-08-19T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "e24a9650ceae",
-      "title": "Are Reviews Shaping What LLMs Say About My Local Business?",
-      "url": "https://moz.com/blog/local-business-reviews-and-llms",
-      "source": "Moz Blog",
-      "summary": "Discover how customer reviews directly influence what Large Language Models (LLMs) say about your local business in AI-powered search results and better understand how sentiment, volume, recency, and keyword relevance in reviews shape AI-generated recommendations.",
-      "category": "GEO",
-      "published": "2026-08-19T07:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e4563871866d",
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "category": "GEO",
-      "published": "2026-08-18T22:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
