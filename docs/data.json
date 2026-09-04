@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T08:13:09Z",
+  "updated": "2026-09-04T12:15:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -495,6 +495,17 @@
     }
   ],
   "items": [
+    {
+      "id": "5b637cd2819d",
+      "title": "People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/",
+      "source": "Search Engine Journal",
+      "summary": "Research shows how people can keep using Google while making fewer traditional searches and clicking through to fewer websites. The post People Aren’t Leaving Google For AI. They’re Using Both appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-04T12:00:01Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "1694f6f0e587",
       "title": "Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster",
@@ -3233,17 +3244,6 @@
       "published": "2026-08-19T16:00:00Z",
       "coverage": 1,
       "impact": 1.0
-    },
-    {
-      "id": "5d2153633e39",
-      "title": "Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
-      "source": "Search Engine Journal",
-      "summary": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix. The post Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show appeared first on Search Engine…",
-      "category": "SEO",
-      "published": "2026-08-19T14:30:55Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
