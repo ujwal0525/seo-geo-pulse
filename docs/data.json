@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T00:17:06Z",
+  "updated": "2026-09-04T04:12:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -681,6 +681,17 @@
       "published": "2026-09-03T08:00:14Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "9293299fc39b",
+      "title": "How To Build Site Authority and Multi-Channel Relevance in the Age of AI",
+      "url": "https://moz.com/blog/how-to-build-site-authority-and-multi-channel-relevance-in-the-age-of-ai",
+      "source": "Moz Blog",
+      "summary": "Discover how to build site authority in an AI-driven world using off-site campaigns. Learn to utilize off-site signals, enhance LLM visibility, and optimize content ROI.",
+      "category": "SEO",
+      "published": "2026-09-03T07:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "2e155b11d809",
@@ -3233,17 +3244,6 @@
       "published": "2026-08-19T14:30:55Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "f238d8498245",
-      "title": "Brand Mentions in 2026: How to Earn and Track Them Across the Web",
-      "url": "https://backlinko.com/brand-mentions",
-      "source": "Backlinko",
-      "summary": "You can have an impressive website, great content, and a seamless user experience. But you might still be invisible to search engines and AI tools. That’s because Google and ChatGPT don’t just look at your website. They also look at what other credible sources say about your…",
-      "category": "GEO",
-      "published": "2026-08-19T11:04:49Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
