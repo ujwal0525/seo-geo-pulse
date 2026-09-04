@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:12:31Z",
+  "updated": "2026-09-04T20:11:14Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -494,6 +494,28 @@
     }
   ],
   "items": [
+    {
+      "id": "0598379872b9",
+      "title": "Google Ads Tests Serving Search Ads With Restrictive Match Types In AI Mode",
+      "url": "https://www.seroundtable.com/google-ads-serving-restrictive-match-types-ai-mode-42024.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has confirmed it has recently begun running a \"small experiment\" where it is serving regular pure Search campaigns with restrictive match types in AI Mode. Ginny Marvin, Google's Ads Liaison, told me, \"This is a small experiment that recently kicked off.\"",
+      "category": "GEO",
+      "published": "2026-09-04T18:50:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "b7a074a3b885",
+      "title": "How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/",
+      "source": "Search Engine Journal",
+      "summary": "Learn which AI visibility metrics matter, how to prioritize your next steps, and the tactics that win more citations in AI answers. The post How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-04T18:08:42Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "00a165e18720",
       "title": "Meta Tags for SEO: What They Are, Why They Matter, and How to Use Them",
@@ -3221,28 +3243,6 @@
       "published": "2026-08-20T12:57:00Z",
       "coverage": 1,
       "impact": 1.0
-    },
-    {
-      "id": "bddec019c179",
-      "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
-      "url": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/",
-      "source": "Search Engine Journal",
-      "summary": "Hidden white-on-white text was an SEO trick 25 years ago. Now, it tells AI models what to conclude about you. The post Prompt Injections Just Proved Something SEO Has Known For 25 Years appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-20T12:00:39Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "bc9826c377b8",
-      "title": "Third-Party Citation Optimization Prioritization in an AI Search Era: A Framework + Worksheet",
-      "url": "https://www.aleydasolis.com/en/ai-search/third-party-citation-optimization-ai-search/",
-      "source": "Aleyda Solis",
-      "summary": "Which third-party citations and platforms are actually worth investing in when the sources used by AI search platforms can change by vertical, prompt, market, platform and model release? Although it’s easy to target third-party citation optimization with “one trick pony” tactics…",
-      "category": "GEO",
-      "published": "2026-08-20T10:11:06Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
