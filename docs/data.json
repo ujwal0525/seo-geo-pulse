@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T12:13:34Z",
+  "updated": "2026-09-05T16:11:20Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -504,6 +504,17 @@
     }
   ],
   "items": [
+    {
+      "id": "5dd3eab1320f",
+      "title": "Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/",
+      "source": "Search Engine Journal",
+      "summary": "Google says Search Console AI reports are now worldwide, and John Mueller weighs in on recovery timing, markdown for AI crawlers, and sitemap cache-busting. The post Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-05T12:30:53Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "0598379872b9",
       "title": "Google Ads Tests Serving Search Ads With Restrictive Match Types In AI Mode",
@@ -3242,17 +3253,6 @@
       "published": "2026-08-20T15:21:29Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "ee1505317cf0",
-      "title": "The Conversion Setup Errors That Break Smart Bidding",
-      "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
-      "source": "Search Engine Journal",
-      "summary": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns. The post The Conversion Setup Errors That Break Smart Bidding appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-20T14:30:03Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
