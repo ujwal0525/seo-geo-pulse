@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T00:20:35Z",
+  "updated": "2026-09-05T04:11:29Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -21,6 +21,16 @@
     "Yoast"
   ],
   "milestones": [
+    {
+      "date": "2026-09-03",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "6dc1dd2e42a8"
+    },
     {
       "date": "2026-09-02",
       "family": "model",
@@ -790,6 +800,17 @@
       "published": "2026-09-03T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "0f3b76bc480d",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "category": "GEO",
+      "published": "2026-09-03T11:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "572c5940946a",
@@ -3232,17 +3253,6 @@
       "published": "2026-08-20T14:30:03Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "878a41db5fbe",
-      "title": "Google Search Console: the ultimate guide for 2026",
-      "url": "https://www.semrush.com/blog/google-search-console/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to properly set up GSC + use it to spot site issues and areas for improvement.",
-      "category": "SEO",
-      "published": "2026-08-20T12:57:00Z",
-      "coverage": 1,
-      "impact": 1.0
     }
   ]
 }
