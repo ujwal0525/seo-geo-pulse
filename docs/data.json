@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T12:14:10Z",
+  "updated": "2026-09-06T16:11:53Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -504,6 +504,17 @@
     }
   ],
   "items": [
+    {
+      "id": "19672c4832d4",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "category": "SEO",
+      "published": "2026-09-06T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "5dd3eab1320f",
       "title": "Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern",
@@ -3240,17 +3251,6 @@
       "summary": "Whether Google runs a literal information gain score is still unconfirmed. But whether or not it improves your ranking is almost irrelevant. You should care about information gain because it’s your differentiator. The extra effort you put into creating useful, … Read more ›",
       "category": "SEO",
       "published": "2026-08-20T15:39:55Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "b44cdd029781",
-      "title": "Growth Intelligence Brief #23",
-      "url": "https://www.growth-memo.com/p/growth-intelligence-brief-23",
-      "source": "Growth Memo",
-      "summary": "ZipRecruiter gives back July spike, YouTube slides 6th straight week, dictionaries surge, NYC.gov and StreetEasy crash, TheKitchn hits all-time high, Amazon climbs, Reddit stands still",
-      "category": "SEO",
-      "published": "2026-08-20T15:21:29Z",
       "coverage": 1,
       "impact": 3.0
     }
