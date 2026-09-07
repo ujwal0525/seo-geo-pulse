@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T16:11:56Z",
+  "updated": "2026-09-07T20:12:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -515,6 +515,17 @@
     }
   ],
   "items": [
+    {
+      "id": "6d5963b49569",
+      "title": "Brex ranks #1 on Google. AI recommends someone else.",
+      "url": "https://foundationinc.co/lab/vol-308",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Brex ranks #1 on Google for “business credit cards for startups.” Their Spend Trends library has nearly doubled in traffic value to $536,000. The AI Overview sitting above that #1 result draws on a Reddit thread and cites Nav instead. This happens because AI engines treat SERP…",
+      "category": "GEO",
+      "published": "2026-09-07T18:00:31Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "dd669131505d",
       "title": "Real Estate Marketing: A Complete Guide for 2026",
@@ -3251,17 +3262,6 @@
       "summary": "AI labs are buying pre-2022 books to avoid training on AI slop while quietly building text watermarking, exposing why content-at-scale strategies are a losing bet. The post The House Doesn’t Publish Its Tells appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-08-21T14:30:45Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3ff03440b2d4",
-      "title": "Google Search Console Crawl Stats Missing Two Days Of Data",
-      "url": "https://www.seroundtable.com/google-search-console-crawl-stats-missing-41923.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The crawl stats report within Google Search Console has a data gap again. This time the crawl stats report is missing August 15 and 16th crawl data. Normally, Google can fix the data but Google has not yet fixed it.",
-      "category": "SEO",
-      "published": "2026-08-21T13:12:00Z",
       "coverage": 1,
       "impact": 4.0
     }
