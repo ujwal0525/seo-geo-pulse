@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T12:15:51Z",
+  "updated": "2026-09-07T16:11:56Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -516,6 +516,61 @@
   ],
   "items": [
     {
+      "id": "dd669131505d",
+      "title": "Real Estate Marketing: A Complete Guide for 2026",
+      "url": "https://neilpatel.com/blog/real-estate-marketing/",
+      "source": "Neil Patel",
+      "summary": "If you’re running marketing for a real estate brand, you already know the deal. Zillow, Realtor.com, and Redfin sit at the top of nearly every high-volume query, and AI Overviews are quietly compressing what’s left of the informational clicks below. That’s the real estate…",
+      "category": "GEO",
+      "published": "2026-09-07T16:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a88818a8effe",
+      "title": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/",
+      "source": "Search Engine Journal",
+      "summary": "Harvard scored 940 occupations on how morally objectionable the public finds automating them. Search marketing scored low at 2.31 out of 7 The post Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-07T14:30:22Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f6d48c7ffd7a",
+      "title": "Daily Search Forum Recap: September 7, 2026",
+      "url": "https://www.seroundtable.com/recap-09-07-2026-42028.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-09-07T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "56758d49ae47",
+      "title": "Topic clusters for SEO: what they are & how to create them",
+      "url": "https://www.semrush.com/blog/topic-clusters/",
+      "source": "Semrush Blog",
+      "summary": "Topic clusters help you earn visibility in search engines and on AI search platforms. Follow these 5 steps to create them.",
+      "category": "GEO",
+      "published": "2026-09-07T12:58:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "d3a970c2f8aa",
+      "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO",
+      "url": "https://www.seroundtable.com/google-lose-faith-42032.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller went off again on programmatic SEO, this time saying that programmatic SEO can \"often leads to a site that's either spam, borderline spam, or low quality,\" he wrote. These tactics can often lead Google's \"systems have possibly lost faith in your site…",
+      "category": "SEO",
+      "published": "2026-09-07T12:37:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "8593e995c627",
       "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
       "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
@@ -525,6 +580,72 @@
       "published": "2026-09-07T12:00:11Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "f188e33494cf",
+      "title": "New Google Ads Automated Promotions",
+      "url": "https://www.seroundtable.com/google-ads-automated-promotions-42006.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads posted a new help document about automated promotions that describes how Google Ads can and does automatically identify and apply active promotional offers directly from your website.",
+      "category": "SEO",
+      "published": "2026-09-07T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "29704d5574e3",
+      "title": "Google Search Booking Partner Prices Are Customized",
+      "url": "https://www.seroundtable.com/google-booking-partner-prices-customized-41935.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's new DMA booking search widgets now carry a disclaimer to explain that the prices listed in that block are customized \"based on factors such as your device type.\" It is unclear what other factors are being used outside of \"device type,\" but you'd have to assume the users…",
+      "category": "SEO",
+      "published": "2026-09-07T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b569687d53f6",
+      "title": "Google Merchant Center Shows AI Prompts For Top Performance Insights",
+      "url": "https://www.seroundtable.com/google-merchant-center-ai-prompts-42023.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google accidentally showed the prompts it uses for some of the insights reports within Google Merchant Center. Instead of providing an easy-to-digest summary of the top product that drove your performance within Merchant Center, it spit out the prompts and actions, like…",
+      "category": "GEO",
+      "published": "2026-09-07T11:31:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "cbaa006fb884",
+      "title": "Google Shopping Ads Have A Reverse Crocodile Effect With AI Overviews",
+      "url": "https://www.seroundtable.com/google-shopping-ads-imp-ctr-42021.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Since Google added AI Overviews to Google Search, many of us have been experiencing what some call the crocodile effect, also known as the great decoupling. But according to new data, the opposite may be happening with Google Shopping Ads.",
+      "category": "GEO",
+      "published": "2026-09-07T11:21:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "fefe13e2938c",
+      "title": "Site Rules For Applebot-Extended Are Not Considered In Ranking For Search",
+      "url": "https://www.seroundtable.com/applebot-extended-search-ranking-42025.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Apple has updated its help documentation for Applebot over the weekend and added a single line at the end that reads, \"Site rules for Applebot-Extended are not considered in ranking for Search.\" Applebot-Extended is not new; we covered it in April 2025, but here Apple is making…",
+      "category": "SEO",
+      "published": "2026-09-07T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "cffb015e24e1",
+      "title": "Google AI Overviews Get A Character Counter Tool",
+      "url": "https://www.seroundtable.com/google-ai-overviews-character-counter-42026.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google will now give you an interactive widget within AI Overviews for when you are looking for a simple character counter website. Websites that offer character counting service features are in trouble.",
+      "category": "GEO",
+      "published": "2026-09-07T11:05:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "4aee73781326",
@@ -646,17 +767,6 @@
       "published": "2026-09-04T14:30:02Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "61fe69939b07",
-      "title": "Daily Search Forum Recap: September 4, 2026",
-      "url": "https://www.seroundtable.com/recap-09-04-2026-42020.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-09-04T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "92b94970a9b8",
@@ -3152,116 +3262,6 @@
       "summary": "The crawl stats report within Google Search Console has a data gap again. This time the crawl stats report is missing August 15 and 16th crawl data. Normally, Google can fix the data but Google has not yet fixed it.",
       "category": "SEO",
       "published": "2026-08-21T13:12:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "13bd0e3cd84c",
-      "title": "Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update, Gemini 3.7 Powers AI Mode, Google and Microsoft Ads News & More",
-      "url": "https://www.seroundtable.com/video-08-21-2026-41915.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has released its third spam update of the 2026 year, the August 2026 spam update this week and finished rolling out Friday morning at 4:50am. Google Search's AI Mode is now being powered sometimes by...",
-      "category": "GEO",
-      "published": "2026-08-21T12:01:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "202ed8e83954",
-      "title": "Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
-      "source": "Search Engine Journal",
-      "summary": "AI Overviews can now build interactive tools inside Search. Google’s testing shows generated interfaces often beat top results in head-to-head comparisons. The post Google’s Generated Interfaces Could Compete With Tool Pages appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-21T12:00:32Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "7c265ef317f2",
-      "title": "Google Preferred Source Button Improved For Publishers",
-      "url": "https://www.seroundtable.com/google-preferred-source-button-update-41912.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the Preferred Sources button that publishers have on their websites to make it so that the user is taken right back to the page they were originally on. There is new embed code that handles this process to make it easier for users to go back to where they were…",
-      "category": "SEO",
-      "published": "2026-08-21T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c6497d15689b",
-      "title": "Microsoft Advertising Max CPC Won't Be Available For New Campaigns On Oct 1",
-      "url": "https://www.seroundtable.com/microsoft-advertising-max-cpc-sunset-41917.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Advertising sent out emails yesterday announcing changes coming to Max CPC bidding. Microsoft wrote, \"Max CPC will no longer be available when creating new non-portfolio campaigns\" after October 1, 2026.",
-      "category": "SEO",
-      "published": "2026-08-21T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fea7cc7eba15",
-      "title": "Google Ads & AI Max New Experimentation & Planning Features",
-      "url": "https://www.seroundtable.com/google-ads-ai-max-experimentation-planning-41910.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced it is rolling out new experimentation and planning capabilities in Google Ads and AI Max. There are new A/B test capabilities, brand and location parameters options and new Performance Planner predictions.",
-      "category": "SEO",
-      "published": "2026-08-21T11:23:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "aa1bae5b1586",
-      "title": "Google Local Service Ads Pre-Badge Ads & Expansion Of Verticals",
-      "url": "https://www.seroundtable.com/google-lsa-prebadge-new-verticals-41920.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has made some big updates to Local Service Ads. Even though LSAs are transitioning to Google Ads, Google is clearly still investing in the LSA product. Google added something called pre-badge ads, massively expanded the verticals and the verified ads badge updated its…",
-      "category": "SEO",
-      "published": "2026-08-21T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fe8a19e32c62",
-      "title": "What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/",
-      "source": "Search Engine Journal",
-      "summary": "Optimize your marketing strategy by learning the limitations of AI search metrics and how to utilize your data effectively. The post What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-21T07:45:38Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "395ef7b56246",
-      "title": "10 Fan-Outs for Prompt Research — Whiteboard Friday",
-      "url": "https://moz.com/blog/10-fan-outs-for-prompt-research-whiteboard-friday",
-      "source": "Moz Blog",
-      "summary": "Google uses these 10 query fan-outs to split single prompts into multiple background searches. Learn how to map this behavior in this Whiteboard Friday with Tom Capper.",
-      "category": "GEO",
-      "published": "2026-08-21T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "000e323e76aa",
-      "title": "The Reddit Cloud 100: Ranking B2B SaaS Subreddits by AI Visibility",
-      "url": "https://foundationinc.co/lab/reddit-cloud-100",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "The world’s most valuable private cloud companies spend billions building brand recognition. Yet the correlation between that valuation and how often their Reddit communities get cited in AI answers is virtually zero. Given Reddit threads now rank in Google and feed directly…",
-      "category": "GEO",
-      "published": "2026-08-20T19:45:29Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "01633a68d050",
-      "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/",
-      "source": "Search Engine Journal",
-      "summary": "Citation tools answer a different question than rank trackers did: not why you appeared, but whether the phrase you're chasing has already settled. The post The Keyword Universe Was Always Smaller Than We Thought appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-20T19:00:38Z",
       "coverage": 1,
       "impact": 4.0
     }
