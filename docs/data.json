@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T04:12:45Z",
+  "updated": "2026-09-07T08:13:35Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -515,6 +515,17 @@
     }
   ],
   "items": [
+    {
+      "id": "e02ae19def6b",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "category": "SEO",
+      "published": "2026-09-07T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "a8e8f9dc895a",
       "title": "An Alien Mind",
@@ -3251,17 +3262,6 @@
       "summary": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app. The post Google Expands Personalization Across Search, Discover & News appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-08-20T16:02:52Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "3ff942dbfffa",
-      "title": "Personalize the content you see on Search, Discover, and News",
-      "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
-      "source": "Google (Search)",
-      "summary": "A woman looks at a phone outdoors",
-      "category": "SEO",
-      "published": "2026-08-20T16:00:00Z",
       "coverage": 1,
       "impact": 5.0
     }
