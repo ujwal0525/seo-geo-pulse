@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T08:13:35Z",
+  "updated": "2026-09-07T12:15:51Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -515,6 +515,39 @@
     }
   ],
   "items": [
+    {
+      "id": "8593e995c627",
+      "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
+      "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
+      "source": "Search Engine Journal",
+      "summary": "Publishing more content won't fix what AI gets wrong about your brand. Too many versions of the truth is the real problem. The post Your Biggest AI Search Risk Is Conflicting Information About Your Brand appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-07T12:00:11Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "4aee73781326",
+      "title": "AI chatbots talked 57.5% of AI users out of buying",
+      "url": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/",
+      "source": "Semrush Blog",
+      "summary": "We surveyed 2,338 US consumers: 65% of AI users have replaced some product-related Google searches with chatbots, and 4 in 10 dislike chatbot ads.",
+      "category": "SEO",
+      "published": "2026-09-07T08:48:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "fe72f632db26",
+      "title": "The AI hours nobody on your marketing team is counting",
+      "url": "https://www.growth-memo.com/p/the-ai-hours-nobody-on-your-marketing",
+      "source": "Growth Memo",
+      "summary": "AI adoption can turn marketers into unpaid (ineffective) software teams, while the real work absorbs the opportunity cost.",
+      "category": "SEO",
+      "published": "2026-09-07T08:28:41Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "e02ae19def6b",
       "title": "Supporting independent journalism in Ukraine",
@@ -3231,39 +3264,6 @@
       "published": "2026-08-20T19:00:38Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "013f4d583244",
-      "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
-      "source": "Search Engine Journal",
-      "summary": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets. The post Microsoft Ads Is Removing Max CPC From New Campaigns appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-20T18:13:03Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "894db3c5b701",
-      "title": "How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO via @sejournal, @rollerblader",
-      "url": "https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/",
-      "source": "Search Engine Journal",
-      "summary": "A practical guide to spotting keyword cannibalization using Search Console, site crawlers, and rank trackers, plus fixes like canonicals, meta robots, and internal linking. The post How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO…",
-      "category": "SEO",
-      "published": "2026-08-20T17:30:58Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "e9fa5fc96bee",
-      "title": "Google Expands Personalization Across Search, Discover & News via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/",
-      "source": "Search Engine Journal",
-      "summary": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app. The post Google Expands Personalization Across Search, Discover & News appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-20T16:02:52Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
