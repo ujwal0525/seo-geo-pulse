@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T20:11:27Z",
+  "updated": "2026-09-07T00:19:30Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -425,6 +425,17 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-06",
+      "company": "Runway",
+      "move": "News",
+      "detail": "",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "source": "The Verge",
+      "curated": false,
+      "id": "2f1b31dad3b7"
+    },
     {
       "date": "2026-09-03",
       "company": "Contentful",
