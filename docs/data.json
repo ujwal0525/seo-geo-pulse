@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T16:15:45Z",
+  "updated": "2026-09-08T20:12:00Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -20,6 +20,16 @@
     "Yoast"
   ],
   "milestones": [
+    {
+      "date": "2026-09-08",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "52959cd4df39"
+    },
     {
       "date": "2026-09-03",
       "family": "model",
@@ -515,6 +525,50 @@
   ],
   "items": [
     {
+      "id": "dca61c7742fa",
+      "title": "UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/uk-publisher-news-search-visibility-com-move/588840/",
+      "source": "Search Engine Journal",
+      "summary": "A UK news site's trending-query visibility collapsed after moving from .co.uk to .com, and the new domain didn't pick up what the old one lost. The post UK Publisher Loses 98% Of News Search Visibility After .com Move appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-08T19:24:24Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "04d00018290d",
+      "title": "Google Says Old Low-Value Pages May Affect Site Recovery via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-says-old-low-value-pages-may-affect-site-recovery/588837/",
+      "source": "Search Engine Journal",
+      "summary": "John Mueller says Google's systems may still judge a site by its old low-value programmatic pages, and that showing value again takes time and effort. The post Google Says Old Low-Value Pages May Affect Site Recovery appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-08T18:42:36Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ce25abc81b53",
+      "title": "InMotion Cloud Debuts Fixed-Price Managed Cloud via @sejournal, @inmotionhosting",
+      "url": "https://www.searchenginejournal.com/inmotion-cloud-debuts-fixed-price-managed-private-cloud-spn/587527/",
+      "source": "Search Engine Journal",
+      "summary": "InMotion Cloud launches a fixed-price Managed Private Cloud built on bare metal, with predictable monthly rates, fixed egress, and U.S.-based support. The post InMotion Cloud Debuts Fixed-Price Managed Cloud appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-08T17:05:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "167bce5d47e7",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "category": "GEO",
+      "published": "2026-09-08T17:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "ac29f21d8c21",
       "title": "Regional Differences In Google Search Experience Documentation",
       "url": "https://www.seroundtable.com/google-regional-differences-in-search-experience-42044.html",
@@ -636,6 +690,17 @@
       "impact": 6.0
     },
     {
+      "id": "305f03a4aa6a",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "category": "GEO",
+      "published": "2026-09-08T11:30:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "3020e8f5e1e0",
       "title": "Google Search Console Links Report Not Updated In A Month",
       "url": "https://www.seroundtable.com/google-search-console-links-report-delayed-42034.html",
@@ -680,6 +745,17 @@
       "impact": 4.0
     },
     {
+      "id": "fbb79928f7d9",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "category": "GEO",
+      "published": "2026-09-08T10:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "7cb7e89eeda8",
       "title": "Growth Intelligence Brief #24",
       "url": "https://www.growth-memo.com/p/growth-intelligence-brief-24",
@@ -689,6 +765,17 @@
       "published": "2026-09-08T09:27:40Z",
       "coverage": 1,
       "impact": 7.0
+    },
+    {
+      "id": "99c22bc85dd5",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "category": "SEO",
+      "published": "2026-09-08T09:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "c054f65c4079",
@@ -718,6 +805,17 @@
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "source": "OpenAI",
       "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "category": "SEO",
+      "published": "2026-09-08T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "9816f5beea82",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "source": "OpenAI",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "category": "SEO",
       "published": "2026-09-08T00:00:00Z",
       "coverage": 1,
@@ -1171,8 +1269,8 @@
       "summary": "As you know, Google rolled out Gemini 3.8 Flash for subscribers to AI Mode and some have started to play with it. And the early feedback is that AI Mode running Gemini 3.8 Flash is not link or citation friendly. Meaning, AI Mode with Google's latest AI model is less likely to…",
       "category": "GEO",
       "published": "2026-09-03T11:41:00Z",
-      "coverage": 2,
-      "impact": 8.0
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "7ac0efaaad61",
@@ -3175,94 +3273,6 @@
       "published": "2026-08-24T16:00:00Z",
       "coverage": 1,
       "impact": 1.0
-    },
-    {
-      "id": "170f38bdbd24",
-      "title": "MBA Metrics for SEO: How to Speak Leadership’s Language",
-      "url": "https://ahrefs.com/blog/mba-metrics-for-seo/",
-      "source": "Ahrefs Blog",
-      "summary": "As an SEO professional, metrics like rankings, traffic, and clicks are meaningful to you, but to a leadership team trained on market share and return on investment, they’re noise. That’s not a bias against SEO. It’s just what happens when … Read more ›",
-      "category": "SEO",
-      "published": "2026-08-24T15:52:49Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "43e9eb2df913",
-      "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/",
-      "source": "Search Engine Journal",
-      "summary": "Google Ads adds new Search and AI Max experimentation tools for testing budgets, ROI targets, brand controls, location settings, and campaign changes. The post Google Ads Launches New Search and AI Max Experimentation Tools appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-24T14:50:16Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "966454b077ff",
-      "title": "SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/",
-      "source": "Search Engine Journal",
-      "summary": "Platforms like Spotify and LinkedIn are cracking down on AI slop. SEOs face a choice: treat AI as a shortcut or as an editorial assistant. The post SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-24T14:30:06Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fc58a44d2774",
-      "title": "How To Audit Publisher Websites In 2026",
-      "url": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/",
-      "source": "Search Engine Journal",
-      "summary": "A practical framework for auditing publisher websites in 2026, covering technical SEO, content quality, E-E-A-T, and entity consistency across passive and active discovery channels. The post How To Audit Publisher Websites In 2026 appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-24T12:00:14Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "df015003760c",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "category": "GEO",
-      "published": "2026-08-24T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "36f760683e07",
-      "title": "Google Makes Minor Updates To Canonicalization Help Docs",
-      "url": "https://www.seroundtable.com/google-updates-canonicalization-help-docs-41925.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has made some minor updates to the canonicalization help documents including the What is canonicalization and Fix canonicalization issues. I am not sure if anything fundamentally is different on the page outside of making it easier to understand and follow what the page…",
-      "category": "SEO",
-      "published": "2026-08-24T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8770e4f51e4f",
-      "title": "Google Merchant Center Product Images Minimum Size Will Be 500x500 Pixels",
-      "url": "https://www.seroundtable.com/google-merchant-center-product-images-update-41924.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google sent out an email to Google Merchant Center advertisers and users that the minimum size for product images is going up to 500 x 500 pixels starting on January 31, 2027. Google recommends at least 1500x1500 pixels or above, but the minimum size requirement is 500x500…",
-      "category": "SEO",
-      "published": "2026-08-24T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5d682017124b",
-      "title": "Google Aware Of Reviews Missing After Google Business Profile Reinstatement",
-      "url": "https://www.seroundtable.com/reviews-missing-google-business-profile-reinstatement-41927.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is aware of and in the process of addressing an issue where reviews are missing after a Google Business Profile gets reinstated after it was suspended. Google is reportedly actively working on a resolution but there is no estimated time for when that resolution will take…",
-      "category": "SEO",
-      "published": "2026-08-24T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
