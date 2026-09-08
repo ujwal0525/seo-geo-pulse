@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T10:30:04Z",
+  "updated": "2026-09-08T12:18:19Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -515,6 +515,17 @@
     }
   ],
   "items": [
+    {
+      "id": "3a5745979e39",
+      "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/",
+      "source": "Search Engine Journal",
+      "summary": "Advertiser data now spans single-digit to $22 CPCs, but ChatGPT Ads still lacks auction insights, industry benchmarks, and reliable audience data to judge performance. The post 6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like appeared first on…",
+      "category": "GEO",
+      "published": "2026-09-08T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "7cb7e89eeda8",
       "title": "Growth Intelligence Brief #24",
@@ -2173,8 +2184,8 @@
       "summary": "In 2024, we introduced our site reputation policy to stop a practice where third-party content is published on a trusted website just to exploit that site's good reputation to rank higher in Search. This practice hurts search quality, and creates a bad experience for users.",
       "category": "SEO",
       "published": "2026-08-28T00:00:00Z",
-      "coverage": 3,
-      "impact": 10.0
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "80e923623e53",
@@ -3253,17 +3264,6 @@
       "published": "2026-08-20T19:45:29Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "3ff942dbfffa",
-      "title": "Personalize the content you see on Search, Discover, and News",
-      "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
-      "source": "Google (Search)",
-      "summary": "A woman looks at a phone outdoors",
-      "category": "SEO",
-      "published": "2026-08-20T16:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
