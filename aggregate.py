@@ -175,6 +175,29 @@ def similar(a: str, b: str) -> float:
     return difflib.SequenceMatcher(None, a, b).ratio()
 
 
+# Words too common in SEO/news headlines to identify a specific story. Distinctive
+# tokens (product names, versions, months, topic nouns) are what remain and drive
+# the same-event clustering below.
+STORY_STOP = set("""
+a an and are as at be been by for from has have how in into is it its may new now of on or our out over so than that
+the their them then there these this to up us was were what when where which who why will with without you your
+google googles search searches seo sem serp bing update updates updated news report reports study studies data
+says said adds add adding bring brings best top vs versus guide guides tips ways trick tricks q1 q2 q3 q4
+ai ml llm 2024 2025 2026 2027 launch launches launched launching release released releases releasing rollout rolling
+roll unveil unveils unveiled introduce introduces introducing debut debuts announce announces announced confirm
+confirms confirmed reveal reveals expand expands its via amp
+""".split())
+STORY_WINDOW_DAYS = 3   # differently-worded coverage counts as one event within this window
+
+
+def distinctive_tokens(title: str) -> set:
+    return {t for t in norm_title(title).split() if len(t) >= 2 and t not in STORY_STOP}
+
+
+def _numeric_tokens(dtok: set) -> set:
+    return {t for t in dtok if any(c.isdigit() for c in t)}
+
+
 def categorize(title: str, summary: str = "") -> str:
     text = f" {title} {summary} ".lower()
     best, best_score = DEFAULT_CATEGORY, 0
@@ -194,7 +217,8 @@ def categorize(title: str, summary: str = "") -> str:
 #                             plus keyword adjust (+high-impact / −tutorial),
 #                             clamped to ±3 so wording never dominates
 #    · corroboration        — how many DISTINCT sources ran the same story
-#                             (0 / +1.5 / +3 / +4.5 for 1 / 2 / 3 / 4+ sources)
+#                             (+2 per extra source, up to +12): the strongest
+#                             signal — the more outlets cover it, the higher it ranks
 #
 #  The frontend then blends this with recency:  priority = impact /(age_days+2)^g
 #  Tune any number below — it's all transparent.
@@ -231,8 +255,8 @@ IMPACT_LOW = [
     "best practices", "step-by-step", "examples", "ways to",
 ]
 
-CORRO_STEP = 1.5      # boost per additional source
-CORRO_MAX_EXTRA = 3   # count at most 3 extra sources (so 4+ all cap out)
+CORRO_STEP = 2.0      # boost per extra source — repeatability is a primary signal
+CORRO_MAX_EXTRA = 6   # count up to 6 extra sources (7+ all cap out) → up to +12
 KEYWORD_CLAMP = 3     # keyword adjust limited to ±this
 
 
@@ -682,22 +706,36 @@ def build_dataset(new_items: list, existing: dict, intel_items: list = None) -> 
     items = [i for i in items
              if i["published"] and (parse_iso(i["published"]) or cutoff) >= cutoff]
 
-    # cross-source clustering: group near-identical headlines, keep the most
-    # authoritative (then newest) copy as the representative, and count how many
-    # DISTINCT sources ran the story — that count drives the corroboration boost.
+    # cross-source clustering: group stories about the SAME event — both
+    # near-identical headlines AND differently-worded coverage that shares the
+    # distinctive terms within a few days. Keep the most authoritative (then
+    # newest) copy as the representative; the count of DISTINCT sources is the
+    # repeatability signal that drives the corroboration boost.
     items.sort(key=lambda i: (source_weight(i["source"]), i["published"] or ""),
                reverse=True)
-    clusters = []  # each: {"nt": normalized_title, "rep": item, "sources": set}
+    clusters = []  # each: {"nt","dtok","date","rep","sources"}
     for it in items:
         nt = norm_title(it["title"])
+        dtk = distinctive_tokens(it["title"])
+        dd = parse_iso(it.get("published"))
         home = None
-        if nt:
-            for cl in clusters:
-                if similar(nt, cl["nt"]) >= TITLE_DUP_RATIO:
+        for cl in clusters:
+            if nt and similar(nt, cl["nt"]) >= TITLE_DUP_RATIO:
+                home = cl
+                break
+            shared = dtk & cl["dtok"]
+            if len(shared) >= 2:                       # same distinctive entities…
+                na, nb = _numeric_tokens(dtk), _numeric_tokens(cl["dtok"])
+                version_conflict = bool(na and nb and not (na & nb))   # e.g. 3.5 vs 3.7
+                contain = len(shared) / min(len(dtk), len(cl["dtok"]))
+                close = (dd is None or cl["date"] is None
+                         or abs((dd - cl["date"]).days) <= STORY_WINDOW_DAYS)
+                if contain >= 0.6 and close and not version_conflict:
                     home = cl
                     break
         if home is None:
-            clusters.append({"nt": nt, "rep": it, "sources": {it["source"]}})
+            clusters.append({"nt": nt, "dtok": dtk, "date": dd,
+                             "rep": it, "sources": {it["source"]}})
         else:
             home["sources"].add(it["source"])
 
