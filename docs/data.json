@@ -1,10 +1,9 @@
 {
-  "updated": "2026-09-08T12:18:19Z",
+  "updated": "2026-09-08T14:46:18Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Aleyda Solis",
-    "Andrea Volpini (WordLift)",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
@@ -516,6 +515,61 @@
   ],
   "items": [
     {
+      "id": "e2643e0c7506",
+      "title": "When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc",
+      "url": "https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/",
+      "source": "Search Engine Journal",
+      "summary": "Modeled data now fills the gaps left by signal loss, and mistaking estimates for measurements can lead to costly budget misallocation. The post When Attribution Looks More Precise Than The Data Behind It appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-08T14:30:05Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ca2396f04f52",
+      "title": "Some Sites Use llms.txt Like robots.txt, Common Crawl Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/common-crawl-llms-txt-robots-txt/588786/",
+      "source": "Search Engine Journal",
+      "summary": "Common Crawl analyzed 584,107 llms.txt files and found most came from templates, many had no links, and some carried crawler rules the format can't enforce. The post Some Sites Use llms.txt Like robots.txt, Common Crawl Finds appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-08T14:09:20Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "46931b06f368",
+      "title": "AI search & manufacturing SEO: What the data shows [Study]",
+      "url": "https://www.semrush.com/blog/manufacturing-seo-ai-search/",
+      "source": "Semrush Blog",
+      "summary": "Semrush data on AI search in manufacturing. See which brands get mentioned, which get cited, and why citations don‘t drive traffic.",
+      "category": "GEO",
+      "published": "2026-09-08T13:38:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "aaada63e998e",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "category": "SEO",
+      "published": "2026-09-08T13:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "dbaccffaa22b",
+      "title": "Google: EU DMA Changes Resulted In Largest Reduction In Search Quality",
+      "url": "https://www.seroundtable.com/google-eu-dma-largest-reduction-quality-42042.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has rolled out its Digital Markets Act changes in Europe and called it the \"largest reduction in quality\" in the life of Google Search. \"The changes mark the largest reduction in quality of service 'at the world's most popular internet search engine in its 29-year search…",
+      "category": "SEO",
+      "published": "2026-09-08T12:01:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "3a5745979e39",
       "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/",
@@ -525,6 +579,83 @@
       "published": "2026-09-08T12:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "8cc6a4dc995e",
+      "title": "September Data In Google Business Profiles Insights Missing",
+      "url": "https://www.seroundtable.com/google-business-profiles-insights-missing-42033.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Business Profiles insights analytics report is missing data for the whole month of September 2026. Normally these reports can be a few days delayed but now we 8 days into the month and I still do not see any data.",
+      "category": "SEO",
+      "published": "2026-09-08T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "bdc7a29a1fe2",
+      "title": "Google Ads AI Dashboards Live For Some Advertisers",
+      "url": "https://www.seroundtable.com/google-ads-ai-dashboards-live-42031.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Some advertisers are starting to see the new AI dashboards within Google Ads. As a reminder, Google showed off these Gemini-powered Google Ads dashboards last May and then in August said they would roll out soon and I guess now some advertisers are seeing it.",
+      "category": "GEO",
+      "published": "2026-09-08T11:41:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "1fa8726efef5",
+      "title": "Google AI Mode Tests Paginated Follow Up Responses With Skip Button",
+      "url": "https://www.seroundtable.com/google-ai-mode-paginated-responses-skip-42029.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a new form of responses in AI Mode that offers paginated follow-up questions and responses, with a skip button to skip them.",
+      "category": "GEO",
+      "published": "2026-09-08T11:31:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "3020e8f5e1e0",
+      "title": "Google Search Console Links Report Not Updated In A Month",
+      "url": "https://www.seroundtable.com/google-search-console-links-report-delayed-42034.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The Google Search Console link report has now not been updated for a month. The last time the report was updated with fresh link data was around August 8, 2026 - a month ago.",
+      "category": "SEO",
+      "published": "2026-09-08T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "16b117a9f134",
+      "title": "Google Tests Thinner AI Overview Citations Panel",
+      "url": "https://www.seroundtable.com/google-thinner-ai-overview-citations-panel-42040.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a thinner design for the citations/link panel on the right side of the AI Overview. The citations panel is noticeably thinner and may be less noticeable to searchers, maybe leading to fewer clicks?",
+      "category": "GEO",
+      "published": "2026-09-08T11:15:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "d7d9fee26747",
+      "title": "Google Business Profiles Email: Does This Look Right To You",
+      "url": "https://www.seroundtable.com/gbp-does-this-look-right-to-you-email-42030.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is sending out Google Business Profiles notifications to business owners asking if the user-suggested edit or update is correct or not. The email says, \"Does this look right to you?\" and then it shows the suggested update to your business, which you can mark as correct or…",
+      "category": "SEO",
+      "published": "2026-09-08T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7aadd366211a",
+      "title": "Google Shopping Ads With Number Sold Last Week",
+      "url": "https://www.seroundtable.com/google-shopping-ads-sold-last-week-42039.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is showing the number of sold items for a specific product in the Google Shopping Ads format. The ad has an extension added on it that says \"200+ sold last,\" or whatever number it might be.",
+      "category": "SEO",
+      "published": "2026-09-08T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "7cb7e89eeda8",
@@ -554,6 +685,17 @@
       "url": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
       "source": "Google Search Central",
       "summary": "Leer en español",
+      "category": "SEO",
+      "published": "2026-09-08T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "671a9fed35e2",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "category": "SEO",
       "published": "2026-09-08T00:00:00Z",
       "coverage": 1,
@@ -3121,149 +3263,6 @@
       "published": "2026-08-24T11:21:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "5610d3dbae54",
-      "title": "Google Ads Reduces Conversion Cycle For Maximize Conversion Value Bidding",
-      "url": "https://www.seroundtable.com/google-ads-conversion-cycle-max-conv-41919.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the Google Ads help document for About Maximize conversion value bidding with a number of changes. The change that stood out the most was Google lowering the conversion cycles requirement from three cycles to one or two conversion cycles.",
-      "category": "SEO",
-      "published": "2026-08-24T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e7ea45fadf67",
-      "title": "Google Search Console Sends New Owner Email Notifications - Bug?",
-      "url": "https://www.seroundtable.com/google-search-console-new-owner-emails-41932.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Many of you may have woken up this morning to emails from Google Search Console notifying you of a new owner on your Search Console accounts. I received a couple, as did many of you. I was a bit alarmed when I saw it but the notifications were about someone who already had…",
-      "category": "SEO",
-      "published": "2026-08-24T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9ab003d9b54f",
-      "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/",
-      "source": "Search Engine Journal",
-      "summary": "Google explains whether some industries can get away with focusing on search and ignore GEO altogether. The post Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-24T10:52:48Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "de996e9fdd11",
-      "title": "Control Groups and Causal Impact for AI-Visibility ROI",
-      "url": "https://wordlift.io/blog/en/control-groups-and-causal-impact-for-ai-visibility-roi/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Control groups prove causal impact. Assisted-conversion language is what gets it funded. Here's how to use both. The post Control Groups and Causal Impact for AI-Visibility ROI appeared first on WordLift Blog .",
-      "category": "SEO",
-      "published": "2026-08-24T10:10:10Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "08bc1dd76c28",
-      "title": "Google Fixed Favicon Bug & Crawl Stats Missing Data",
-      "url": "https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has fixed two bugs this weekend related to Google Search. The first is the bug with many favicons not showing up in the Google Search result snippets. The second is the bug with two days of data missing from the Google Search Console crawl stats report.",
-      "category": "SEO",
-      "published": "2026-08-24T00:45:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dff8b4b0bc4e",
-      "title": "Ox Alpha is GLM",
-      "url": "https://dejan.ai/blog/ox-alpha/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Prompt injection and gzip-NCD compression analysis reveal that OX Alpha, a mysterious LLM on OpenRouter, is GLM developed by Z.ai.",
-      "category": "GEO",
-      "published": "2026-08-23T03:39:10Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bbdbe4c42067",
-      "title": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
-      "source": "Search Engine Journal",
-      "summary": "Google's August spam update rolls out as generative UI reaches AI Overviews, websites get a new button, and Reddit's ChatGPT citation share falls. The post Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-22T12:30:28Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "26ab254f7092",
-      "title": "Introducing the Dejan Chat Protocol",
-      "url": "https://dejan.ai/blog/introducing-dejan-chat-protocol/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "The DEJAN Chat Protocol is a response format that puts the answer in the first sentence and defers elaboration to the reader's explicit choice.",
-      "category": "SEO",
-      "published": "2026-08-22T04:45:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c4eeb01b0523",
-      "title": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
-      "source": "Search Engine Journal",
-      "summary": "One year of AI Mode data shows people asking questions, not typing fragments, which is why the lead-first paragraph now beats the narrative arc. The post AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-21T19:00:14Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "2140a26f086b",
-      "title": "Paid Media Forecasting: How to Predict Ad Performance (Without Getting It Wrong)",
-      "url": "https://neilpatel.com/blog/paid-media-forecasting/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Your forecast said this campaign would hit a 4x ROAS by month two. Instead, CPCs are up, CTR is sliding, and leadership is asking questions you don’t have good answers to. This isn’t a strategy problem. It’s a forecasting problem. Most paid media forecasts fail not…",
-      "category": "SEO",
-      "published": "2026-08-21T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "76bde8e6a1cf",
-      "title": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
-      "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/",
-      "source": "Search Engine Journal",
-      "summary": "AI labs are buying pre-2022 books to avoid training on AI slop while quietly building text watermarking, exposing why content-at-scale strategies are a losing bet. The post The House Doesn’t Publish Its Tells appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-21T14:30:45Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "395ef7b56246",
-      "title": "10 Fan-Outs for Prompt Research — Whiteboard Friday",
-      "url": "https://moz.com/blog/10-fan-outs-for-prompt-research-whiteboard-friday",
-      "source": "Moz Blog",
-      "summary": "Google uses these 10 query fan-outs to split single prompts into multiple background searches. Learn how to map this behavior in this Whiteboard Friday with Tom Capper.",
-      "category": "GEO",
-      "published": "2026-08-21T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "000e323e76aa",
-      "title": "The Reddit Cloud 100: Ranking B2B SaaS Subreddits by AI Visibility",
-      "url": "https://foundationinc.co/lab/reddit-cloud-100",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "The world’s most valuable private cloud companies spend billions building brand recognition. Yet the correlation between that valuation and how often their Reddit communities get cited in AI answers is virtually zero. Given Reddit threads now rank in Google and feed directly…",
-      "category": "GEO",
-      "published": "2026-08-20T19:45:29Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
