@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T08:13:30Z",
+  "updated": "2026-09-08T10:30:04Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -516,6 +516,39 @@
   ],
   "items": [
     {
+      "id": "7cb7e89eeda8",
+      "title": "Growth Intelligence Brief #24",
+      "url": "https://www.growth-memo.com/p/growth-intelligence-brief-24",
+      "source": "Growth Memo",
+      "summary": "Amazon hits a record low, the IRS loses 60% as Google drops PDFs, AI Overviews open as full AI Mode answers, YouTube and Facebook bounce, Reddit and TikTok slide",
+      "category": "GEO",
+      "published": "2026-09-08T09:27:40Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "c054f65c4079",
+      "title": "GPT-4o Answers Above 77% Internal Confidence and Abstains Below It",
+      "url": "https://dejan.ai/blog/llm-confidence/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "GPT-4o abstains below roughly 77% internal calibrated confidence. Steering that confidence in Gemma 3 27B swung abstention 59.5 percentage points, with an effect roughly ten times larger than question difficulty or retrieval scores.",
+      "category": "GEO",
+      "published": "2026-09-08T08:55:16Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a5ef9cac6351",
+      "title": "Search Central Live is coming to Bogota and Ciudad de México",
+      "url": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
+      "source": "Google Search Central",
+      "summary": "Leer en español",
+      "category": "SEO",
+      "published": "2026-09-08T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "6d5963b49569",
       "title": "Brex ranks #1 on Google. AI recommends someone else.",
       "url": "https://foundationinc.co/lab/vol-308",
@@ -974,8 +1007,8 @@
       "summary": "As you know, Google rolled out Gemini 3.8 Flash for subscribers to AI Mode and some have started to play with it. And the early feedback is that AI Mode running Gemini 3.8 Flash is not link or citation friendly. Meaning, AI Mode with Google's latest AI model is less likely to…",
       "category": "GEO",
       "published": "2026-09-03T11:41:00Z",
-      "coverage": 1,
-      "impact": 6.0
+      "coverage": 2,
+      "impact": 8.0
     },
     {
       "id": "7ac0efaaad61",
@@ -1099,17 +1132,6 @@
       "impact": 4.0
     },
     {
-      "id": "56d1329162e0",
-      "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
-      "source": "Search Engine Journal",
-      "summary": "Google added Gemini 3.8 Flash to AI Mode's model menu on release day. The post Google Adds Gemini 3.8 Flash To AI Mode appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-02T19:41:19Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
       "id": "f885d8bb2904",
       "title": "The Next AI Protocol Won’t Save Your SEO Strategy via @sejournal, @billhunt",
       "url": "https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/",
@@ -1130,17 +1152,6 @@
       "published": "2026-09-02T19:00:00Z",
       "coverage": 1,
       "impact": 0.5
-    },
-    {
-      "id": "897c3bcb8fc1",
-      "title": "Google Search Using Gemini 3.8 Flash In AI Mode",
-      "url": "https://www.seroundtable.com/google-search-ai-mode-gemini-38-42009.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's Robby Stein, VP of Product at Google Search, said on X, \"Gemini 3.8 Flash has landed in Search.\" This comes only a couple of weeks after Google brought Gemini 3.7 Flash to AI Mode within Google Search.",
-      "category": "GEO",
-      "published": "2026-09-02T15:59:00Z",
-      "coverage": 1,
-      "impact": 6.0
     },
     {
       "id": "b057eb879a30",
@@ -1306,17 +1317,6 @@
       "published": "2026-09-02T10:13:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "0746342f8270",
-      "title": "The August 2026 SEO Update by Yoast recap",
-      "url": "https://yoast.com/the-august-2026-seo-update-by-yoast-recap/",
-      "source": "Yoast",
-      "summary": "Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google’s new tools for publishers, the impact of AI on search visibility, and how to adapt to the evolving digital landscape. Watch the full…",
-      "category": "SEO",
-      "published": "2026-09-02T10:00:15Z",
-      "coverage": 1,
-      "impact": 1.0
     },
     {
       "id": "c2071c4b7b73",
@@ -1689,8 +1689,8 @@
       "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search is making AI Overviews fully expanded for some queries, making it more like AI Mode and pushing the core search results…",
       "category": "GEO",
       "published": "2026-08-31T14:00:00Z",
-      "coverage": 1,
-      "impact": 8.0
+      "coverage": 2,
+      "impact": 10.0
     },
     {
       "id": "f75d0464cbbb",
@@ -1711,17 +1711,6 @@
       "summary": "Microsoft Advertising is previewing a new design and usability update for its ad platform. This update has a redesigned navigation and improved tables and layouts. This update should make managing your ad campaigns more efficient and intuitive.",
       "category": "SEO",
       "published": "2026-08-31T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ac4c881f3a6b",
-      "title": "Google Merchant Center Popular Products Enhanced Coverage & Insights",
-      "url": "https://www.seroundtable.com/google-merchant-center-popular-products-report-enhanced-41977.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google posted a note that it has made enhancements to the Merchant Center's Popular products reports. Specifically, the coverage and insights sections were improved back in June of this year, but Google just posted about this information on this past Friday afternoon.",
-      "category": "SEO",
-      "published": "2026-08-31T11:41:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -2122,17 +2111,6 @@
       "impact": 5.0
     },
     {
-      "id": "1fbbfb2668c1",
-      "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
-      "source": "Search Engine Journal",
-      "summary": "Google is replacing site reputation abuse manual actions in the EEA with a system that can rank affected site sections independently. The post Google Updates Site Reputation Abuse (Parasite SEO) Policy appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-08-28T11:18:58Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
       "id": "0ba5fe4cb258",
       "title": "Google Search Having Indexing/Serving Issues August 28th",
       "url": "https://www.seroundtable.com/google-search-indexing-issues-41972.html",
@@ -2177,17 +2155,6 @@
       "impact": 8.0
     },
     {
-      "id": "427fbac870e6",
-      "title": "Google Won't Enforce Its Site Reputation Policy Manual Actions In Europe",
-      "url": "https://www.seroundtable.com/google-site-reputation-policy-eea-41968.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced it will not enforce manual actions under the site reputation abuse policy in the European Economic Area (EEA) due to a mandate set by the European Commission, effective August 30, 2026. Google said searchers in the EEA will not benefit from Google's spam…",
-      "category": "Algorithms",
-      "published": "2026-08-28T05:00:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
       "id": "0b00c80d502c",
       "title": "Supporting Thailand’s next generation of AI startups",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -2206,8 +2173,8 @@
       "summary": "In 2024, we introduced our site reputation policy to stop a practice where third-party content is published on a trusted website just to exploit that site's good reputation to rank higher in Search. This practice hurts search quality, and creates a bad experience for users.",
       "category": "SEO",
       "published": "2026-08-28T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
+      "coverage": 3,
+      "impact": 10.0
     },
     {
       "id": "80e923623e53",
@@ -3264,6 +3231,39 @@
       "published": "2026-08-21T14:30:45Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "395ef7b56246",
+      "title": "10 Fan-Outs for Prompt Research — Whiteboard Friday",
+      "url": "https://moz.com/blog/10-fan-outs-for-prompt-research-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "Google uses these 10 query fan-outs to split single prompts into multiple background searches. Learn how to map this behavior in this Whiteboard Friday with Tom Capper.",
+      "category": "GEO",
+      "published": "2026-08-21T07:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "000e323e76aa",
+      "title": "The Reddit Cloud 100: Ranking B2B SaaS Subreddits by AI Visibility",
+      "url": "https://foundationinc.co/lab/reddit-cloud-100",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "The world’s most valuable private cloud companies spend billions building brand recognition. Yet the correlation between that valuation and how often their Reddit communities get cited in AI answers is virtually zero. Given Reddit threads now rank in Google and feed directly…",
+      "category": "GEO",
+      "published": "2026-08-20T19:45:29Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "3ff942dbfffa",
+      "title": "Personalize the content you see on Search, Discover, and News",
+      "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+      "source": "Google (Search)",
+      "summary": "A woman looks at a phone outdoors",
+      "category": "SEO",
+      "published": "2026-08-20T16:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     }
   ]
 }
