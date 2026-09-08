@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T14:46:18Z",
+  "updated": "2026-09-08T16:15:45Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -515,6 +515,17 @@
   ],
   "items": [
     {
+      "id": "ac29f21d8c21",
+      "title": "Regional Differences In Google Search Experience Documentation",
+      "url": "https://www.seroundtable.com/google-regional-differences-in-search-experience-42044.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has posted a new help document explaining the regional differences in the Google Search experience. This document includes information about search experiences available in certain countries, such as aggregator units, supplier units, and carousels.",
+      "category": "SEO",
+      "published": "2026-09-08T15:08:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "e2643e0c7506",
       "title": "When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc",
       "url": "https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/",
@@ -535,6 +546,17 @@
       "published": "2026-09-08T14:09:20Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "2001e85beea1",
+      "title": "Daily Search Forum Recap: September 8, 2026",
+      "url": "https://www.seroundtable.com/recap-09-08-2026-42041.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-09-08T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "46931b06f368",
@@ -731,17 +753,6 @@
       "summary": "Harvard scored 940 occupations on how morally objectionable the public finds automating them. Search marketing scored low at 2.31 out of 7 The post Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-07T14:30:22Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f6d48c7ffd7a",
-      "title": "Daily Search Forum Recap: September 7, 2026",
-      "url": "https://www.seroundtable.com/recap-09-07-2026-42028.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-09-07T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -3252,17 +3263,6 @@
       "published": "2026-08-24T11:31:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "8be3a7096ef3",
-      "title": "Google Tests Pink Highlights In Featured Snippets",
-      "url": "https://www.seroundtable.com/google-pink-highlights-featured-snippets-41926.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Typically, when Google highlights phrases in a featured snippet or AI Overview within Google Search, the highlighter color is blue. We've seen Google test other colors before, but here is a new one - a pink highlight.",
-      "category": "GEO",
-      "published": "2026-08-24T11:21:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
