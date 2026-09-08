@@ -141,6 +141,12 @@ select.mini:focus{border-color:var(--accent)}
 .comp-badge{font-family:var(--mono); font-size:10px; font-weight:500; letter-spacing:.05em; color:var(--cmc,var(--cat-industry)); border:1px solid color-mix(in srgb, var(--cmc,var(--cat-industry)) 45%, transparent); border-radius:4px; padding:1px 5px}
 .comp-co{font-family:var(--mono); font-size:11.5px; font-weight:500; color:var(--ink)}
 .comp-detail{font-family:var(--mono); font-size:12.5px; font-weight:500; color:var(--ink); margin:6px 0 0}
+.frontfilters{display:flex; flex-wrap:wrap; gap:7px; margin-top:10px}
+.fchip.on{background:var(--cat-industry); border-color:var(--cat-industry); color:var(--surface)}
+.board-group{display:flex; align-items:baseline; gap:9px; margin:20px 0 11px}
+.board-group:first-child{margin-top:4px}
+.board-group-t{font-family:var(--mono); font-size:11px; letter-spacing:.07em; text-transform:uppercase; color:var(--ink)}
+.board-group-n{font-family:var(--mono); font-size:10px; color:var(--faint)}
 .card-cov{color:var(--faint)}
 .card-title{font-family:var(--display); font-weight:600; font-size:17.5px; line-height:1.28; letter-spacing:-.01em; margin:0}
 .card-title a{text-decoration:none}
@@ -202,6 +208,7 @@ footer{border-top:1px solid var(--hair); padding:24px 0 40px; color:var(--faint)
   <div class="controls">
     <input class="search" id="search" type="search" placeholder="Search headlines, summaries, sources…" aria-label="Search stories">
     <div class="filters" id="filters"></div>
+    <div class="frontfilters" id="frontFilters" style="display:none"></div>
   </div>
 
   <main class="feed" id="feed" aria-live="polite"></main>
@@ -316,8 +323,8 @@ const SEED_MILESTONES = [
 // Competitor moves shown before the first live sync (mirrors curated seeds in
 // aggregate.py). Live data.json.competitors replaces this.
 const SEED_COMPETITORS = [
-  {date:"2026-08-17", company:"Higgsfield", move:"Funding", detail:"$400M Series B · $5.4B valuation", title:"Higgsfield raises $400M Series B at a $5.4B valuation", url:"https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html", source:"PR Newswire"},
-  {date:"2026-02-04", company:"ElevenLabs", move:"Funding", detail:"$500M Series D", title:"ElevenLabs raises $500M Series D", url:"https://tracxn.com/d/companies/elevenlabs", source:"Tracxn"}
+  {date:"2026-08-17", company:"Higgsfield", front:"GenAI Media", move:"Funding", detail:"$400M Series B · $5.4B valuation", title:"Higgsfield raises $400M Series B at a $5.4B valuation", url:"https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html", source:"PR Newswire"},
+  {date:"2026-02-04", company:"ElevenLabs", front:"GenAI Media", move:"Funding", detail:"$500M Series D", title:"ElevenLabs raises $500M Series D", url:"https://tracxn.com/d/companies/elevenlabs", source:"Tracxn"}
 ];
 
 const CATS = {
@@ -328,7 +335,7 @@ const CATS = {
 };
 const CAT_ORDER = Object.keys(CATS);
 
-const state = { items:[], usingSeed:false, q:"", cats:new Set(), source:"all", sort:"top" };
+const state = { items:[], usingSeed:false, q:"", cats:new Set(), source:"all", sort:"top", front:"all" };
 
 // Priority = static impact (from the aggregator) blended with live recency, so a
 // high-impact story stays near the top for a few days while trivia decays fast.
@@ -437,8 +444,9 @@ function currentList(){
 }
 
 function renderFeed(){
-  const feed=document.getElementById("feed"), empty=document.getElementById("empty");
-  if(state.cats.has("Industry")){ renderCompetitorBoard(feed,empty); return; }
+  const feed=document.getElementById("feed"), empty=document.getElementById("empty"), ff=document.getElementById("frontFilters");
+  if(state.cats.has("Industry")){ ff.style.display=""; renderFrontFilters(ff); renderCompetitorBoard(feed,empty); return; }
+  ff.style.display="none";
   const list=currentList();
   if(!list.length){ feed.innerHTML=""; empty.style.display="block"; return; }
   empty.style.display="none";
@@ -459,26 +467,49 @@ function renderFeed(){
   }).join("");
 }
 
+const FRONT_ORDER=["GenAI Media","Creative","Documents"];
+
+function renderFrontFilters(box){
+  const fronts=["all",...FRONT_ORDER];
+  box.innerHTML=fronts.map(f=>`<button class="chip fchip${state.front===f?" on":""}" type="button" data-f="${esc(f)}">${f==="all"?"All fronts":esc(f)}</button>`).join("");
+  box.querySelectorAll("button").forEach(b=>b.onclick=()=>{ state.front=b.getAttribute("data-f"); renderFeed(); });
+}
+
+function compCard(m){
+  const mv=(m.move||"News").toLowerCase().replace(/[^a-z]/g,"");
+  const d=new Date((m.date||"")+"T00:00:00");
+  const dstr=isNaN(d)?esc(m.date||""):d.toLocaleDateString(undefined,{day:"numeric",month:"short",year:"numeric"});
+  const title=m.url?`<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.title)}</a>`:esc(m.title);
+  return `<article class="card comp cmove-${mv}">
+    <div class="card-meta"><span class="comp-badge">${esc((m.move||"News").toUpperCase())}</span>
+      <span class="m-sep">·</span><span class="comp-co">${esc(m.company||"")}</span>
+      <span class="m-sep">·</span><span>${dstr}</span>
+      <span class="m-sep">·</span><span>${esc(m.source||"")}</span></div>
+    <h3 class="card-title">${title}</h3>
+    ${m.detail?`<p class="comp-detail">${esc(m.detail)}</p>`:""}
+  </article>`;
+}
+
 function renderCompetitorBoard(feed,empty){
   let list=(state.competitors||[]).slice();
+  if(state.front!=="all") list=list.filter(m=>(m.front||"")===state.front);
   if(state.q){ const q=state.q.toLowerCase(); list=list.filter(m=>(m.company+" "+m.title+" "+(m.detail||"")+" "+m.move).toLowerCase().includes(q)); }
-  list.sort((a,b)=> a.date<b.date?1:-1);
   if(!list.length){ feed.innerHTML=""; empty.style.display="block"; return; }
   empty.style.display="none";
-  feed.innerHTML=list.map(m=>{
-    const mv=(m.move||"News").toLowerCase().replace(/[^a-z]/g,"");
-    const d=new Date((m.date||"")+"T00:00:00");
-    const dstr=isNaN(d)?esc(m.date||""):d.toLocaleDateString(undefined,{day:"numeric",month:"short",year:"numeric"});
-    const title=m.url?`<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.title)}</a>`:esc(m.title);
-    return `<article class="card comp cmove-${mv}">
-      <div class="card-meta"><span class="comp-badge">${esc((m.move||"News").toUpperCase())}</span>
-        <span class="m-sep">·</span><span class="comp-co">${esc(m.company||"")}</span>
-        <span class="m-sep">·</span><span>${dstr}</span>
-        <span class="m-sep">·</span><span>${esc(m.source||"")}</span></div>
-      <h3 class="card-title">${title}</h3>
-      ${m.detail?`<p class="comp-detail">${esc(m.detail)}</p>`:""}
-    </article>`;
-  }).join("");
+  const byDate=(a,b)=> a.date<b.date?1:-1;
+  if(state.front==="all"){
+    let html="";
+    FRONT_ORDER.forEach(fr=>{
+      const g=list.filter(m=>(m.front||"")===fr).sort(byDate);
+      if(!g.length) return;
+      html+=`<div class="board-group"><span class="board-group-t">${esc(fr)}</span><span class="board-group-n">${g.length}</span></div>`+g.map(compCard).join("");
+    });
+    const other=list.filter(m=>!FRONT_ORDER.includes(m.front||"")).sort(byDate);
+    if(other.length) html+=`<div class="board-group"><span class="board-group-t">Other</span><span class="board-group-n">${other.length}</span></div>`+other.map(compCard).join("");
+    feed.innerHTML=html;
+  } else {
+    feed.innerHTML=list.sort(byDate).map(compCard).join("");
+  }
 }
 
 function renderFooter(){
