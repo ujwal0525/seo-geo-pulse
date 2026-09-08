@@ -85,9 +85,15 @@ FEEDS = [
 # SEO/GEO/Algorithms feed — an item surfaces only if it names a tracked
 # competitor (see COMPETITORS) and reads like a real move.
 INTEL_FEEDS = [
-    {"name": "TechCrunch",  "url": "https://techcrunch.com/feed/"},
-    {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
-    {"name": "The Verge",   "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "TechCrunch",     "url": "https://techcrunch.com/feed/"},
+    {"name": "VentureBeat",    "url": "https://venturebeat.com/feed/"},
+    {"name": "The Verge",      "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "FinSMEs",        "url": "https://www.finsmes.com/feed"},               # funding rounds, broad
+    {"name": "Marketing Dive", "url": "https://www.marketingdive.com/feeds/news/"},  # campaigns / marketing moves
+    {"name": "Creative Bloq",  "url": "https://www.creativebloq.com/feed"},          # creative-tool news
+    {"name": "Engadget",       "url": "https://www.engadget.com/rss.xml"},           # broad consumer tech
+    # ↓ add competitors' own newsrooms here for guaranteed first-party coverage,
+    #   e.g. {"name": "Canva", "url": "https://…/feed"} — paste their RSS like the SEO feeds.
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -435,27 +441,29 @@ COMPETITOR_MAX_AGE_DAYS = 200
 COMPETITOR_MAX = 60
 
 # name -> match keywords (lowercased). Edit freely; grouped by Adobe front.
-COMPETITORS = {
-    # Generative AI media (Firefly)
-    "Midjourney": ["midjourney"], "Runway": ["runwayml", "runway ml", "runway"],
-    "Stability AI": ["stability ai", "stable diffusion"], "Leonardo AI": ["leonardo.ai", "leonardo ai"],
-    "Ideogram": ["ideogram"], "Recraft": ["recraft"], "Freepik": ["freepik"],
-    "Higgsfield": ["higgsfield"], "Pika": ["pika labs", "pika "], "Luma AI": ["luma ai", "luma labs"],
-    "Krea": ["krea ai", "krea "], "ElevenLabs": ["elevenlabs", "eleven labs"],
-    # Creative & design
-    "Canva": ["canva"], "Figma": ["figma"], "Affinity": ["affinity"], "Framer": ["framer"],
-    "CorelDRAW": ["coreldraw", "corel"],
-    # Video
-    "CapCut": ["capcut"], "Descript": ["descript"], "HeyGen": ["heygen"], "Synthesia": ["synthesia"],
-    # Documents & e-sign (Acrobat)
-    "DocuSign": ["docusign"], "Dropbox Sign": ["dropbox sign", "hellosign"], "PandaDoc": ["pandadoc"],
-    "Foxit": ["foxit"], "Nitro": ["nitro pdf", "nitro software"], "Smallpdf": ["smallpdf"],
-    # Marketing & experience
-    "Salesforce": ["salesforce"], "HubSpot": ["hubspot"], "Braze": ["braze"],
-    "Optimizely": ["optimizely"], "Contentful": ["contentful"],
-    # Stock / answer
-    "Shutterstock": ["shutterstock"], "Getty Images": ["getty images"], "Perplexity": ["perplexity"],
+COMPETITOR_FRONTS = {
+    "GenAI Media": {
+        "Midjourney": ["midjourney"], "Runway": ["runwayml", "runway ml", "runway"],
+        "Stability AI": ["stability ai", "stable diffusion"], "Leonardo AI": ["leonardo.ai", "leonardo ai"],
+        "Ideogram": ["ideogram"], "Recraft": ["recraft"], "Freepik": ["freepik"],
+        "Higgsfield": ["higgsfield"], "Pika": ["pika labs", "pika "], "Luma AI": ["luma ai", "luma labs"],
+        "Krea": ["krea ai", "krea "], "ElevenLabs": ["elevenlabs", "eleven labs"],
+        "HeyGen": ["heygen"], "Synthesia": ["synthesia"], "Descript": ["descript"],
+        "Shutterstock": ["shutterstock"], "Getty Images": ["getty images"],
+    },
+    "Creative": {
+        "Canva": ["canva"], "Figma": ["figma"], "Affinity": ["affinity"], "Framer": ["framer"],
+        "CorelDRAW": ["coreldraw", "corel"], "CapCut": ["capcut"],
+    },
+    "Documents": {
+        "DocuSign": ["docusign"], "Dropbox Sign": ["dropbox sign", "hellosign"], "PandaDoc": ["pandadoc"],
+        "Foxit": ["foxit"], "Nitro": ["nitro pdf", "nitro software"], "Smallpdf": ["smallpdf"],
+    },
 }
+# derived: flat name->keywords for matching, and name->front for grouping
+COMPETITORS = {name: kws for comps in COMPETITOR_FRONTS.values() for name, kws in comps.items()}
+COMPETITOR_FRONT = {name: front for front, comps in COMPETITOR_FRONTS.items() for name in comps}
+FRONT_ORDER = list(COMPETITOR_FRONTS.keys())
 
 # move classification, checked in order (M&A and funding before launches)
 MOVE_RULES = [
@@ -473,12 +481,12 @@ _AMT_RE = re.compile(r"\$\s?\d[\d.,]*\s?(?:billion|million|bn|b|m)\b", re.I)
 
 # Pinned competitor moves (edit freely).
 CURATED_COMPETITOR_MOVES = [
-    {"date": "2026-08-17", "company": "Higgsfield", "move": "Funding",
+    {"date": "2026-08-17", "company": "Higgsfield", "front": "GenAI Media", "move": "Funding",
      "detail": "$400M Series B · $5.4B valuation",
      "title": "Higgsfield raises $400M Series B at a $5.4B valuation",
      "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
      "source": "PR Newswire", "curated": True},
-    {"date": "2026-02-04", "company": "ElevenLabs", "move": "Funding",
+    {"date": "2026-02-04", "company": "ElevenLabs", "front": "GenAI Media", "move": "Funding",
      "detail": "$500M Series D",
      "title": "ElevenLabs raises $500M Series D",
      "url": "https://tracxn.com/d/companies/elevenlabs", "source": "Tracxn", "curated": True},
@@ -520,8 +528,9 @@ def detect_competitor_move(item: dict, from_intel: bool, impact: float = 0, cove
     has_amount = bool(detail)
     # significance gate
     if from_intel:
-        # intel feeds are already niche; a funding claim still wants a size or corroboration
-        if move in ("Funding", "M&A") and not has_amount and coverage < 2:
+        # intel feeds are already niche; only a funding claim needs a size or corroboration
+        # (M&A is significant even with undisclosed terms; launches/campaigns pass)
+        if move == "Funding" and not has_amount and coverage < 2:
             return None
     else:
         # general SEO/GEO feeds: only concrete moves with real weight, never generic mentions
@@ -531,7 +540,8 @@ def detect_competitor_move(item: dict, from_intel: bool, impact: float = 0, cove
             return None
     return {
         "date": (item.get("published") or now_iso())[:10],
-        "company": company, "move": move, "detail": detail,
+        "company": company, "front": COMPETITOR_FRONT.get(company, ""),
+        "move": move, "detail": detail,
         "title": item.get("title", ""), "url": item.get("url", ""),
         "source": item.get("source", ""), "curated": False,
     }
