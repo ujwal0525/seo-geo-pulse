@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T08:13:30Z",
+  "updated": "2026-09-09T12:16:04Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -768,6 +768,18 @@
       "id": "c90b8d71da95"
     },
     {
+      "date": "2026-09-03",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "The One Club and CapCut announce global AI partnership",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG5MSDJrLXUwcnd3RC1URmdKa0t0TklPZmJEaUJyd1VuNG1zeEpsa1V5NUZrUE9pVVdaU1MzRks3czdfb3U0V0pXd3Jpbi1OMHRBTjRuXzBRd1VvbDRSWmZERlg1ZGRzVlYzeTFRb21mVzB4UFZjUFktSEFOYUluMmdLUVMtZUwtM2pCX0VBRXVBcTA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "09fb518a76d3"
+    },
+    {
       "date": "2026-09-02",
       "company": "Salesforce",
       "move": "Funding",
@@ -837,18 +849,6 @@
       "source": "Google News",
       "curated": false,
       "id": "d535d33c1c91"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "The One Club and CapCut Announce Major Global AI Partnership",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREJJSlpuaUlGNXhHWTRCUk9qakwwSkpJSEx6U1FwUG93SnV2UXc3dXdhNGM2S0VibFdJZTNfdFhGNktPMVhWYkhid0xuV05OYTFOS2V3UzhEamZqQ2RfYTNkVlFTS0FHMWVSLVRya3hlZTJpRkU0LS1XRWcwTnNyZEJpR0d0ZHVjYW1N?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6efdfdf7250e"
     },
     {
       "date": "2026-09-02",
@@ -1150,6 +1150,72 @@
     }
   ],
   "items": [
+    {
+      "id": "93b558e2c009",
+      "title": "Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/brands-are-tracking-ai-visibility-but-are-they-measuring-the-right-things/587888/",
+      "source": "Search Engine Journal",
+      "summary": "AI visibility tools track brand mentions and citations, but marketers need outcome data to know what those movements mean and what to do next. The post Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-09T12:00:30Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "5fc5d5cc6d2e",
+      "title": "Almost 100% Of People Also Ask Results Are Answered By Google AI Overviews",
+      "url": "https://www.seroundtable.com/ppa-ai-overviews-google-42047.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is now answering nearly 100% of all people also asked questions with AI Overviews. 14 months ago, it was only at about 12% but now we are seeing thar nearly all People also ask sections are answered by AI Overviews.",
+      "category": "GEO",
+      "published": "2026-09-09T11:21:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "5b7df29a62ed",
+      "title": "Google Ads Location Asset Requirements Update",
+      "url": "https://www.seroundtable.com/google-ads-location-asset-requirements-update-42046.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated its location asset requirements for Google Ads. Google said it made these updates to \"improve terminology, enhance readability, and include troubleshooting steps applicable to advertisers using location assets.\"",
+      "category": "SEO",
+      "published": "2026-09-09T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b6c4ec9f3127",
+      "title": "Google Confirmed Indexing Reporting Bug From Yesterday As Short Blip",
+      "url": "https://www.seroundtable.com/google-confirmed-indexing-reporting-bug-from-last-night-42051.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Yesterday, for a short period of time, Google Search Console was reporting pages as not being indexed and in the status of \"Crawled - currently not indexed.\" The issue seemed to have been resolved within an hour or so and now John Mueller from Google confirmed what we all saw…",
+      "category": "SEO",
+      "published": "2026-09-09T09:59:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "a566baa1a7a9",
+      "title": "How to build your first AI SEO agent (full walk-through)",
+      "url": "https://www.semrush.com/blog/seo-ai-agent/",
+      "source": "Semrush Blog",
+      "summary": "Learn how to build an AI SEO agent from scratch to automate important tasks like keyword research and topic clustering.",
+      "category": "SEO",
+      "published": "2026-09-09T09:38:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "e444f60db7e7",
+      "title": "9 best AI search engines in 2026 [tested & reviewed]",
+      "url": "https://www.semrush.com/blog/best-ai-search-engines/",
+      "source": "Semrush Blog",
+      "summary": "We reviewed the best AI search engines so you can choose the right one for your needs.",
+      "category": "GEO",
+      "published": "2026-09-09T09:22:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "634bb0d1def5",
       "title": "The AI Citation Mistake: Optimizing For Google, Not For Sources via @sejournal, @lorenbaker",
@@ -3833,72 +3899,6 @@
       "published": "2026-08-25T07:45:03Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "829e237a888d",
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "category": "SEO",
-      "published": "2026-08-25T07:05:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "9ad99bb5f40a",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "category": "SEO",
-      "published": "2026-08-25T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6af27fc2b05c",
-      "title": "Local SEO That Actually Works: Some Assembly Required (AI Not Included)",
-      "url": "https://moz.com/blog/local-seo-actually-works",
-      "source": "Moz Blog",
-      "summary": "Traffic, rankings, and content output are all up. GBP actions are flat. Amanda Jordan explains why local SEO breaks at scale and shares the SEO-first audit framework that fixes it.",
-      "category": "SEO",
-      "published": "2026-08-25T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "20cb776024f2",
-      "title": "Anti-AI sentiment attaches to visible AI: labels, generated media, chatbots and data centers",
-      "url": "https://dejan.ai/blog/invisible-ai/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Experiments and survey data show growing public distrust of AI, with labels reducing content value and widespread opposition to local data centers.",
-      "category": "SEO",
-      "published": "2026-08-25T06:10:46Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "da55f7d7bd9d",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "category": "SEO",
-      "published": "2026-08-25T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "cfc376addf8c",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "category": "GEO",
-      "published": "2026-08-25T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
