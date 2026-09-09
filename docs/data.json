@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T05:57:08Z",
+  "updated": "2026-09-09T08:13:30Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -447,6 +447,18 @@
       "id": "65936c545fde"
     },
     {
+      "date": "2026-09-09",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Livewire launches first gaming integration on Canva, opening self-serve in-game ads",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakkxRktoaVZua2JHN3RZdDBiU0ZQOUV4MWhtT1NOX0VjanRZMDVuemdmSVVnWWIwWXRjckVVdUVDY2NxaUg2cjRISUdmaWo5M0FpUFNmTDgyR2N5eHZoenh3c21xVFhrSWpfeWZaZ05kYkd5LS1BYm5FXzROOUhXTUF2cTN3ekJ4ZFYzM1F5REJrMm9lamFIQzRlMWlJUTc3TWxJdmpkazZmRGdHUmVR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9c6b4431f0a0"
+    },
+    {
       "date": "2026-09-08",
       "company": "Runway",
       "front": "GenAI Media",
@@ -875,6 +887,18 @@
       "id": "d4b9e459defa"
     },
     {
+      "date": "2026-09-02",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$7.6M · $470M",
+      "title": "Pika Revenue 2024: $7.6M ARR, $470M Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4SzZ0TmNKeTNWS1JHUEtyRVpTeGtzbjdzb1BkeW5WMDlDeFlQUlYzcTctdFg2NGFTdDhpcVNtemNxcXNuYkpSRUNZbw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "38f1082e66da"
+    },
+    {
       "date": "2026-09-01",
       "company": "Canva",
       "move": "News",
@@ -1123,33 +1147,20 @@
       "source": "Google News",
       "curated": false,
       "id": "7b563706c0c0"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76M",
-      "title": "Stability AI’s New $76M Funding Round Is Backed by Universal, Sony and Warner",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHFzS2gwU1U5ZnM2X2xMbHUxaGp2NTZmUVVvOVBZVnh5RHlRYkVjcmpqNWJXRE81QTFkazZDUGVZRTBiWlZJVDRvc2pLc1hIMVVGLXFrZjVMeE50aHYyMWdlX0prR01BWWdWdjZXZjh6eS10NjBmNlVXVm9MSWp3dlRFbDFXdG4tYTUzemdzOVlTcXM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5bd368757dbe"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 Million",
-      "title": "Stability AI raises $76 Million in funding round backed by Universal Music Group, Warner Music Group, Sony Music Group and Electronic Arts - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOb2o2SG03NnhkMXhQT3NacUE2ODNXTVJrTmRXVWRhcjJHY3JSTlZVazBaclFETzhPUTA3ZWJzV0Mxc1RyTGJ2NW9BTjNDSUFWbGJBSVZKRTFVYzNEQkJkeDRpRTNnT3YwRUZQaEFMVEdUemFqbHQ1b3FzM0NzcVZuWEtvV0lrVkVLNEVDbGFCenZOMXplenJrTE9WUjRaU3ZrWHJqT3FQUk9hOXhsQ3J5bm5FazJkVjhTbWNYWlE4VUVFbHFVaWk2MU5HZmZDaXNNbmpIX25ENEJFUHo3RFVpLU8zbk92czFwczctNVRLSVYxSW5SWHdQdWp2b0NBb3F4RUZjejlZWktQM01xRlU0ZDV2T3hkdFFqdm5yd3k5T01Obkd5VlowZHBLakQyak1faGplR1ZncTI?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "bf37c5f78a53"
     }
   ],
   "items": [
+    {
+      "id": "634bb0d1def5",
+      "title": "The AI Citation Mistake: Optimizing For Google, Not For Sources via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/the-ai-citation-mistake-optimizing-for-google-not-for-sources-webinar/588522/",
+      "source": "Search Engine Journal",
+      "summary": "Page-one rankings don't earn AI citations. Learn which sources ChatGPT, Perplexity, and Gemini trust in your industry, and how to get published by them. The post The AI Citation Mistake: Optimizing For Google, Not For Sources appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-09T07:45:41Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "ff4fdc913dd4",
       "title": "AI Visibility For Local Businesses: How To Get Recommended By ChatGPT & AI Overviews In 90 Days via @sejournal, @reviewlyAI",
@@ -3888,17 +3899,6 @@
       "published": "2026-08-25T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "686ada77dc2b",
-      "title": "Gong showed up in 100% of AI threads but won only 3. Here’s what decided it.",
-      "url": "https://foundationinc.co/lab/vol-306",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Our team asked ChatGPT and Claude the same question 11 times: “Which revenue intelligence platform should replace our stack before we onboard five new SDRs next month?” Gong showed up in all 11 threads. It won three. Showing up in an AI answer and being the AI’s recommendation…",
-      "category": "GEO",
-      "published": "2026-08-24T19:53:30Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
