@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T00:19:19Z",
+  "updated": "2026-09-09T04:12:12Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -524,6 +524,28 @@
     }
   ],
   "items": [
+    {
+      "id": "52314032b709",
+      "title": "Google Ads Introduces Local Customer Optimization via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-introduces-local-customer-optimization/588886/",
+      "source": "Search Engine Journal",
+      "summary": "Google Ads brings Local Customer Optimization to Performance Max and easier Store Sales measurement to help retailers drive and measure in-store purchases. The post Google Ads Introduces Local Customer Optimization appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-09T02:54:24Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5cfa70bc4e87",
+      "title": "Google Rolls Out Redesigned Search Results Across The EEA via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-rolls-out-redesigned-search-results-across-the-eea/588870/",
+      "source": "Search Engine Journal",
+      "summary": "Google rolled out redesigned Search results in the EEA, reworking aggregator units and adding supplier units for hotel, flight, transport, and product queries. The post Google Rolls Out Redesigned Search Results Across The EEA appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-09T00:41:01Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "dca61c7742fa",
       "title": "UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
@@ -3251,28 +3273,6 @@
       "published": "2026-08-24T19:18:49Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "da7ab1f6f94b",
-      "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
-      "source": "Search Engine Journal",
-      "summary": "Pew found AI authorship signs on 10% of sampled webpages and 35% of pages carrying a post-ChatGPT publication date. The post 1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-24T18:50:15Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f1b66bb83b10",
-      "title": "How to Start a Franchise Business (2026 Guide)",
-      "url": "https://neilpatel.com/blog/start-franchise-business/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Learning how to start a franchise can be a great way to become a business owner. To launch a business, you need to perform market research, file for a license, create a marketing plan, and build your brand. Buying a franchise location within a corporation that’s…",
-      "category": "SEO",
-      "published": "2026-08-24T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
     }
   ]
 }
