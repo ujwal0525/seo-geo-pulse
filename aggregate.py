@@ -449,15 +449,24 @@ COMPETITOR_FRONTS = {
         "Higgsfield": ["higgsfield"], "Pika": ["pika labs", "pika "], "Luma AI": ["luma ai", "luma labs"],
         "Krea": ["krea ai", "krea "], "ElevenLabs": ["elevenlabs", "eleven labs"],
         "HeyGen": ["heygen"], "Synthesia": ["synthesia"], "Descript": ["descript"],
+        "Photoroom": ["photoroom"], "Black Forest Labs": ["black forest labs", "flux.1", "flux ai"],
+        "Kling AI": ["kling ai"], "Topaz Labs": ["topaz labs", "gigapixel"], "Pixlr": ["pixlr"],
         "Shutterstock": ["shutterstock"], "Getty Images": ["getty images"],
     },
     "Creative": {
         "Canva": ["canva"], "Figma": ["figma"], "Affinity": ["affinity"], "Framer": ["framer"],
         "CorelDRAW": ["coreldraw", "corel"], "CapCut": ["capcut"],
+        "Penpot": ["penpot"], "Photopea": ["photopea"], "VistaCreate": ["vistacreate"],
+        "Visme": ["visme"], "Piktochart": ["piktochart"],
     },
     "Documents": {
         "DocuSign": ["docusign"], "Dropbox Sign": ["dropbox sign", "hellosign"], "PandaDoc": ["pandadoc"],
         "Foxit": ["foxit"], "Nitro": ["nitro pdf", "nitro software"], "Smallpdf": ["smallpdf"],
+        "Wondershare PDFelement": ["pdfelement", "wondershare pdf"], "iLovePDF": ["ilovepdf"],
+        "Sejda": ["sejda"], "Soda PDF": ["soda pdf"], "pdfFiller": ["pdffiller"],
+        "airSlate": ["airslate"], "SignNow": ["signnow"], "Signeasy": ["signeasy"],
+        "Zoho Sign": ["zoho sign"], "OneSpan": ["onespan"], "PDF Expert": ["pdf expert", "readdle"],
+        "UPDF": ["updf"], "CamScanner": ["camscanner"], "Proposify": ["proposify"], "Qwilr": ["qwilr"],
     },
 }
 # derived: flat name->keywords for matching, and name->front for grouping
@@ -465,16 +474,35 @@ COMPETITORS = {name: kws for comps in COMPETITOR_FRONTS.values() for name, kws i
 COMPETITOR_FRONT = {name: front for front, comps in COMPETITOR_FRONTS.items() for name in comps}
 FRONT_ORDER = list(COMPETITOR_FRONTS.keys())
 
+
+def _gnews_url(company: str) -> str:
+    from urllib.parse import quote
+    return ("https://news.google.com/rss/search?q="
+            + quote(f'"{company}" when:45d')
+            + "&hl=en-US&gl=US&ceid=US:en")
+
+
+# One Google News search feed per tracked competitor — this is how the tool
+# actively "looks up" each company (rather than waiting for the general press to
+# mention it). Items are attributed to that company, then filtered to real moves
+# (funding / launch / partnership / M&A) by the gate in detect_competitor_move.
+COMPETITOR_NEWS_FEEDS = [
+    {"name": f"News · {name}", "url": _gnews_url(name), "company": name}
+    for name in COMPETITORS
+]
+
 # move classification, checked in order (M&A and funding before launches)
 MOVE_RULES = [
-    ("M&A",      ["acquires", "acquired", "acquisition", "to acquire", "merger", "buys "]),
-    ("Funding",  ["raises", "raised", "series a", "series b", "series c", "series d",
-                  "series e", "funding round", "seed round", "valuation", "secures $",
-                  "closes $", "investment round", "raise "]),
-    ("Campaign", ["ad campaign", "goes viral", "viral campaign", "super bowl ad",
-                  "rebrand", "brand refresh", "marketing campaign"]),
-    ("Launch",   ["launches", "launched", "unveils", "unveiled", "introduces", "introducing",
-                  "releases", "released", "rolls out", "new model", "now available", "debuts"]),
+    ("M&A",         ["acquires", "acquired", "acquisition", "to acquire", "merger", "buys "]),
+    ("Funding",     ["raises", "raised", "series a", "series b", "series c", "series d",
+                     "series e", "funding round", "seed round", "valuation", "secures $",
+                     "closes $", "investment round", "raise "]),
+    ("Partnership", ["partners with", "partnership", "collaborat", "teams up", "joins forces",
+                     "integration with", "integrates with", "team up with", "strategic alliance"]),
+    ("Campaign",    ["ad campaign", "goes viral", "viral campaign", "super bowl ad",
+                     "rebrand", "brand refresh", "marketing campaign"]),
+    ("Launch",      ["launches", "launched", "unveils", "unveiled", "introduces", "introducing",
+                     "releases", "released", "rolls out", "new model", "now available", "debuts"]),
 ]
 
 _AMT_RE = re.compile(r"\$\s?\d[\d.,]*\s?(?:billion|million|bn|b|m)\b", re.I)
@@ -518,26 +546,22 @@ def extract_detail(text: str) -> str:
     return " · ".join(seen[:2])
 
 
-def detect_competitor_move(item: dict, from_intel: bool, impact: float = 0, coverage: int = 1):
+def detect_competitor_move(item: dict, from_intel: bool, impact: float = 0,
+                           coverage: int = 1, company: str = None):
     text = f"{item.get('title','')} {item.get('summary','')}"
-    company = match_competitor(text)
+    if company is None:
+        company = match_competitor(text)
     if not company:
         return None
     move = classify_move(text)
+    if move == "News":
+        return None                       # only concrete moves ever reach the board
     detail = extract_detail(text)
     has_amount = bool(detail)
-    # significance gate
-    if from_intel:
-        # intel feeds are already niche; only a funding claim needs a size or corroboration
-        # (M&A is significant even with undisclosed terms; launches/campaigns pass)
-        if move == "Funding" and not has_amount and coverage < 2:
-            return None
-    else:
-        # general SEO/GEO feeds: only concrete moves with real weight, never generic mentions
-        if move == "News":
-            return None
-        if not has_amount and coverage < 2 and impact < 6:
-            return None
+    if move == "Funding" and not has_amount and coverage < 2:
+        return None                       # a raise with no size and no corroboration
+    if not from_intel and not has_amount and coverage < 2 and impact < 6:
+        return None                       # general SEO/GEO feeds need real weight
     return {
         "date": (item.get("published") or now_iso())[:10],
         "company": company, "front": COMPETITOR_FRONT.get(company, ""),
@@ -781,7 +805,8 @@ def build_dataset(new_items: list, existing: dict, intel_items: list = None) -> 
         row = {"title": it.get("title", ""), "summary": it.get("summary", ""),
                "source": it.get("source", ""), "url": it.get("url", ""),
                "published": to_iso(it["published_dt"]) if it.get("published_dt") else now_iso()}
-        m = detect_competitor_move(row, from_intel=True, impact=imp, coverage=1)
+        m = detect_competitor_move(row, from_intel=True, impact=imp, coverage=1,
+                                   company=it.get("_company"))
         if m:
             moves.append(m)
     competitors = merge_competitor_moves(existing.get("competitors", []),
@@ -823,6 +848,15 @@ def main() -> None:
     intel_items = []
     for feed in INTEL_FEEDS:
         intel_items.extend(fetch_feed(feed))
+    import time
+    print(f"  searching news for {len(COMPETITOR_NEWS_FEEDS)} tracked competitors…")
+    for feed in COMPETITOR_NEWS_FEEDS:
+        for it in fetch_feed(feed):
+            it["title"] = re.sub(r"\s+-\s+[^-]+$", "", it["title"]).strip() or it["title"]
+            it["source"] = "Google News"
+            it["_company"] = feed["company"]
+            intel_items.append(it)
+        time.sleep(0.4)   # be polite to Google News
     ds = build_dataset(new_items, existing, intel_items)
     write_dataset(ds)
     by_cat = {}
