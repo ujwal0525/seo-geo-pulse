@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T12:16:04Z",
+  "updated": "2026-09-09T16:13:33Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -17,9 +17,30 @@
     "Search Engine Roundtable",
     "Semrush Blog",
     "SparkToro",
-    "Yoast"
+    "Yoast",
+    "Zyppy Signal"
   ],
   "milestones": [
+    {
+      "date": "2026-09-09",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Merchant Center AI Performance: AI Search Intent, Terms & Attribution",
+      "url": "https://www.seroundtable.com/google-merchant-center-ai-performance-new-42043.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "9eb3068165ac"
+    },
+    {
+      "date": "2026-09-09",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Ads Local Customer Optimization & Store Sales In Data Manager",
+      "url": "https://www.seroundtable.com/google-ads-local-customer-optimization-store-sales-42045.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "3bc67073b022"
+    },
     {
       "date": "2026-09-08",
       "family": "model",
@@ -1151,6 +1172,72 @@
   ],
   "items": [
     {
+      "id": "91d5074fb05a",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google (Search)",
+      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+      "category": "GEO",
+      "published": "2026-09-09T16:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "427f69d2b59d",
+      "title": "Education Marketing: A Complete Guide for 2026",
+      "url": "https://neilpatel.com/blog/educational-marketing/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways The global education sector is set to reach $10 trillion in value by 2030, powered by growth in developing markets as well as education technology reaching new heights. Both of those factors add up to a lot of competition out there for your education business or…",
+      "category": "SEO",
+      "published": "2026-09-09T16:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "ffbe3cd770c1",
+      "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
+      "url": "https://www.semrush.com/blog/seoquake-relaunch/",
+      "source": "Semrush Blog",
+      "summary": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser.",
+      "category": "SEO",
+      "published": "2026-09-09T15:37:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "0f1e2162e5d3",
+      "title": "How AI Is Reshaping Search Intent – What 2 Studies Reveal via @sejournal, @ClaraSoteras",
+      "url": "https://www.searchenginejournal.com/how-ai-is-reshaping-search-intent-what-2-studies-reveal/587491/",
+      "source": "Search Engine Journal",
+      "summary": "Search intent is fracturing across AI Mode, video platforms, and zero-click results and Google's own metrics reveal what actually earns clicks now. The post How AI Is Reshaping Search Intent – What 2 Studies Reveal appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-09T14:30:47Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "1d273d1c7af8",
+      "title": "Daily Search Forum Recap: September 9, 2026",
+      "url": "https://www.seroundtable.com/recap-09-09-2026-42052.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google said with SEO...",
+      "category": "SEO",
+      "published": "2026-09-09T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5d239dcd63e0",
+      "title": "2026 Google Ranking Factors Expert Survey",
+      "url": "https://signal.zyppy.com/p/google-ranking-factors-expert-survey",
+      "source": "Zyppy Signal",
+      "summary": "We asked 131 SEOs, including some of the most respected in the industry, what factors are most important for ranking on Google in 2026.",
+      "category": "SEO",
+      "published": "2026-09-09T13:08:41Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
       "id": "93b558e2c009",
       "title": "Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/brands-are-tracking-ai-visibility-but-are-they-measuring-the-right-things/587888/",
@@ -1160,6 +1247,39 @@
       "published": "2026-09-09T12:00:30Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "51e5ef266fc7",
+      "title": "Google: Sometimes There Is No Absolute Right Answer For SEO",
+      "url": "https://www.seroundtable.com/google-no-absolute-right-seo-answer-42048.html",
+      "source": "Search Engine Roundtable",
+      "summary": "John Mueller has one of his Google lines again, he said in response to someone trying to pick the right answer for an SEO question - he said, \"Sometimes there is no absolute right answer -- but you can choose one, and make it the right answer.\"",
+      "category": "SEO",
+      "published": "2026-09-09T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c480be8717c9",
+      "title": "Google Merchant Center AI Performance: AI Search Intent, Terms & Attribution",
+      "url": "https://www.seroundtable.com/google-merchant-center-ai-performance-new-42043.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The Google Merchant Center AI Performance Insights which launched in July and has begun expanding to more regions earlier this month has also gained new metrics. AI Search intent, AI Search terms and AI attributes have been added to the Google Merchant Center AI Performance…",
+      "category": "GEO",
+      "published": "2026-09-09T11:41:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "5a9ba49e266e",
+      "title": "Google Ads Local Customer Optimization & Store Sales In Data Manager",
+      "url": "https://www.seroundtable.com/google-ads-local-customer-optimization-store-sales-42045.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is releasing two new features for multi-location retailers including Local Customer Optimization and Store Sales in Data Manager. Ginny Marvin, the Google Ads Liaison, wrote on X, \"Ahead of the holiday rush, we're introducing two features for multi-location retailers…",
+      "category": "SEO",
+      "published": "2026-09-09T11:31:00Z",
+      "coverage": 2,
+      "impact": 6.0
     },
     {
       "id": "5fc5d5cc6d2e",
@@ -1237,17 +1357,6 @@
       "published": "2026-09-09T05:00:35Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "52314032b709",
-      "title": "Google Ads Introduces Local Customer Optimization via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-introduces-local-customer-optimization/588886/",
-      "source": "Search Engine Journal",
-      "summary": "Google Ads brings Local Customer Optimization to Performance Max and easier Store Sales measurement to help retailers drive and measure in-store purchases. The post Google Ads Introduces Local Customer Optimization appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-09T02:54:24Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "5cfa70bc4e87",
@@ -1336,17 +1445,6 @@
       "published": "2026-09-08T14:09:20Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "2001e85beea1",
-      "title": "Daily Search Forum Recap: September 8, 2026",
-      "url": "https://www.seroundtable.com/recap-09-08-2026-42041.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-09-08T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "46931b06f368",
@@ -1565,17 +1663,6 @@
       "summary": "Brex ranks #1 on Google for “business credit cards for startups.” Their Spend Trends library has nearly doubled in traffic value to $536,000. The AI Overview sitting above that #1 result draws on a Reddit thread and cites Nav instead. This happens because AI engines treat SERP…",
       "category": "GEO",
       "published": "2026-09-07T18:00:31Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dd669131505d",
-      "title": "Real Estate Marketing: A Complete Guide for 2026",
-      "url": "https://neilpatel.com/blog/real-estate-marketing/",
-      "source": "Neil Patel",
-      "summary": "If you’re running marketing for a real estate brand, you already know the deal. Zillow, Realtor.com, and Redfin sit at the top of nearly every high-volume query, and AI Overviews are quietly compressing what’s left of the informational clicks below. That’s the real estate…",
-      "category": "GEO",
-      "published": "2026-09-07T16:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -3833,72 +3920,6 @@
       "published": "2026-08-25T11:21:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "279b5c5f56b9",
-      "title": "Reports Indicate Google’s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/",
-      "source": "Search Engine Journal",
-      "summary": "Google's recent Spam Update may have partially focused on catching mass-generated SEO AI content. The post Reports Indicate Google’s Spam Update Focused On SEO AI Content appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-25T11:20:31Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "e25153b7ef15",
-      "title": "Google Copyable Emojis In AI Overviews",
-      "url": "https://www.seroundtable.com/google-copyable-emojis-ai-overviews-41929.html",
-      "source": "Search Engine Roundtable",
-      "summary": "About a year ago, Google added the ability to copy emojis directly from the search results in an answer box. Now, Google is also showing copyable emojis to AI Overviews in the Google Search results.",
-      "category": "GEO",
-      "published": "2026-08-25T11:11:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "8af4502be339",
-      "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/",
-      "source": "Search Engine Journal",
-      "summary": "Cloudflare's EmDash CMS, the spiritual successor to WordPress, is set to release version 1.0 soon after proving itself on their high traffic blog. The post Cloudflare Says EmDash Version 1.0 Is Releasing Soon appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-25T10:14:19Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "63b90718ba18",
-      "title": "Webflow’s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/",
-      "source": "Search Engine Journal",
-      "summary": "Webflow adds Codex support with built-in Skills that vastly simplifies automating common website management and development tasks. The post Webflow’s New OpenAI Codex Integration Simplifies Site Management appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-25T09:17:23Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "970cae91df71",
-      "title": "Our OpenAI fanout data shows no rise in site: operator use",
-      "url": "https://dejan.ai/blog/site-fanouts/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Promptwatch recorded ChatGPT site:-scoped fanouts rising from 0.37% to 16.8% on 8 August 2026. Our capture of 196,692 OpenAI fanout queries shows 0.14% in August and no change on that date.",
-      "category": "GEO",
-      "published": "2026-08-25T08:39:34Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "959fafe4fb2d",
-      "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
-      "url": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/",
-      "source": "Search Engine Journal",
-      "summary": "Google is folding Local Services Ads into Performance Max. Join CallRail's on 9/8 for the audit checklist to run before and after your account migrates. The post Google Local Services Ads Are Moving To Performance Max: What To Check First appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-25T07:45:03Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
