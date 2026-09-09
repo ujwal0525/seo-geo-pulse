@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T16:13:33Z",
+  "updated": "2026-09-09T20:12:51Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -695,6 +695,18 @@
       "id": "35881a374bee"
     },
     {
+      "date": "2026-09-04",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "The One Club Announces Global Partnership With CapCut",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzlITmw3bmM1bmVZU1Vnd2R2ZHhob1ZuQkhROGhjSmZRQXRUcXFtaTNBdmZoSzJldmhPa1ZxWjBiSTg2eFR0akM2VDZTM1JFUzRwUHhfSV9paU9lR0UyNlV6d1lCQ1U0dmR6aWdBd25Sel9uWm9ieFRrOF9rRUJzMVBMRGxsZUszeDU1TmlRNW5UVkhGZGFhNldhdWwwM2hFbGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a854ac565b69"
+    },
+    {
       "date": "2026-09-03",
       "company": "Contentful",
       "move": "News",
@@ -1086,6 +1098,18 @@
       "id": "a570fec69a49"
     },
     {
+      "date": "2026-08-27",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma Inc Stock (FIG) Closed Up by 13.28% on Aug 27: Key Drivers Unveiled",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1d3U0xoV0dDNllZT3dwQzh5TlBKU3VSX1BaLUtmTHhfWWRuN2NlUDg5UWRwSnRQajY0SjlXNklfaXBqLXZoVFVOOVlTTkVVdjJUQ19VRXE1OUhGaTRkZXBGbzlfbk5lMEZrU2tLTU5pS3JzNWZia1QyUmpiZl81ODFJRG5SdnlDZ1E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c88d3419652c"
+    },
+    {
       "date": "2026-08-26",
       "company": "Stability AI",
       "front": "GenAI Media",
@@ -1144,33 +1168,42 @@
       "source": "Google News",
       "curated": false,
       "id": "4fdaa3e901cb"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 million",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FKNHdfM3BRWkVEUHUzX04tSXdiRzF6N3pyNnJwT2ZFZEJLVkNUcllnYXNXZlBINlZNdDN5bTNsVi16ZGZpMUx5VFRhUlZYSkw1Smstb3VVNGRNSTk1b2VVYXBtMXdfYTI1RE5sby1OZkxfYWM3eS1HWGgzTGd5bWZkdTY1YmRFMWRJRjh3ekZtLTVWWFdIMkFaTDJFbkVmRktXMzhXSGs4b3JHUDdDZ0loa0Z6Nm1FMkluQmdKWGJHdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "06fdb9689923"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76M",
-      "title": "Universal, Sony, Warner join $76M funding round in Stability AI",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3pYNFlhcUUtbGcwMWlIWUQyaFFld0FhenBGMU5PR2ZTTlFnWUJ0cXItYVVnOHo5a0xOaHF1OXFtQVFsMjZYM3ZlaE1wVjhOcUF0QjJrSnMyLXgtMTloa3JiMFRJM1lhbFhUeXhiNUFCWjhPMnh0RlNKcDVyemNOYmhraVV0dFlTbnp1YzJRakVBWWF1WHRFWDh4dnJfZ3RBREE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7b563706c0c0"
     }
   ],
   "items": [
+    {
+      "id": "45e712f5efb8",
+      "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/chatgpt-gemini-claude-lead-ai-visibility-is-it-time-to-stop-tracking-perplexity/588378/",
+      "source": "Search Engine Journal",
+      "summary": "Giving Perplexity less weight in AI search tracking can prevent distorted visibility scores without erasing useful competitive signals. The post ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-09T19:00:58Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "534907e0d31e",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "category": "SEO",
+      "published": "2026-09-09T17:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "8d02c2d818b8",
+      "title": "New Google Guide To Regional Search Features & Eligibility via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-regional-search-features-eligibility-guide/588975/",
+      "source": "Search Engine Journal",
+      "summary": "Google added documentation mapping regional Search features in the EEA, Türkiye, and South Africa, with eligibility and participation steps. The post New Google Guide To Regional Search Features & Eligibility appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-09T16:37:30Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "91d5074fb05a",
       "title": "Get ready for the game with new football features in Search",
@@ -3887,39 +3920,6 @@
       "published": "2026-08-25T11:51:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "ef40248b4338",
-      "title": "Google Ads Tests Loading Sponsored Results Using Gemini With Animation",
-      "url": "https://www.seroundtable.com/google-ads-loading-gemini-41937.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is testing loading the sponsored results in the mobile search results interface with an animation. It shows that Gemini is also involved by saying, \"Evaluating sponsored results\" and has a Google and Gemini logo as the ads load in.",
-      "category": "GEO",
-      "published": "2026-08-25T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8dee0978ce4b",
-      "title": "Google: There Is Nothing Special To Do For Generative AI Responses In Search",
-      "url": "https://www.seroundtable.com/google-generative-ai-search-responses-todo-41916.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller said on Bluesky that there is nothing special for one to do for generative AI responses within Google Search. He wrote, \"from our POV there's nothing really special you need to do for generative AI responses in search.\"",
-      "category": "SEO",
-      "published": "2026-08-25T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f55a2ebaad5c",
-      "title": "Google Says Google's Crawlers Don't Parse JSON",
-      "url": "https://www.seroundtable.com/google-crawlers-dont-parse-json-41936.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Gary Illyes from Google reiterated this morning that Googlebot, Google's crawler, does not parse JSON files. Instead, Googlebot just downloads the files and then the indexer does the rest.",
-      "category": "SEO",
-      "published": "2026-08-25T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
