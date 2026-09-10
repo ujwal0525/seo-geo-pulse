@@ -1,9 +1,10 @@
 {
-  "updated": "2026-09-09T20:12:51Z",
+  "updated": "2026-09-10T00:16:53Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Aleyda Solis",
+    "Backlinko",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
@@ -1172,6 +1173,39 @@
   ],
   "items": [
     {
+      "id": "f528de47e7bb",
+      "title": "WordPress Co-Founder Matt Mullenweg Ousted From Automattic via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-co-founder-matt-mullenweg-ousted-from-automattic/589009/",
+      "source": "Search Engine Journal",
+      "summary": "Automattic's board of directors placed Matt Mullenweg on paid leave of absence. Mullenweg claims conspiracy against him. The post WordPress Co-Founder Matt Mullenweg Ousted From Automattic appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-09T22:16:35Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "88cb1cd058af",
+      "title": "ChatGPT Shopping Results Lean Hard On Product Feeds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-shopping-results-lean-hard-on-product-feeds/589000/",
+      "source": "Search Engine Journal",
+      "summary": "ChatGPT Shopping is pulling more product picks from what it calls feed-integrated sources, and store visibility moved too. The post ChatGPT Shopping Results Lean Hard On Product Feeds appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-09T21:39:29Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0b9065ca62d4",
+      "title": "How to Audit Any Page in Under 3 Minutes with SEOquake",
+      "url": "https://backlinko.com/seoquake-page-audit",
+      "source": "Backlinko",
+      "summary": "You’re looking at a page that should be performing better, and you want answers fast. Maybe it’s a product page that slipped in rankings, a competitor’s post outranking yours, or a client page that isn’t converting. You don’t need a full site crawl to start diagnosing…",
+      "category": "SEO",
+      "published": "2026-09-09T21:24:18Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
       "id": "45e712f5efb8",
       "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/chatgpt-gemini-claude-lead-ai-visibility-is-it-time-to-stop-tracking-perplexity/588378/",
@@ -1271,6 +1305,17 @@
       "impact": 3.0
     },
     {
+      "id": "9786c92a289d",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "category": "SEO",
+      "published": "2026-09-09T13:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "93b558e2c009",
       "title": "Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/brands-are-tracking-ai-visibility-but-are-they-measuring-the-right-things/587888/",
@@ -1335,6 +1380,17 @@
       "published": "2026-09-09T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "587a70348a73",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "category": "GEO",
+      "published": "2026-09-09T11:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "b6c4ec9f3127",
@@ -3865,61 +3921,6 @@
       "published": "2026-08-25T17:39:07Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "3668e64c1eca",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google (Search)",
-      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-      "category": "SEO",
-      "published": "2026-08-25T16:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dfd6bbdc2312",
-      "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
-      "url": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/",
-      "source": "Search Engine Journal",
-      "summary": "AI can flatten decades of localized expertise into one generic brand impression, meaning global brands must translate credentials into evidence machines actually recognize. The post Why International SEO Needs Machine-Recognizable E-E-A-T appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-25T14:30:30Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "53fdd1b7ddf8",
-      "title": "Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
-      "source": "Search Engine Journal",
-      "summary": "An owned promo code page can keep purchase-ready shoppers away from coupon affiliates and recover revenue leaking from ecommerce checkout flows. The post Your Promo Code Field May Be Sending Revenue To Affiliates appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-25T12:30:50Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "36eb3e5f3fcb",
-      "title": "Google To Charge For Missed & Subsequent Calls On LSAs",
-      "url": "https://www.seroundtable.com/google-lsa-missed-subsequent-calls-41940.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google sent out emails to some advertisers notifying them that starting October 1st, Google Local Service Ads will charge for some missed and subsequent calls over the platform. \"On October 01, 2026, we are updating how and when you are charged for call leads originating from…",
-      "category": "SEO",
-      "published": "2026-08-25T11:57:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f0ba10298c41",
-      "title": "Google Shows AI Overviews Above Stock Charts For Stock Price Queries",
-      "url": "https://www.seroundtable.com/google-ai-overviews-stock-price-queries-41934.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be showing AI Overviews at the top of the search results page when you specifically search for stock price queries - such as for [GOOG stock] or [MSFT stock] and so on. I was able to replicate this myself and it is just weird to show the AI Overview at the top…",
-      "category": "GEO",
-      "published": "2026-08-25T11:51:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
