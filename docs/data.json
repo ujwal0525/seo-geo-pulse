@@ -1,9 +1,8 @@
 {
-  "updated": "2026-09-10T08:13:48Z",
+  "updated": "2026-09-10T12:16:27Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
-    "Aleyda Solis",
     "Backlinko",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
@@ -17,7 +16,6 @@
     "Search Engine Journal",
     "Search Engine Roundtable",
     "Semrush Blog",
-    "SparkToro",
     "Yoast",
     "Zyppy Signal"
   ],
@@ -467,6 +465,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-10",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Wellington Management Group LLP Acquires 89,908 Shares of Figma, Inc. $FIG",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUg1SXhZMFk5RkZjY0lpV1lWUXJJLUlHaWV5LV9qeTI0MWVnQk5KN2NSUG9YZ0phT3Y5UmpCMW5iOXJPTHk2YTIxYXZqekRCVktMMUpadjlJT0p4LTMxemxNU1hXZUJ0Q0tNNDF5R2VpcjJmbnFYOEtmbUhYRDhHeEZHSldIUTBFZkNXVGZ1TTFPS3laY0Zjc09QZ05HY05nX1N0cDNMMXhxOEhSU0JMY0RDN29BYUVBQ0NDcE8ySkJ2bi1wNmdobVc3dw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "04778dc6a204"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Bienville Capital Management LLC Acquires New Shares in Figma, Inc. $FIG",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdTQ4RFl6Y1I0OGpIVHNoMk1idHkzemRxZFFZQlNlVkdRNjREUG13bXB5X1lpZ1U4eTZESndIdTJsaGVkaWY4by1ESmx2Zks1Zll2NHZ0dy1SdzNfVGJsUXk3WEZ5UV9lS19xUVh5TENyUWF5UkhuYTRTTncxUzJ4YmhjbHphSUJVUDFfVzBmRVRRemt2WUg5RWZHMWVvM3hkWG9VZFJSbUdvX3BWZGFjbHFkOVNYbExFQzdvMjdqQWZqbUF1RmRiUmp3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "03fe3a1f5a7a"
+    },
+    {
       "date": "2026-09-09",
       "company": "Krea",
       "front": "GenAI Media",
@@ -585,6 +607,18 @@
       "source": "Google News",
       "curated": false,
       "id": "2363c326a450"
+    },
+    {
+      "date": "2026-09-07",
+      "company": "Framer",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$3M",
+      "title": "Upstream Raises $3M For AI-Native Inbox For Agents.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWJOX2lfRVRlNThBYXAyVVZtOWVrNlN4WXpuUjBncmlGVkd0OHVPU0tXdy1tNVAtdVozTDVsRlZieEFLa3JMbWJHc1ZVbzRnVGFRVExBUWVIblhMQkgwM0Y1eWxjZFMtODhwdERqOURTd2JScUZieDRVbUVvdkdOQzhuRzhKb0RuMEhQTTZUcWQtX0ZGdjFDTlhpU2syTEJfVnJvYWdNNGNMbzlFcmJF?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f7fa97f689bf"
     },
     {
       "date": "2026-09-06",
@@ -1143,45 +1177,53 @@
       "source": "Google News",
       "curated": false,
       "id": "3a80f70fdc15"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 Million",
-      "title": "Universal, Sony and Warner Invest in Stability AI in $76 Million AI Funding Round",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcnVUVk9wVEtkd3hobGs2SGRGOWItSkwwR0dwYmVLRTdkdXJETmpsVTVDWlJVMDM2M3JfcEhtSGJ1R2VOcEkwbHoxYXcyQzBjeEU3dEJiREtsekptUWxXQnRyVWNzaGdpNllrRm9pYzI2Y2djRGZzeW5fRW10d2RxZ1c0cVN0SVB0WEg5VU5ETXBFQS1jUlpmMTBvczFSc0pOdk9MUTNoeVpLc0hB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2c4410242389"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76M",
-      "title": "Stability AI Raises $76M: Music Labels Get Equity; Artists Still Get Nothing",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVF6dXlKUU1aX0x5bHFVSi1Od29CVDRIVEQ1aHM1VGd6MWIxMWNmaWRSd1hYNTM2cGc1TFN4Z0RhWWplR1B1SHdFRGsweDJGU1B0LTRTSGg4WWxVSl9CcDE1R2Z4UkQ5VzBtMHdxbW03WjNwdFRPS0pMN29ZN3gxcGQzS0R0bl9WNGNsbDlPVmlQZ0xMc0piNnBaczJRSzBVV3JYblZCazRzcEJyQ1FoeWFrMjQydUxhQlRSR1dsYTRoU0pfRDdB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d3cd546a639b"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$400 Million · $5.4 Billion",
-      "title": "Higgsfield Secures US$400 Million Series B At US$5.4 Billion Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG9PRHY2WU9taDZjUWowTXZQeU5GZHBZcm4wYWNjYk5vdGt4YWpIV05seVR1TjV0SUxjaGlId1FqV3Yzb0pRVzhlbUFROTRkSDB5cWVtX1FHMGhDUjQzN2N5dUZ3YXVnUUpnbml1X2VzaDdGekwtWWsyT0ZVTUJWOFFrb0lPaDN5YU1XbW1rNXlPaWEtN2p1N0dRU0E3Nk5yN3ZCWFlQTmVpeDczM0t2akRCcw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4549c00e1ae1"
     }
   ],
   "items": [
+    {
+      "id": "4f8e46d4d96b",
+      "title": "How Local Businesses Can Build Visibility In AI Search via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/how-local-businesses-can-build-visibility-in-ai-search/588095/",
+      "source": "Search Engine Journal",
+      "summary": "Moz leaders Jonathan Berthold and Kevin Chen explain how listings, reviews, mentions, and social activity shape local recommendations in AI search. The post How Local Businesses Can Build Visibility In AI Search appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-10T12:00:53Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "420a0cf53506",
+      "title": "Google DeepMind Develops New AI Search Ranking Model via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/",
+      "source": "Search Engine Journal",
+      "summary": "Google DeepMind researchers test Autoregressive Ranking (ARR), a unified model that can replace current retrieval and ranking methods. The post Google DeepMind Develops New AI Search Ranking Model appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-10T11:24:46Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "33c9528eb6a3",
+      "title": "Google Maps Phone Number in Photo Scam",
+      "url": "https://www.seroundtable.com/google-maps-phone-number-in-photo-scam-42056.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Scammers are using the Google Maps contributor program to upload AI-generated photos with phone numbers, tricking users into calling the number in the photo instead of the number on the Google Business Profile listing. These scammers are doing this across dozens, if not…",
+      "category": "GEO",
+      "published": "2026-09-10T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "a9933de9475e",
+      "title": "Internal links: ultimate guide + strategies",
+      "url": "https://www.semrush.com/blog/internal-links/",
+      "source": "Semrush Blog",
+      "summary": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back.",
+      "category": "SEO",
+      "published": "2026-09-10T10:11:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
     {
       "id": "6b143a038745",
       "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
@@ -3887,50 +3929,6 @@
       "published": "2026-08-26T07:00:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "8dd128294db7",
-      "title": "A 3 Layer Framework to Measure AI Search Presence, Readiness and Business Impact [Workbook + Examples]",
-      "url": "https://www.aleydasolis.com/en/ai-search/a-3-layer-framework-to-measure-ai-presence-readiness-and-business-impact-redefining-metrics-for-the-ai-search-era/",
-      "source": "Aleyda Solis",
-      "summary": "Get the 3 Layer AI Search Diagnostic & Measurement Matrix with Examples Updated on August 26, 2026 The old organic search measurement model, built largely around rankings, clicks, and sessions, is becoming less sufficient on its own in an AI search environment. And the more I…",
-      "category": "GEO",
-      "published": "2026-08-26T06:00:45Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "3574ef554342",
-      "title": "How We’d Market a $400 Skincare Device Before Black Friday",
-      "url": "https://sparktoro.com/blog/how-wed-market-a-400-skincare-device-before-black-friday/",
-      "source": "SparkToro",
-      "summary": "I’ve been trying to streamline my skincare routine while still getting solid results. The 10-step Korean skincare routine? It’s lovely, but I no longer have the patience to fit that into my schedule… or into my budget. So I started on a tretinoin prescription, Vanicream Daily…",
-      "category": "SEO",
-      "published": "2026-08-26T04:19:38Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "d34e82eae2f2",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "category": "SEO",
-      "published": "2026-08-26T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "504dd1ec9508",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "category": "GEO",
-      "published": "2026-08-26T00:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
