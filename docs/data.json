@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T04:12:43Z",
+  "updated": "2026-09-10T08:13:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "Zyppy Signal"
   ],
   "milestones": [
+    {
+      "date": "2026-09-10",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "4a514de91565"
+    },
     {
       "date": "2026-09-09",
       "family": "engine",
@@ -1063,6 +1073,18 @@
       "id": "55dfab9c291f"
     },
     {
+      "date": "2026-08-28",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Reese's teams up with The Nitro Bar for fall coffee drink",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3JfbUJMZ2xpRnBqYlFleTZJaFJxQ0tvZ0JFQWlBVDVDWm1naFFKZmNKaFNFcnY3WXZzY3IyalljVjRSenA2R1Y4c1dYSGRyMFhlQjRJZFQyZ05aWW1jSjFzYXVOVFAwcEE4aFlSV0JTVUtuQ05lQXYyckxVNjBxaWtlUlVLQXVpWjBuTkJmZVo4WTJKNUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "acb24ba65107"
+    },
+    {
       "date": "2026-08-27",
       "company": "Stability AI",
       "front": "GenAI Media",
@@ -1111,6 +1133,18 @@
       "id": "c88d3419652c"
     },
     {
+      "date": "2026-08-27",
+      "company": "Stability AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$76M",
+      "title": "Stability AI Raises $76M in Partner-Backed Series B",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdG85RmZUaC05aEp3cmJzczUtcWR1ZWI5RHhia1htb1hIY1lZRko3U05EZVlTMGpmUmRkWFlsUTZJQW1rQ0kzQmZfalJTVHQ3bGExcWZMbk9fQ2V1R29kVXNRQUh3a1BSRC1TZVZBWGhjRVR4aEVfZi1xWEw4dEpNTVNpZGxDTlNMTXdVdlF5bUlUQnN6d2k1M3RB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3a80f70fdc15"
+    },
+    {
       "date": "2026-08-26",
       "company": "Stability AI",
       "front": "GenAI Media",
@@ -1145,33 +1179,42 @@
       "source": "Google News",
       "curated": false,
       "id": "4549c00e1ae1"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Midjourney",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0babe72189d6"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 Million",
-      "title": "Stability AI Raises $76 Million from UMG, WMG, Sony Music, More",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbU1wbDkzbFB3a1lyM0dwLUlYWTZSV3kzVTJUTGp5NXJxbTlCRUFoNnBack8tdWFUS1NWWjdlU3UwVk40OE9hbzd1RkR1YnpCTlFlSjhnM1JXdlJJUzFCXzlPQWxNTWh4NnVQUGFhRU1BMkR2LTl6WUJ4WVVOakRnRXkwV1I5cVNfX19WM1lEYV9aNThm?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4fdaa3e901cb"
     }
   ],
   "items": [
+    {
+      "id": "6b143a038745",
+      "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/",
+      "source": "Search Engine Journal",
+      "summary": "Freshpet and Intero Digital explain how brands can audit AI visibility, restructure content for citation, and connect GEO work to business priorities. The post How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-10T07:45:26Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "36f9101b2d82",
+      "title": "Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/",
+      "source": "Search Engine Journal",
+      "summary": "Le Monde says its audience hasn't dropped since AI Overviews launched in France, while app traffic and subscriber growth complicate the broader traffic story. The post Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-10T07:00:03Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "5cd30f9ad015",
+      "title": "5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO",
+      "url": "https://www.searchenginejournal.com/ai-signals-multi-location-uberall-spa/587988/",
+      "source": "Search Engine Journal",
+      "summary": "Explore how multi-location businesses can optimize for AI models like ChatGPT and Gemini. Learn the key factors for success. The post 5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-10T05:00:48Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "f528de47e7bb",
       "title": "WordPress Co-Founder Matt Mullenweg Ousted As CEO Of Automattic via @sejournal, @martinibuster",
@@ -3888,39 +3931,6 @@
       "published": "2026-08-26T00:00:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "ebe7257a7805",
-      "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/",
-      "source": "Search Engine Journal",
-      "summary": "Data shows that alternative domain extensions show stronger performance over traditional .com domains. The post .Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-25T22:36:35Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8c2755d0c9c8",
-      "title": "Google Search Showing Fewer PDF Files. But Why?",
-      "url": "https://www.seroundtable.com/google-search-fewer-pdf-files-41946.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be showing fewer and fewer PDF files, and when it does show PDF files, it seems not to show them from some pretty important sites, like IRS.gov, New York State, and some others. But in some cases we are seeing Google show PDF documents, without you having to…",
-      "category": "SEO",
-      "published": "2026-08-25T21:01:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c25113d25962",
-      "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
-      "url": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/",
-      "source": "Search Engine Journal",
-      "summary": "84 Reddit threads entered the retrieval pool. Zero got cited. The new tool-call format shows what ChatGPT fetches before it answers. The post ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-25T19:00:30Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
