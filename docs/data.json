@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T00:16:53Z",
+  "updated": "2026-09-10T04:12:43Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1174,10 +1174,10 @@
   "items": [
     {
       "id": "f528de47e7bb",
-      "title": "WordPress Co-Founder Matt Mullenweg Ousted From Automattic via @sejournal, @martinibuster",
+      "title": "WordPress Co-Founder Matt Mullenweg Ousted As CEO Of Automattic via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/wordpress-co-founder-matt-mullenweg-ousted-from-automattic/589009/",
       "source": "Search Engine Journal",
-      "summary": "Automattic's board of directors placed Matt Mullenweg on paid leave of absence. Mullenweg claims conspiracy against him. The post WordPress Co-Founder Matt Mullenweg Ousted From Automattic appeared first on Search Engine Journal .",
+      "summary": "Automattic's board of directors placed Matt Mullenweg on paid leave of absence. Mullenweg claims conspiracy against him. The post WordPress Co-Founder Matt Mullenweg Ousted As CEO Of Automattic appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-09T22:16:35Z",
       "coverage": 1,
@@ -1435,6 +1435,17 @@
       "published": "2026-09-09T07:45:41Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "4ad16bab0891",
+      "title": "Two Truths and a Lie About Digital PR",
+      "url": "https://moz.com/blog/two-truths-and-lie-about-digital-pr",
+      "source": "Moz Blog",
+      "summary": "You don't need an agency for digital PR. Debbie Chew shares her CIDER framework, a real $1M campaign recovery, and how to get your brand cited by AI.",
+      "category": "GEO",
+      "published": "2026-09-09T07:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
     },
     {
       "id": "ff4fdc913dd4",
@@ -3910,17 +3921,6 @@
       "published": "2026-08-25T19:00:30Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "d166c936f8c1",
-      "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/",
-      "source": "Search Engine Journal",
-      "summary": "Google has brought its developing-topic link carousels to AI Mode, putting timely article links and Preferred Sources prominently inside AI responses. The post Google Brings Developing-Topic Link Carousels To AI Mode appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-25T17:39:07Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
