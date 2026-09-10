@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T12:16:27Z",
+  "updated": "2026-09-10T16:12:37Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -16,8 +16,7 @@
     "Search Engine Journal",
     "Search Engine Roundtable",
     "Semrush Blog",
-    "Yoast",
-    "Zyppy Signal"
+    "Yoast"
   ],
   "milestones": [
     {
@@ -487,6 +486,42 @@
       "source": "Google News",
       "curated": false,
       "id": "03fe3a1f5a7a"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs releases Dubbing v2 model to enhance AI voice translation quality",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQndfMVlBMG9RM2tyLW5XelQ3VVdieUQ0NXRhRU5NYURRNy1CejdlVGpmWEgwck81c3RXelRqckJpdWRRY0RfVEFXS0JaU0hXYVk3TU1FU3FObG5Vek1xQV9DSUZMeE5NYmhjN1ROR3A?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "113650000d4f"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Stephen Curry's UNDERRATED Golf and Docusign Announce \"Where Deals Get Done\" Partnership",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPclVTRE9pbWI1V19wblYxS0xFdHpiMFZaTm53M1ZUbDBzU3JwV0dfMF92QVFjTmsya282R2cxQkp3c2NQeXhuZllYd0Q4ZGF3SmptcWdaeDJCcG96RC14ZUxnM0JiR1NDb0VpVUFFVEZrSHdGRmNzMUw5dGxhRkUyZUZZMWhacGp6MjJ5NWRzcVYySC1DRldoTndKTnVrRmJudXJ0ajFwbGNQVDY2aUoyQzBveFhvRk1VR3VOa2tMRTFqSHAzTUVrd3pRVUZQYkJNLUgtRkt1RlA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "595baf741601"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Nitro and Motörhead Collaborate on Signature Collection",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR05zUlpqWXBfSV9Qd2xpdFdpeGhqZ1BEMnpQMDEyMVZYczA4YnJTZlYxQk1tOURXQ25TbEVkOWJib1NYYnJYQXB5ZHhnbFMyQllQaVY1M1NiWFFzb3RUNmZ3LVJZRnlTMlNkaW5wSU8wd2VFLUI2ZDJlY05yMjd3TzlwT2RNR0ZHYVM2YmtpM21qZEZrTUItMEl0LVdxVWMxUTZtS09B?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "721353689c50"
     },
     {
       "date": "2026-09-09",
@@ -1141,45 +1176,86 @@
       "source": "Google News",
       "curated": false,
       "id": "04fb63f0fdff"
-    },
-    {
-      "date": "2026-08-27",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Karnataka government partners with ElevenLabs to pilot voice AI services",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclJENTdNWUNPM2lONkJvejZuNElxY0VTUi0xeTQxcVhYRVZMRUdUMGd1c1czOEpacFBYckRDR0tYSUk0XzZaRzBrajhxZXJ3Z0hkbzlCNWdHc0RzTFdmYzJaZ0FXNThoVjVKd1N2bjVKckNLLU84RUU1ZGZrRElIbVlUVlBaTkJHVzBvRTVqa2Q0Ml9lUlhpUWxrbWRGR0lPbVlTMWZhOWhQMHJkdDh1ZFNRaTRTSGRsUnpr?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a570fec69a49"
-    },
-    {
-      "date": "2026-08-27",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma Inc Stock (FIG) Closed Up by 13.28% on Aug 27: Key Drivers Unveiled",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1d3U0xoV0dDNllZT3dwQzh5TlBKU3VSX1BaLUtmTHhfWWRuN2NlUDg5UWRwSnRQajY0SjlXNklfaXBqLXZoVFVOOVlTTkVVdjJUQ19VRXE1OUhGaTRkZXBGbzlfbk5lMEZrU2tLTU5pS3JzNWZia1QyUmpiZl81ODFJRG5SdnlDZ1E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c88d3419652c"
-    },
-    {
-      "date": "2026-08-27",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76M",
-      "title": "Stability AI Raises $76M in Partner-Backed Series B",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdG85RmZUaC05aEp3cmJzczUtcWR1ZWI5RHhia1htb1hIY1lZRko3U05EZVlTMGpmUmRkWFlsUTZJQW1rQ0kzQmZfalJTVHQ3bGExcWZMbk9fQ2V1R29kVXNRQUh3a1BSRC1TZVZBWGhjRVR4aEVfZi1xWEw4dEpNTVNpZGxDTlNMTXdVdlF5bUlUQnN6d2k1M3RB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3a80f70fdc15"
     }
   ],
   "items": [
+    {
+      "id": "94ad36d7ed05",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google (Search)",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "category": "GEO",
+      "published": "2026-09-10T16:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "014159943e4d",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "category": "GEO",
+      "published": "2026-09-10T16:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "4d4e7920d8a7",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "category": "GEO",
+      "published": "2026-09-10T15:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "4a77fe2adfcb",
+      "title": "How Do I Keep Control As Platforms Automate My Account? – Ask A PPC via @sejournal, @navahf",
+      "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/",
+      "source": "Search Engine Journal",
+      "summary": "Keep AI-driven PPC accountable with transparent reporting, brand-safe creative guardrails, and campaign structures that preserve performance without surrendering control. The post How Do I Keep Control As Platforms Automate My Account? – Ask A PPC appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-09-10T14:30:20Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ebc069586a4b",
+      "title": "YouTube Gives You Feedback On Shorts Before Publishing via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-gives-you-feedback-on-shorts-before-publishing/589088/",
+      "source": "Search Engine Journal",
+      "summary": "YouTube is expanding Get Feedback, a tool that reviews a Shorts before publishing, to U.S. users The post YouTube Gives You Feedback On Shorts Before Publishing appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-10T13:55:02Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f58e50a3daab",
+      "title": "Google Launches Meridian GeoX Globally via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/",
+      "source": "Search Engine Journal",
+      "summary": "Google launches Meridian GeoX globally, giving marketers new ways to run geo experiments and bring incrementality results into marketing mix modeling. The post Google Launches Meridian GeoX Globally appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-10T13:02:34Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "16095827fad2",
+      "title": "Google Expands Data Manager And Adds Uplift Measurement via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-expands-data-manager-and-adds-uplift-measurement/589025/",
+      "source": "Search Engine Journal",
+      "summary": "Google expands Data Manager across GA and DV360 and introduces a Data Strength Uplift Metric to measure the impact of first-party data. The post Google Expands Data Manager And Adds Uplift Measurement appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-10T13:00:08Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "4f8e46d4d96b",
       "title": "How Local Businesses Can Build Visibility In AI Search via @sejournal, @lorenbaker",
@@ -1192,6 +1268,39 @@
       "impact": 5.0
     },
     {
+      "id": "2a2b73317833",
+      "title": "Google: The Old Position 1-10 Is Hard To Map For Site Owners",
+      "url": "https://www.seroundtable.com/google-position-1-10-hard-map-42053.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller responded to questions about how impressions are counted for Generative AI in Google Search Console. Google has a document that explains that, and John just reiterated that. But what he added was that \"the old \"position 1 - 10\" is hard to map.\"",
+      "category": "SEO",
+      "published": "2026-09-10T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "91c2519c9f1b",
+      "title": "Google Ranking Factors Survey: Content & Backlinks Most Important",
+      "url": "https://www.seroundtable.com/google-ranking-factors-expert-survey-42057.html",
+      "source": "Search Engine Roundtable",
+      "summary": "There is a new Google ranking factor survey out for 2026. It has been a while since we had one, and it is here. This one was done by Cyrus Shepard and Dawn Shepard and posted at Zyppy. It says content relevance, backlinks, and content quality are the most important factors…",
+      "category": "SEO",
+      "published": "2026-09-10T11:41:00Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "cb437b7bd5c9",
+      "title": "Bait & Switch: Google Ads Revoking Credits After Advertisers Spend Them",
+      "url": "https://www.seroundtable.com/google-ads-credit-revoked-42049.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has been offering new and existing customers credits to encourage them to spend on the advertising platform. But sometimes, Google Ads will revoke a credit, a credit that was already spent within the Google Ads platform, leaving the client spending more than they…",
+      "category": "SEO",
+      "published": "2026-09-10T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "420a0cf53506",
       "title": "Google DeepMind Develops New AI Search Ranking Model via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/",
@@ -1201,6 +1310,17 @@
       "published": "2026-09-10T11:24:46Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "e7714839c534",
+      "title": "Google Ads Beta Experiment: Budget Or Bidding Targets For Search Campaigns",
+      "url": "https://www.seroundtable.com/google-ads-budget-bidding-targets-42055.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has a new beta variable to test within its experiments area named \"Budget or bidding targets for Search campaigns.\" This test different budget, target CPA or target ROAS amounts to find the optimal level of spending for your campaign, Google wrote.",
+      "category": "SEO",
+      "published": "2026-09-10T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "33c9528eb6a3",
@@ -1245,6 +1365,17 @@
       "published": "2026-09-10T07:00:03Z",
       "coverage": 1,
       "impact": 8.0
+    },
+    {
+      "id": "1ef5285e671d",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "category": "SEO",
+      "published": "2026-09-10T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "5cd30f9ad015",
@@ -1377,17 +1508,6 @@
       "published": "2026-09-09T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "5d239dcd63e0",
-      "title": "2026 Google Ranking Factors Expert Survey",
-      "url": "https://signal.zyppy.com/p/google-ranking-factors-expert-survey",
-      "source": "Zyppy Signal",
-      "summary": "We asked 131 SEOs, including some of the most respected in the industry, what factors are most important for ranking on Google in 2026.",
-      "category": "SEO",
-      "published": "2026-09-09T13:08:41Z",
-      "coverage": 1,
-      "impact": 3.0
     },
     {
       "id": "9786c92a289d",
@@ -3808,127 +3928,6 @@
       "published": "2026-08-26T11:51:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "dd09dde1b02e",
-      "title": "Google AI Mode Also Gains Link Carousels For Developing Topics",
-      "url": "https://www.seroundtable.com/google-ai-mode-link-carousels-41947.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Back in June, Google released link carousels for top stories or developing topics to AI Overviews. I was happy. Now, Google is also releasing this for AI Mode queries, which adds carousels of web pages directly in the AI Mode response.",
-      "category": "GEO",
-      "published": "2026-08-26T11:41:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "24958b46403e",
-      "title": "Google Ads Customer Lifecycle Optimization Within Conversion Goals",
-      "url": "https://www.seroundtable.com/google-ads-customer-lifecycle-optimization-conversion-goals-41941.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has placed Customer Lifecycle Optimization directly within the conversion goals section of the Google Ads platform.",
-      "category": "SEO",
-      "published": "2026-08-26T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "00f2eee834e8",
-      "title": "Bing Tests Shorts Video Tab In Search Menu",
-      "url": "https://www.seroundtable.com/bing-shorts-video-tab-41892.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is testing a new \"Shorts\" tab in the search menu on Bing Search. This should filter the results by short videos across YouTube, Instagram, TikTok, Facebook and so on. The tab is called \"Shorts\" and looks like a video play icon in vertical format.",
-      "category": "SEO",
-      "published": "2026-08-26T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6246c6a4b9a5",
-      "title": "Google Ads AI-Created Product Titles Report Beta",
-      "url": "https://www.seroundtable.com/google-ads-product-titles-report-41948.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is beta testing a new Product title report within Google Ads. This is a special product title report for Al-created product titles. The report should show in your ads when they're more relevant than your original titles, Google wrote.",
-      "category": "SEO",
-      "published": "2026-08-26T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dd0af12245c6",
-      "title": "Google Ads Channel Settings Prioritization Slider (Alpha Test)",
-      "url": "https://www.seroundtable.com/google-ads-channel-settings-prioritization-slider-41949.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a new \"Channels\" slider that lets you adjust how much you prioritize conversions from your Google Ads channels, such as Google Search, Google Partners, Discover, Maps, YouTube, the Display Network and Gmail.",
-      "category": "SEO",
-      "published": "2026-08-26T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d6bb1031e66b",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "category": "GEO",
-      "published": "2026-08-26T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "cdfc10030b4b",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "category": "GEO",
-      "published": "2026-08-26T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "d374a59dc48c",
-      "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/",
-      "source": "Search Engine Journal",
-      "summary": "Wix introduced Symphony, an easy and safe way for small to medium size local businesses to use AI agents. The post Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-26T09:17:38Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1bd602fb4ef8",
-      "title": "Google releases August 2026 spam update: What marketers need to know",
-      "url": "https://www.semrush.com/blog/google-august-2026-spam-update/",
-      "source": "Semrush Blog",
-      "summary": "Google‘s August 2026 spam update finished rolling out on August 21. Learn what changed, what didn‘t, and how to read your data.",
-      "category": "Algorithms",
-      "published": "2026-08-26T08:25:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "195dfb55bafe",
-      "title": "Reddit's citations in ChatGPT fall from 3.8% to 0.5%",
-      "url": "https://www.semrush.com/blog/reddits-citations-in-chatgpt-fall/",
-      "source": "Semrush Blog",
-      "summary": "Promptwatch says Reddit‘s share of ChatGPT citations fell 86% in four days. OpenAI says it hasn‘t changed how it picks sources.",
-      "category": "GEO",
-      "published": "2026-08-26T08:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7944119a75cf",
-      "title": "What Is WebMCP? How to Prepare Your Website to Serve AI Agents",
-      "url": "https://moz.com/blog/what-is-web-mcp",
-      "source": "Moz Blog",
-      "summary": "Get ahead of the agentic AI shift. Learn what WebMCP is, how it differs from traditional MCP, and how to implement simple HTML or JavaScript tools to prepare your website for the agentic search.",
-      "category": "SEO",
-      "published": "2026-08-26T07:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
