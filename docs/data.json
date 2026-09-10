@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T16:12:37Z",
+  "updated": "2026-09-10T20:12:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -28,6 +28,16 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "4a514de91565"
+    },
+    {
+      "date": "2026-09-10",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "dd0e5d502813"
     },
     {
       "date": "2026-09-09",
@@ -522,6 +532,42 @@
       "source": "Google News",
       "curated": false,
       "id": "721353689c50"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
+      "url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
+      "source": "Engadget",
+      "curated": false,
+      "id": "c494f5889c52"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$11B",
+      "title": "ElevenLabs’s $11B valuation is more than twice the size of Suno’s. It just struck a global AI music deal with UMG.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2lBT2RsNWhiUHNaeTNvUUM1X1MzMWVobExPQzBDcTgzOV9PR0FJZlJGU1BKRFVER0VLTVFsWHoweEd6MjVjUl9RN09YaVl4bmwwSV9oOVRaNl9NTHJlSzdyNTlVaEdlSENrUGIwUF9qRTRoakVlTUh6NUd2T3JDeHNuZ3l4d3V6WFRaam91cEg2VVdkQmFyQ3Vwc0tHdzhBWjVfZFJpVzZwLWFCSFpUdDlWdS1MLWJEUHlvVk11MmdPWDJsSVRiQ29YNmU0cGsxUkdJd2hHV1ZqZGR1R2EwZUVfSGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "04d6f7258c45"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Warner Music Group partners with Suno as major labels embrace AI music",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PekE0dGVvMHBLRzNPNU5zSWI3MkJMMFJwRk80YWwzUV9leVBPV0NCV00yanhTaFdNdzMwclY1SkhnRnJYdFljY20tRWVyd2Y5MVRKWVZwNXlON3lZbzRsWW5lYWJrWnBpRm5vaA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "90af6111c096"
     },
     {
       "date": "2026-09-09",
@@ -1140,45 +1186,31 @@
       "source": "Google News",
       "curated": false,
       "id": "55dfab9c291f"
-    },
-    {
-      "date": "2026-08-28",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Reese's teams up with The Nitro Bar for fall coffee drink",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3JfbUJMZ2xpRnBqYlFleTZJaFJxQ0tvZ0JFQWlBVDVDWm1naFFKZmNKaFNFcnY3WXZzY3IyalljVjRSenA2R1Y4c1dYSGRyMFhlQjRJZFQyZ05aWW1jSjFzYXVOVFAwcEE4aFlSV0JTVUtuQ05lQXYyckxVNjBxaWtlUlVLQXVpWjBuTkJmZVo4WTJKNUE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "acb24ba65107"
-    },
-    {
-      "date": "2026-08-27",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76M",
-      "title": "Stability AI Raises $76M From Major Labels and EA",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejNYNzN2dHhCeVI5VzJUR3JhTUVJMzdxRFY3NTFyLXM5T0JQdUY3YjRqa29YQ3lzLXV1QlFfdl9ueTdRNW9tVDFSRjlNTTRpbU9lRkQxSjJORVM3OU9JNlhJV3ZIanh2ODRPblg1SGZzSGpGTkpGVkNSeUw5QTRZMlZsWUM1R0F6M3Z0OQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3c88ba40d087"
-    },
-    {
-      "date": "2026-08-27",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Karnataka Government Partners With ElevenLabs For AI-Powered Citizen Services",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2lYbUthbjU4R1pqcnhvV3FMOHpyY1ZqaGk0T0tJZm51UE1CY01zX24tcTVBaGZwWm9jUk5iYnJkVi0xMlBqYU1vMkQtaGdURDVZSHg5aldvNTBuQnJhTXpsV0NySW1XWjFTYVBHMUduS0NXN2hGMFFvQmhySHM0ZHZnUXUzN1VpbG5iNkNFQzB5UXdBVUN1NG1XckNBc1V6R3RnUTdPbkpwd9IBrAFBVV95cUxPV2ZGM2R1akRSNHhPZGV3bHRXX1c0Um16ckRCYkluanhoN2ZJbVBDNl9Fcm5UNHB3aGFkZkJjN0g0R3U1X2xpaExGVG9CRHNocU1Va2JFemlNeWZaM1c4UnRhNzRHU1JzdEEtR1BfRGVNemVmUTFzcS14MFlra2FGeG5CUjIxMF80anU4SnRJRlZRdTlJNkNxNXhyRFFvSzUwUDJ0VkRjOUZTSlVu?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "04fb63f0fdff"
     }
   ],
   "items": [
+    {
+      "id": "ae7d7c312082",
+      "title": "Everyone Is Quoting The Same Number And Getting Different Answers via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/everyone-is-quoting-the-same-number-and-getting-different-answers/588659/",
+      "source": "Search Engine Journal",
+      "summary": "Publishers are blocking AI crawlers on a metric whose denominator is missing an unknown share of referrals. The post Everyone Is Quoting The Same Number And Getting Different Answers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-10T19:00:21Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "88ab38f7b5c1",
+      "title": "How to do keyword research with Claude and Semrush",
+      "url": "https://www.semrush.com/blog/claude-keyword-research/",
+      "source": "Semrush Blog",
+      "summary": "Learn how to use Claude and the Semrush MCP to find keyword ideas based on what your audience is saying.",
+      "category": "SEO",
+      "published": "2026-09-10T17:12:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "94ad36d7ed05",
       "title": "3 ways to prep for your next big race with Search",
@@ -1213,6 +1245,17 @@
       "impact": 6.0
     },
     {
+      "id": "23639e8e97cc",
+      "title": "Google Search Deez Nuts AI Overview Easter Egg",
+      "url": "https://www.seroundtable.com/deez-nuts-google-easter-egg-42062.html",
+      "source": "Search Engine Roundtable",
+      "summary": "If you conduct a blank search on Google Search, you will get an AI Overview that says \"...nuts? ð¥\" It seems like one of those easter eggs dropped by Google within its search results.",
+      "category": "GEO",
+      "published": "2026-09-10T14:51:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "4a77fe2adfcb",
       "title": "How Do I Keep Control As Platforms Automate My Account? – Ask A PPC via @sejournal, @navahf",
       "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/",
@@ -1224,6 +1267,17 @@
       "impact": 4.0
     },
     {
+      "id": "28f6f1bcf0b6",
+      "title": "Daily Search Forum Recap: September 10, 2026",
+      "url": "https://www.seroundtable.com/recap-09-10-2026-42058.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. John Mueller from Google said it is hard to map positions one through ten in search anymore...",
+      "category": "SEO",
+      "published": "2026-09-10T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "ebc069586a4b",
       "title": "YouTube Gives You Feedback On Shorts Before Publishing via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-gives-you-feedback-on-shorts-before-publishing/589088/",
@@ -1231,6 +1285,17 @@
       "summary": "YouTube is expanding Get Feedback, a tool that reviews a Shorts before publishing, to U.S. users The post YouTube Gives You Feedback On Shorts Before Publishing appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-10T13:55:02Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4ab57635afb6",
+      "title": "Apple: 2.5 Billion Siri Requests Every Day",
+      "url": "https://www.seroundtable.com/apple-siri-2-5-billion-requests-daily-42060.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Did you know that Apple Siri handles 2.5 billion requests every single day? Lilian Rincon, Apple's Vice President of Product Management / Product Marketing for Artificial Intelligence, said that yesterday at the Apple Event on September 9, 2026.",
+      "category": "SEO",
+      "published": "2026-09-10T13:03:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1378,6 +1443,17 @@
       "impact": 5.0
     },
     {
+      "id": "016c3ec9b775",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "category": "GEO",
+      "published": "2026-09-10T07:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "5cd30f9ad015",
       "title": "5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO",
       "url": "https://www.searchenginejournal.com/ai-signals-multi-location-uberall-spa/587988/",
@@ -1387,6 +1463,28 @@
       "published": "2026-09-10T05:00:48Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "4e410dad70fb",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "category": "GEO",
+      "published": "2026-09-10T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "2b26a8066576",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "category": "SEO",
+      "published": "2026-09-10T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "f528de47e7bb",
@@ -1497,17 +1595,6 @@
       "published": "2026-09-09T14:30:47Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "1d273d1c7af8",
-      "title": "Daily Search Forum Recap: September 9, 2026",
-      "url": "https://www.seroundtable.com/recap-09-09-2026-42052.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google said with SEO...",
-      "category": "SEO",
-      "published": "2026-09-09T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "9786c92a289d",
@@ -3851,83 +3938,6 @@
       "published": "2026-08-26T19:00:30Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "8f6874fbad5e",
-      "title": "Google Search Has A Special Dolly Parton Easter Egg 🦋",
-      "url": "https://www.seroundtable.com/dolly-parton-easter-egg-41955.html",
-      "source": "Search Engine Roundtable",
-      "summary": "To commemorate the life of Dolly Parton, Google has released a new easter egg in its search results. If you search for [Dolly Parton] within Google Search...",
-      "category": "SEO",
-      "published": "2026-08-26T18:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9174de66dc80",
-      "title": "Tell Google What You Want From AI Mode",
-      "url": "https://www.seroundtable.com/google-ai-mode-feature-request-41954.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Robby Stein, Google's Vice President of Product at Google Search, asked on X, \"If you could get one feature shipped right now in AI Mode, what would it be?\" So now is your chance to reply on X with what you want.",
-      "category": "GEO",
-      "published": "2026-08-26T16:34:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "88e6b9578344",
-      "title": "The Practical Guide to Google Analytics 4",
-      "url": "https://neilpatel.com/blog/google-analytics-4/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Are you getting the most out of Google Analytics 4 (GA4)? GA4 has been Google’s standard analytics platform for a few years now. The move from Universal Analytics (UA) was a major shift, but Google has continued updating GA4 itself along the way. One of the biggest…",
-      "category": "SEO",
-      "published": "2026-08-26T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "a720fefc4b22",
-      "title": "AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/ai-brand-preference-now-splits-by-generation-claude-leads-gen-z-more-than-7-to-1/586624/",
-      "source": "Search Engine Journal",
-      "summary": "Claude's Gen Z preference now outpaces Boomers nearly 8-to-1, and a chicken salad chain's rise shows why AI consideration scores never equal user trust. The post AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 appeared first on Search Engine…",
-      "category": "GEO",
-      "published": "2026-08-26T14:30:21Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "520dc66db74d",
-      "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
-      "url": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/",
-      "source": "Search Engine Journal",
-      "summary": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen. The post How To Advertise In Google AI Mode For Ecommerce appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-26T12:00:17Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "c438c0d747f7",
-      "title": "Google Search Ranking Volatility Continues Post Spam Update",
-      "url": "https://www.seroundtable.com/google-search-ranking-volatility-continues-41952.html",
-      "source": "Search Engine Roundtable",
-      "summary": "As you know, Google's August 2026 spam update began on August 18th and concluded on August 21st. But the volatility has not calmed down since and I think it is time I document it. We've been seeing chatter within the SEO community, in addition to the third-party Google tracking…",
-      "category": "Algorithms",
-      "published": "2026-08-26T11:55:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "9ed05e214365",
-      "title": "Google Massively Expands Booking Partners On Local Services Ads",
-      "url": "https://www.seroundtable.com/google-lsa-expands-booking-partners-41945.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has expanded the booking partners for Local Service Ads from about 20 partners to over 500 partners. That is about a 2,400 percent increase. \"We're vastly expanding booking capabilities for Local Services Ads to include more than 500 Reserve with Google booking partners…",
-      "category": "SEO",
-      "published": "2026-08-26T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
