@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T12:16:35Z",
+  "updated": "2026-09-11T16:13:21Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -9,6 +9,7 @@
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
+    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -19,6 +20,26 @@
     "Yoast"
   ],
   "milestones": [
+    {
+      "date": "2026-09-11",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types & Google Maps Photo Scams",
+      "url": "https://www.seroundtable.com/video-09-11-2026-42061.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "2bc94e4807ea"
+    },
+    {
+      "date": "2026-09-11",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google AdSense Max Message Coverage & Optimize My Consent Message",
+      "url": "https://www.seroundtable.com/google-adsense-maximize-message-coverage-optimize-consent-message-42069.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "39791413139e"
+    },
     {
       "date": "2026-09-10",
       "family": "engine",
@@ -654,6 +675,18 @@
       "id": "2c61a32d9777"
     },
     {
+      "date": "2026-09-10",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe to Acquire Topaz Labs – AI Upscaling and Image Enhancement, On-Device Models, Standalone Apps to Continue",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVJpZEdSOWpBUFQxM3FKREV6TmJDalpVZGdsSXlrT3VGOUl2dTUyaldUZjh4V0RGQS10Vm02MW1lTnI0NW9ITVlvVXhyeUpoMnlXTFctUjlLS3BxWjNrQ1M3NUgwM011SnJrUV9EY0RXM25OVWVpWWp3d2pqWUgxRHIzVElKYUYyMTJZWGc1QzEzZ0wyREl3Q09IX25fREgtRko1Y2dCSmRJa2xNNEZuWGxBQVVVZDE3RFc2aDhrQWd5TUw2R3BIalB3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "501f92956f33"
+    },
+    {
       "date": "2026-09-09",
       "company": "Krea",
       "front": "GenAI Media",
@@ -1175,20 +1208,75 @@
       "source": "TechCrunch",
       "curated": false,
       "id": "0e7a764b45f8"
-    },
-    {
-      "date": "2026-09-01",
-      "company": "Perplexity",
-      "move": "Launch",
-      "detail": "",
-      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
-      "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-      "source": "VentureBeat",
-      "curated": false,
-      "id": "5429fc5cf8bf"
     }
   ],
   "items": [
+    {
+      "id": "c352fbc96cf4",
+      "title": "20 Landing Page Examples to Learn From",
+      "url": "https://neilpatel.com/blog/landing-page-examples/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Traffic alone doesn’t pay the bills. You can drive thousands of visitors to your site and still watch your conversion rate flatline. If that’s happening, the problem might be your landing page. Your landing page is where interested visitors become leads (or don’t)…",
+      "category": "SEO",
+      "published": "2026-09-11T16:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "18afab3612a3",
+      "title": "How I Built an MCP Server for agents to use my Algo Update list",
+      "url": "https://www.mariehaynes.com/how-i-built-algo-update-mcp/",
+      "source": "Marie Haynes",
+      "summary": "I turned my 15-year archive of Google algorithm updates into an official Model Context Protocol (MCP) server at algo.mariehaynes.com. Here is how it was built, the architecture behind it, and how you can connect it to Claude Desktop. The post How I Built an MCP Server for agents…",
+      "category": "GEO",
+      "published": "2026-09-11T15:54:59Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "9a3ae1d321cf",
+      "title": "The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
+      "source": "Search Engine Journal",
+      "summary": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate. The post The 2003 Framework That Was Already Doing Query Fan-Out appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-11T14:30:50Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "07614f8aa9df",
+      "title": "Daily Search Forum Recap: September 11, 2026",
+      "url": "https://www.seroundtable.com/recap-09-11-2026-42070.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google's page indexing report is missing a chunk of data from June...",
+      "category": "SEO",
+      "published": "2026-09-11T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "83975534003b",
+      "title": "Google Search Console Indexing Report Missing Old June Data",
+      "url": "https://www.seroundtable.com/google-search-console-indexing-report-missing-data-42073.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The Google Search Console page indexing report is now missing a huge chunk of data from June 2026. It seems something is super buggy with this report over the page several months or something weird is happening with indexing in Google Search. I am hoping it is just a reporting…",
+      "category": "SEO",
+      "published": "2026-09-11T13:17:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ae54626f86fc",
+      "title": "Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types & Google Maps Photo Scams",
+      "url": "https://www.seroundtable.com/video-09-11-2026-42061.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This week we covered how Google said it launched its biggest reduction in search quality in Europe over the DMA laws. Google also posted a document on the regional differences with the Google Search experiences. Google confirmed there was a temporary indexing reporting bug in…",
+      "category": "SEO",
+      "published": "2026-09-11T12:01:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "c6b746a84c1a",
       "title": "What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern",
@@ -1199,6 +1287,72 @@
       "published": "2026-09-11T12:00:42Z",
       "coverage": 1,
       "impact": 7.0
+    },
+    {
+      "id": "4b2f9bdf9d10",
+      "title": "Google Shopping Ads X Days Left Attribute On Sponsored Ads",
+      "url": "https://www.seroundtable.com/google-ads-x-days-left-42063.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is running a \"very early experiment\" to show a new attribute in sponsored results in Google Search. This attribute shows how many days remain in a sale or deal on Shopping Ads.",
+      "category": "SEO",
+      "published": "2026-09-11T11:51:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "8bc2fba7178e",
+      "title": "Google Ads Reporting Segments For Loyalty Program Members",
+      "url": "https://www.seroundtable.com/google-ads-loyalty-program-members-segments-42050.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Last month, Google Ads added a new customer retention option named Loyalty program members. Now Google Ads can segment reporting by Loyalty program members.",
+      "category": "SEO",
+      "published": "2026-09-11T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1b96cd656df9",
+      "title": "Google Ads Sponsored Results Label Alignment Is Off (Sometimes)",
+      "url": "https://www.seroundtable.com/google-sponsored-result-label-alignment-off-42059.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google may have a bug with some of its search results formatting, where the sponsored results heading is sometimes not left-aligned. This does not seem intentional and it seems more like a formatting bug, but who knows.",
+      "category": "SEO",
+      "published": "2026-09-11T11:31:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "85d70e9a2eb3",
+      "title": "Google Ads Video Campaign Group Beta",
+      "url": "https://www.seroundtable.com/google-ads-video-campaign-group-42027.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is beta testing a new option during the campaign creation process for \"Video Campaign Group.\" This option is for video or Demand Gen campaigns, and it features aggregated metrics and controls for reach and frequency across campaigns.",
+      "category": "SEO",
+      "published": "2026-09-11T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e40bc9447887",
+      "title": "Google Merchant Center With Add Product Videos",
+      "url": "https://www.seroundtable.com/google-merchant-center-add-product-videos-42064.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Merchant Center now lets you upload videos of your products through a new Product videos section. \"Product videos offer a more engaging and immersive experience to customers,\" Google wrote on the \"Add videos\" page within Merchant Center.",
+      "category": "SEO",
+      "published": "2026-09-11T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a99f5b3c0a4f",
+      "title": "Google AdSense Max Message Coverage & Optimize My Consent Message",
+      "url": "https://www.seroundtable.com/google-adsense-maximize-message-coverage-optimize-consent-message-42069.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google AdSense announced two new privacy-focused features it is rolling out or has rolled out in European Economic Area (EEA), the United Kingdom (UK), or Switzerland regions. Google Ads has \"Maximize message coverage\" and \"Optimize my consent message\" in Privacy & messaging.",
+      "category": "SEO",
+      "published": "2026-09-11T11:05:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "3341b990a3db",
@@ -1340,17 +1494,6 @@
       "summary": "Keep AI-driven PPC accountable with transparent reporting, brand-safe creative guardrails, and campaign structures that preserve performance without surrendering control. The post How Do I Keep Control As Platforms Automate My Account? – Ask A PPC appeared first on Search Engine…",
       "category": "SEO",
       "published": "2026-09-10T14:30:20Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "28f6f1bcf0b6",
-      "title": "Daily Search Forum Recap: September 10, 2026",
-      "url": "https://www.seroundtable.com/recap-09-10-2026-42058.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. John Mueller from Google said it is hard to map positions one through ten in search anymore...",
-      "category": "SEO",
-      "published": "2026-09-10T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -3817,127 +3960,6 @@
       "published": "2026-08-27T15:18:34Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "446c9e19e841",
-      "title": "How To Become A Strategic Partner & Keep Clients Years Longer",
-      "url": "https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/",
-      "source": "Search Engine Journal",
-      "summary": "Client-agency relationships now average seven years, but only when agencies act as strategic partners instead of task-completing vendors clients can replace. The post How To Become A Strategic Partner & Keep Clients Years Longer appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-27T14:30:58Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "7c5c86d7dea3",
-      "title": "Analysis: Reddit Appears in 83.9% of Google’s Discussions and Forums Results",
-      "url": "https://ahrefs.com/blog/discussions-and-forums-serps/",
-      "source": "Ahrefs Blog",
-      "summary": "The most prominent domain was Reddit.com, which showed up in 87.8% of SERPs (83.9% worldwide), with an average of 1.29 link appearances. Along with Ahrefs’ data scientist Xibeijia Guan, I set out to uncover how prominent other sites were, whether … Read more ›",
-      "category": "SEO",
-      "published": "2026-08-27T13:49:03Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "a061815325f8",
-      "title": "We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com",
-      "url": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/",
-      "source": "Search Engine Journal",
-      "summary": "Discover the top citation sources for AI answers and how they impact recommendations across major AI platforms. The post We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-27T13:37:27Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "cf3c76bf1839",
-      "title": "ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan",
-      "url": "https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/",
-      "source": "Search Engine Journal",
-      "summary": "Reddit still wins ChatGPT citations where a forum is the best source. Two captures, four days apart, show what actually decides the credit. The post ChatGPT Searches Individual Subreddits By Name appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-27T12:00:30Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b868af2296dc",
-      "title": "Bing Tests Renaming Copilot Search Answer To AI Overviews",
-      "url": "https://www.seroundtable.com/bing-testing-copilot-search-ai-overviews-41953.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing renaming the Copilot Search AI answer box at the top of the Bing Search results to AI Overviews. That is the name Google uses for its AI answer results in Google Search. Microsoft is still placing the Copilot logo with the box but trying to use the name \"AI…",
-      "category": "GEO",
-      "published": "2026-08-27T11:51:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "fe38042f1390",
-      "title": "Google Ask Advisor Soon To Get Shared Memory Across Tools",
-      "url": "https://www.seroundtable.com/google-ask-advisor-shared-memory-across-tools-41961.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google posted on X that Ask Advisor, which is in Google Ads, Google Analytics, Google Merchant Center and more Google tools, will soon \"maintain shared memory across your Google marketing tools.\" When this rolls out, when you ask a question on Google Ads, and then ask a question…",
-      "category": "SEO",
-      "published": "2026-08-27T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "baec45155f5f",
-      "title": "Microsoft Advertising Search Term Landing Page Report For AI Max",
-      "url": "https://www.seroundtable.com/microsoft-advertising-ai-max-search-term-landing-page-report-41950.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Advertising, with the release of AI Max globally, has rolled out a new Search term landing page reporting template. This report gives advertisers \"full insights into all parts of AI Max's performance,\" said Navah Hopkins, the Microsoft Ads Liaison.",
-      "category": "SEO",
-      "published": "2026-08-27T11:31:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "ded5f539b809",
-      "title": "Google Ads Tests Swipeable Categories For Sponsored Results Again",
-      "url": "https://www.seroundtable.com/google-ads-swipeable-categories-41959.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing once again testing swipeable Google Ads sponsored results, where you can swipe a carousel of categories to potentially change the sponsored results listed below. We saw this for shopping ads in October 2024 and Google has continued to test this since.",
-      "category": "SEO",
-      "published": "2026-08-27T11:21:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "25c67b7595a0",
-      "title": "OpenAI Pins Shopping To ChatGPT Sidebar",
-      "url": "https://www.seroundtable.com/shopping-pinned-to-chatgpt-sidebar-41893.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI has pinned the Shopping tab to the left sidebar on ChatGPT. Clicking on it takes you to a landing page and a dedicated search page focused on shopping.",
-      "category": "GEO",
-      "published": "2026-08-27T11:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2a678c377217",
-      "title": "Google Ads New Troubleshoot Performance Fluctuations & Changes",
-      "url": "https://www.seroundtable.com/google-ads-troubleshoot-performance-fluctuations-docs-41958.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has released several new \"Troubleshoot performance fluctuations and changes\" across Google Ads, Performance Max, Search campaigns, Display, video, shopping, app, and more. At least I think these documents are new based on my tools, but the Wayback Machine has been…",
-      "category": "SEO",
-      "published": "2026-08-27T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1c87eb527c11",
-      "title": "What is Nvidia up to buying Hugging Face and Groq?",
-      "url": "https://dejan.ai/blog/nvidia-buys/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Nvidia's $12.9B Hugging Face and $20B Groq acquisitions consolidate control over AI software and low-latency inference hardware amid supply chain constraints.",
-      "category": "SEO",
-      "published": "2026-08-27T09:21:25Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
