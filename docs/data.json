@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T16:13:21Z",
+  "updated": "2026-09-11T20:12:56Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1212,6 +1212,39 @@
   ],
   "items": [
     {
+      "id": "faa04f5da654",
+      "title": "SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh",
+      "url": "https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/",
+      "source": "Search Engine Journal",
+      "summary": "SEO For Paws is back with Barry Schwartz, Glenn Gabe, and a lineup of search experts talking about search in the AI era. The post SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-11T19:00:59Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "67930cd928b4",
+      "title": "Google Documents Partner-Only API For Full-Web Search Results via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/",
+      "source": "Search Engine Journal",
+      "summary": "Google's developer docs for the Web Search Service API show a partner-only path to full-web search results. The post Google Documents Partner-Only API For Full-Web Search Results appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-11T17:32:12Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2038fac373df",
+      "title": "Dashboards Available In Google Analytics",
+      "url": "https://www.seroundtable.com/google-analytics-dashboards-42075.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Analytics is rolling out dashboards where you can create your own custom dashboards using Google Analytics data. Google explains that you can \"create custom visualizations to quickly pull actionable insights from your Google Analytics data, all in a single, consolidated…",
+      "category": "SEO",
+      "published": "2026-09-11T16:32:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "c352fbc96cf4",
       "title": "20 Landing Page Examples to Learn From",
       "url": "https://neilpatel.com/blog/landing-page-examples/",
@@ -1364,6 +1397,17 @@
       "published": "2026-09-11T10:06:00Z",
       "coverage": 1,
       "impact": 2.0
+    },
+    {
+      "id": "c7d3c8aeae42",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "category": "GEO",
+      "published": "2026-09-11T10:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "b18d9ad47371",
@@ -3916,50 +3960,6 @@
       "published": "2026-08-27T17:55:25Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "d15623358126",
-      "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
-      "source": "Search Engine Journal",
-      "summary": "Google is rolling out hotel booking in AI Mode with Google Pay checkout. Flight alerts and rewards pricing are available in supported markets. The post Google Starts Rolling Out Hotel Booking In AI Mode appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-27T16:00:35Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "38e38808c623",
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "source": "Google (Search)",
-      "summary": "Graphic depicting new travel features for AI Mode in Search",
-      "category": "GEO",
-      "published": "2026-08-27T16:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "1a21fb91c3ec",
-      "title": "Google AI Mode Adds Flight Price Tracking, Mile Rates & Hotel Booking",
-      "url": "https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is rolling out three new travel features within AI Mode in Google Search. These features include track flight prices, view points or miles rates, and book hotels directly within AI Mode, through your conversational search.",
-      "category": "GEO",
-      "published": "2026-08-27T16:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "6ae11da9b4c9",
-      "title": "OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/",
-      "source": "Search Engine Journal",
-      "summary": "OpenAI added WebMCP support to ChatGPT’s desktop browser, letting supported webpages expose structured actions to ChatGPT Work and Codex. The post OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-27T15:18:34Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
