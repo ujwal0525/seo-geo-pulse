@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T04:13:48Z",
+  "updated": "2026-09-11T08:13:47Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -496,6 +496,18 @@
       "source": "Google News",
       "curated": false,
       "id": "2cea2894e6aa"
+    },
+    {
+      "date": "2026-09-11",
+      "company": "Photopea",
+      "front": "Creative",
+      "move": "Campaign",
+      "detail": "",
+      "title": "Google Trends: ‘ChatGPT Download’ surges across India as 1980s AI photo trend goes viral",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVlCRFpndUhIb09wRXpKcnBCVzVpZEdGYUZYa2RpdlpEVFZxTGN4SUh6RFFuSktScU84OVY0WUNRTkV5dmJ6emY1RnB0U0lyeHJMNF9TYWswNXJjVGlhcE5fWUVmemdzZ0x4YWxqU296T0c0WWdLZWpSSGRQTFBsaU1rMzltcWV4SGpzMDZEcW5STm9jc0RpOHRDY3VwaW9vMlRLd2pXZjYxZ05UVTVmU1RsVE16c2Y5VjIyLUtFUXB6Wm1GdFE1NXhKMzZBX2VXa3JEYVhZVU83eEXSAeIBQVVfeXFMTjZCaVNrQzVFdmRQb2FPUHhDVzFCendaVUJvV2NJUzF6eS1lcUNMYUc3eXhaSUo2ek9DQlA4LWpKbFN4ZWVtQ1h0MHhGWUJXaGQ3TkV3Ym54Y3JwbFNYeDFVenJpNk5RMVBFQUJWc0pHMEUzQ3p0U01fb3VVREtQOVFqdGt2dkxqR0h1bVZqRXFRelJ2dlZ4MVFETUNRRDVjU0FELXduY2FyeGZTelZfSEM2ZXVIMklsUS1nRXFHU212NUtfcjRLMEtDR01veWhXNmg1UjN6WC1DUE5UejFzY09vdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f8f624d8b361"
     },
     {
       "date": "2026-09-10",
@@ -1118,6 +1130,18 @@
       "id": "38f1082e66da"
     },
     {
+      "date": "2026-09-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Canva partners with EBANX and Capitec Pay to unlock cardless subscriptions for South Africans",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkhXVXFqdGlnRXVCMWFaTHNlWmh1NzZBNmJfUjE0dVZEcXltOUdlMGtFNGNiVFVnWjFDUFVoVzAyY1VFeE43TGp2LW9RWnZ1ZFlMQjROSGtGdHI1a245bFV0UURzMXlBdjg2ajIxMTZxSHRQUXhLZDIwU1RZQUJQS1VqWVR5NkVOY1dlMHFPbnBISnlfcldGOWFwTlNZVTlBU2s4ZndMblU4bE0zRGZTVWlSdGdfTUNzSHpKSzltMm5Tc0ZMa2VfNHM1OTVSbkg2ZWRyWGtUU0d5dnZtejd5N2x4WGdUZy1QYUlkODdqZFpTWUZvM29DMw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f5c956f4f701"
+    },
+    {
       "date": "2026-09-01",
       "company": "Canva",
       "move": "News",
@@ -1162,33 +1186,20 @@
       "source": "Google News",
       "curated": false,
       "id": "ff264e2aefae"
-    },
-    {
-      "date": "2026-08-31",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Introducing Solaris",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FbFNVQWVzZXZDX0UyZGM3eTc0dDRYc2h1STR0enNHUExSVHpGb2U0MUtNQnZWaXpkWTFMWG9WMEROTGExOHBOb1I5SzhheVFESlU1QTZUSlYzemJBTWVkYU13?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "490c3d33140f"
-    },
-    {
-      "date": "2026-08-31",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76M",
-      "title": "Stability AI Raises $76M Series B, Backed by Major Entertainment Companies",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3VCNDNxdGFfNC01SnllVnFBSnFSQ0hpZ0dBdGlEMDBIRWFrTElEdXhxekpINndodlV2ZHhoSGNPVjNNWVh5dWdVOU1KMFBWWU9GLTRDTWRyS3Y3bnB5c1kzU3R4TVpsNlRzcXF1ZThtRzk2d0kxMnJCMlVBVmhNdmhOUlFyTkRodnA5bzF3M3VsbjlKUldwUzh6dVFmTEZqYzdaTm1BbkVlS0dVQm44?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7cff2f42d4b9"
     }
   ],
   "items": [
+    {
+      "id": "b18d9ad47371",
+      "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/",
+      "source": "Search Engine Journal",
+      "summary": "Stas Levitan of LightSite AI explains four first-party signals marketers can use to connect AI bot attention with human traffic and better SEO decisions. The post New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-11T07:45:21Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "3c42afcff6d2",
       "title": "The Ghost Citation: When AI Knows Your Brand Better Than It Knows Your Content",
@@ -3927,17 +3938,6 @@
       "published": "2026-08-27T08:15:30Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "57e276283c19",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "source": "OpenAI",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "category": "SEO",
-      "published": "2026-08-27T03:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
