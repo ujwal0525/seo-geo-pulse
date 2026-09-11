@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T00:17:40Z",
+  "updated": "2026-09-11T04:13:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -473,6 +473,30 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-11",
+      "company": "Freepik",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "LOOK: List of Philippine Holidays for 2027 Released",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TRy0wX00tV1VFSHlVQmNYQ0RIeHFiMFRKZElGTmlVU3VKZTdMVS16Sy1IbkZQbG5pWkprTHBpNEdoNFRteHp2QURHVjRSVVFiWkUwMjRoeEdPUEF5ZU1JRWZsMm9UNFA4OU5nYQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1d4206c05673"
+    },
+    {
+      "date": "2026-09-11",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Universal partners with AI startup ElevenLabs -",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43cTVnbDhhYy1TVHF2blBmeWZsTGplanFnd29kRVVQU0xCX01QYXdpTGVxZzdMQWRnUDQ3Q3RJcTZXQmpWbjVFQndiNjlleFhmdkhtX296aVVNYWZ6cTZ1LTU5TWN5eHJnNzQtUGpB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2cea2894e6aa"
+    },
     {
       "date": "2026-09-10",
       "company": "Figma",
@@ -1162,30 +1186,6 @@
       "source": "Google News",
       "curated": false,
       "id": "7cff2f42d4b9"
-    },
-    {
-      "date": "2026-08-31",
-      "company": "Luma AI",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "U.S. Start-Up and Saudi Arabia Form Data Center Partnership",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3ZwelBXaXJyelNmMGZBLTctU1RYTnFRbHloeHpMS2xSM01RVjRpWGNydkEwam5ibG1uUy1qaWpiTURFZ3lOdHp6Yk51azhNU01LTXVucGxDOUIyVGM5V2VzNlJRRkpBN2dTc2VUOUdhYnRUVFo2MnhBdDFPbVc5dzktZWtUeVJzU0ZBWHF4UW9EdGt6RFMxLTZMbC1GVlJQMFFr?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "52d6f41e4cf6"
-    },
-    {
-      "date": "2026-08-31",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$500M · $11B",
-      "title": "Eleven Labs Revenue and Valuation: $500M ARR, an $11B Price Tag, and Where the Numbers Disagree",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JNXd1ZkVfdXVQR0dtTnFOOTZtaXNIX1NmUXNiZ1JVQVllcklzSnhZcHNmZHdRV2FIbk5BaWowZzhaNklEZGVCUG1SNTlmSXZwbklkc2g4TEt3SmFaUmUxTmJDSWxidw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c2c0ef52d8ff"
     }
   ],
   "items": [
