@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:12:01Z",
+  "updated": "2026-09-11T00:17:40Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -568,6 +568,42 @@
       "source": "Google News",
       "curated": false,
       "id": "90af6111c096"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Universal Music Group and ElevenLabs inks AI-powered music platform partnership - Mi-3.com.au.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUVhcE1BYlJ1NmRkNmVkUGN1RlByVC1DOHJJZXRJNGlaQ3pRa3ZzV2IyNjFCT3pTUjItbGJXVm1nYmdHOXFYNHpSU3QxYkxLSm9LV2NJVDZsc0hCTF9POEpINHpsNnRITTBfUFB0a2dtdlJJMnFXZ0R2UV9Va2d3bktfNXNWQVNNd1M3Nk5KZVotTGJyaE1wOV9NajdlZWVGbWpaNmRzUWVHRkg0QVBuWEZEelo?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5e3ffcd5ecd1"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "Synthesia",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "AI Video Company Synthesia Launches Express-3 Digital Human Model",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yeW1QNW5CdGEyMlEwZ0tCZUlFUy1Pci1DMjY0OENhTHl2T1Q4aWQ4YmdZeHNQQjVpRUZkYWN2Mmc4cGU2M0RVV1pKeENpdkNOSEtJZ1VNaHN4THhqcUhLTlMtNko3Z2lzcTR0UlRmYWc1bElU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0afdf81348d0"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Campaign",
+      "detail": "",
+      "title": "Affinity Partners rebrands as Truestead Group",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUU2dmhsa0g5QXpBaTRwZVNsVm54aVhnaHR2REZxM3dkX0tWMkFhY3g1S3RaeHRrc2pxN0V0UzBTVHlCVnFISVMwNGZ1WTYzM0lwQW5DeFF2emx5R19uRjN4U0J3dWdFaGVLWlBUXzZXOFlYZmxaU1Q4VE9jSXJfU0hiOA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2c61a32d9777"
     },
     {
       "date": "2026-09-09",
@@ -1150,45 +1186,53 @@
       "source": "Google News",
       "curated": false,
       "id": "c2c0ef52d8ff"
-    },
-    {
-      "date": "2026-08-29",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 Million",
-      "title": "Stability AI Raises $76 Million As Entertainment Giants Back Its AI Push",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2ZuVnFyZ0hRMTQ1aTJrQjBSdmVrSkJPLXZaTEtJTGFBT2w0by1KNEZoR0NDRU14VjVIdVhVanBVWVF0TlRZQ1lnOFVmc2ZVLUltbVNTUmYtVU8zSF9tZG5HWHY2eHNoTnNZSE5TZzJqUWhQdWpqTEhVeFdIU2tUZUYxbkI2WVZ1OEtvSk1LcWtvbzl3MzNSZA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d88f458eb076"
-    },
-    {
-      "date": "2026-08-28",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 Million",
-      "title": "Universal, Sony And Warner Back $76 Million Stability AI Funding Round",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDJxTFNsYXFhNkpBQVl1SzJNNkRHZjRjSWhiM3RRelc0TVhtam5oOUtFOG1OaTU4cjA1SWNUdTlDSnh0SHVrVmtTSmFva1dyb3E0azgwbkRQQUlpd3pVenV5c0lYQ2twcUFmUVRoajRDeGI4U09lZ2J2SVM1RHFFNGJLcUZfcU5IczZyWGFwRm1Jdkw5aDRhcThIY1liaHQ3QmpNTXF4X2tmcWJf?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4c5e9d24f8dd"
-    },
-    {
-      "date": "2026-08-28",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76m",
-      "title": "Stability AI raises $76m as entertainment groups back generative AI company",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOczY2dVJSNjJNRVh2VEZwVWJhblFidkpaamNmeTZLUG1tNi10azZRRFg4cWg4dTZEODdyY0tmd3dDV2JjeGlEblpTdkkxTGx4bVA2WGFTbV9feHhjTEZSS0h4OGpmUS00aHZhak1OX1VsMGx5bV92ZGF6czdtMWFzbVFLOUVhSktQdDQycWVNSTFtMWpfOEczYkR6Z3FnYmRWWW9MTUxya2tEdlFHMUsxbmEzM1EyQk1tV1RRWHhBWnN4NVZudENsaA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "55dfab9c291f"
     }
   ],
   "items": [
+    {
+      "id": "3c42afcff6d2",
+      "title": "The Ghost Citation: When AI Knows Your Brand Better Than It Knows Your Content",
+      "url": "https://foundationinc.co/lab/n8n-ghost-citation-audit",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "AI can recommend your brand while citing sources you don’t own. That is what happened with n8n, the AI workflow automation platform. When we asked AI systems to recommend workflow automation tools without mentioning n8n by name (for example, “What is the best platform for…",
+      "category": "SEO",
+      "published": "2026-09-10T22:00:31Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "1e0743e043d0",
+      "title": "The Docs Dividend: How Docker Built Its Largest First-Party AI Evidence Layer",
+      "url": "https://foundationinc.co/lab/docker-docs-ai-citations",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "You’ve probably rewritten the comparison page, added an FAQ block to the product page, and refreshed last year’s blog posts, all to get cited in AI answers. But Docker’s citation data points somewhere else: technical documentation. Across two Profound runs on August 23 and 24…",
+      "category": "GEO",
+      "published": "2026-09-10T21:22:37Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "c33cb18f67e1",
+      "title": "Google Adds Post View Counts To Business Profiles via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/",
+      "source": "Search Engine Journal",
+      "summary": "Google says Business Profile post view counts are rolling out globally for posts published in the past 18 months, combining views from Search and Maps. The post Google Adds Post View Counts To Business Profiles appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-10T21:13:27Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "24780c158c2d",
+      "title": "Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/is-your-local-seo-strategy-ready-for-googles-next-ai-updates/589119/",
+      "source": "Search Engine Journal",
+      "summary": "Google & Uberall go live on Sept 24, sharing what comes next in Google Search and five local marketing strategy fixes that get locations recommended. The post Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-10T20:11:11Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "ae7d7c312082",
       "title": "Everyone Is Quoting The Same Number And Getting Different Answers via @sejournal, @DuaneForrester",
@@ -1648,8 +1692,8 @@
       "summary": "Google Ads is releasing two new features for multi-location retailers including Local Customer Optimization and Store Sales in Data Manager. Ginny Marvin, the Google Ads Liaison, wrote on X, \"Ahead of the holiday rush, we're introducing two features for multi-location retailers…",
       "category": "SEO",
       "published": "2026-09-09T11:31:00Z",
-      "coverage": 2,
-      "impact": 6.0
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "5fc5d5cc6d2e",
@@ -3892,50 +3936,6 @@
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "category": "SEO",
       "published": "2026-08-27T03:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ac1671e7e961",
-      "title": "Judge In Penske Vs Google Says AI Situation “Seems Really Unfair” via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/judge-in-penske-vs-google-says-ai-situation-seems-really-unfair/587216/",
-      "source": "Search Engine Journal",
-      "summary": "Judge who ruled that Google is a monopoly said in the Penske vs Google hearing that the AI Overviews situation \"seems really unfair.\" The post Judge In Penske Vs Google Says AI Situation “Seems Really Unfair” appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-26T22:06:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "e0fa2b6fb01b",
-      "title": "AI Tools Recommend Brands But Cite Other Sites, Data Shows via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/",
-      "source": "Search Engine Journal",
-      "summary": "A report finds AI tools often recommend brands while citing other websites as the source. The post AI Tools Recommend Brands But Cite Other Sites, Data Shows appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-26T21:13:06Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0b4457fa3762",
-      "title": "Confirmed: Google Search Rolling Out google.com/goto Tracking Parameters",
-      "url": "https://www.seroundtable.com/google-search-goto-tracking-41957.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search seems like it is rolling out the google.com/goto URL as a passthrough URL within the search results that it began testing in July 2026. This seems like a way for Google to help prevent scraping of its search results by third-party tools and AI companies but Google…",
-      "category": "SEO",
-      "published": "2026-08-26T21:01:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "8d9b3cf24e5f",
-      "title": "Why Running YouTube Ads Like Search Will Burn Your Budget",
-      "url": "https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/",
-      "source": "Search Engine Journal",
-      "summary": "Before funding YouTube Ads, businesses must fix attribution, build skip-proof creative, budget for algorithmic calibration, and simplify offers to one clear promise. The post Why Running YouTube Ads Like Search Will Burn Your Budget appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-08-26T19:00:30Z",
       "coverage": 1,
       "impact": 5.0
     }
