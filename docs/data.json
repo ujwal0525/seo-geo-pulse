@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T08:13:47Z",
+  "updated": "2026-09-11T12:16:35Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -508,6 +508,18 @@
       "source": "Google News",
       "curated": false,
       "id": "f8f624d8b361"
+    },
+    {
+      "date": "2026-09-11",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "FLUX Video Edit, an AI-powered video editing tool, has been released, allowing users to edit only specific sections of a video.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfVzE2MHRDb1JiWjE1RHpKQ1pWQ0dlQTVQamZ6RE1RcHd5TzJmWWxfQmxSekI4aTg5ODJySXpOZzMzYkpnUGJGbmtNY3BvekVRb1BvMTNRYm5PUU5kQkhuYWZWWEZWRGhUSHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8a36d27940c2"
     },
     {
       "date": "2026-09-10",
@@ -1142,6 +1154,18 @@
       "id": "f5c956f4f701"
     },
     {
+      "date": "2026-09-02",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Range Rover Electric Launched, Bookings Open In India: 5 Things That Standout",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUVyLWt2WDBMeWxsM2Q3V1ZvZUZnSHduRVE0RThzNU90RmlXOVRSZmhQazIzdk84X2kzVTBPMXpMRHN5TkE4Zm5kb2hSZ0R0WWNTVGhqM3dmREc2ZmZZbHFSMllDQ1BEM2dQVlNNSHg4LW5na0o2bEY3Vm5CbDlKcHdTMVVRMVFMV05WWGJBcmdvZzlfaFFDbDlRSGVnbDJCUWt1UVVUTGo1dVh0MFBr0gG3AUFVX3lxTE40aDBkMUxjaHNFZG5GN3VpeXpiYTk3S1kzcXFCZWlDdkRlcEItdklJeU1XeHRldHZlUVdLOWQxcGNzVUlMY2V1WVVxTUt6cGNhZmhJT1llWWlUUUs4cWZBaExjZEJZU0FHWklDSHcxZHA2YTcwVlp5YktzWThwREl2cTl1VVdxRXF0Uk1hT0VVVm94eUt1WkZ5UENoXzBKNjMyb2h6YU1lVU8wMkNDQnQ3Zi1FMWNaQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3b91d92aeb63"
+    },
+    {
       "date": "2026-09-01",
       "company": "Canva",
       "move": "News",
@@ -1162,33 +1186,31 @@
       "source": "VentureBeat",
       "curated": false,
       "id": "5429fc5cf8bf"
-    },
-    {
-      "date": "2026-09-01",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Getty Images and Penske Media Corporation Expand Partnership, Bringing Dick Clark Productions' Iconic Entertainment Archive to Global Audiences",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2F1d1lzS3F3X1VIV1FWZDVBNVA3LTAzVExHVHk1QV9iUmNSU2FpWDZVMHM1clNQTU9HaFJVMW5TMjBqNDBqejB5MEhRbVR3d2xvMGhrVnp6OElOTHUyYlhDQ3JVQnVMN0ZCbEZkVUliUnk1SjVuYWstR1hwTFVCbi1sVVVuQUk5TjUzVzJIYTdHMVplMzk2NzQxQTY5cjNXRlNIaGpVQTE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "60f263d16aaf"
-    },
-    {
-      "date": "2026-09-01",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Google launches a Canva alternative that lets you create posters, flyers, and social posts with AI",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1pFeDV4WmpUUGF0R0kxd0FaX1lMcDBkQlVDam9WanNxNWVDcjAxbVNibGIyejlzSUIzbmdGejhzMXFTcjhxYXo4M1FrSHJSbi1JdjdzSmhaVEN3Nzk5NzdTa2pFQmhxUGJFZGhDRTFLcWxFNndOODJDeWNFX3MxMU9NTlRKWDR2STkweU9rbTlQWEx4T3NwY2JkVHJzMXNsa3hEVm1wV21RcGxSUlIzOVdYZ2RpRGNiMnZTTTVLLWlIMnVSeGpjbjBhX2Y3NnI3UnZF?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ff264e2aefae"
     }
   ],
   "items": [
+    {
+      "id": "c6b746a84c1a",
+      "title": "What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/",
+      "source": "Search Engine Journal",
+      "summary": "A University of Washington paper estimates AI Overviews reduced search referrals to Wikipedia by about 5%, a metric Google disputes. The post What Wikipedia Reveals About AI Overviews And Web Traffic appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-11T12:00:42Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "3341b990a3db",
+      "title": "What is zero-click marketing? How to execute and measure it",
+      "url": "https://www.semrush.com/blog/zero-click-marketing/",
+      "source": "Semrush Blog",
+      "summary": "Zero-click marketing is a content strategy for delivering value without requiring clicks to other pages.",
+      "category": "SEO",
+      "published": "2026-09-11T10:06:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "b18d9ad47371",
       "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
@@ -3916,28 +3938,6 @@
       "published": "2026-08-27T09:21:25Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "3062d8cdad5f",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "category": "GEO",
-      "published": "2026-08-27T09:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "36b02d3d1f7f",
-      "title": "Relax. Google won't penalize all AI generated content.",
-      "url": "https://dejan.ai/blog/ai-penalty/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Google evaluates content based on substance and user behavior signals rather than penalizing pages simply because AI generation is detected.",
-      "category": "SEO",
-      "published": "2026-08-27T08:15:30Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
