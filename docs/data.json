@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T20:12:56Z",
+  "updated": "2026-09-12T00:16:42Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -543,6 +543,18 @@
       "id": "8a36d27940c2"
     },
     {
+      "date": "2026-09-11",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Campaign",
+      "detail": "",
+      "title": "Fort Collins Firm Affinity Partners rebrands as Truestead Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOG5mRVlpLXZZOHNkMnhkd0R1Vk15c21KMG5yUGdvUFg3T1Z3ZDB0azdTMzJxZ0pwRTNvWXU1OU9WRW84TG1CLUU4U0FFejAyV1R6N3hETVNfODNaZ21mNFJzem81aC1DRmNNT3VibVJ5Y3FxMzZ0cVZlMGNnMTdyVGxseGlMWVE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f3182313e1d1"
+    },
+    {
       "date": "2026-09-10",
       "company": "Figma",
       "front": "Creative",
@@ -661,18 +673,6 @@
       "source": "Google News",
       "curated": false,
       "id": "0afdf81348d0"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Affinity Partners rebrands as Truestead Group",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUU2dmhsa0g5QXpBaTRwZVNsVm54aVhnaHR2REZxM3dkX0tWMkFhY3g1S3RaeHRrc2pxN0V0UzBTVHlCVnFISVMwNGZ1WTYzM0lwQW5DeFF2emx5R19uRjN4U0J3dWdFaGVLWlBUXzZXOFlYZmxaU1Q4VE9jSXJfU0hiOA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2c61a32d9777"
     },
     {
       "date": "2026-09-10",
@@ -1212,6 +1212,17 @@
   ],
   "items": [
     {
+      "id": "12e9dd685180",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "category": "GEO",
+      "published": "2026-09-14T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "faa04f5da654",
       "title": "SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh",
       "url": "https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/",
@@ -1243,6 +1254,17 @@
       "published": "2026-09-11T16:32:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "c3aa33826442",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "category": "GEO",
+      "published": "2026-09-11T16:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "c352fbc96cf4",
@@ -3938,28 +3960,6 @@
       "published": "2026-08-27T19:00:52Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "975a586ec82d",
-      "title": "IRS Website Drops Heavily In Google Search",
-      "url": "https://www.seroundtable.com/irs-website-drops-google-search-41967.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Over the past few days, the IRS website (and other government sites) has tanked within Google's search results. My gut feeling is that the federal government implemented some bot-blocking that was too aggressive and blocked Google, among others, resulting in Google not fully…",
-      "category": "SEO",
-      "published": "2026-08-27T18:23:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6b57e14b2703",
-      "title": "New Claude skill: Commodity Content Audit",
-      "url": "https://www.growth-memo.com/p/new-claude-skill-commodity-content",
-      "source": "Growth Memo",
-      "summary": "Score how replaceable your content is",
-      "category": "SEO",
-      "published": "2026-08-27T17:55:25Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
