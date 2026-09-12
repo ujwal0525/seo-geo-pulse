@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:12:22Z",
+  "updated": "2026-09-12T12:14:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -505,6 +505,18 @@
       "source": "Google News",
       "curated": false,
       "id": "2081812b2c2e"
+    },
+    {
+      "date": "2026-09-12",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Video Generation Company Higgsfield Launches ChatGPT Dynamic Design Plugin",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95TF8xd0JjOFRnOXRiWFJjOC1TM0Jzd2dGcF9lbHN3RFBFbFZLWU9RT2JwdEY0aEMxcWdISm5nMzRJM0YzanlyTzA5bEZmRmJ5Z1I1VHZrNUlCTTBEemlNZTJrZU9HUXJlWkViZ2xuckRrSGk2?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "afca0f73b7ca"
     },
     {
       "date": "2026-09-11",
@@ -1197,18 +1209,6 @@
       "source": "Google News",
       "curated": false,
       "id": "53255d3fcfba"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "pdfFiller",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "2026 Mitsubishi Pajero Unveiled: All About Fortuner's Japanese Rival",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEx3QzdSQVJJU3V3QVE2dng5Z3A2cUozWWw0SnNHZUxIU0xIUVoyb05RZFVlR2NUUG5iWDktQmxzdFJBMHNoNDQ5YzZjX1N6SE1yWWhVZXNvS0QzRnlhdEltOWRWal9xZFlweGs3UHk2ZkpSSDJZQmJYQ1M1ZmtkV2lxUnlEVDQ3b2tIZ1lEa3ZYMS1pNjRIN2ZTSF96Y2NOeF9r0gGrAUFVX3lxTFB2dm1PME5qeUYzTEhDeVctMVdqZFRhT2tOQ2JORThGQ0hSUFFETnlGMEV5NERkWkZCQThUeUtfNlRvR0p1bUxIeHRRV3VfY1RSbmoxWUJ2bTdIRWFMZTlPUXViVzJYUzhLRFBZZzZieDluQlk5YjhMbHJ0TmI3LVZlS2xGZVdfbjQtLTRyTE5GYVdBZDZlb0dXdjl6U2RUdElrRkFWRTZqRERVZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d4b9e459defa"
     }
   ],
   "items": [
