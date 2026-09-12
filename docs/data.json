@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T04:12:26Z",
+  "updated": "2026-09-12T08:12:22Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -567,6 +567,18 @@
       "id": "f3182313e1d1"
     },
     {
+      "date": "2026-09-11",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches Music v2.5 Commercial Model with Thicker Melodies, Closer-to-Life Instruments, and Deeper Arrangement Layers",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tVF9TdkZGZFFsWEJlY0FMeXVWR1pnNV83cHY0OXpJcHltc2pqY3U5cXN1aE9yWmQ1c1poNDZ3bFNZMVd4LUtTcm1nd0ZPTVZpbDI1VGdIOVA0bUtLbElBc0dlQW54U0xjTEF4djlEdzhpanZr?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d3cbd35e342d"
+    },
+    {
       "date": "2026-09-10",
       "company": "Figma",
       "front": "Creative",
@@ -699,6 +711,18 @@
       "id": "501f92956f33"
     },
     {
+      "date": "2026-09-10",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "UMG Partners with ElevenLabs for AI Music Platform",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2hOOEVfanBYZUZOSG9IMjhZU1N3WXFlMU1DaG1qUlpSVVh5Yk4zLVppY2NzR2hqUWFYWG83Y0Z1ZGgyMnNzS0s3d2V6VEZ5S1JYRkhNS1AtdFdVT3Rzb280Z1ZoZWxYS1RMRVFWT2t0NFZzWE8xN3UxV1F1RzZsMEtDMFZjM0g2bFFTcDM1cDZSZjk0?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0ecd784775f2"
+    },
+    {
       "date": "2026-09-09",
       "company": "Krea",
       "front": "GenAI Media",
@@ -829,6 +853,18 @@
       "source": "Google News",
       "curated": false,
       "id": "f7fa97f689bf"
+    },
+    {
+      "date": "2026-09-07",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$12.9B",
+      "title": "Nvidia Acquires HuggingFace for $12.9B: What It Means for Open-Source AI - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbU5YZHd1SlR3ckVOT3ppb01EclVsd25ROEpkWjh6UUxkOUlvbzdENDRuVHZYTS1iU3Q1cElMQW1vNnpmUHd4eXZGOU42OUd4WVhOZTREY252djlIdnFnQUljNG9uWjhNdFJ0eTN0YlNJNlFzckVOTUhvNVFuSlpsN09nTFQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "80582d91a0fc"
     },
     {
       "date": "2026-09-06",
@@ -1173,42 +1209,6 @@
       "source": "Google News",
       "curated": false,
       "id": "d4b9e459defa"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$7.6M · $470M",
-      "title": "Pika Revenue 2024: $7.6M ARR, $470M Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4SzZ0TmNKeTNWS1JHUEtyRVpTeGtzbjdzb1BkeW5WMDlDeFlQUlYzcTctdFg2NGFTdDhpcVNtemNxcXNuYkpSRUNZbw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "38f1082e66da"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Canva partners with EBANX and Capitec Pay to unlock cardless subscriptions for South Africans",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkhXVXFqdGlnRXVCMWFaTHNlWmh1NzZBNmJfUjE0dVZEcXltOUdlMGtFNGNiVFVnWjFDUFVoVzAyY1VFeE43TGp2LW9RWnZ1ZFlMQjROSGtGdHI1a245bFV0UURzMXlBdjg2ajIxMTZxSHRQUXhLZDIwU1RZQUJQS1VqWVR5NkVOY1dlMHFPbnBISnlfcldGOWFwTlNZVTlBU2s4ZndMblU4bE0zRGZTVWlSdGdfTUNzSHpKSzltMm5Tc0ZMa2VfNHM1OTVSbkg2ZWRyWGtUU0d5dnZtejd5N2x4WGdUZy1QYUlkODdqZFpTWUZvM29DMw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f5c956f4f701"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Range Rover Electric Launched, Bookings Open In India: 5 Things That Standout",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUVyLWt2WDBMeWxsM2Q3V1ZvZUZnSHduRVE0RThzNU90RmlXOVRSZmhQazIzdk84X2kzVTBPMXpMRHN5TkE4Zm5kb2hSZ0R0WWNTVGhqM3dmREc2ZmZZbHFSMllDQ1BEM2dQVlNNSHg4LW5na0o2bEY3Vm5CbDlKcHdTMVVRMVFMV05WWGJBcmdvZzlfaFFDbDlRSGVnbDJCUWt1UVVUTGo1dVh0MFBr0gG3AUFVX3lxTE40aDBkMUxjaHNFZG5GN3VpeXpiYTk3S1kzcXFCZWlDdkRlcEItdklJeU1XeHRldHZlUVdLOWQxcGNzVUlMY2V1WVVxTUt6cGNhZmhJT1llWWlUUUs4cWZBaExjZEJZU0FHWklDSHcxZHA2YTcwVlp5YktzWThwREl2cTl1VVdxRXF0Uk1hT0VVVm94eUt1WkZ5UENoXzBKNjMyb2h6YU1lVU8wMkNDQnQ3Zi1FMWNaQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3b91d92aeb63"
     }
   ],
   "items": [
