@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T00:16:42Z",
+  "updated": "2026-09-12T04:12:26Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -494,6 +494,18 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-12",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Launches Kling 3.0: Kuaishou’s AI Director Platform Delivers Native 4K 60fps Video with Multi-Shot Storyboarding, Motion Control, and 5-Language Lip Sync",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOck1ZQVU5MDljdHhsNGZ1dWJuV09fTlEzR1N6aGFqMHlXb1BEYzZRU21naGFOWmViazhWRnVVTkZ5dVRSWHpxYTRWMzUxOGxUV3FoMUhqNUxXcGNLWGJwREY4YXR3MGpaWDVkYm9xOEFpM0VTbnVqdGZEdENTX1hRaVMtZDNtUnlmRFViWVRQVEhlRjFFX1k2RTI1M2RVcExNMm5XTG9Iakg2aWpzZ1VZT1pFUUlYNE95VElKUmxUZWJoZjVVa3NyelpzSnE0Zld0NEFYSDJKQTl4N0RmbmpHWDVXQ2s4R2hLV0JQUTVScWd1enplcW9mNnRsVXBOd0ZOVWxUZHhTbllGdHU2WkpadkhTX2FzVVFBTnNJdVgyYWhxV1cxb0V5eVFYY0ZOaXJRaGprWHBtbHV2M05yLU1FcHJYWUtYX0RHNFJFd0Jjaw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2081812b2c2e"
+    },
     {
       "date": "2026-09-11",
       "company": "Freepik",
@@ -1197,17 +1209,6 @@
       "source": "Google News",
       "curated": false,
       "id": "3b91d92aeb63"
-    },
-    {
-      "date": "2026-09-01",
-      "company": "Canva",
-      "move": "News",
-      "detail": "",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "TechCrunch",
-      "curated": false,
-      "id": "0e7a764b45f8"
     }
   ],
   "items": [
@@ -1441,6 +1442,17 @@
       "published": "2026-09-11T07:45:21Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "7ab7a5fba485",
+      "title": "How to Strengthen Your Brand's Authority — Whiteboard Friday",
+      "url": "https://moz.com/blog/strengthen-your-brands-authority-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "Discover proven strategies for strengthening your brand's authority in 9 easy steps. From product excellence (featuring Tony's Chocolonely) to customer service mastery (like Amazon), learn how successful brands maintain their edge. This guide covers essential elements, including…",
+      "category": "SEO",
+      "published": "2026-09-11T07:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "3c42afcff6d2",
@@ -3949,17 +3961,6 @@
       "published": "2026-08-27T20:48:31Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "75c89c472e83",
-      "title": "AI Search Didn’t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/",
-      "source": "Search Engine Journal",
-      "summary": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test. The post AI Search Didn’t Remove Cognitive Load, It Moved It appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-27T19:00:52Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
