@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T16:12:50Z",
+  "updated": "2026-09-13T20:12:12Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -495,6 +495,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-13",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "How a failed MakerBot acquisition changed 3D printing forever - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjBQb3VTUHlMeUxFZHBtZ0pWNkZuc29BV0lNVmhMYjBXLUZyN1g4Rm9xRTJQU082eTZ3Q0tJZDZrU1NQUi0ySVhVYzBSQ1dQY2tEc0Q0ZFhNV2gySHd2TzlLa1JrUnR6MnZXa0dacC05cHNXcERIUWstYm5CSjcwNldCRXdhdWZONXFqazZwYWM2dw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7b87102101f2"
+    },
+    {
       "date": "2026-09-12",
       "company": "Kling AI",
       "front": "GenAI Media",
@@ -914,6 +926,18 @@
       "id": "2722311f8244"
     },
     {
+      "date": "2026-09-05",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Havells rolls out ElevenLabs-powered agentic AI voice feature in smartphone app",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOFBaWVVRSEtwdE5IaUJVXzU4V2dfZlpaRmx3RWk0N1A4LU9GblJIMDY3YUNqT21Yc29rM2R4S2ctVkZNTmNOSkFlQy16TThqQktzNTVqd0ZUU3MtQV9XQ2tVOVVpTk96QmhjMGVkU3JGR2V1bTNscnlrNUlQSG5jaVJKNzhyQVFkMFdmRE41MjVTVjN4LU0tb0t5UVhDeHJiQkVpQWJEc1hrN1pGakZHNmZuN0NMQjk5TWJ1ZmJGWnQtcmhLMzI0UlNKTm5fVVd4NTNuTDBHcHlRcHNaWWhLdjJXUUxHeUpkMUNGSnRUZ2cyXzNGcHfSAfsBQVVfeXFMTUJzSmxyOEFDWUROTDBOdVh2MEswLWhUcGZqVzJKMl9WTXlRWmtEcW1LTFk0akV4Zkc4Wmt4Vkkwa3VwTzU0N1hjVWRWUHNUYTR2TmQzTlBRVUZpblQtbEF4X0ZYUmhJeXkwSkxCYVY0QmY2Uk9HQUVwbHZ3S3k5blhMTFhnQmE1ei1aTHNVczFiTzRuZGhaTmEzeUEzTmctOXkyZmp4N0FOXzdWaHpubHFnQlpjZVlwXzFGaXBtTUVsSVVkUGdDSTM5dFVEZ1oxU3pmNmpGVHVlQzJWd2tFYW1mQUFmdzQ5NDV6MzNIZ1hsOTN0WVBSUEc0RFk?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "346f351195e7"
+    },
+    {
       "date": "2026-09-04",
       "company": "Freepik",
       "front": "GenAI Media",
@@ -936,18 +960,6 @@
       "source": "Google News",
       "curated": false,
       "id": "870698f810c2"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Havells rolls out ElevenLabs-powered agentic AI voice feature in smartphone app",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOFBaWVVRSEtwdE5IaUJVXzU4V2dfZlpaRmx3RWk0N1A4LU9GblJIMDY3YUNqT21Yc29rM2R4S2ctVkZNTmNOSkFlQy16TThqQktzNTVqd0ZUU3MtQV9XQ2tVOVVpTk96QmhjMGVkU3JGR2V1bTNscnlrNUlQSG5jaVJKNzhyQVFkMFdmRE41MjVTVjN4LU0tb0t5UVhDeHJiQkVpQWJEc1hrN1pGakZHNmZuN0NMQjk5TWJ1ZmJGWnQtcmhLMzI0UlNKTm5fVVd4NTNuTDBHcHlRcHNaWWhLdjJXUUxHeUpkMUNGSnRUZ2cyXzNGcHfSAfsBQVVfeXFMTUJzSmxyOEFDWUROTDBOdVh2MEswLWhUcGZqVzJKMl9WTXlRWmtEcW1LTFk0akV4Zkc4Wmt4Vkkwa3VwTzU0N1hjVWRWUHNUYTR2TmQzTlBRVUZpblQtbEF4X0ZYUmhJeXkwSkxCYVY0QmY2Uk9HQUVwbHZ3S3k5blhMTFhnQmE1ei1aTHNVczFiTzRuZGhaTmEzeUEzTmctOXkyZmp4N0FOXzdWaHpubHFnQlpjZVlwXzFGaXBtTUVsSVVkUGdDSTM5dFVEZ1oxU3pmNmpGVHVlQzJWd2tFYW1mQUFmdzQ5NDV6MzNIZ1hsOTN0WVBSUEc0RFk?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "19ab27ffeb54"
     },
     {
       "date": "2026-09-04",
@@ -1197,18 +1209,6 @@
       "source": "Google News",
       "curated": false,
       "id": "d535d33c1c91"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Acer launches seven new gaming monitors across Nitro and Predator families — tri-mode panels, QD-OLEDs, Mini LEDs, 1,000 Hz, and more",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQVpmSGxBYnFLbnRfaWotWVFWNlpDZndvTVBVd2ctWHNycnZNLWdJV21FaERPb2tuNmtoMU5DeDlwcjdzZkF5LU9OT2Z6YTNsOHlMeWw1QUx0NmhBeFFEUWdnbXdtUnZNSW5TbVBpeWhpc1pwMDZWT3YtLWhQaG5fNXRuRzdPSWEyOXFkQ3lTeFVlcmkwNlpac1laUUdNN3B5V0dLVndZcWdydVgxRlVmbnoxQjktRmtyTFJvd2VpUS10VXNTT2E4NWpFWU5SblRPQkZaVEh6UzFybVJhaGRwQkJZVjJTamRuSFdtQk9nTFpGTHpNdzVkR0sxZkdqYU9QaGhvWW1Na0tSR25GQ2c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "855c70d268ab"
     }
   ],
   "items": [
