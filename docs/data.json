@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:17:31Z",
+  "updated": "2026-09-13T04:12:47Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -735,6 +735,18 @@
       "id": "0ecd784775f2"
     },
     {
+      "date": "2026-09-10",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$7.6M · $470M",
+      "title": "Pika Revenue 2024: $7.6M Est. ARR, $470M Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4SzZ0TmNKeTNWS1JHUEtyRVpTeGtzbjdzb1BkeW5WMDlDeFlQUlYzcTctdFg2NGFTdDhpcVNtemNxcXNuYkpSRUNZbw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fb430dd1e432"
+    },
+    {
       "date": "2026-09-09",
       "company": "Krea",
       "front": "GenAI Media",
@@ -1197,18 +1209,6 @@
       "source": "Google News",
       "curated": false,
       "id": "855c70d268ab"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "PUMA All-Pro NITRO 2 Wonder Releases September 4",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzdWhmWVZSNFlhWXY1SHBNajVWX0lEUU5aMFFhYmZUZzZzY2NVNGZPMXhNMGJNclNyVkJyZ1lCNDR5OEtrNHFJTU5tLXVRenRDQnVSWEpjZ2pYQ2tPem5nTzJ5LXB4cHVCc1MyTUZuMFBPYzJ6b1R3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "53255d3fcfba"
     }
   ],
   "items": [
