@@ -1,8 +1,7 @@
 {
-  "updated": "2026-09-14T16:13:19Z",
+  "updated": "2026-09-14T20:13:41Z",
   "count": 250,
   "sources": [
-    "Ahrefs Blog",
     "Backlinko",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
@@ -1223,6 +1222,17 @@
   ],
   "items": [
     {
+      "id": "bde0493b4e0e",
+      "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/",
+      "source": "Search Engine Journal",
+      "summary": "Google is testing a Search Console pilot that pays publishers when their content contributes to Gemini, AI Overviews, and AI Mode answers. The post Google Tests Paying Publishers For AI Answers Via Search Console appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-14T17:38:53Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
       "id": "9a7cf236792c",
       "title": "How to Create A Landing Page That Actually Converts",
       "url": "https://neilpatel.com/blog/the-definitive-guide-to-creating-high-converting-landing-pages/",
@@ -1276,6 +1286,17 @@
       "published": "2026-09-14T12:00:25Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "296d33defd03",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "source": "OpenAI",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "category": "GEO",
+      "published": "2026-09-14T12:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "a0019bc49aee",
@@ -3949,28 +3970,6 @@
       "published": "2026-08-28T14:30:07Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "ca5f4fe7637b",
-      "title": "How We Use AI for Every Article Without Making AI Slop",
-      "url": "https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/",
-      "source": "Ahrefs Blog",
-      "summary": "Yes, every one. We have even built a Letaido pipeline that can research, outline, draft, and fact-check a nearly publish-ready article in six to twelve minutes. In theory, it could produce tens of thousands of articles. (It could… but that’s … Read more ›",
-      "category": "SEO",
-      "published": "2026-08-28T13:05:40Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "084f1286f66f",
-      "title": "How to track AI Overviews with Semrush",
-      "url": "https://www.semrush.com/blog/semrush-ai-overview-research/",
-      "source": "Semrush Blog",
-      "summary": "AI Overviews are growing and impacting SEO campaigns. Learn how to track AI Overviews with Semrush.",
-      "category": "GEO",
-      "published": "2026-08-28T12:40:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
