@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T04:12:57Z",
+  "updated": "2026-09-14T08:14:12Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -505,6 +505,18 @@
       "source": "Google News",
       "curated": false,
       "id": "1d3a33b5de40"
+    },
+    {
+      "date": "2026-09-14",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "UMG, ElevenLabs announce AI music licensing partnership",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlk4QTZ6R3dKSGo5MV8zNHI1aFVleDNoSnU1UF91VmZ6ODNnNGJUb1pFTVp2dWpYZFFsR3N2c0xsSmkxT2M0ZXNSak9penJEOVdwUi05dzQyWTVqRDI2eXhvbV9BWkk3UnBFNWhXUGxwTU55TG51T3FVSms0elNGdklpb2xCaXpIZklzTFhaZFBGOUJW?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "620d5d5a966d"
     },
     {
       "date": "2026-09-13",
@@ -1197,18 +1209,6 @@
       "source": "Google News",
       "curated": false,
       "id": "13ba8ee42418"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Metabo HPT Introduces Cordless Pneumatic Nailers, a New Category Delivering Pneumatic Speed Without the Hose",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcWp2VWNWSFhyWF9rcWlYeGFPWkYtNEhaM2hXS3RvSTRIQWQ0VzVnRVlkaFJ5a1A4ekV5T0JrNWxhTF9NdUNnN0hHN3JZVUVLeHh1UFMwYUtKZUotUHNVMWRrOWJLMXJOejBKMkFaZmpSc3ZaMW93aVlmODg0TXBiOGhWZElHVU9FVEhrc3NSOHUzZFU4WXVsQlFPd3NoX0h4LXVxSl85STV4VGxQSzluRHlVbnRPc1JHaWFlWDVWSnhsbF9NUnc2Zi11ZVFINk1qcHpHcmlkMWVUeDVNc2FRMDRwVTR3cFNUenpfdXRXQzgyUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d535d33c1c91"
     }
   ],
   "items": [
