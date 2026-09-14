@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:17:58Z",
+  "updated": "2026-09-14T04:12:57Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -495,6 +495,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-14",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Launches Kling 3.0: Kuaishou's AI Director Platform",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXBsY25rbng2YU02QUNXN1RkZ1BrMHJlU2Y0RUozNzF5eDFPSk80eWRsMnFzcGxLV1ptb1NyZTJSWEhUZ25WcnJXVVRwVnBFMGVVU24zYlB3RVdmVGNsUGs1RDRGNlJZOWxodVlJOTBrTGFtSjlUVDgzMFBaQ1k2dnRfNzBJSHVZdy10N1d2M3gwbkNWenRYQTVmcw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1d3a33b5de40"
+    },
+    {
       "date": "2026-09-13",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -505,18 +517,6 @@
       "source": "Google News",
       "curated": false,
       "id": "7b87102101f2"
-    },
-    {
-      "date": "2026-09-12",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kling AI Launches Kling 3.0: Kuaishou’s AI Director Platform Delivers Native 4K 60fps Video with Multi-Shot Storyboarding, Motion Control, and 5-Language Lip Sync",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOck1ZQVU5MDljdHhsNGZ1dWJuV09fTlEzR1N6aGFqMHlXb1BEYzZRU21naGFOWmViazhWRnVVTkZ5dVRSWHpxYTRWMzUxOGxUV3FoMUhqNUxXcGNLWGJwREY4YXR3MGpaWDVkYm9xOEFpM0VTbnVqdGZEdENTX1hRaVMtZDNtUnlmRFViWVRQVEhlRjFFX1k2RTI1M2RVcExNMm5XTG9Iakg2aWpzZ1VZT1pFUUlYNE95VElKUmxUZWJoZjVVa3NyelpzSnE0Zld0NEFYSDJKQTl4N0RmbmpHWDVXQ2s4R2hLV0JQUTVScWd1enplcW9mNnRsVXBOd0ZOVWxUZHhTbllGdHU2WkpadkhTX2FzVVFBTnNJdVgyYWhxV1cxb0V5eVFYY0ZOaXJRaGprWHBtbHV2M05yLU1FcHJYWUtYX0RHNFJFd0Jjaw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2081812b2c2e"
     },
     {
       "date": "2026-09-12",
