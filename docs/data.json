@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T20:12:12Z",
+  "updated": "2026-09-14T00:17:58Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1222,6 +1222,17 @@
       "published": "2026-09-14T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "338c9330d1f0",
+      "title": "Matt Mullenweg Apparently Back In Charge At Automattic via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/",
+      "source": "Search Engine Journal",
+      "summary": "Automattic says Matt Mullenweg has returned with the board's full support. But its official announcement raises additional questions. The post Matt Mullenweg Apparently Back In Charge At Automattic appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-13T21:10:22Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "7514730b9548",
@@ -3950,17 +3961,6 @@
       "published": "2026-08-28T06:00:00Z",
       "coverage": 1,
       "impact": 8.0
-    },
-    {
-      "id": "0b00c80d502c",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "category": "SEO",
-      "published": "2026-08-28T02:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
