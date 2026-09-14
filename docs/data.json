@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T08:14:12Z",
+  "updated": "2026-09-14T12:16:52Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -20,6 +20,16 @@
     "Yoast"
   ],
   "milestones": [
+    {
+      "date": "2026-09-14",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google AI Overviews Practice Knowledge Quiz",
+      "url": "https://www.seroundtable.com/google-ai-overviews-global-general-knowledge-quiz-42054.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "8fe08b6c9e39"
+    },
     {
       "date": "2026-09-11",
       "family": "engine",
@@ -615,6 +625,18 @@
       "id": "d3cbd35e342d"
     },
     {
+      "date": "2026-09-11",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "The One Club and CapCut Announce Major Global AI Partnership",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1uQ2tDOGQyXzdkeXdhbi1odUVXdWRoTGRuQ3VnRjJLQmVVcmF4UHh3SUZfVk9iVnZpdURVbHd0ZjZpb3dIWU1BemdENTJHQjZEUGw2U1FKOHozRWNoUWxGM01ITDI5VHMxYlRIOExHdVgtbGdUcVRDQmc5VDVGWGNJNjl0MTZVMnFwOE5xakMxa2ZkRHdSaWxtNkJvWm1GNWozUA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8868ae869f03"
+    },
+    {
       "date": "2026-09-10",
       "company": "Figma",
       "front": "Creative",
@@ -1140,18 +1162,6 @@
       "id": "c90b8d71da95"
     },
     {
-      "date": "2026-09-03",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "The One Club and CapCut announce global AI partnership",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG5MSDJrLXUwcnd3RC1URmdKa0t0TklPZmJEaUJyd1VuNG1zeEpsa1V5NUZrUE9pVVdaU1MzRks3czdfb3U0V0pXd3Jpbi1OMHRBTjRuXzBRd1VvbDRSWmZERlg1ZGRzVlYzeTFRb21mVzB4UFZjUFktSEFOYUluMmdLUVMtZUwtM2pCX0VBRXVBcTA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "09fb518a76d3"
-    },
-    {
       "date": "2026-09-02",
       "company": "Salesforce",
       "move": "Funding",
@@ -1212,6 +1222,61 @@
     }
   ],
   "items": [
+    {
+      "id": "cae6cb4bb832",
+      "title": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
+      "source": "Search Engine Journal",
+      "summary": "Sean McCrohan and Steve Wiideman explain how citation clicks, calls, prompt libraries, and customer language can connect AI discovery to local leads. The post How To Connect AI Search Visibility To Local Leads appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-14T12:00:25Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "74057d8a2819",
+      "title": "Google Ads Product Value Optimization Beta",
+      "url": "https://www.seroundtable.com/google-ads-product-value-optimization-42071.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has a new beta named Product Value Optimization that allows advertisers to configure value adjustments to guide automated bidding to optimize for the products that matter for your business goals.",
+      "category": "SEO",
+      "published": "2026-09-14T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e908c2829809",
+      "title": "Google Al Contribution Pilot - Paying Publishers For Use Of Content In AI",
+      "url": "https://www.seroundtable.com/google-al-contribution-pilot-42076.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is doing a small test where it is paying publishers for using their content within the Google AI Overviews, AI Mode, Gemini and other AI search features. This is called the AI contribution pilot, something we actually spotted back in April 2026, but are now learning more…",
+      "category": "GEO",
+      "published": "2026-09-14T11:13:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "3d6382c12451",
+      "title": "Google AI Overviews Practice Knowledge Quiz",
+      "url": "https://www.seroundtable.com/google-ai-overviews-global-general-knowledge-quiz-42054.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Did you know that Google AI Overviews can also quiz you on various knowledge topics? Google announced this with AI Mode a few weeks ago, but it is also available in Google Search.",
+      "category": "GEO",
+      "published": "2026-09-14T11:11:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "44160efe37a5",
+      "title": "Are you doing marketing… or building software?",
+      "url": "https://www.growth-memo.com/p/are-you-doing-marketing-or-building",
+      "source": "Growth Memo",
+      "summary": "AI Automation is highly effective when it’s targeted.",
+      "category": "SEO",
+      "published": "2026-09-14T10:03:27Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "12e9dd685180",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -3906,61 +3971,6 @@
       "published": "2026-08-28T11:31:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "de49206dfe1a",
-      "title": "Google Alcohol Advertising Policy Update On September 30",
-      "url": "https://www.seroundtable.com/google-update-alcohol-advertising-policy-41966.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google will be updating its alcohol advertising policy on September 30, 2026. The update \"revises country-specific guidelines, expands allowed advertising locations, and provides clearer details on specific advertiser requirements and responsibilities,\" Google wrote.",
-      "category": "SEO",
-      "published": "2026-08-28T11:21:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "0ba5fe4cb258",
-      "title": "Google Search Having Indexing/Serving Issues August 28th",
-      "url": "https://www.seroundtable.com/google-search-indexing-issues-41972.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search seems to be having indexing or serving issues in the past hour or so. New content from the past hour doesn't seem to be showing up in Google Search results. Content from the Wall Street Journal, New York Times, CNN and other news sites that post content constantly…",
-      "category": "SEO",
-      "published": "2026-08-28T11:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "56d3f06fe53e",
-      "title": "Google AI Mode Asking Searchers To Sign In",
-      "url": "https://www.seroundtable.com/google-ai-mode-sign-in-41962.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing asking searchers to sign in within the AI Mode response. Google shows a big Google super logo and a sign in button that says \"Sign in to save your...\"",
-      "category": "GEO",
-      "published": "2026-08-28T11:11:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "69c45f2879cc",
-      "title": "Google Search Now Lists The Supported Favicon File Formats",
-      "url": "https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the favicon search developer documentation to list out the supported favicon file formats. Google added this line that reads, \"Google Search supports the following favicon file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF.\"",
-      "category": "SEO",
-      "published": "2026-08-28T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "092c8de02e8b",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "category": "GEO",
-      "published": "2026-08-28T06:00:00Z",
-      "coverage": 1,
-      "impact": 8.0
     }
   ]
 }
