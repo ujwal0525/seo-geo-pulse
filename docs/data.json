@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T12:16:52Z",
+  "updated": "2026-09-14T16:13:19Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -527,6 +527,30 @@
       "source": "Google News",
       "curated": false,
       "id": "620d5d5a966d"
+    },
+    {
+      "date": "2026-09-14",
+      "company": "Stability AI",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Content Giants Sue Free AI, Invest in Paid Collaborations",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzlyM3BERlg1TTR1bG5PYVJSNzVpN1VhX21PRlZJSnM5Rm5rSlQ4LURxZndhNF9Remc2OTJyRUIyY1ByQVhfZ0hJUjVIOUVEZ3JsYUM4TEhTT1dzREpoNjRubGNjVXdQUnVCMWg1cmtubFBUSnctU0lOSU0teVpYQlRSUUduWlFI?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1e2a64e535d9"
+    },
+    {
+      "date": "2026-09-14",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs unveils ‘Music v2.5’ – but UMG wasn’t involved",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbjdzSWZ1dkM2VUpJS09FQkZKTk5veEY1ZXRvdDlQUXF0anFNQ1dhanNKYzhKZUxPbTcxNl94TjQ5NlUyM1FtVlRETHRicm5VZ1VRcVNkcXRmS3pRLW5xSEJVMENNdThCaTI4SEVpb1dYclF2UnhLNkRaaFZrUUZ2MmpxdGNnYlN6MWt0YmdKZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0b50576746ad"
     },
     {
       "date": "2026-09-13",
@@ -1162,6 +1186,18 @@
       "id": "c90b8d71da95"
     },
     {
+      "date": "2026-09-03",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "List of 40 Acquisitions by Adobe (Sep 2026)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjM2QUZzd1lyWmJaamJkcldUMVBhbUp5MXY4elJrTjdOWThTdlBmRGJvWHREZGZzajBtVW94RUkzTUFxUjhEVVBuTUI0UUszcmxzNE9jUldBVDJRUjBXamFVdGg3X2VoTWZZLVlNM2NoRnk4MkNpdDZpcnJuRDlMbG9PdzVmTGpmbGdLZThud0t4cTJTWXlBcDlVTTVrN1NJdWNF?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7604e98c68a9"
+    },
+    {
       "date": "2026-09-02",
       "company": "Salesforce",
       "move": "Funding",
@@ -1183,45 +1219,53 @@
       "source": "Google News",
       "curated": false,
       "id": "e234dd348616"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Descript",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Evolve with Jeff Launches AI Video Generation Service for Creators Over 40",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1NVZlVFOTc1Wnk1b1h0T3I0N3M1Y2VNZW4zQUtaa01QTzNOdGRmZHNCSS1zYURJNVd6M1ZwQmtGUjM0REtZdlZwcHc1cGM4OHdBMkJBay1yR2JLTXFUYUFLdDRFbm5HTnhRZlUwSVhUQm9RUEhnalVraG1jakJRalhDbGs2NWZULUotbmNZUWU5Z2JTVGxUUFJpTER6ZmV0Q0M0d0dyTXE4TUg5aV9QQ19iTnJJMjB4RTYtcE9ReGhTS01CT0E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "71ca151d8957"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$4B · $42B",
-      "title": "Canva Revenue 2025: $4B ARR, $42B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHQVI2Z1JfcTVFaTFveUlJeXNfeWN5Y1RkNU93SVMwUlZoOXpQYTFvT2xsZmZkbzU4clU2eHZ5WExVX1NxMVh1cXdKV0M?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1d219597a231"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$1B · $12.5B",
-      "title": "Figma Revenue 2025: $1B ARR, $12.5B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11OFU0YWszVnNESGNiSnlwZzNfSnBJNUxHWFFybVY0MFh2N0ozWDQ1dDVKTDd0elY1N1owRTBGTklMdVRNYWlQZHZGbTg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "13ba8ee42418"
     }
   ],
   "items": [
+    {
+      "id": "9a7cf236792c",
+      "title": "How to Create A Landing Page That Actually Converts",
+      "url": "https://neilpatel.com/blog/the-definitive-guide-to-creating-high-converting-landing-pages/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Ever wondered why your landing page pulls in traffic but barely converts anyone? You’re not alone. The median landing page converts about 6.6 percent of visitors, and plenty of pages fall well below that. The problem is rarely traffic or budget. It’s the page…",
+      "category": "SEO",
+      "published": "2026-09-14T16:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "3d10ed6a7792",
+      "title": "AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
+      "source": "Search Engine Journal",
+      "summary": "Count AI marketing's hidden rework and maintenance costs before claiming efficiency gains, or risk repeating programmatic's mistake and starving long-term strategy. The post AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise appeared first on…",
+      "category": "SEO",
+      "published": "2026-09-14T14:30:08Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "26c20036ea7d",
+      "title": "Daily Search Forum Recap: September 14, 2026",
+      "url": "https://www.seroundtable.com/recap-09-14-2026-42078.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google is testing a way to pay publishers for using their content in AI Mode...",
+      "category": "GEO",
+      "published": "2026-09-14T14:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "6183b53d9dda",
+      "title": "Google Search Update September 4th That Reverted September 13th?",
+      "url": "https://www.seroundtable.com/google-search-ranking-update-94-42079.html",
+      "source": "Search Engine Roundtable",
+      "summary": "I've been pretty quiet on posting reports Google updates recently, in fact, I have not posted about one since late August. But while most sites seem calm in the Google rankings, there was definitely some sort of ranking blip around September 4th, and in some cases, the September…",
+      "category": "SEO",
+      "published": "2026-09-14T12:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "cae6cb4bb832",
       "title": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
@@ -1230,6 +1274,39 @@
       "summary": "Sean McCrohan and Steve Wiideman explain how citation clicks, calls, prompt libraries, and customer language can connect AI discovery to local leads. The post How To Connect AI Search Visibility To Local Leads appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-14T12:00:25Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a0019bc49aee",
+      "title": "Google Search Tests Blue More Link In Shopping Results",
+      "url": "https://www.seroundtable.com/google-blue-more-link-in-shopping-results-42077.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a blue background color on the \"More\" link within the product results in Google Search. The link is normally just a basic \"more\" link with no prominence or color that calls it out but in this test, Google is using a blue highlight color for the link.",
+      "category": "SEO",
+      "published": "2026-09-14T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "47efb188e14b",
+      "title": "Google AI Mode More Query Expansion Interfaces",
+      "url": "https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google continues to test new query expansion methods in AI Mode, beyond standard follow-up questions. Now Google is testing questions with multi-selection tools, a query refinement option and those recent paginated responses.",
+      "category": "GEO",
+      "published": "2026-09-14T11:41:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "c8e7a362cdfa",
+      "title": "Google Search: It's Normal For Image Thumbnails To Be Slow To Update",
+      "url": "https://www.seroundtable.com/google-search-slow-image-thumbnails-42072.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller said it is normal for Google Search to take a while to update image thumbnails in its search results with updated images from the website it pulls from. And it can take even longer if the image is still on the page, but was only moved down the page later…",
+      "category": "SEO",
+      "published": "2026-09-14T11:31:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1287,6 +1364,17 @@
       "published": "2026-09-14T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "ab6726a72b02",
+      "title": "Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)",
+      "url": "https://developers.google.com/search/blog/2026/09/search-central-live-india-2026",
+      "source": "Google Search Central",
+      "summary": "Remember back in March when we told our Indian community to \"sit tight\" while we figured out the APAC event calendar? Hopefully, you didn't take that too literally, because sitting tight for six months is probably not great for your back. In any case, you can finally stand up…",
+      "category": "SEO",
+      "published": "2026-09-14T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "338c9330d1f0",
@@ -1395,17 +1483,6 @@
       "summary": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate. The post The 2003 Framework That Was Already Doing Query Fan-Out appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-11T14:30:50Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "07614f8aa9df",
-      "title": "Daily Search Forum Recap: September 11, 2026",
-      "url": "https://www.seroundtable.com/recap-09-11-2026-42070.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google's page indexing report is missing a chunk of data from June...",
-      "category": "SEO",
-      "published": "2026-09-11T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -3894,83 +3971,6 @@
       "published": "2026-08-28T12:40:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "0e0157276392",
-      "title": "Search News Buzz Video Recap: Google GoTo Parameter Fight, PDFs Go Missing In Google, SEO For AI Responses & Google and Microsoft Ads News",
-      "url": "https://www.seroundtable.com/video-08-28-2026-41963.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Another week, more volatility within the Google Search results. Google is also swapping out direct links to go-to URL redirect links in its search results to protect...",
-      "category": "SEO",
-      "published": "2026-08-28T12:01:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6e7cc764d6dc",
-      "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
-      "source": "Search Engine Journal",
-      "summary": "OpenAI, Shopify, and Cloudflare are putting WebMCP into live products, giving AI agents a structured way to use websites without relying on visual clicks. The post WebMCP Connects AI Agents To Actions Inside Websites appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-28T12:00:10Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b8b378b12c09",
-      "title": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
-      "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
-      "source": "Search Engine Journal",
-      "summary": "More than 100 organizations, including OpenAI, Google, and Microsoft, urge governments and website owners to prepare now for escalating AI cyberattacks. The post AI Is Changing Website Security. Here’s What SEO Teams Should Know appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-28T11:56:38Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f0f3e27af242",
-      "title": "Google Ads Book Buttons Expand To Search & Performance Max",
-      "url": "https://www.seroundtable.com/google-ads-book-buttons-41964.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is expanding the book button through Reserve with Google partner integration to Google Ads Search and Performance Max campaigns. Previously, I believe, this was only available on Google Local Service Ads and maps ads.",
-      "category": "SEO",
-      "published": "2026-08-28T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "255478ccd752",
-      "title": "Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
-      "source": "Search Engine Journal",
-      "summary": "Google explains why a named update can shake up rankings without giving affected site owners anything specific to act on. The post Google Answers If Updates Come With Actionable SEO Signals appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-28T11:45:08Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "805251427f2d",
-      "title": "Google Announces Search Updates For Transparency, Actionable Updates Get Blog Posts",
-      "url": "https://www.seroundtable.com/google-announces-search-updates-41969.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller said Google \"primarily\" announces search updates to provide \"transparency for site owners.\" He added that when Google publishes blog posts, updates policies, and help center documentation, that is an actionable announcement site owners could use.",
-      "category": "SEO",
-      "published": "2026-08-28T11:41:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "84d4cfcec221",
-      "title": "Google Preferred Sources, Tailor Your Feed & Search Profiles Are Different",
-      "url": "https://www.seroundtable.com/google-preferred-sources-tailor-your-feed-41965.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has two, well, maybe three, features that are being confused as one. The preferred sources, the tailor your feed and also search profiles. All kind of customize what you see across Google Search features including Google Search, AI Mode, Discover and so on. But they are…",
-      "category": "GEO",
-      "published": "2026-08-28T11:31:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
