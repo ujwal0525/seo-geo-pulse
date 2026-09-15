@@ -1,7 +1,8 @@
 {
-  "updated": "2026-09-15T08:14:46Z",
+  "updated": "2026-09-15T12:15:52Z",
   "count": 250,
   "sources": [
+    "Andrea Volpini (WordLift)",
     "Backlinko",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
@@ -540,6 +541,54 @@
       "id": "a2550b90a684"
     },
     {
+      "date": "2026-09-15",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$11B",
+      "title": "5 things You Need to Know About ElevenLabs, the UMG AI partner with an $11B valuation – and big ambitions in music.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbmpIQkhpOFZyTUhYWFVfdWE0TXZsSVh3LUV5VmNlbXRTeFRXRV9QS2RZazJZNEF1NU5uVGJQdWdpSmJCVVJIa29mUEVsRmpJR3RRQU0zbFFlOGMzV1A2Z0JqQnhLMHdZcFFMRGxaOElhWUJHNVlON2dUR1BOWGVONTU0akxDMnRMa0h4azk2MUFUdHdMdElBMVhvNHpHd00zLTV3S08tWWlhWGlQQjRYZFE1Zm10OEgwMGF5aUJLMUo2b0NTNzN4MDRHY1RQTjZoTkpfLURFVnJQdC0wWnZ5cWp2eG4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b60c5cb3d474"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launched Music v2.5 – shortly after announcing its UMG licensing deal.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTlmZFRYeE40bzFnSVZkSVJraWJsLWxrNWNmX29haEdKZzRVMlRnY0F1VmdicFhsTm04Y3BoSllCMHl2NFZZZklWX0dZSWFqLUVFaGxRY3E0ZEFUX3pweERPRjNqMUkzZmxPSDAySm9HaEhFUnYxeE5zbjgxZjQwWWFoS193Sk5pUW1aTThQOG9Jek5lTHd0Wk9UZzJQVnh4Tno0MjZsdEFZYVUxak5fTkQxdUtnRzI2dUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "980020a93d6c"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Ramp launches in UK, trumpets AI token spend platform",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUNuc0k1UTkwTzB6RGVrZnpDb3Rheml2NTBER1JUTWR4Q2g3TXdKVWlhS2lKZjVuNVF5WjlFOUFRaGFkNm9iTUVuZUJKckQ3M2JOa21pdFlNc0EzX3JRRE5xd2dadUU5NG82eGlyWGtwX2EweXQtb2hUMUFYdFlxRkpRYjNUMG0wTnRyZzA3dWluMjFRajlyc1pLNUY1SDVUSVZHbDNhYlgwelpMSlc3VkxpYkY4Y1paUXpLQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "cea834a6e1d4"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches ProSuite bringing Affinity, Cavalry, Flourish and Leonardo together with more than new 100 features",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLTFyUzBwYW9FeF9CVF9TbGlkaGowT21oZ1g5cGhMaHlJYUYwZ1U2Yk9GQ1RubzZpOFdlRkp6T3N4TFFUcU4xWEktWnJ5bk9UTktBWUEtS0VkTTdCWEFNcy1UdWZLdWdOVUZ0M09zTkNxekJnVW5TVmdVOU5GcVdmcmNLVXdVWTE1a0VVczctcmFncXkxUm9fcU91X293enhuOFludXhRRGFocXd4MjBXb21Ta0dYUHNRVEg3TEtzUTQxVjhLZnRMbHE0VGUzdXo0WXdtRHNlZHNERmRObkFvTw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "56e6421da2a0"
+    },
+    {
       "date": "2026-09-14",
       "company": "Kling AI",
       "front": "GenAI Media",
@@ -960,6 +1009,18 @@
       "id": "c29dfc006a6a"
     },
     {
+      "date": "2026-09-08",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "'Heated Rivalry' Star Connor Storrie Debuts a Buzz Cut at the Emmys with His Mom by His Side",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YcG5oU3hwZElqekZvc2tud0VvVFNSbzJIYkdwakVNa1JpNzd3eTNaRXJEOXAySEVFVFV6MWNhR3JsSFJ4V2h0aERsaGs0MmU1STFtel9JZ2xrYWcwbmZaUjNpMjFhQmZJNGdScHFjVWVUaXREejA3SA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9d38387d3aea"
+    },
+    {
       "date": "2026-09-07",
       "company": "Freepik",
       "front": "GenAI Media",
@@ -1159,69 +1220,42 @@
       "source": "VentureBeat",
       "curated": false,
       "id": "8403fc605521"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway Research | Introducing GWM Worlds 2",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1RkJyMy1SVzlkUXNKR2dQTktmNzNiMGFXUGkxM2QzS0lFSFBpbkdRWGQ5VzRwY0p6djVXYkxlS1pwNk15SE52bEpkZEFUUWtDOU1PbTJoelUzTDVrYm5XRUJ3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "cde445f9ab7d"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Freepik",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "RPG Active Pharma acquires API business of Raghava Life Sciences for Rs 135 Cr",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM3JnZS1FaEVZVDFQLUdtLW1aYjRDSEtkY1R0eVRkQXY2cjQ4STF1Y1RGTzAxRmhuX0hsazYxdFQtTjdXblJyN1dmWi0yMExObElBYzVoa3hvMHdtXzhBM2xZd1gwZjdhY2xCMFotWFZ3X0ljRE9fTDBILTNMUGU5M0VoVnlhOGhIUzlUNXV4Mzg3X19vX1lJU1pBQ3ZBWjREYjF1RGlOWXNuQi1GV0VaZWVtR3kwZFk2T0M5dlVPYVU0UDRjNGlrbGhn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0789d1663232"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kochava Unveils Creative Services Workspaces on StationOne, Featuring Leading Partners Higgsfield, Luma, and Spaceback by Rembrand",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNclhBeXZ2ZC1UYlJtMDVaZUhOQ0lxTzUtWU1PVWVkY0NJMkg3alIxVnBSaV8za2RVYWU4NEpiTTd5V2NMYWx4U0E2ajlZa1ZrSUVDNTR3dlpmdmNObTNTd0tQY3Q4bEJPYmI0eEoxcHo3VEVoRk9Zb3lEZDZmNVU1VHU1OHlqLUQ5STBBdkFBQjMzR1ZFQXlndFhkUHoyc2JGdVNtcnZPVFhkaEExR05OM3hCcHpXc2lXLXE1dmhERmlwUHRJUmRmaFhGSXF6bTZpeHNocUIwVl9YaVUxaDVYLURjOW9iWDJ2Nm1xZkZRZEFLSmNjNDdNTVBJSDRVV0V1SlQ1TmlPejR5eFVaSHFwSlF2UUllSGZfS3dsZy1PYXUwM3RtellDNdIBrgJBVV95cUxQbHNQVEEza2prdTVXYk83OVE4dmJWZTNzdzJSN08tWXV6QTRWWTFPSmFqSkFicVFIWXRndnB2eXVVT0VMVm11R251QnE0dEtpMV9neGt1X2IwZXE2RExIQkF4QWFBMzZEdHYzVGtzdERrVzdQTUljWE9MNFdJdkRDU21ScldzLS1tckpDZ2drSkxSQzRHTzhIX0diQ015NTdfYm92eEZTZDlZeFRQSE9scTV6OElBZFpGNGo2YUZWa0oxQk9zSzgzN2dBM2t1NE01TUtxNEtiVDV6UVJ4bkI5VHZSTmg5eTllbWZNazlFUHJZZnhoWGM5aU1XZnZhY05zanFDS1JwenFucklUN0RyOHRjWW5HaGxUZU9va3BpdFVxT2tpbDRxMXBNQng4dw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f35e7a557806"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Putin Rebrands Planned China Gas Pipeline to ‘Power of Baikal’ Amid Stalled Price Talks",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZkFnN2ExRDZCUGFwamhGSm93VlNxcGxzY2pYaW1uNVR3bF9mQ1gxUjJnWjNPUXFMU2lMbDByUU9vZXd1QWc1OHRFNkd3SUdpVVpjV3JqUjRrTURtS3dtdWszVlhkS1ZEckQwZWRzN0NyN2gxRkdFLTFJVVlBRl9rMHZLY0xmT0l2UXRSTlhWS19GMFE0cWhJZk9US3Fqa3BVM3NIbGRGcDVMS0xQU3FMSTFOWFJmX191?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d95153aadcdd"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Geo Connect Asia launches regional outreach with Bangkok event",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX00wRkFuU093czJpNUFuYjlGTWIwWlFLemNBWmU4bmtKb2FuWFRPNGhHQ3A1aWQwVWlWbkJpdk1LT3NBT0JUdHhMUXFtQkVEOUIyTzdOd3VZNlU5dzZrb0NpcHFacW5sTUtVWWxUSU9kNlBJeklRSTREbDlvaFZNb3JhbjBZaWRaWXQ3eGR6N0p3ZkM3Z0J2T0NxZE5pN0dpa0Jn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4ccd13cd5ad1"
     }
   ],
   "items": [
+    {
+      "id": "15eb924a3584",
+      "title": "ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/",
+      "source": "Search Engine Journal",
+      "summary": "Give ChatGPT Ads a clear role, budget source, and success criteria before pulling money from paid search campaigns that already perform. The post ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-15T12:00:30Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b5e9610728f2",
+      "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
+      "source": "Search Engine Journal",
+      "summary": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Prompts That Improve AI Results appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-15T10:14:18Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b35328fd07cd",
+      "title": "How ChatGPT Resolves Local Business Entities: Google Place IDs, lbe1 and schema:hasMap",
+      "url": "https://wordlift.io/blog/en/chatgpt-local-entities/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "We traced ChatGPT’s local-business identifiers to real-world Google Place identities, observed how lbe1 powers the entity experience, and found that selecting an entity can shape the next search and conversation. The post How ChatGPT Resolves Local Business Entities: Google…",
+      "category": "GEO",
+      "published": "2026-09-15T07:56:20Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "4ad87cdada76",
       "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
@@ -3938,39 +3972,6 @@
       "published": "2026-08-30T11:11:17Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "0ec46fec0e73",
-      "title": "Semantic Image Optimizer",
-      "url": "https://dejan.ai/blog/image-optimizer/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "An overview of an e-commerce image optimization method using Google's AI models and vector embeddings to iteratively generate and score product alt text.",
-      "category": "GEO",
-      "published": "2026-08-30T03:58:55Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "4ad16831de73",
-      "title": "Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
-      "source": "Search Engine Journal",
-      "summary": "This week’s SEO Pulse covers Google’s AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT’s Reddit behavior in search. The post Judge Questions Google AI, Spam Update Fallout – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-29T12:30:49Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "f8b12140d888",
-      "title": "How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev",
-      "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
-      "source": "Search Engine Journal",
-      "summary": "Add Google's Preferred Sources button with the standard embed, a configurable WordPress widget, or a deeplink. The post How To Add Google’s Preferred Sources Button To Your Website appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-28T19:00:53Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
