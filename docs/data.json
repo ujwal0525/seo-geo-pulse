@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T04:13:35Z",
+  "updated": "2026-09-15T08:14:46Z",
   "count": 250,
   "sources": [
     "Backlinko",
@@ -503,6 +503,42 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-15",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Universal Music Group’s AI partnership points to a licensed future for music, with difficult questions still ahead",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNHlJUEY5OHo0SmhoSk5BcUhCbDRSMXoxWEl0eHA0dVg0enBVZHhhaTFsLWdCaFM1aFdLejZxcUtjLU1laVVONkJBN0steTdMZE9ZN19fNmNoMDVDRnJVSUYzcTdfMVJmZURpRjJoMjhpLXJlVUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "08c7b5964480"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "$2b",
+      "title": "PE firms stitch up $2b childcare merger, bankers on board",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWwyNEtiR2hjZ3ktNTdnZlp6ckZsZnF3WGk0SzE5WUZPbnJiOTlEQzRsNFE3elpmU3llOXkzZUExX2hSSGpTdUJLbmlFSUlwSkxnNW81Ujd2RUc1Vmw4ak5zY19XODZoN3JRYnA4bGh0NkhhSXNydjlLaWpoVTlnVUE2RThWRXlnc3VLbmlCMWJXTmhsSlpFd0N2RXF2SWh4cURhU1FB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2c4d2e945a04"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "UPDF",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "UPDF Introduces a Dedicated PDF and AI Resource Page for Lawyers",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1VzcE1kX3Exa3JiQVBXT1N3RU51dWphcFdUcGcyNnZCZW8yNlU0Vnk2UkE1MUc2ckhObkRNczVWZ3gzWGpSWl83R2xBdFBKLWRlV0d6QkJRWVYtYUZ3SnB3U29XR3dzeHVTZEp0NC1yaFNHUHpMaWpVYkgwam42UXVQa3NSSTBOR01BODc2MEZScU1UOWYxUGp5dzFtNE0?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a2550b90a684"
+    },
     {
       "date": "2026-09-14",
       "company": "Kling AI",
@@ -1183,44 +1219,20 @@
       "source": "Google News",
       "curated": false,
       "id": "4ccd13cd5ad1"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Google Launches Pics, a Canva-Style AI Editor Built Into Docs and Slides",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVAzSGJoaXU1bnQ3bVhJUjZhMzR6T1RKajdUeExMWGY5Q2hCWWNwVmdHNS12bXhqZTNFNDVfSlFXdEFzSlFQeWRianBTRHl3dGZnVVpQei1lODhFWEs1NFhwdEZIWWR2MDRjb0RNR2NEYjFCQm5uaS1vZ1dVSUpBVlRPTTFPLVVGVU9pWDl0ZnJGV2wwU01PTTM2QlRyRlhBTVhhMWdmOTJjZ1V5?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c90b8d71da95"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "List of 40 Acquisitions by Adobe (Sep 2026)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjM2QUZzd1lyWmJaamJkcldUMVBhbUp5MXY4elJrTjdOWThTdlBmRGJvWHREZGZzajBtVW94RUkzTUFxUjhEVVBuTUI0UUszcmxzNE9jUldBVDJRUjBXamFVdGg3X2VoTWZZLVlNM2NoRnk4MkNpdDZpcnJuRDlMbG9PdzVmTGpmbGdLZThud0t4cTJTWXlBcDlVTTVrN1NJdWNF?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7604e98c68a9"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Salesforce",
-      "move": "Funding",
-      "detail": "$5B · $550M",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch",
-      "curated": false,
-      "id": "04e13f9fe540"
     }
   ],
   "items": [
+    {
+      "id": "4ad87cdada76",
+      "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/",
+      "source": "Search Engine Journal",
+      "summary": "CallRail’s Meagan McLoughlin explains what to audit before/after Local Services Ads migrate into Google Ads, from historical reports to tracking numbers and lead quality. The post Local Services Ads To Performance Max: What To Audit Before Migration appeared first on Search…",
+      "category": "SEO",
+      "published": "2026-09-15T07:45:08Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "64a9cbd7ffd3",
       "title": "90% of executives see no productivity gains from AI. What separates the other 10%?",
@@ -3959,17 +3971,6 @@
       "published": "2026-08-28T19:00:53Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "feb78107da4c",
-      "title": "Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button",
-      "url": "https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search is testing pushing searchers into AI Mode from the AI Overview by default, without having to click the \"Show more\" button. The new AI Overview experience that Google is testing shows a much fuller AI answer, like you'd get in AI Mode, and loads the follow up \"Ask…",
-      "category": "GEO",
-      "published": "2026-08-28T17:30:00Z",
-      "coverage": 1,
-      "impact": 8.0
     }
   ]
 }
