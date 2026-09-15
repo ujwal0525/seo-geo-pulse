@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T16:12:55Z",
+  "updated": "2026-09-15T20:13:06Z",
   "count": 250,
   "sources": [
     "Andrea Volpini (WordLift)",
@@ -20,6 +20,16 @@
     "Yoast"
   ],
   "milestones": [
+    {
+      "date": "2026-09-15",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Google Search Live Now Powered By Gemini 3.8 Live",
+      "url": "https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "e8fdf9fdf1f0"
+    },
     {
       "date": "2026-09-14",
       "family": "engine",
@@ -637,6 +647,42 @@
       "id": "0a2a264b7f43"
     },
     {
+      "date": "2026-09-15",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$40M",
+      "title": "AIUC Raises $40M Series A to Audit AI Agents, Signs Cursor, Lovable, Harvey and ElevenLabs",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRm5RVmZDYXFUMlJyejdWUG9zRGJGVDEyeXFTZ0oyckx0RWdQcHNIbEpKTE1nZ0o1SlVuMGIzLXdORHMwWElpeWt6cF8wZGE0YzRiazJWeXlWVk1XRGNtZHRlOFZfSVBDcnNEWWl2UE9vdXo5dERDT2ZPS29hNllyQ08zWGthZGUtZ3FTQkd0WXZGdEZqYzREMFQ4MENtOUFBRXBWeg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6454ae7260a9"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva releases Affinity 3.3",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRVDZBWV9aRzBPN29uVFkwQl94b0NBMXpMSXJ3RGtvT09CQWFWY0lsb3lyaXNLOTQ2WHg4WC1kVzdHczlsUmNUU0pqZE1hczd1OUd1M0toMHFuWTFYSkhOV1FLdGs1UmdyMnBJWnF3NA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0e9de75d3af3"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Nitro Bar Co-Founder Shares How ‘In-House’ Drinks Launched Viral Rhode Island Brand from Homemade Coffee Cart to N.Y.C. Pop-up (Exclusive)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0STRnUXUtY0hzSjdyRnFrZnc2NWQxMEU3cTd5MmNnNE5ET0hMVHl1d0xxV2RfS3EyTkZzYlgzUFdsSU12bXF3bGxhWWhvT011UGpCTGU0RFUwc3NWSXhjMGJzdHE4T294Zy1zbThQcG12QXRSMlNrdQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "dbb32b078cfd"
+    },
+    {
       "date": "2026-09-14",
       "company": "Kling AI",
       "front": "GenAI Media",
@@ -1186,45 +1232,53 @@
       "source": "Google News",
       "curated": false,
       "id": "33aa4509e8a3"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Liang Hesheng released Buddha, Fortune, Affinity, A Three-Piece Red-and-Gold Feng Shui Calligraphy Series - Fairbanks Daily News-Miner",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbDJlUkR2dUdMYmlOaDlSSXBIOTRiUFZLWXBGa0lMNXcxQmRocFEtWEhmb3BPQnk4YXpXbjhWRmpWdGIyODJxdm5MTzlQWmFJT0trRmI5emc0S0F4VWdKbzlkZFI3THl4Zi0zb0x2TDdPdGdxQWUwVVdVN3VERWJudEVjckxKYjdsbWJmUldfM0prblBwa1p5YlpWTVNnOUxvTGl3RFFiUTkwQjFXcFFNUkRhSk9FNzg2ZVdLeE9xRmF1dmlZQ0tYMHRXb0d5dzFFQ3FJWFhSbXZOLU5hTE9VWnBwbnotNFZnd29mZjBaQXVsOWFZdDE1NjYwa0NIbGtiSTJ1SFo2SENYLXpzSWtYc25mSVM2T0xfRkZETmhzd0t6d1dpMzJIYmVB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2a474704a27a"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "DocuSign Releases Q2 2027 Financial Results",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5M09jc3d2SmhIRXo0VkVaM0pJbEd3YzdMazd5U2VpcDJrWEg1T2ttWDlMaGJab2NKWVE5cE5rM2NMekQ0NVllU05yS19MUlhCWkVBSW5IN3dhZkRoRjB3R09YVEY3UDZxU1o1U0xqUHVUSmtGV1ZYVDI0d1dWUdIBfkFVX3lxTFB5M09jc3d2SmhIRXo0VkVaM0pJbEd3YzdMazd5U2VpcDJrWEg1T2ttWDlMaGJab2NKWVE5cE5rM2NMekQ0NVllU05yS19MUlhCWkVBSW5IN3dhZkRoRjB3R09YVEY3UDZxU1o1U0xqUHVUSmtGV1ZYVDI0d1dWUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "44154666e80d"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "XBREW Launches Cartridge-Free Nitro Flavor System EverNitro in Europe at IFA Berlin 2026",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVG5oMGU4UkdsX1dBMFVrcFJodkJBbW9NSWR6UDRkQWUxMXdVWm83TlNzU19BdHNPMXFvQy1xNFRKRk1mOGR6YjktMkhZcFVxM3Mzdy1EQTRycmRHQU50RV9GNE5PeTVCSlhhUG1NTGV2T3MyWlp4d1dkQWdFek0tamdSZ0F5TUlZeVFhelJaUkVlbUZXekp5dllfaGE4bWxIdEJieEtyZFF0cWl6M3hSbGtzWWJ4MThwZlAwUEtqeU1WQlpLakhrYU5LRnlibko4RzhIenVHWm5JMzFN?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ab6515c07c6a"
     }
   ],
   "items": [
+    {
+      "id": "586bb82ad566",
+      "title": "Foundation Is Now a Verified Profound Partner",
+      "url": "https://foundationinc.co/lab/foundation-profound",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Let’s make it official. Foundation Marketing is now a verified Profound Partner after joining their inaugural agency certification cohort. The certification recognizes agencies with the expertise to measure and improve AI visibility for brands across AI engines, such as ChatGPT…",
+      "category": "GEO",
+      "published": "2026-09-15T19:15:27Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "f879384d8be6",
+      "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity",
+      "url": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
+      "source": "Search Engine Journal",
+      "summary": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action. The post Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-15T19:00:14Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "8725c1a6a2bc",
+      "title": "Google Search Live Now Powered By Gemini 3.8 Live",
+      "url": "https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search Live is now powered by Google's latest AI model, Gemini 3.8 Live. Search Live has been around for a couple years now, both in audio only format and then video format. Search Live was released globally in March, and before that, it removed the opt-in requirements.",
+      "category": "GEO",
+      "published": "2026-09-15T17:58:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "826a8b8b9375",
+      "title": "Google Chrome User Experience Report (CrUX) With Ad Metrics",
+      "url": "https://www.seroundtable.com/google-ad-metrics-crux-42093.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google announced new ad metrics that are being tested within the Chrome User Experience Report (CrUX). These metrics include Ad Count, Ad Density, Ad Weight (Network) and Ad Weight (CPU).",
+      "category": "SEO",
+      "published": "2026-09-15T16:49:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "b8737006db17",
       "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
@@ -1244,6 +1298,17 @@
       "summary": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-15T14:10:14Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "988ad86c575c",
+      "title": "Daily Search Forum Recap: September 15, 2026",
+      "url": "https://www.seroundtable.com/recap-09-15-2026-42088.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. I am seeing signs of a big update lurking with Google Search...",
+      "category": "SEO",
+      "published": "2026-09-15T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1400,17 +1465,6 @@
       "published": "2026-09-14T14:30:08Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "26c20036ea7d",
-      "title": "Daily Search Forum Recap: September 14, 2026",
-      "url": "https://www.seroundtable.com/recap-09-14-2026-42078.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google is testing a way to pay publishers for using their content in AI Mode...",
-      "category": "GEO",
-      "published": "2026-09-14T14:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     },
     {
       "id": "6183b53d9dda",
@@ -3930,50 +3984,6 @@
       "published": "2026-08-31T09:10:43Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "ecd4bf9f64c4",
-      "title": "Enterprise SEO: What it is & how to build a winning strategy",
-      "url": "https://www.semrush.com/blog/enterprise-seo/",
-      "source": "Semrush Blog",
-      "summary": "Enterprise SEO involves optimizing a website’s visibility at scale, using templated and automated approaches.",
-      "category": "SEO",
-      "published": "2026-08-31T09:09:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "aa6562bd1cad",
-      "title": "How to rank in ChatGPT search: 8 steps to improve visibility",
-      "url": "https://www.semrush.com/blog/chatgpt-search/",
-      "source": "Semrush Blog",
-      "summary": "Rank in ChatGPT search by making your content easy for AI systems to extract and by building off-site consensus.",
-      "category": "GEO",
-      "published": "2026-08-31T08:45:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "429e291418e9",
-      "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/",
-      "source": "Search Engine Journal",
-      "summary": "New data finds Claude and Claude Code search at different rates, mention different brands, and send their agents to different types of pages. The post Claude Searches Web Differently From Claude Code, Data Shows appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-31T08:30:36Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "34bba47893d3",
-      "title": "Why is SEO important? 11 reasons it still matters.",
-      "url": "https://www.semrush.com/blog/importance-of-seo/",
-      "source": "Semrush Blog",
-      "summary": "SEO improves your online visibility + complements answer engine optimization. Here’s why it matters in 2026.",
-      "category": "GEO",
-      "published": "2026-08-31T08:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
