@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T20:13:41Z",
+  "updated": "2026-09-15T00:18:16Z",
   "count": 250,
   "sources": [
     "Backlinko",
@@ -552,6 +552,30 @@
       "id": "0b50576746ad"
     },
     {
+      "date": "2026-09-14",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches 'Best Ever' Music Model, But Not With UMG",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzbFloVXBOeS1aeEZ1czBJTkF3YjV0WWMycmNmNE54cHVKa3dmcC04N1IzV3BwZ3p2eGFQZU9zM2U4TDRSeWFnSnFaMHVPQVJXMnJXOWJxVUFMcmdmMFhVcUVtN2JGY2lraXd3TnZnM3ptQmN0S0E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f34163408d0d"
+    },
+    {
+      "date": "2026-09-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Campaign",
+      "detail": "",
+      "title": "Affinity Partners Rebrands as Truestead Group",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU1yOEQ2dW1OZk1TMXpSM2swQ3VoQ3VZMjlPZVRiMUV2MXl4cGJsOGNUazExdmlSbUloX3lFNTBiZWpsZ1RabHNmemdIVDRhZDE2U196YjEydG5nZm91dHlMdUdwYmJyM1phX0dQYjYxbDl3TlhFY19kNzE3aVBFc2xCdWNHSjZ2SVVrYUhuVkZYOXkyTzJJX19CYV8?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9a7793a2d72a"
+    },
+    {
       "date": "2026-09-13",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -622,18 +646,6 @@
       "source": "Google News",
       "curated": false,
       "id": "8a36d27940c2"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Fort Collins Firm Affinity Partners rebrands as Truestead Group",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOG5mRVlpLXZZOHNkMnhkd0R1Vk15c21KMG5yUGdvUFg3T1Z3ZDB0azdTMzJxZ0pwRTNvWXU1OU9WRW84TG1CLUU4U0FFejAyV1R6N3hETVNfODNaZ21mNFJzem81aC1DRmNNT3VibVJ5Y3FxMzZ0cVZlMGNnMTdyVGxseGlMWVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f3182313e1d1"
     },
     {
       "date": "2026-09-11",
@@ -1206,21 +1218,20 @@
       "source": "TechCrunch",
       "curated": false,
       "id": "04e13f9fe540"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Genesys, Adobe, Amazon Web Services, Deepgram, ElevenLabs, Meta Platforms, Salesforce, ServiceNow And Sierra Collaborate To Expand Genesys Cloud Agentic Orchestration Platform For Customer Experience",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUVLX2dyclh6b3FQdEV5N2VPcHlVWWhpVktleWdNWF94ZmVlVDNVS19fU2lKQmVMT3MyQjV5LWV0N2p2WkpfVmdnZ2ZXdUNuS1VzeTVLSzJQRVR0LWtWOUZLNllNMzB0R1Zqdks4aUpGTzhoaGZaZU1Jemk4Rmd3LUM5Y1EwQzhqTWdtRXhRUU44RlJMOVpfVFR2OWF1bTNBMC1TT0VSZzlQcFotNjljUzFMNWdnTnluNE03YU5VUTJFZWZFMTRNMHVVXzdfb01LTXBTVXg2NnR6WTFhM1Q4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e234dd348616"
     }
   ],
   "items": [
+    {
+      "id": "64a9cbd7ffd3",
+      "title": "90% of executives see no productivity gains from AI. What separates the other 10%?",
+      "url": "https://foundationinc.co/lab/vol-309",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Ask leaders whether AI is helping their business, and 64% will say yes. But only 39% will point to an actual earnings impact, according to McKinsey’s The State of AI in 2026 Report. So I asked Enzo Carletti, our AI Service Delivery Lead, aka Foundation’s “robot guy” and “Claude…",
+      "category": "GEO",
+      "published": "2026-09-14T22:26:44Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "bde0493b4e0e",
       "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
@@ -3959,17 +3970,6 @@
       "published": "2026-08-28T17:30:00Z",
       "coverage": 1,
       "impact": 8.0
-    },
-    {
-      "id": "83c134c92dd7",
-      "title": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
-      "source": "Search Engine Journal",
-      "summary": "When Meta's ad AI altered approved creative without warning, it exposed a deeper problem: marketing teams rarely define who owns AI mistakes after sign-off. The post AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It appeared first on Search Engine Journal…",
-      "category": "SEO",
-      "published": "2026-08-28T14:30:07Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
