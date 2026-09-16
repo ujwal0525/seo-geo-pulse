@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-16T08:13:36Z",
+  "updated": "2026-09-16T12:16:28Z",
   "count": 250,
   "sources": [
+    "Ahrefs Blog",
     "Andrea Volpini (WordLift)",
     "Backlinko",
     "Dan Petrovic (DEJAN)",
-    "Glenn Gabe (GSQi)",
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
@@ -1236,6 +1236,83 @@
     }
   ],
   "items": [
+    {
+      "id": "107f488de3da",
+      "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/",
+      "source": "Search Engine Journal",
+      "summary": "Build a validated content workflow for AI search by identifying decision gaps, acquiring original knowledge, and proving claims before publishing. The post Beyond Content Parity: Building A Validated Content Workflow For AI Search appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-16T12:00:04Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "bfd55a277599",
+      "title": "Bing Tests Shopping Filters On Left Sidebar",
+      "url": "https://www.seroundtable.com/bing-sidebar-shopping-filters-42084.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Bing is testing adding product/shopping related filters on the left sidebar of the search results. This makes the Bing all search tab look more like Google's all tab, when you search for product or shopping related queries.",
+      "category": "SEO",
+      "published": "2026-09-16T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "48eb20fd2217",
+      "title": "Google Ads Spend Benchmarks Report Compares Your Competitors",
+      "url": "https://www.seroundtable.com/google-ads-spend-benchmarks-report-competitors-42097.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is rolling out an update to the Spend benchmarks report that now shows you how your spend is comparable to businesses like yours. In short, it shows you if you are spending more, less or the same as your competitors on Google Ads.",
+      "category": "SEO",
+      "published": "2026-09-16T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "cb734e19db4b",
+      "title": "Google: Google Search Console AI Position Reporting Will Evolve Over Time",
+      "url": "https://www.seroundtable.com/google-search-console-ai-reporting-change-42099.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller said that he expects the position and impression tracking for AI Mode, AI Overviews and Google Search to \"evolve over time\" as Google Search, AI Mode and AI Overviews \"evolve too,\" he wrote.",
+      "category": "GEO",
+      "published": "2026-09-16T11:05:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "1b47f82989d9",
+      "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/",
+      "source": "Search Engine Journal",
+      "summary": "Ex-Googler Jeff Dean shares insights from Gemini's development and the approach he uses to discover promising new ideas. The post Ex-Googler Jeff Dean Explains Design Choices Behind Gemini appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-16T10:31:08Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "50a1ae1f7fc2",
+      "title": "8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)",
+      "url": "https://ahrefs.com/blog/ai-marketing-trends/",
+      "source": "Ahrefs Blog",
+      "summary": "The buyer’s journey looks different, because people now research and increasingly buy through AI tools instead of a page of blue links. The tools and processes we use to do marketing work have changed, because so much of it can … Read more ›",
+      "category": "SEO",
+      "published": "2026-09-16T09:01:04Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "31dee7785592",
+      "title": "New asset: the AI Automation Work Router",
+      "url": "https://www.growth-memo.com/p/new-asset-the-ai-automation-work",
+      "source": "Growth Memo",
+      "summary": "Build vs buy: Calculate the cost",
+      "category": "SEO",
+      "published": "2026-09-16T08:51:50Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "b2db10da9446",
       "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
@@ -3906,83 +3983,6 @@
       "summary": "As Google Ads automates more decisions, advertisers must define success beyond platform metrics, tracking leads and sales through to actual business outcomes. The post Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better appeared first on Search Engine…",
       "category": "SEO",
       "published": "2026-08-31T12:00:36Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "569535490516",
-      "title": "Microsoft Advertising New Updated Design Preview",
-      "url": "https://www.seroundtable.com/microsoft-advertising-updated-design-preview-41978.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Advertising is previewing a new design and usability update for its ad platform. This update has a redesigned navigation and improved tables and layouts. This update should make managing your ad campaigns more efficient and intuitive.",
-      "category": "SEO",
-      "published": "2026-08-31T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "206ff6b2a843",
-      "title": "The August 2026 Google Spam Update – Scaled Content Abuse, AI Content, Programmatic Content, Thin Affiliates, And More [Case Studies]",
-      "url": "https://www.gsqi.com/marketing-blog/august-2026-google-spam-update-case-studies/",
-      "source": "Glenn Gabe (GSQi)",
-      "summary": "Google rolled out yet another spam update on August 18, 2026 after rolling one out in late June. As a reminder, Google can roll out specific spam updates when it determines sites using spammy tactics are ranking well via its core ranking system. You can think of spam updates as…",
-      "category": "Algorithms",
-      "published": "2026-08-31T11:38:35Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b9c133343859",
-      "title": "Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers",
-      "url": "https://www.seroundtable.com/microsoft-copilot-login-41975.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is now forcing all users to log in before using Copilot, but this currently does not apply to Copilot Search answers within Bing Search. When you try to go directly to Copilot, even by clicking on the Copilot button on Bing's home page, you are asked to sign into your…",
-      "category": "GEO",
-      "published": "2026-08-31T11:31:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "be6b209e4d67",
-      "title": "Google Confirms Search Spam Team Is Fighting & Well Resourced",
-      "url": "https://www.seroundtable.com/google-search-spam-team-fighting-41980.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Rajan Patel, VP of Engineering for Google Search, has confirmed that the Google Search team is still well-resourced in its fight against search spam. The spam team continues to update its spam algorithms, such as the latest Google August 2026 spam update, to help reduce spam in…",
-      "category": "Algorithms",
-      "published": "2026-08-31T11:21:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "25eb6b24f565",
-      "title": "Google AI Mode With Inline Shopping Carousel Ads & Single Ad Unit",
-      "url": "https://www.seroundtable.com/google-ai-mode-shopping-carousel-ads-41973.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is now showing shopping ads in a carousel format inline within AI Mode results. Plus, Google is also showing a similar ad unit at the bottom of the AI Mode results. We got a lot of ads in AI Mode now, and I guess Google is looking for more and more ways to monetize those…",
-      "category": "GEO",
-      "published": "2026-08-31T11:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ed2efe1188e8",
-      "title": "Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/",
-      "source": "Search Engine Journal",
-      "summary": "Google's John Mueller shares what happened when he checked whether AI crawlers were actually asking his sites for markdown. The post Google’s Mueller Shares Their Experience With Markdown For AI SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-31T10:44:54Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "01505ecea2b3",
-      "title": "UCP Releases Spec Update With Schema Changes via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/",
-      "source": "Search Engine Journal",
-      "summary": "The Universal Commerce Protocol's first spec release since April adds grocery readiness, lays groundwork for food and lodging, and brings schema changes. The post UCP Releases Spec Update With Schema Changes appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-31T10:00:27Z",
       "coverage": 1,
       "impact": 4.0
     }
