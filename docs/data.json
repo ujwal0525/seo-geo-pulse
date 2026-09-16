@@ -1,11 +1,12 @@
 {
-  "updated": "2026-09-16T12:16:28Z",
+  "updated": "2026-09-16T16:13:27Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Andrea Volpini (WordLift)",
     "Backlinko",
     "Dan Petrovic (DEJAN)",
+    "Glenn Gabe (GSQi)",
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
@@ -17,7 +18,8 @@
     "Search Engine Journal",
     "Search Engine Roundtable",
     "Semrush Blog",
-    "Yoast"
+    "Yoast",
+    "Zyppy Signal"
   ],
   "milestones": [
     {
@@ -839,6 +841,18 @@
       "id": "65494677ab75"
     },
     {
+      "date": "2026-09-14",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$7.6M · $470M",
+      "title": "Pika Revenue 2024: $7.6M Est. ARR, $470M Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4SzZ0TmNKeTNWS1JHUEtyRVpTeGtzbjdzb1BkeW5WMDlDeFlQUlYzcTctdFg2NGFTdDhpcVNtemNxcXNuYkpSRUNZbw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2da82452e2ca"
+    },
+    {
       "date": "2026-09-13",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -1080,18 +1094,6 @@
     },
     {
       "date": "2026-09-10",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$7.6M · $470M",
-      "title": "Pika Revenue 2024: $7.6M Est. ARR, $470M Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4SzZ0TmNKeTNWS1JHUEtyRVpTeGtzbjdzb1BkeW5WMDlDeFlQUlYzcTctdFg2NGFTdDhpcVNtemNxcXNuYkpSRUNZbw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fb430dd1e432"
-    },
-    {
-      "date": "2026-09-10",
       "company": "Synthesia",
       "front": "GenAI Media",
       "move": "Funding",
@@ -1237,6 +1239,160 @@
   ],
   "items": [
     {
+      "id": "43c1215526d7",
+      "title": "AI Overviews Cut CTR by 23.1% in France",
+      "url": "https://ahrefs.com/blog/ai-overviews-france-impact/",
+      "source": "Ahrefs Blog",
+      "summary": "France got AI Overviews on July 22, 2026. We tracked 963 domains in GSC, 28 days before and 9 days after. The most exposed lost 23.1% of their CTR. Read more ›",
+      "category": "GEO",
+      "published": "2026-09-16T16:04:30Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "5c29ec03e704",
+      "title": "Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/",
+      "source": "Search Engine Journal",
+      "summary": "Google lowers Search profile eligibility to 10,000 followers for U.S. websites and creators, with new account tools and updated article displays. The post Google Search Profiles Now Available At 10,000 Followers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-16T16:00:15Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2ce24fe58dae",
+      "title": "3 new ways we're improving Search profiles for publishers",
+      "url": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
+      "source": "Google (Search)",
+      "summary": "Search profiles",
+      "category": "SEO",
+      "published": "2026-09-16T16:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "027811ca1632",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "category": "GEO",
+      "published": "2026-09-16T16:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "0eb3f5569362",
+      "title": "Google Search Profiles Article Design, Less Followers & Easier Login",
+      "url": "https://www.seroundtable.com/google-search-profiles-updates-42098.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the Search profiles with a new article design, a single login to manage multiple Search profiles and only 10,000 followers on social platforms are required.",
+      "category": "SEO",
+      "published": "2026-09-16T16:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "262b7387d033",
+      "title": "OpenAI Testing Sponsored Agents For ChatGPT Ads",
+      "url": "https://www.seroundtable.com/openai-chatgpt-sponsored-agents-42104.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI is testing a new ad format in ChatGPT named Sponsored Agents. Sponsored Agents \"let people start a conversation with a business-sponsored agent after clicking an ad in ChatGPT,\" OpenAI wrote.",
+      "category": "GEO",
+      "published": "2026-09-16T15:03:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "070fede7539e",
+      "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
+      "source": "Search Engine Journal",
+      "summary": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter. The post MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-16T14:30:54Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "bf1883b4625f",
+      "title": "How To Find All PDFs That Have Been Recently Deindexed Using The Search Console API, URL Inspection API, And Analytics Edge",
+      "url": "https://www.gsqi.com/marketing-blog/how-to-find-all-pdfs-deindexed-url-inspection-api/",
+      "source": "Glenn Gabe (GSQi)",
+      "summary": "Google started deindexing PDFs at scale recently, which was initially spotted by Savanna Gray on LinkedIn. And for many sites, those PDFs moved to “Crawled, not indexed” in GSC’s indexing reporting. Based on the widespread impact to sites, it seems like a bigger change to…",
+      "category": "SEO",
+      "published": "2026-09-16T14:04:39Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "067a23bb7777",
+      "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
+      "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
+      "source": "Search Engine Journal",
+      "summary": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners. The post How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-16T14:04:23Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7cd9026d5421",
+      "title": "Daily Search Forum Recap: September 16, 2026",
+      "url": "https://www.seroundtable.com/recap-09-16-2026-42100.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google said Search Console position reporting may change as Search, AI Mode, AI Overviews...",
+      "category": "GEO",
+      "published": "2026-09-16T14:00:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "d5ac559e8c04",
+      "title": "Google Merchant Center AI Reports Live, Easier UCP & UCP Analytics",
+      "url": "https://www.seroundtable.com/google-merchant-center-ai-updates-42095.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has announced a number of updates to Google Merchant Center including the AI performance insights generally available, it has simplified Universal Commerce Protocol integration, and Google highlighted how using conversational and video attributes can help.",
+      "category": "SEO",
+      "published": "2026-09-16T14:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "25843c6d4062",
+      "title": "Google AI Ranking Factors",
+      "url": "https://signal.zyppy.com/p/google-ai-ranking-factors",
+      "source": "Zyppy Signal",
+      "summary": "What influences Google AI to recommend your brand or website? We asked 131 search experts what matters.",
+      "category": "SEO",
+      "published": "2026-09-16T13:07:16Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "52752974efc0",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "category": "SEO",
+      "published": "2026-09-16T13:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e76b67ddff1e",
+      "title": "Fanout V2: From Paraphrastic Collapse to Complementary Set",
+      "url": "https://dejan.ai/blog/fanout2/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Google Research introduced R4T, an RL-trained diffusion retriever that optimizes fan-out query sets for diversity and speed, achieving up to 20x latency speedups.",
+      "category": "SEO",
+      "published": "2026-09-16T12:46:33Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
       "id": "107f488de3da",
       "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt",
       "url": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/",
@@ -1246,6 +1402,39 @@
       "published": "2026-09-16T12:00:04Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "f513b1d1640a",
+      "title": "Google Image Search Collections Save To Suggested By Al",
+      "url": "https://www.seroundtable.com/google-images-suggested-by-al-42096.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Image Search lets you save images to collections and folders. Well, now Google will suggest new folders or collections using AI - it says \"suggested by AI\" with a Gemini icon over a folder.",
+      "category": "GEO",
+      "published": "2026-09-16T11:51:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "6bfca0eb7710",
+      "title": "Google Search Product Listings Tests Linking Directly To Merchant Site",
+      "url": "https://www.seroundtable.com/google-product-listings-direct-merchant-42089.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is now testing linking the product and shopping results within Google Search directly to the merchant or retailer website. This is instead of Google opening the side panel with more details about the product.",
+      "category": "SEO",
+      "published": "2026-09-16T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "eea3e5d89bd6",
+      "title": "New Information On Google Ads Multi-Source Conversions Beta",
+      "url": "https://www.seroundtable.com/google-ads-multi-source-conversions-42080.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google posted another new help document on multi-source conversions (beta). Last month, Google reportedly renamed conversions with multiple data sources to multi-source conversions, but now there is this new help document as well.",
+      "category": "SEO",
+      "published": "2026-09-16T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "bfd55a277599",
@@ -1398,17 +1587,6 @@
       "summary": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-15T14:10:14Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "988ad86c575c",
-      "title": "Daily Search Forum Recap: September 15, 2026",
-      "url": "https://www.seroundtable.com/recap-09-15-2026-42088.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. I am seeing signs of a big update lurking with Google Search...",
-      "category": "SEO",
-      "published": "2026-09-15T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -3809,182 +3987,6 @@
       "published": "2026-09-01T08:53:20Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "d65ffa66a844",
-      "title": "How did the 1955 plan for AI go? Surprisingly well!",
-      "url": "https://dejan.ai/blog/1955/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "This page compares the 1955 Dartmouth artificial intelligence proposal with the public record of AI capabilities and world models as of 2026.",
-      "category": "SEO",
-      "published": "2026-09-01T08:26:51Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "d9e9ce6fe4be",
-      "title": "Where does AI get its information? And how to get cited",
-      "url": "https://www.semrush.com/blog/where-does-ai-get-its-information/",
-      "source": "Semrush Blog",
-      "summary": "AI gets information from channels like training data, live online information, and licensing partnerships.",
-      "category": "GEO",
-      "published": "2026-09-01T07:52:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "118ff0cebb92",
-      "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/",
-      "source": "Search Engine Journal",
-      "summary": "Kevin Rowe broke down the digital PR system behind 1,000+ earned citations, which data stories journalists cover, and how research wins AI Overviews spots. The post How We Earned 1,000+ Links For GEO/SEO appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-01T07:45:17Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "3d23cff59952",
-      "title": "Demystifying Grounding Queries with Real Data",
-      "url": "https://moz.com/blog/demystifying-grounding-queries-with-real-data",
-      "source": "Moz Blog",
-      "summary": "Stop targeting zero-volume keywords. Discover how Google Gemini uses grounding queries to source real-time facts, and how to optimize your content for machine search.",
-      "category": "SEO",
-      "published": "2026-09-01T07:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "631a857c7a24",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "category": "GEO",
-      "published": "2026-09-01T01:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "56223ef25fb3",
-      "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
-      "source": "Search Engine Journal",
-      "summary": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion. The post FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-31T23:49:40Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "50dce853decf",
-      "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
-      "source": "Search Engine Journal",
-      "summary": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back. The post Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-08-31T21:40:45Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5861166d626d",
-      "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/",
-      "source": "Search Engine Journal",
-      "summary": "Google says Search Console's generative AI performance reports, which track AI Overviews and AI Mode impressions, have now rolled out to all sites worldwide. The post Google Search Console AI Reports Rolled Out Worldwide appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-31T19:04:38Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "8680262e3d46",
-      "title": "Google: We Don't Penalize For Old Outbound Links With Shady Content",
-      "url": "https://www.seroundtable.com/google-old-shady-links-41987.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller was asked if Google would penalize a site for old outbound links to a site that once hosted quality content and now changed ownership and hosts shady content. John said Google won't penalize such links; he said \"no\" and added, \"the web is full of turmoil.\"",
-      "category": "SEO",
-      "published": "2026-08-31T18:59:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8b47ae0c478c",
-      "title": "ChatGPT Is Now A “Very Large Online Search Engine” In The EU via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/",
-      "source": "Search Engine Journal",
-      "summary": "ChatGPT is now a very large online search engine under the EU Digital Services Act after OpenAI reported about 159.1 million average monthly search recipients. The post ChatGPT Is Now A “Very Large Online Search Engine” In The EU appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-31T18:31:32Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ed35d5d450a2",
-      "title": "30 out of 71 Cloud 100 subreddits are invisible to AI. Here’s what’s missing.",
-      "url": "https://foundationinc.co/lab/vol-307",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Grammarly’s subreddit has 8,000 followers. It’s unofficial, and no one at the company manages it. And yet it’s earned 1,001 AI citations, more than communities built by companies many times Grammarly’s size. Compare that to Flock Safety. It has 47,000 followers, nearly 6x…",
-      "category": "GEO",
-      "published": "2026-08-31T18:00:40Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "772e2041a828",
-      "title": "Google European Search Dataset Licensing Program Details",
-      "url": "https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated its Google European Search Dataset Licensing Program page with details on the program. Google has been designated as a \"gatekeeper\" under the DMA and is thus legally required to share its search data with competing search engines to foster fair competition.",
-      "category": "SEO",
-      "published": "2026-08-31T16:13:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d8373033ed7e",
-      "title": "Best PPC Companies of 2026",
-      "url": "https://neilpatel.com/blog/ppc-companies/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Pay-per-click (PPC) advertising delivers an average return on investment (ROI) of 200 percent. Marketers are taking notice. About 93 percent of them view PPC advertising as effective or highly effective, second only to content marketing. A lot of that success…",
-      "category": "SEO",
-      "published": "2026-08-31T16:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "102f9c5e15f0",
-      "title": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
-      "url": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
-      "source": "Search Engine Journal",
-      "summary": "Three role changes and a budget rebalance can move a marketing team from invisible to cited in AI search results, no new headcount required. The post How To Restructure Your Marketing Team & Budget For The AI-Search Era appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-08-31T14:30:03Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9f1f83269a62",
-      "title": "Daily Search Forum Recap: August 31, 2026",
-      "url": "https://www.seroundtable.com/recap-08-31-2026-41981.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search is making AI Overviews fully expanded for some queries, making it more like AI Mode and pushing the core search results…",
-      "category": "GEO",
-      "published": "2026-08-31T14:00:00Z",
-      "coverage": 2,
-      "impact": 10.0
-    },
-    {
-      "id": "f75d0464cbbb",
-      "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
-      "source": "Search Engine Journal",
-      "summary": "As Google Ads automates more decisions, advertisers must define success beyond platform metrics, tracking leads and sales through to actual business outcomes. The post Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better appeared first on Search Engine…",
-      "category": "SEO",
-      "published": "2026-08-31T12:00:36Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
