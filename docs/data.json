@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T00:16:31Z",
+  "updated": "2026-09-16T04:12:56Z",
   "count": 250,
   "sources": [
     "Andrea Volpini (WordLift)",
@@ -515,6 +515,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-16",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$5B",
+      "title": "Kushner's Affinity Partners raises $5B from Gulf investors amid diplomatic role",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVFCS2NPNGNsM0dFWlE3YTJqYXY3V1VkbXhVTEhxSWRncGUxYWl1NWh6T3hfT0J0N2RMR0VoYVJNQ2FfZVBZWmFnVktyRkRELTE5d0FsQm1adWZnMlUxUUxobHREWlFpeVFnMzNWYzYzc1B2cXY2TzZIUnRUWmx2QW8wVzZ5NkNKcUlOWmlZb2VPZTZGMjlqRmhteEg0UXl4R0l0Z2NIc0JSWTlyQXU4bzRn?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "52a52e63baf7"
+    },
+    {
+      "date": "2026-09-16",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$5b",
+      "title": "Kushner's Affinity Partners raises $5b amid diplomatic role in Middle East",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pJalRkSEVvWFp3ckVzaTNlQXRtd3FXaUZybWNNZENqaTZoeG95YUpaUUNkOTZPbTc0ODg1SndhVGpJeHNUNHhXYktjNUZjZkpoUUktQUo2QllwbTc2b0p6RG5acHBJaHk1aWFfOWZMNEVMRUVFWkF0U0hVTlVRS1hHMGVzbHF5V1ZNVzBJRjVNZGZQS2VWNjU5Nk9icGZ2eWd1T1pCREJpRGtZZDljWTVUTkFFVE1fV29aeVNKUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fc002727a256"
+    },
+    {
       "date": "2026-09-15",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -693,6 +717,18 @@
       "source": "Google News",
       "curated": false,
       "id": "34a6029ead1b"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield Launches Cash-Paid Affiliate Program to Drive Subscription Growth",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWNLelJRTjZtcXpPd21SLWV2STZjYXFyRjN4YmNqd1cwRm85MnB6UmhGdktnaThpdTdWV3kwdjc1OTBOeFo3dENHZjFqRG9Kd1BNclF1MnZCdUVpYlNZTk5NdWtmNFhwTDF0QjJseU80dGRtU0NiQndhNHVLallHTnV4QVZHVU9mMFJYdGJRbWNIOVZUVTEtbEdTbFFiYjNTelhNendxYjluWjlIcWNKT2dVWkZTZHMxQ1l2eGVPZ0w3Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a87347bd3640"
     },
     {
       "date": "2026-09-14",
@@ -1197,41 +1233,6 @@
       "source": "Google News",
       "curated": false,
       "id": "80582d91a0fc"
-    },
-    {
-      "date": "2026-09-06",
-      "company": "Runway",
-      "move": "News",
-      "detail": "",
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "source": "The Verge",
-      "curated": false,
-      "id": "2f1b31dad3b7"
-    },
-    {
-      "date": "2026-09-05",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Creality Unveils K3, Sparkx I8, M1 Filament Maker, Ender-3 V3 Mega, Halot-X1 Max, Halot-X1 Neo, Pika 3D Scanner, A1c and T1c Laser Systems, and Nexbie 3D-Printed Footwear Collection At Ifa 2026",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcllxdGRweFdnV0VweUZDMlA5NHU5TEhoWTdZN3NHbUxiQm9FU3pIQ2ltZkphUlNqZlR6WWc0VS1hd0tXcE14U2Y3T2JPOUQyUzVFVXhfbDNFMzJzN2RzcEd0N1VNcGtxOHRSWVZDaVZJUTdTMC1tSWRSbWt4YkVUVHZDUUpPRzRGLTFzWk1iSTBrcndRSVVhLTdYeWJ1ZjhKalRsTkkyTTlnMnRjTElpNWdIUGlEN2l4WUFpa0g0bnUtYkx2WEFSQkVpRGNuUndpUnQ4OVJrbVdZYzNIU0g1NA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2722311f8244"
-    },
-    {
-      "date": "2026-09-05",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Havells rolls out ElevenLabs-powered agentic AI voice feature in smartphone app",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOFBaWVVRSEtwdE5IaUJVXzU4V2dfZlpaRmx3RWk0N1A4LU9GblJIMDY3YUNqT21Yc29rM2R4S2ctVkZNTmNOSkFlQy16TThqQktzNTVqd0ZUU3MtQV9XQ2tVOVVpTk96QmhjMGVkU3JGR2V1bTNscnlrNUlQSG5jaVJKNzhyQVFkMFdmRE41MjVTVjN4LU0tb0t5UVhDeHJiQkVpQWJEc1hrN1pGakZHNmZuN0NMQjk5TWJ1ZmJGWnQtcmhLMzI0UlNKTm5fVVd4NTNuTDBHcHlRcHNaWWhLdjJXUUxHeUpkMUNGSnRUZ2cyXzNGcHfSAfsBQVVfeXFMTUJzSmxyOEFDWUROTDBOdVh2MEswLWhUcGZqVzJKMl9WTXlRWmtEcW1LTFk0akV4Zkc4Wmt4Vkkwa3VwTzU0N1hjVWRWUHNUYTR2TmQzTlBRVUZpblQtbEF4X0ZYUmhJeXkwSkxCYVY0QmY2Uk9HQUVwbHZ3S3k5blhMTFhnQmE1ei1aTHNVczFiTzRuZGhaTmEzeUEzTmctOXkyZmp4N0FOXzdWaHpubHFnQlpjZVlwXzFGaXBtTUVsSVVkUGdDSTM5dFVEZ1oxU3pmNmpGVHVlQzJWd2tFYW1mQUFmdzQ5NDV6MzNIZ1hsOTN0WVBSUEc0RFk?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "346f351195e7"
     }
   ],
   "items": [
@@ -1443,6 +1444,17 @@
       "published": "2026-09-15T07:45:08Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "fde2bf46a4d7",
+      "title": "How To Get Your Website Ready For AI Agents",
+      "url": "https://moz.com/blog/get-your-website-ready-for-ai-agents",
+      "source": "Moz Blog",
+      "summary": "AI agents are already browsing your site. Here is Crystal Carter's five-part framework for agent readiness, from llms.txt and MCP to choosing the right partners.",
+      "category": "GEO",
+      "published": "2026-09-15T07:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
     },
     {
       "id": "64a9cbd7ffd3",
@@ -3973,17 +3985,6 @@
       "published": "2026-08-31T10:00:27Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "dba6dcf9be7c",
-      "title": "How to use AI tools for competitor analysis in 2026",
-      "url": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/",
-      "source": "Semrush Blog",
-      "summary": "ChatGPT alone won‘t cut it. See how to use AI tools for competitor analysis the right way, with Semrush MCP and a step-by-step workflow.",
-      "category": "GEO",
-      "published": "2026-08-31T09:42:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
