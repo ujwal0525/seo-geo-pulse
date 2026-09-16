@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T20:13:06Z",
+  "updated": "2026-09-16T00:16:31Z",
   "count": 250,
   "sources": [
     "Andrea Volpini (WordLift)",
@@ -683,6 +683,18 @@
       "id": "dbb32b078cfd"
     },
     {
+      "date": "2026-09-15",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Rolls Out Music v2.5 Following UMG Licensing Pact",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDZOTmRFLWZsRmFkUnFWVGQwVzZRUU52bWVaNDJYLWtzZ0ltTjVMcmlBNC1XOE9WNUoxbW1jeEVBRk9sMVd3dGFQZHlRM2F5d0pXUFZ5RmhjMWdGNndNTE9Ubi15bzZqZUM5azlaNzNTUmROc3g2UkpKQm9KOXV4R0FpU2ZjTXNxNkhZR0JwOXFNNG9OSUJSUg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "34a6029ead1b"
+    },
+    {
       "date": "2026-09-14",
       "company": "Kling AI",
       "front": "GenAI Media",
@@ -753,6 +765,18 @@
       "source": "Google News",
       "curated": false,
       "id": "9a7793a2d72a"
+    },
+    {
+      "date": "2026-09-14",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "A new prescription for Cleveland families: Rx Kids launches a fresh approach to maternal and infant health",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1FCZHA5WWdRUGVUYXMzZzUySjVBQWVMOVdlcHJXczg0TW5iUEJ3MkFWSXllOXBScXRLMkhwOHgxaV9MTHFJR3d6S3BnWmtBcjh5U0pYYUZoY0xqWEZ4RlRTbUFjS2I3SVhtbE9JRV9tSFhSQnoxQlo5SzIwV2o3R0cxRy12a3EwZUpEQUJPTGFYZERSdVhmMGNMeXFwQWpiZFdKemNBbmUwQ2xuX2lFUy00bm1ULUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "65494677ab75"
     },
     {
       "date": "2026-09-13",
@@ -1007,6 +1031,18 @@
       "id": "fb430dd1e432"
     },
     {
+      "date": "2026-09-10",
+      "company": "Synthesia",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$100M · $4B",
+      "title": "Synthesia Revenue 2025: $100M ARR, $4B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43anBsWVc0RWNla2w5bk1ZRjR4NnZhcG5mejgyNU5VNE1Od0VnRG44T3ZFRFk0VFE2c3E1ME1BSXh5dUItdkJ4TVFGb1RFUjZ6WnNkVmNR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2809e55145f0"
+    },
+    {
       "date": "2026-09-09",
       "company": "Krea",
       "front": "GenAI Media",
@@ -1196,45 +1232,42 @@
       "source": "Google News",
       "curated": false,
       "id": "346f351195e7"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "Freepik",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Gregory Porter, Selah Sue, Lila-May, JOY: Monte-Carlo Jazz Festival unveils 20th Anniversary Program",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX2kyY1BLZkpzOC1EeHM4OEFQV3ZaU3RHdERmN083QXJZTDJTcWJwXzJRc1FaN0ZaS0drZ3lSZEZjOTVEZ05Nb3VQZExDZlZuUmxyQktXMXhJTFBuazdzQy10RllHQV9mU0thX0s1NVZnd2tEN2puQkRKUFVHN0tLQ2hMYmlBMWV0dmtraHVmTnhvVlhTMkZOaTV1UGNpQ29KT2xRR2pYNW9OOFNacHBaSVlUQ0dzMVdUZDFNaGhkU19wZ29veDl6akppclg0RzdPM01GVUoxZDVCNHg1dkJDSDE4SF9GeU1oMzVxeEVR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8237859dd679"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Flash Ikumkani Announces Upcoming Collaboration With Nomfundo Moh",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ1VhYm5GVmE3ajY5WjlMck1ieEQ3MmtwNUVjbnlKZDJlMXNLRTBkeEk1OGwxY0dlQThxY2hyYU1oSVRPZmNPVjZieHpGOWhlRkJnblRRNEJvRlVfTEFCNHpEM0pvRlZPZzlKLXJNTng3Tk5Fc19DNHNFTXhQLW5DT0hnNWs0XzV5alVXcFRIaXkxNnVwMHdWbUF4TmxEN0RObEE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "870698f810c2"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Havells partners with ElevenLabs for multilingual AI voice feature",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CcVYyV09XRDN3ck91ZUdCUEtyTlVFY3BPS2g0UXRVV2x5M0N0WHNIQnVtdGRUazNRZzlNY1J4Z1hZQWlVeTlxOFZXMTF1bDBKUlZEMnRPbTFuUDNMZU9weDFnaVk2S3VkUjJ6SFR5MlpjYXQwTGdUaDEycV_SAYIBQVVfeXFMTWVMckNMMEdwOTJoSm5uLXJMNUlGRkVodkVLVjZGMV94YjV4Zkt0Q0xtZ2NLV1l2Y1pzNkhqcGFtbWVjVU1QaTlGLWV1RTdPN3FJTjdDb2lqMDhIbTRnRzduV1Vud01pWExxdmVzQ0p1RkVWRUo0dGRIRDlPVGQwaTBkdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "33aa4509e8a3"
     }
   ],
   "items": [
+    {
+      "id": "b2db10da9446",
+      "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
+      "source": "Search Engine Journal",
+      "summary": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track. The post Google Adds New Ad Experience Metrics To CrUX Report appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-15T21:46:09Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "eac4e93e529a",
+      "title": "Impact of Parametric Memory and Grounding on Ordinal Positioning of Brands in Generative Responses",
+      "url": "https://dejan.ai/blog/llm-rank-formula/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Mathematical formulas for evaluating entity association, semantic embedding similarity, ordinal rank positioning, and generation performance in AI models.",
+      "category": "GEO",
+      "published": "2026-09-15T21:39:13Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "1d4fb5ad7f3e",
+      "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
+      "source": "Search Engine Journal",
+      "summary": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending. The post Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-15T21:29:41Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "586bb82ad566",
       "title": "Foundation Is Now a Verified Profound Partner",
@@ -1267,17 +1300,6 @@
       "published": "2026-09-15T17:58:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "826a8b8b9375",
-      "title": "Google Chrome User Experience Report (CrUX) With Ad Metrics",
-      "url": "https://www.seroundtable.com/google-ad-metrics-crux-42093.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced new ad metrics that are being tested within the Chrome User Experience Report (CrUX). These metrics include Ad Count, Ad Density, Ad Weight (Network) and Ad Weight (CPU).",
-      "category": "SEO",
-      "published": "2026-09-15T16:49:00Z",
-      "coverage": 1,
-      "impact": 5.0
     },
     {
       "id": "b8737006db17",
@@ -3962,28 +3984,6 @@
       "published": "2026-08-31T09:42:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "81379665a7be",
-      "title": "18 SEO KPIs to measure organic & AI search performance",
-      "url": "https://www.semrush.com/blog/seo-kpis/",
-      "source": "Semrush Blog",
-      "summary": "Relevant SEO KPIs to track include AI visibility, keyword rankings, organic traffic, and brand mentions.",
-      "category": "GEO",
-      "published": "2026-08-31T09:23:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e5467b12c8bf",
-      "title": "What makes a good listicle?",
-      "url": "https://www.growth-memo.com/p/what-makes-a-good-listicle",
-      "source": "Growth Memo",
-      "summary": "Author bios, schema markup, word count: all noise . Only freshness predicted top-three rankings.",
-      "category": "SEO",
-      "published": "2026-08-31T09:10:43Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
