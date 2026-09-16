@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T16:13:27Z",
+  "updated": "2026-09-16T20:13:10Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1239,6 +1239,28 @@
   ],
   "items": [
     {
+      "id": "1f457306069e",
+      "title": "Why Reddit Still Matters For Marketers In 2027",
+      "url": "https://foundationinc.co/lab/reddit-still-matters/",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "The hot take of the quarter: Reddit’s marketing moment is over. ChatGPT citations for Reddit are down, the studies are stacking up, and board rooms are asking whether the channel deserves the budget it got in 2026. I’ve had this conversation a dozen times in the last few weeks…",
+      "category": "GEO",
+      "published": "2026-09-16T19:16:14Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "0f32bf02b1fa",
+      "title": "It Was There A Minute Ago via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/",
+      "source": "Search Engine Journal",
+      "summary": "A model can know the right answer and still defer to a wrong tool result. What does that mean for your visibility report? The post It Was There A Minute Ago appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-16T19:00:44Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "43c1215526d7",
       "title": "AI Overviews Cut CTR by 23.1% in France",
       "url": "https://ahrefs.com/blog/ai-overviews-france-impact/",
@@ -1404,6 +1426,17 @@
       "impact": 5.0
     },
     {
+      "id": "5f7e182a53f2",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "category": "GEO",
+      "published": "2026-09-16T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "f513b1d1640a",
       "title": "Google Image Search Collections Save To Suggested By Al",
       "url": "https://www.seroundtable.com/google-images-suggested-by-al-42096.html",
@@ -1492,6 +1525,17 @@
       "impact": 3.0
     },
     {
+      "id": "71646fffd914",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "category": "SEO",
+      "published": "2026-09-16T09:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "31dee7785592",
       "title": "New asset: the AI Automation Work Router",
       "url": "https://www.growth-memo.com/p/new-asset-the-ai-automation-work",
@@ -1501,6 +1545,17 @@
       "published": "2026-09-16T08:51:50Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "ba69ae98983c",
+      "title": "Search Central Live Deep Dive Europe 2026: Meet the community speakers",
+      "url": "https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers",
+      "source": "Google Search Central",
+      "summary": "It's happening! We are absolutely pumped that we're just about two weeks away from Search Central Live Deep Dive Europe 2026! From September 30 to October 2, 2026, the Google Search Central team is heading to the gorgeous city of Barcelona, Spain for three days of deep technical…",
+      "category": "SEO",
+      "published": "2026-09-16T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "b2db10da9446",
@@ -3780,6 +3835,17 @@
       "impact": 4.0
     },
     {
+      "id": "0746342f8270",
+      "title": "The August 2026 SEO Update by Yoast recap",
+      "url": "https://yoast.com/the-august-2026-seo-update-by-yoast-recap/",
+      "source": "Yoast",
+      "summary": "Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google’s new tools for publishers, the impact of AI on search visibility, and how to adapt to the evolving digital landscape. Watch the full…",
+      "category": "SEO",
+      "published": "2026-09-02T10:00:15Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
       "id": "c2071c4b7b73",
       "title": "Create an AI Brand Visibility Report [+ Template]",
       "url": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
@@ -3921,72 +3987,6 @@
       "published": "2026-09-01T11:41:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "4cfb4781ab09",
-      "title": "Google Ads Performance Max Help Docs Updated",
-      "url": "https://www.seroundtable.com/google-ads-pmax-help-doc-updated-41982.html",
-      "source": "Search Engine Roundtable",
-      "summary": "On Friday, Google pushed out a pretty big overhaul of the Performance Max documentation within the Google Ads support area. I've been waiting to compare the old and new documents, but the Wayback Machine has been down for about a week now.",
-      "category": "SEO",
-      "published": "2026-09-01T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "013b67626430",
-      "title": "Google: Verifying Your Request To Continue To Search Results",
-      "url": "https://www.seroundtable.com/google-search-verifying-your-request-continue-41985.html",
-      "source": "Search Engine Roundtable",
-      "summary": "In early August, Google was testing requiring searchers to sign in to verify they are humans to continue to see search results. Now, Google is testing a similar feature without requiring you to sign in, but instead, Google is asking you to click a \"Continue\" button after a few…",
-      "category": "SEO",
-      "published": "2026-09-01T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8febf36a1d2c",
-      "title": "Google Ads AI Max Keyword Prioritization For Exact Match",
-      "url": "https://www.seroundtable.com/google-ads-ai-max-keyword-prioritization-41988.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads added a new paragraph to the AI Max help documentation for AI Max keyword prioritization.\" It explains that when \"disabling the broad match campaign setting or moving to AI Max, broad keywords are not treated as exact match keywords in prioritization.\" It then tells…",
-      "category": "SEO",
-      "published": "2026-09-01T11:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2bc608ee36bc",
-      "title": "September 2026 Google Webmaster Report",
-      "url": "https://www.seroundtable.com/sept-2026-google-webmaster-report-41979.html",
-      "source": "Search Engine Roundtable",
-      "summary": "It is time for the monthly Google webmaster report, where I recap the larger stories from the past month, specifically related to Google SEO, search, and webmaster/site owner topics...",
-      "category": "SEO",
-      "published": "2026-09-01T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4ae9e974ea3d",
-      "title": "Google Discover Not Loading Or Loading Slowly",
-      "url": "https://www.seroundtable.com/google-discover-broken-41991.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Discover has been having issues for the past hour or so. Some are reporting that Discover won't load articles, some are reporting that Discover is loading but only after a long waiting period. It seems Google Discover is having stability issues this morning.",
-      "category": "SEO",
-      "published": "2026-09-01T11:04:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a24b93cc3e9f",
-      "title": "What’s new in Yoast SEO 28.4: find, fix, and generate at scale",
-      "url": "https://yoast.com/yoast-seo-sept-1-2026/",
-      "source": "Yoast",
-      "summary": "The Yoast SEO Bulk Editor already helps you update titles, meta descriptions, and focus keyphrases across your whole site, filter by content type, and let Yoast AI draft metadata you approve before it saves. This update builds on that: it’s now easier to spot exactly which posts…",
-      "category": "SEO",
-      "published": "2026-09-01T08:53:20Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
