@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:12:56Z",
+  "updated": "2026-09-16T08:13:36Z",
   "count": 250,
   "sources": [
     "Andrea Volpini (WordLift)",
@@ -537,6 +537,30 @@
       "source": "Google News",
       "curated": false,
       "id": "fc002727a256"
+    },
+    {
+      "date": "2026-09-16",
+      "company": "Krea",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "IFMR GSB and SIAS Krea University 2027 Fee Structure Released: Check MBA, BA, BSc Fees Here",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3pGQ253UHg1R0IyMGtyQkdpaGZWUVZkbThybmtpZFVoUUwwOWg0OVpUMjFDZDI2T1lSU2FidkdqSGtUUGNNcUZJX3kxeVhyNXZhZXRYRHNvRlVGUG9ucWZzbDdINm9icjh3YjFTaHZUMzBLdDRSeGdTWVVNd1FRV3E4N01UVWQtWHFidXpvSzBYanRoU19pbktJcDBQdHZFcG9RX0ln?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5c8895df79d7"
+    },
+    {
+      "date": "2026-09-16",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Universal Music Group and ElevenLabs Enter Multi-Year AI Music Partnership",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3RqbUVFSGtnSF9fcHEyc0huOXlaYlhDcWpSYzNZUnA5Z1FGVlRrbDk2YjdDSzdnWHJPSTQ4N3hqVzFDY2JVS0syVEI0dGRScTlPblpfcEctbklyWU1LNTBfUVRCMTZFd0RUTFlCWV9xamxEWnlaSVk3MDlqTnlqOHJTWmRpbFJvX0xEd1VPa2xxTS1jeUJFcTJfa19LNV9fejI5OW1CMnFWQTFPY3Azbw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f22499369ebc"
     },
     {
       "date": "2026-09-15",
@@ -1209,30 +1233,6 @@
       "source": "Google News",
       "curated": false,
       "id": "2363c326a450"
-    },
-    {
-      "date": "2026-09-07",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$3M",
-      "title": "Upstream Raises $3M For AI-Native Inbox For Agents.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWJOX2lfRVRlNThBYXAyVVZtOWVrNlN4WXpuUjBncmlGVkd0OHVPU0tXdy1tNVAtdVozTDVsRlZieEFLa3JMbWJHc1ZVbzRnVGFRVExBUWVIblhMQkgwM0Y1eWxjZFMtODhwdERqOURTd2JScUZieDRVbUVvdkdOQzhuRzhKb0RuMEhQTTZUcWQtX0ZGdjFDTlhpU2syTEJfVnJvYWdNNGNMbzlFcmJF?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f7fa97f689bf"
-    },
-    {
-      "date": "2026-09-07",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "$12.9B",
-      "title": "Nvidia Acquires HuggingFace for $12.9B: What It Means for Open-Source AI - News and Statistics",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbU5YZHd1SlR3ckVOT3ppb01EclVsd25ROEpkWjh6UUxkOUlvbzdENDRuVHZYTS1iU3Q1cElMQW1vNnpmUHd4eXZGOU42OUd4WVhOZTREY252djlIdnFnQUljNG9uWjhNdFJ0eTN0YlNJNlFzckVOTUhvNVFuSlpsN09nTFQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "80582d91a0fc"
     }
   ],
   "items": [
