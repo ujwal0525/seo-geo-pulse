@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:13:10Z",
+  "updated": "2026-09-17T00:16:14Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1239,6 +1239,39 @@
   ],
   "items": [
     {
+      "id": "b395bf31a6fd",
+      "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/",
+      "source": "Search Engine Journal",
+      "summary": "Google published guidance for adding a Search profile badge as Search becomes a destination for following creators and publisher. The post Google Search Profile Badges Expose The Publisher Traffic Crisis appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-16T23:07:48Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "bd6decf940d6",
+      "title": "Google's Approach to Recursive Self-Improvement",
+      "url": "https://dejan.ai/blog/rsi/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Dream-RSI optimizes AI agent search strategies offline by replaying past discovery trees as exact simulators, reducing execution costs across discovery tasks.",
+      "category": "SEO",
+      "published": "2026-09-16T23:01:28Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "6ce386809900",
+      "title": "Google UCP Update Lets Merchants Enable Cart Transfer To Site via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/",
+      "source": "Search Engine Journal",
+      "summary": "Google is rolling out cart transfer and checkout testing in the Merchant Center UCP hub, plus a YouTube ads beta and wider AI insights. The post Google UCP Update Lets Merchants Enable Cart Transfer To Site appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-16T20:35:52Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "1f457306069e",
       "title": "Why Reddit Still Matters For Marketers In 2027",
       "url": "https://foundationinc.co/lab/reddit-still-matters/",
@@ -1259,6 +1292,28 @@
       "published": "2026-09-16T19:00:44Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "e259ed82431d",
+      "title": "Google Search Profile Badge - How To Add It To Your Site",
+      "url": "https://www.seroundtable.com/google-search-profile-badge-42106.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google left one thing out of the announcement around the new Search profiles features announced today, you can now add a Search profile badge to your website. This allows users/searchers to follow you directly from your website.",
+      "category": "SEO",
+      "published": "2026-09-16T18:59:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "bbe6c30a33c9",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "category": "SEO",
+      "published": "2026-09-16T17:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "43c1215526d7",
@@ -3932,61 +3987,6 @@
       "published": "2026-09-01T13:00:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "1533b4b8d5bc",
-      "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/",
-      "source": "Search Engine Journal",
-      "summary": "WordPress announced an initiative to scale security as AI makes it easier for criminal to find and exploit vulnerabilities. The post WordPress Announces A Proactive Security Initiative appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-01T12:10:20Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "16adc2c553db",
-      "title": "Schema For AI Citations: How To Become A Trusted Source via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/",
-      "source": "Search Engine Journal",
-      "summary": "Schema is not a magic ranking switch. Loren Baker explains how consistent structured data strengthens entity trust across local, ecommerce, and author-driven content. The post Schema For AI Citations: How To Become A Trusted Source appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-01T12:00:02Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "50e05f9b472e",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "category": "GEO",
-      "published": "2026-09-01T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "53a36ede0d2d",
-      "title": "Global: Google Search Console AI Performance Report & AI Control",
-      "url": "https://www.seroundtable.com/google-search-console-generative-ai-tools-live-41984.html",
-      "source": "Search Engine Roundtable",
-      "summary": "For real this time, Google has released the Google Search Console generative AI performance reports and Search generative AI controls to everyone globally. This follows a slow rollout that began in the first week of June and expanded access to the features over the past few…",
-      "category": "SEO",
-      "published": "2026-09-01T11:51:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ac72322fa5b5",
-      "title": "Google Ads AI-Generated From The Store Rating Reviews Label",
-      "url": "https://www.seroundtable.com/google-ads-ai-generated-store-rating-reviews-41983.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has been testing AI-generated snippets and summaries in the sponsored results within Google Search for some time. But now Google is labeling a new section named \"What customers love\" as \"AI-generated from the store rating reviews.\"",
-      "category": "GEO",
-      "published": "2026-09-01T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
