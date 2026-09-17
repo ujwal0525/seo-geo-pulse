@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T08:14:04Z",
+  "updated": "2026-09-17T12:16:10Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -516,6 +516,18 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-17",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity Pathfinder Launches New Website for Somatic Coaching, Community, and Embodied Growth",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalN1NjYzaTlsQjNvTWp5MnlVSFFHYllxRDlYYlNzazRfYlpubERJRVlPZ2lPWG5nNy1zRWtxcjQ2R0FnWGkxMnNORHJIX3lKY1J0VmhYaTB6VWQ1X01LeHBNZXdZX24weW5TWWN3QXZLOE1EQjhnZDQwT1hvZ0hETWluNzlZQmhQZEFiUXVhM1J0MXhlMkRDZnhYb3E2Y05PYTA3REJCczF1c2RuODJ0ZG5iMVJnRHA4ZGtaSnl3TE5rLWg3UFpMRzJFbjQyZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "96bde79611f1"
+    },
     {
       "date": "2026-09-16",
       "company": "Affinity",
@@ -1223,21 +1235,20 @@
       "source": "Google News",
       "curated": false,
       "id": "9cf40032c368"
-    },
-    {
-      "date": "2026-09-07",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Wizz Air Launches Five New European Routes From Israel",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYUtmeHEtVE00cFpnNlQ1MDNkbHFjZlpYdGNZNER5aklBWjdtSEt1cjNyWFNmdm1Mb09KSmoxUmdSb250TmNTZlowSVJUc19ValJxS29tQW5OVE53VFJQb1NzMkViRkZweVBLTjMxUkZGTU5wYmJhX2Y2VzNUSmFuMUxaMGQxR09XU0RiMXRPZU9qWDh0T0VLYXFmOEhwQ0twQ0VSSDhZV3ptcVdNaXhyYWdXT0hybVpzbUs4LWZIMV9hY2tjZmYzWmsxVnRUOWJGNnVZOXVKbnFrbFkybTVVNEt5UV9IUFRWVTRMTDZycw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2363c326a450"
     }
   ],
   "items": [
+    {
+      "id": "2306d6a67fcc",
+      "title": "3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/",
+      "source": "Search Engine Journal",
+      "summary": "The surface that ranks and the surface that earns are decoupling. Three predictions for Google in 2027, plus one about whether you'll know. The post 3 Predictions For 2027, And Why You Won’t Be Able To Check Them appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-17T12:00:01Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "b395bf31a6fd",
       "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster",
@@ -1369,6 +1380,17 @@
       "published": "2026-09-16T16:00:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "173d5f90f113",
+      "title": "GEO by Engine: How ChatGPT, Claude, Gemini, and Perplexity Really Decide What to Say",
+      "url": "https://neilpatel.com/blog/geo-by-engine/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways You already know what GEO is. You’ve read the definitions, sat through the LLMO comparisons, and seen the “AI search is changing everything” takes. What’s still missing from most of that content is GEO by platform: the actual, mechanical differences in how ChatGPT…",
+      "category": "GEO",
+      "published": "2026-09-16T16:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
     },
     {
       "id": "262b7387d033",
@@ -3963,28 +3985,6 @@
       "summary": "Getting cited in AI responses is the easy part. Our audit of 50 major websites shows where real AI readiness begins. The post The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-01T19:00:47Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2b13c86d7a82",
-      "title": "Google Details Who Can License Its Search Data In Europe via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/",
-      "source": "Search Engine Journal",
-      "summary": "Google published eligibility rules, samples, and key dates for licensing ranking, query, click, and view data from EEA Search under the EU's Digital Markets Act. The post Google Details Who Can License Its Search Data In Europe appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-01T17:20:25Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3b5f2688fec1",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "category": "SEO",
-      "published": "2026-09-01T17:00:00Z",
       "coverage": 1,
       "impact": 5.0
     }
