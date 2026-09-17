@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T12:16:10Z",
+  "updated": "2026-09-17T16:20:11Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1238,6 +1238,50 @@
     }
   ],
   "items": [
+    {
+      "id": "dd47a742afa0",
+      "title": "Reddit AI Search Picks Already-Popular Comments, Audit Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/reddit-ai-search-picks-already-popular-comments-audit-finds/589771/",
+      "source": "Search Engine Journal",
+      "summary": "An audit of Reddit AI search found formal, highly upvoted comments were selected more often, while experiential language appeared less often. The post Reddit AI Search Picks Already-Popular Comments, Audit Finds appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-17T15:44:51Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "4f087a5f563e",
+      "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO via @sejournal, @rollerblader",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/",
+      "source": "Search Engine Journal",
+      "summary": "Product page copy builds shopper trust and fills gaps in AI feeds, giving customers the details they need to buy. The post Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-17T14:30:32Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "08c51d2b5e3b",
+      "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
+      "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
+      "source": "Semrush Blog",
+      "summary": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one.",
+      "category": "SEO",
+      "published": "2026-09-17T13:34:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "f70b7d6c861e",
+      "title": "A prompting guide for AI website builders",
+      "url": "https://yoast.com/prompting-guide-ai-website-builders/",
+      "source": "Yoast",
+      "summary": "AI website builders make it possible to go from a blank screen to a live website in minutes. Which is a great option if you want to get your website live, but don’t have the technical skills to get this done yourself. But there’s a catch most people run into: type in a vague…",
+      "category": "GEO",
+      "published": "2026-09-17T12:51:25Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "2306d6a67fcc",
       "title": "3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester",
@@ -3943,50 +3987,6 @@
       "published": "2026-09-02T09:33:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "7e105043e258",
-      "title": "How to prepare your site for AI agents",
-      "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/",
-      "source": "Semrush Blog",
-      "summary": "AI agents browse, compare, and recommend on behalf of users. Learn how to make your site crawlable, readable, trustworthy, and easy to cite in AI-driven decision workflows.",
-      "category": "SEO",
-      "published": "2026-09-02T09:18:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "9bce1d03aa35",
-      "title": "3 Steps That Turn AI Into Leverage, Not Extra Labour",
-      "url": "https://foundationinc.co/lab/ai-leverage-three-steps",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Hey folks, Enzo here. I’m the AI Service Delivery Lead at Foundation. It’s a long title that boils down to my unofficial titles of “robot guy” or “Claude whisperer”. I speak with you today because Ross asked me to “write a piece about AI and how you’re seeing it impact the…",
-      "category": "GEO",
-      "published": "2026-09-02T07:03:41Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "185fafb3a964",
-      "title": "Google Working On Fixing Local Service Ads Bug",
-      "url": "https://www.seroundtable.com/google-local-service-ads-bug-41999.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is working on fixing a bug with Local Service Ads where it seems Local Service Ads are being unlinked from the associated Google Business Profiles. There are also complaints of instability and slowness on the Local Service Ads platform.",
-      "category": "SEO",
-      "published": "2026-09-01T19:17:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "442b589528a9",
-      "title": "The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing",
-      "url": "https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/",
-      "source": "Search Engine Journal",
-      "summary": "Getting cited in AI responses is the easy part. Our audit of 50 major websites shows where real AI readiness begins. The post The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-01T19:00:47Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
