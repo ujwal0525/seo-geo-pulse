@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T16:20:11Z",
+  "updated": "2026-09-17T20:13:06Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -19,7 +19,8 @@
     "Search Engine Roundtable",
     "Semrush Blog",
     "Yoast",
-    "Zyppy Signal"
+    "Zyppy Signal",
+    "iPullRank (Rank Report)"
   ],
   "milestones": [
     {
@@ -529,6 +530,30 @@
       "id": "96bde79611f1"
     },
     {
+      "date": "2026-09-17",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield Launches Unified Generative AI API With Usage-Based Pricing",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzdsbnF6dUJINjhScUZIaHN0LWo2VFA1Mm1Va0RFdUk5RE1lZFNiVTFhZzNOYkNLX1lEWW5xV2NoSWx0MktNTHh6Qk9IY2hObGNpQ2dhZlZGMmx2ZzEwTnIzOFRzWXhUOWJUVjFjeUw5M3hUOTVDZGhNQ2NtVUI3TWR6WkFQU3hkYWVEMVRrOFdtUVdCWW9kU09KeU1pUEhaRHhTdXVHQnBkamoxWkVON2N3M0NZTGhWcnc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fec3d5fddaa0"
+    },
+    {
+      "date": "2026-09-17",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$500M",
+      "title": "ElevenLabs in talks to raise over $500M in new funding round",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BVVl3UWU4RmprTWJKZFBxOHphWmdmTnRFaGQ2TklsTEJNS09oQlhKdTZQMW5sbXV2Qnp3dkhoTWJ2a2xVdlktUzh3UGhkSUhSNFMwRGROUnQ2TFpSbkNxQk43V09vUzZxajg1SjJvSkw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8e053572548b"
+    },
+    {
       "date": "2026-09-16",
       "company": "Affinity",
       "front": "Creative",
@@ -767,6 +792,18 @@
       "source": "Google News",
       "curated": false,
       "id": "a87347bd3640"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "DocuSign, Inc. (DOCU) Latest Press Releases & Corporate News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqRnUtTWlvcmlOcDhaUnQySXlUV3RKZEhzLVFxOEZoaG5IU3Z1SjZLbDdXSE5wZmNSOS0wSXN4VElBTWxZOXRBdV9JMDF5YVhZRnprcjFlajF1Y3lmUjBmVDFB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "19c5ce8722ea"
     },
     {
       "date": "2026-09-14",
@@ -1199,45 +1236,42 @@
       "source": "Google News",
       "curated": false,
       "id": "89cd37cd3d1a"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Canva launches first-ever gaming integration with Ads by Livewire | exclusive",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEpZbTE4V0NsUVZWaGx5bkI1ZjJ5ZWxRcHNSbTFIcVBVaXZ0eHlMUjBybFpBY2JmeGc4VV9hZko3eURmaEtUaHk4UmxJWWFqbFAyY1VPbV96eW1oMHYwdHZybG9EUHo0Qk05bURGVXMzakR1X2tabWNQVG9oLVlHWkQwTUpjT3E3YkdLYWtKRWowMFY5emdQRnpMSHFwUGc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c29dfc006a6a"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "'Heated Rivalry' Star Connor Storrie Debuts a Buzz Cut at the Emmys with His Mom by His Side",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YcG5oU3hwZElqekZvc2tud0VvVFNSbzJIYkdwakVNa1JpNzd3eTNaRXJEOXAySEVFVFV6MWNhR3JsSFJ4V2h0aERsaGs0MmU1STFtel9JZ2xrYWcwbmZaUjNpMjFhQmZJNGdScHFjVWVUaXREejA3SA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9d38387d3aea"
-    },
-    {
-      "date": "2026-09-07",
-      "company": "Freepik",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Injini launches incubator programme for African AI edtech founders",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWIxVnJMOEtfYlJqc1RnMlR0TEhLbjg3MElvMUI5eTlEVXQ3UDN3OG1RUG92S0pJb0RrS0U2a0U0NUFlUGFlU1I0ZEtoeEVfOVY0cHVlSHVMZWRQVHlhTHMyWm1Vc2kzVGdJek1rXzNLUFpDNFQzaVZtOVpSeUlubDZQY3dvMjgySlJlMjl5MURCMS1LLTAza3h0NGNXWllUTmNTdFpEU2hrZzZyQVlnZA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9cf40032c368"
     }
   ],
   "items": [
+    {
+      "id": "7bea3f4be21b",
+      "title": "There Is No “Accuracy” in AI Search Tracking – Only Precision",
+      "url": "https://ipullrank.com/accuracy-vs-precision",
+      "source": "iPullRank (Rank Report)",
+      "summary": "I get some version of the same question every week now. A client has two AI visibility platforms running side by side. One says they show up in 41% of the prompts that matter to them. The other says 23%. Somebody on the marketing team has to put a number in a board deck, and […]…",
+      "category": "GEO",
+      "published": "2026-09-17T19:20:56Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "03fcb916f694",
+      "title": "I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/",
+      "source": "Search Engine Journal",
+      "summary": "GPTBot, ClaudeBot, and Googlebot won't pay your price yet. Charge now and you lose citations. Here's what to decide before the dashboard toggle arrives. The post I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It appeared first on Search Engine…",
+      "category": "GEO",
+      "published": "2026-09-17T19:00:29Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "9b19416a4af4",
+      "title": "AI Citation Test Finds Source Order Matters Less Than It Looks via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/",
+      "source": "Search Engine Journal",
+      "summary": "A controlled AI citation test found source order mattered less than raw data suggested, while structured rewrites shifted how citation credit was distributed. The post AI Citation Test Finds Source Order Matters Less Than It Looks appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-17T17:02:58Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "dd47a742afa0",
       "title": "Reddit AI Search Picks Already-Popular Comments, Audit Finds via @sejournal, @MattGSouthern",
@@ -3954,39 +3988,6 @@
       "published": "2026-09-02T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "ec1f2992b4a1",
-      "title": "Google Analytics September 1 Data Missing",
-      "url": "https://www.seroundtable.com/google-analytics-broken-42002.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Analytics seems to have another bug, this time with data missing from the main charts. September 1, 2026 data is showing zero traffic to websites; I believe this is across every Google Analytics install.",
-      "category": "SEO",
-      "published": "2026-09-02T10:13:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0746342f8270",
-      "title": "The August 2026 SEO Update by Yoast recap",
-      "url": "https://yoast.com/the-august-2026-seo-update-by-yoast-recap/",
-      "source": "Yoast",
-      "summary": "Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google’s new tools for publishers, the impact of AI on search visibility, and how to adapt to the evolving digital landscape. Watch the full…",
-      "category": "SEO",
-      "published": "2026-09-02T10:00:15Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "c2071c4b7b73",
-      "title": "Create an AI Brand Visibility Report [+ Template]",
-      "url": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
-      "source": "Semrush Blog",
-      "summary": "Pair AI share of voice, citations, and sentiment with GA4 conversions in one report leadership can act on. Free template and Semrush steps included.",
-      "category": "GEO",
-      "published": "2026-09-02T09:33:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
