@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T00:16:14Z",
+  "updated": "2026-09-17T04:13:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1600,6 +1600,17 @@
       "published": "2026-09-16T08:51:50Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "1b14f1b8744e",
+      "title": "Convince Your Boss to Send You to MozCon 2026 [Plus Bonus Letter Template]",
+      "url": "https://moz.com/blog/convince-boss-to-send-you-to-mozcon",
+      "source": "Moz Blog",
+      "summary": "Struggling to convince your boss to send you to MozCon? Use these proven templates to make a confident, ROI-focused pitch that secures your spot.",
+      "category": "SEO",
+      "published": "2026-09-16T07:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "ba69ae98983c",
@@ -3976,17 +3987,6 @@
       "published": "2026-09-01T17:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "309be27bdcfe",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "category": "GEO",
-      "published": "2026-09-01T13:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
