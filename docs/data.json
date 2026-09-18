@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T04:12:48Z",
+  "updated": "2026-09-18T08:13:21Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -528,6 +528,18 @@
       "source": "Google News",
       "curated": false,
       "id": "9d849c85ad2e"
+    },
+    {
+      "date": "2026-09-18",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Introducing Enhance Frame Rate",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCOFcwOHBLU3FBY1ltVG53LUhobndhQ1hmV3ZhSVNWalBPZmI2MERud1l2YXdUVHM3UGxkaEpicXZKUTdOYjR0WVc1eDNmREJSQW5fRkxOeVlPeXl3ZTNfT1lEdVZGc2VqLXlhbUdkc1lXc2UyRlE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "25c2e19b96c1"
     },
     {
       "date": "2026-09-17",
@@ -1224,18 +1236,6 @@
       "source": "Google News",
       "curated": false,
       "id": "9c6b4431f0a0"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway News | Introducing Runway for Premiere Pro & After Effects",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSVJaNXlrRjJVeVQ3Z2lqcWg1QlV6RG1Vc25DYkl4S21NZkxDa0JrNlVaNmVkNkV2d2Z0WUZtaElqUkg0ODlxMm9QbHNxRWs4cENlV0F5TldzZ1E5RFJ0M1VDOA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "613c991ea7af"
     }
   ],
   "items": [
