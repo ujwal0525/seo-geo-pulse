@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T00:16:48Z",
+  "updated": "2026-09-18T04:12:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -517,6 +517,18 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-18",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Video Generation Media Platform Higgsfield Launches Unified API for Over 50 Models, Pay-Per-Use Pricing Without Subscription Binding",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuNlN4VVFkWldJTS1nbWdNYWQwaUZ5V1Awdy1sTXNDT1FHaWJKRWthcHkxY3JMeVpsYWY1bDNVUVhDUHc1dkU2SGp6XzUtdFJ2TUtvVFAwcWZWeUwtd1FpYmtVejhlUkM1Z2hIU2x3d2pJVXBP?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9d849c85ad2e"
+    },
     {
       "date": "2026-09-17",
       "company": "Affinity",
@@ -1224,18 +1236,6 @@
       "source": "Google News",
       "curated": false,
       "id": "613c991ea7af"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Higgsfield launches Games 2.0 on GPT-6 Astra, one prompt builds a game",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ09LRkVWa1hRMUZJVW81VG1NUlhZM3VCdUNKOEtQUHpPZ2Vpb092RS1Zek5tc21fYUNEX2RnWDBZc2RkVzJTVG5uSkhmVklIaXh0M1VDdl96bVR4eXlWaGRVN2djU1lYLTBybHdpSnlDYkMyYmdQV1N2Q2N3VjZqQTVYSQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "408069660380"
     }
   ],
   "items": [
@@ -1328,6 +1328,17 @@
       "impact": 4.0
     },
     {
+      "id": "310996194cb0",
+      "title": "Daily Search Forum Recap: September 17, 2026",
+      "url": "https://www.seroundtable.com/recap-09-17-2026-42108.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-09-17T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "08c51d2b5e3b",
       "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
       "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
@@ -1370,6 +1381,61 @@
       "published": "2026-09-17T12:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "62fc770468ad",
+      "title": "What Ever Happened To Google Discover On Desktop",
+      "url": "https://www.seroundtable.com/google-discover-on-desktop-not-found-42103.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Last year, Google began to roll out Google Discover on the desktop interface of Google.com. But now, for the past several months, Discover on desktop is not been found. Google tested Discover on Desktop in 2023 and then, in 2025, said it was coming; it even started to roll it…",
+      "category": "SEO",
+      "published": "2026-09-17T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "67d5c179bb14",
+      "title": "Google Ad Tech Monopoly Remedies: Behavioral Changes With Oversight",
+      "url": "https://www.seroundtable.com/google-ad-tech-monopoly-remedies-42107.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Earlier this month, we learned a judge ruled that Google won't be broken up over its monopoly ruling in its ad tech case. And now we have the full memo with the judge's proposed remedies, including Google making behavioral changes.",
+      "category": "SEO",
+      "published": "2026-09-17T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "40ae06ee6058",
+      "title": "Google Local Knowledge Panel As An AI Overview",
+      "url": "https://www.seroundtable.com/google-local-knowledge-panel-ai-overview-42105.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is turning the local knowledge panels, your Google Business Profile, into an AI Overview listing. At the top of the local listing it says \"AI Overview\" and then there is a \"Show more\" button to expand, which brings you into the follow up AI Mode style chat interface.",
+      "category": "GEO",
+      "published": "2026-09-17T11:31:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "17eee578479c",
+      "title": "Bing Product Carousels With Top Picks, Sale, Price Drop, Views & More Labels",
+      "url": "https://www.seroundtable.com/bing-product-carousel-labels-42092.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is testing adding new labels to the Bing Search product carousels. Labels include Top Picks, Price Drop, Sale and likely other labels on the Bing Search product listings, within the carousels.",
+      "category": "SEO",
+      "published": "2026-09-17T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "db7a2ebaa76b",
+      "title": "Google Sponsored Places That Expand On Hover",
+      "url": "https://www.seroundtable.com/expandable-google-sponsored-places-42081.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing the Sponsored Places ads that expand when you hover over the ads within Google Search. Google has been testing expandable ads on hover for a while, but here is one with the Sponsored Places ads.",
+      "category": "SEO",
+      "published": "2026-09-17T11:11:00Z",
+      "coverage": 1,
+      "impact": 3.0
     },
     {
       "id": "363bbead77de",
@@ -1568,17 +1634,6 @@
       "published": "2026-09-16T14:04:23Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "7cd9026d5421",
-      "title": "Daily Search Forum Recap: September 16, 2026",
-      "url": "https://www.seroundtable.com/recap-09-16-2026-42100.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google said Search Console position reporting may change as Search, AI Mode, AI Overviews...",
-      "category": "GEO",
-      "published": "2026-09-16T14:00:00Z",
-      "coverage": 1,
-      "impact": 8.0
     },
     {
       "id": "d5ac559e8c04",
@@ -1786,8 +1841,8 @@
       "summary": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track. The post Google Adds New Ad Experience Metrics To CrUX Report appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-15T21:46:09Z",
-      "coverage": 2,
-      "impact": 6.0
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "eac4e93e529a",
@@ -3933,61 +3988,6 @@
       "published": "2026-09-02T13:46:42Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "78e70b0263d6",
-      "title": "Google Trends Explore Page Adds Category Filtering",
-      "url": "https://www.seroundtable.com/google-trends-filter-category-42007.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Trends now lets you filter your results by category, either with or without a query. This can give you a more refined view of the trends for a specific query or zoom you out more on category level trends within Google Search.",
-      "category": "SEO",
-      "published": "2026-09-02T13:38:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "454ee9ca67c0",
-      "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/",
-      "source": "Search Engine Journal",
-      "summary": "YouTube's Todd Beaupré says the desktop homepage redesign with larger thumbnails drove more long-form engagement despite showing fewer videos at once. The post YouTube Says Bigger Thumbnails Drove More Long-Form Views appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-02T13:11:52Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "cf043082ce99",
-      "title": "What Happens To PPC When You Stop Managing Google Ads Through Google Ads via @sejournal, @siliconvallaeys",
-      "url": "https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/",
-      "source": "Search Engine Journal",
-      "summary": "As agents and MCP connectors take over PPC management outside the Google Ads UI, this piece maps the risks and the governance needed to avoid. The post What Happens To PPC When You Stop Managing Google Ads Through Google Ads appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-02T12:00:10Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b07b0b2b4d66",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "source": "OpenAI",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "category": "GEO",
-      "published": "2026-09-02T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b083de6de7d3",
-      "title": "Google: The Disavow Tool Does Have Effects",
-      "url": "https://www.seroundtable.com/google-disavow-tool-effects-42004.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller said the Google disavow tool \"does have effects,\" adding, \"but it has its place & time.\" This was in response a complaint about a site dropping in the search results after adding links to the disavow link tool.",
-      "category": "SEO",
-      "published": "2026-09-02T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
