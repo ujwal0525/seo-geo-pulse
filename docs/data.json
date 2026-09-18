@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:58:55Z",
+  "updated": "2026-09-18T22:21:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1240,6 +1240,28 @@
   ],
   "items": [
     {
+      "id": "c239e2cc1402",
+      "title": "Google Discover Tests Dive Deeper Feature",
+      "url": "https://www.seroundtable.com/google-discover-dive-deeper-42119.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a new feature in Google Discover named \"Dive deeper.\" When you click on it, it does not take you to a publisher's article, instead, it takes you to an AI-generated short topic overview with links to some other articles (which do take you to the publisher) and…",
+      "category": "GEO",
+      "published": "2026-09-18T20:22:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "be392f321a39",
+      "title": "Checking A Page Is Part Of A Retrieval Pipeline For AI via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/checking-a-page-is-part-of-a-retrieval-pipeline-for-ai/589284/",
+      "source": "Search Engine Journal",
+      "summary": "No GSC for ChatGPT? Paste a distinctive snippet into a chatbot and ask for exact matches. If your URL comes back, retrieval isn't your problem. The post Checking A Page Is Part Of A Retrieval Pipeline For AI appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-18T19:00:53Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "ad24255c90e9",
       "title": "Google Adds Local Businesses To EEA Search Result Units via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-adds-local-businesses-to-eea-search-result-units/589955/",
@@ -1920,6 +1942,17 @@
       "published": "2026-09-16T12:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "973a91148c50",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "category": "GEO",
+      "published": "2026-09-16T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "f513b1d1640a",
@@ -3955,39 +3988,6 @@
       "published": "2026-09-03T14:30:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "5190d2a1dccd",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "category": "SEO",
-      "published": "2026-09-03T13:15:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "e67e1971131b",
-      "title": "Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO via @sejournal, @HelenPollitt1",
-      "url": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/",
-      "source": "Search Engine Journal",
-      "summary": "Robots.txt relies on bot compliance, while WAF, CDN, and server-level blocks enforce it. A breakdown of which layer stops AI crawlers for good. The post Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-03T12:00:18Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "be4a3c542626",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "category": "GEO",
-      "published": "2026-09-03T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
