@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T15:58:24Z",
+  "updated": "2026-09-18T18:58:55Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1240,6 +1240,39 @@
   ],
   "items": [
     {
+      "id": "ad24255c90e9",
+      "title": "Google Adds Local Businesses To EEA Search Result Units via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-adds-local-businesses-to-eea-search-result-units/589955/",
+      "source": "Search Engine Journal",
+      "summary": "Google updated its Search documentation to add local business queries to the two result units rolled out in the EEA for directories and direct providers. The post Google Adds Local Businesses To EEA Search Result Units appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-18T17:51:12Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8c641df8aa14",
+      "title": "Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/your-brand-needs-an-ai-accountability-document-a-school-district-beat-big-tech-to-it/589240/",
+      "source": "Search Engine Journal",
+      "summary": "Turn AI guardrails into search assets with a school district's template for published policies, named reviewers, and clear data protections. The post Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-18T17:30:42Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "aedf8eaba460",
+      "title": "What is agentic SEO? 8 workflows run on a live site",
+      "url": "https://www.semrush.com/blog/agentic-seo/",
+      "source": "Semrush Blog",
+      "summary": "Agentic SEO hands defined workflows to an AI that pulls its own data. See the free Claude setup we used.",
+      "category": "GEO",
+      "published": "2026-09-18T14:37:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "9e574cfa4be0",
       "title": "Cloudflare Will Write Your Robots.txt, And It Has A Point via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/cloudflare-will-write-your-robots-txt-and-it-has-a-point/589262/",
@@ -1260,6 +1293,17 @@
       "published": "2026-09-18T14:28:31Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "48d567530949",
+      "title": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
+      "url": "https://www.semrush.com/blog/semrush-mcp-use-case/",
+      "source": "Semrush Blog",
+      "summary": "Copy-paste Semrush MCP prompts for keyword, competitor, content, and reporting work, tested on a live site.",
+      "category": "GEO",
+      "published": "2026-09-18T14:17:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "594561529d36",
@@ -3944,50 +3988,6 @@
       "published": "2026-09-03T12:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "7a45b185cff5",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "category": "GEO",
-      "published": "2026-09-03T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "19fe28e6504a",
-      "title": "Publishers Noticing Google News Tab Content Disappearing",
-      "url": "https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Over the past several days, I have been hearing from some publishers that while their content is being crawled, indexed, and served in Google Search results, some of it is missing from the news tab. It may then later show up in the news tab, much later. I was able to replicate…",
-      "category": "SEO",
-      "published": "2026-09-03T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ba3a166b8287",
-      "title": "Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?",
-      "url": "https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html",
-      "source": "Search Engine Roundtable",
-      "summary": "As you know, Google rolled out Gemini 3.8 Flash for subscribers to AI Mode and some have started to play with it. And the early feedback is that AI Mode running Gemini 3.8 Flash is not link or citation friendly. Meaning, AI Mode with Google's latest AI model is less likely to…",
-      "category": "GEO",
-      "published": "2026-09-03T11:41:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "7ac0efaaad61",
-      "title": "Google Expands Merchant Center AI Performance Insights",
-      "url": "https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html",
-      "source": "Search Engine Roundtable",
-      "summary": "In July, Google began to roll out AI performance reports within Google Merchant Center to United States based merchants. Google said the AI reports are now available to merchants within Australia, Canada, India & New Zealand as well.",
-      "category": "SEO",
-      "published": "2026-09-03T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
