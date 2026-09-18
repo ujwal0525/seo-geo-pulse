@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T20:13:06Z",
+  "updated": "2026-09-18T00:16:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -552,6 +552,42 @@
       "source": "Google News",
       "curated": false,
       "id": "8e053572548b"
+    },
+    {
+      "date": "2026-09-17",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Higgsfield Showcases AI-Driven Creative Collaboration at ADWEEK Brandweek",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYldvS2pwN25INVk4MlY3SzA0dFRvRWNaU0IzZ2dteHlUQk50eDYtdnVGVVg4M3p4Q0tMZGpqelVpcjdLSm5WakppVVN4Tnp6ZldqdzFXSldtcHNJYjB3LTB1bmRNQk1aUnNWNURvTHBEWEVza3J4enYxWGpqc182aDhyTHA1OXdLbjdERkE1YnRFaVdCaG9WelZQRlBncVZneVNBTHk5Vk5EM0NPVDNtb2NNb01mZ3RPWmlxdl9B?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3851103d56bc"
+    },
+    {
+      "date": "2026-09-17",
+      "company": "Framer",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRWI3TW04LUpLT0VGUFo1OHhHWHEtdnpHRmV6LUVBYnlqUmxGVEh5RW5VS3VBVWUzTTZURnBnSFBJV1F6SlVRandLbzJQcjFCb3pLUnlBNW1TQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8a898fed6093"
+    },
+    {
+      "date": "2026-09-17",
+      "company": "Framer",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$50 Million",
+      "title": "Reliability Company Raindrop Completes $50 Million Series A and Launches Simulation Product",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NMmc0OVNaWGdCWGxwLXg5d01hamllb0xobXBOTHNWbjdSOGlZLVlBMklaa2I1NDF0MEZFQ09vdXQzVy1FNjF0V1JlS0JnLWVUZExNWHJ3ZnBLLS11bnVtOEFCS21CWDlTZDgxNG9OMV9LV1hi?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "570299ac3727"
     },
     {
       "date": "2026-09-16",
@@ -1200,45 +1236,31 @@
       "source": "Google News",
       "curated": false,
       "id": "408069660380"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$11B",
-      "title": "ElevenLabs prepares for 2028 IPO after reaching $11B valuation",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSEtUTWNmZjRWY2NSeVVuNXNZVmdNTFk5ZExnU1QtTjdtT0xtM2ZtNTlVYnhYdWVHS3hZWW1wcUlIVDB2b21WUXdxUzJPWmZtWTg1aGdYdTJaUUFjUHlwNmk3N0dLamdqM3pFRnR3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d01c5b28a7cf"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "Pixlr",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Acquired Launches Billing Engine to Protect Recurring Revenue -",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQURMMVM0NkNhVDdjUU5SSFVlUkxUR05vcERwSjFSdDY4TjA0Z0dFM3A4dnlHZGpzanAtbW40QmdfY095dm5vT01xdXpWakx4OU9LRnNWR0J2SUp6dDNWSjI3M2dRT1B2d1NyMjVhS2haSks3blpneV9lMFhvVGxDYng0Wm5wbnZncjExMHJMT00tSDRwaVNjQWV6cUpENmdsWDBoOEg2VDFqekU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "725072275297"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$10B",
-      "title": "Google Pics Rivals Canva Weeks After $10B Valuation Cut [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yQlYybDRlZTJSV2h1N3dqSHVFeGtFT3pJS2ZPODBoS3pxQXUzYVVla0dUYmFsSUc3ZlF1RzhlZjRyQkZMcGtDSWxueXMzX2N0X2tGQ1dyZlcxYlNQQlFnSlMydGZVMDV1WE5jQTFYLVdjMWF5Q3Vn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "89cd37cd3d1a"
     }
   ],
   "items": [
+    {
+      "id": "eb5f6edf050e",
+      "title": "More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/",
+      "source": "Search Engine Journal",
+      "summary": "Pew's 37-country survey finds more people expect AI to reduce jobs than add them, a view more common in high-income countries than middle-income ones. The post More People Expect AI To Cut Jobs Than Add Them, Pew Finds appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-17T21:44:38Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a67a1ce983f7",
+      "title": "Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-updates-mediapartners-google-crawler-guidance-less-about-adsense/589821/",
+      "source": "Search Engine Journal",
+      "summary": "Google expanded their Mediapartners-Google guidance to make it about more than just AdSense. The post Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-17T20:51:57Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "7bea3f4be21b",
       "title": "There Is No “Accuracy” in AI Search Tracking – Only Precision",
@@ -1260,6 +1282,17 @@
       "published": "2026-09-17T19:00:29Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "184b193be1de",
+      "title": "Cyber5 Prep: Are You Ready for Paid Media’s Biggest Week?",
+      "url": "https://neilpatel.com/blog/cyber5-paid-media-prep/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Cyber5 runs from Thanksgiving through Cyber Monday, and those five days can carry a bigger share of annual paid media revenue than almost any other stretch on the calendar. Adobe found the period drove close to a third of November’s e-commerce sales last year, and…",
+      "category": "SEO",
+      "published": "2026-09-17T19:00:01Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "9b19416a4af4",
@@ -1326,6 +1359,28 @@
       "published": "2026-09-17T12:00:01Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "964ae1dd0fac",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "category": "GEO",
+      "published": "2026-09-17T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "363bbead77de",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "category": "SEO",
+      "published": "2026-09-17T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "b395bf31a6fd",
@@ -3931,61 +3986,6 @@
       "summary": "Google's John Mueller said the Google disavow tool \"does have effects,\" adding, \"but it has its place & time.\" This was in response a complaint about a site dropping in the search results after adding links to the disavow link tool.",
       "category": "SEO",
       "published": "2026-09-02T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9e94209c0277",
-      "title": "Google Ads New Pre-Fill Asset Groups With Generated Assets",
-      "url": "https://www.seroundtable.com/google-ads-pre-fill-asset-groups-41993.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads added a new section to the how asset groups work help documentation for pre-fill asset groups with generated assets. This section goes over new features like in-construction callout and automatic pre-fill.",
-      "category": "SEO",
-      "published": "2026-09-02T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4869434224b4",
-      "title": "Google AdSense Begin-to-Render Impression Measurement Coming",
-      "url": "https://www.seroundtable.com/google-adsense-begin-to-render-41992.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google AdSense will change how it counts impressions for display ads starting on February 17, 2027. Google will use what it calls the Begin-to-Render methodology and will only count the impression once the ad has successfully loaded and has started to render on the user's device.",
-      "category": "SEO",
-      "published": "2026-09-02T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "47b399054918",
-      "title": "Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/",
-      "source": "Search Engine Journal",
-      "summary": "Interview with head of Google DeepMind explains how Gemini is moving beyond answers toward AI that can use tools and accomplish tasks. The post Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-02T11:24:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "bd8804edc33b",
-      "title": "Google Tell Maps Starts To Roll Out",
-      "url": "https://www.seroundtable.com/google-tell-maps-42001.html",
-      "source": "Search Engine Roundtable",
-      "summary": "About a month ago, Google announced Tell Maps, a way for Google Maps contributors to use AI to tell Google Maps more about places. \"You can suggest edits conversationally, right from Ask Maps and the Contribute tab,\" Google said about Tell Maps.",
-      "category": "SEO",
-      "published": "2026-09-02T11:21:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2fdfe6868d70",
-      "title": "Bing Tests Search Result Snippets Without Site Names",
-      "url": "https://www.seroundtable.com/bing-search-snippets-without-sitenames-41990.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing removing the site names from the Bing search results and instead showing only the site's URL. Google tested this about a year ago, so I guess it makes sense for Bing to test as well.",
-      "category": "SEO",
-      "published": "2026-09-02T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
     }
