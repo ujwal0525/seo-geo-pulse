@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:27:54Z",
+  "updated": "2026-09-19T22:11:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1106,6 +1106,18 @@
       "id": "8868ae869f03"
     },
     {
+      "date": "2026-09-11",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Universal Music Group and ElevenLabs inks AI-powered music platform partnership - Mi-3.com.au.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUVhcE1BYlJ1NmRkNmVkUGN1RlByVC1DOHJJZXRJNGlaQ3pRa3ZzV2IyNjFCT3pTUjItbGJXVm1nYmdHOXFYNHpSU3QxYkxLSm9LV2NJVDZsc0hCTF9POEpINHpsNnRITTBfUFB0a2dtdlJJMnFXZ0R2UV9Va2d3bktfNXNWQVNNd1M3Nk5KZVotTGJyaE1wOV9NajdlZWVGbWpaNmRzUWVHRkg0QVBuWEZEelo?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "16cb35e57268"
+    },
+    {
       "date": "2026-09-10",
       "company": "Figma",
       "front": "Creative",
@@ -1200,18 +1212,6 @@
       "source": "Google News",
       "curated": false,
       "id": "90af6111c096"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Universal Music Group and ElevenLabs inks AI-powered music platform partnership - Mi-3.com.au.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUVhcE1BYlJ1NmRkNmVkUGN1RlByVC1DOHJJZXRJNGlaQ3pRa3ZzV2IyNjFCT3pTUjItbGJXVm1nYmdHOXFYNHpSU3QxYkxLSm9LV2NJVDZsc0hCTF9POEpINHpsNnRITTBfUFB0a2dtdlJJMnFXZ0R2UV9Va2d3bktfNXNWQVNNd1M3Nk5KZVotTGJyaE1wOV9NajdlZWVGbWpaNmRzUWVHRkg0QVBuWEZEelo?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5e3ffcd5ecd1"
     },
     {
       "date": "2026-09-10",
