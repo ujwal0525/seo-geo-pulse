@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T22:21:48Z",
+  "updated": "2026-09-19T03:30:24Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1240,6 +1240,17 @@
   ],
   "items": [
     {
+      "id": "5426e419087b",
+      "title": "Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-discover-test-adds-topic-overviews-starting-with-videos/589963/",
+      "source": "Search Engine Journal",
+      "summary": "Google is testing a \"Dive deeper\" button in Discover, starting with videos. The post Google Discover Test Adds Topic Overviews, Starting With Videos appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-18T22:24:26Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "c239e2cc1402",
       "title": "Google Discover Tests Dive Deeper Feature",
       "url": "https://www.seroundtable.com/google-discover-dive-deeper-42119.html",
@@ -1491,6 +1502,17 @@
       "published": "2026-09-18T11:05:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "8ed5d4834e54",
+      "title": "How to Prepare for any SEO Conference, Including MozCon - Whiteboard Friday",
+      "url": "https://moz.com/blog/seo-conference-preparation",
+      "source": "Moz Blog",
+      "summary": "Looking to make the most out of attending your SEO conference experience? Discover how the right preparation can boost your team's strength, energy, and enthusiasm during and after events like MozCon. Whether you're a seasoned attendee or a first-timer, our guide will ensure you…",
+      "category": "SEO",
+      "published": "2026-09-18T07:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "eb5f6edf050e",
@@ -3966,28 +3988,6 @@
       "published": "2026-09-03T21:00:25Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "efd7bbe57f88",
-      "title": "Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
-      "source": "Search Engine Journal",
-      "summary": "Ten Speed's citation study shows product pages beating Reddit nearly six to one for B2B buyers, verified only after six pointed fact-check questions. The post Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-03T19:00:45Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "226dc3816771",
-      "title": "When AI Has Nothing On Your Company, It Describes Someone Else via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/when-ai-has-nothing-on-your-company-it-describes-someone-else/587876/",
-      "source": "Search Engine Journal",
-      "summary": "Publishing more content won't fix AI substitution. Retrieval repeats the same popularity bias that thinned your presence in the weights. The post When AI Has Nothing On Your Company, It Describes Someone Else appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-03T14:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
