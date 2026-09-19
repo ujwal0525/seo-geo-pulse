@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T03:30:24Z",
+  "updated": "2026-09-19T08:37:02Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1392,6 +1392,17 @@
       "published": "2026-09-18T12:00:41Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "559b0cf11197",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "category": "SEO",
+      "published": "2026-09-18T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "25fdcb72fc86",
@@ -3977,17 +3988,6 @@
       "published": "2026-09-04T11:05:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "1694f6f0e587",
-      "title": "Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
-      "source": "Search Engine Journal",
-      "summary": "Google's latest Search integration is another step to a future where users get things done without traditional search results. The post Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-03T21:00:25Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
