@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:37:02Z",
+  "updated": "2026-09-19T15:30:08Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -998,6 +998,18 @@
       "id": "2da82452e2ca"
     },
     {
+      "date": "2026-09-14",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$500M · $11B",
+      "title": "Eleven Labs Revenue 2026: $500M ARR, $11B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOcHhPNEY5Nnd2d2c0OEhVaWc2QTlTNG45TmJIRmFoamJ3ZmZseU91aTNiT0o2aGZzUGdldFc1N1QydmdXamtOaUNDR1Q1UzQ5bHVUYjJfRQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6c025ececb33"
+    },
+    {
       "date": "2026-09-13",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -1224,21 +1236,20 @@
       "source": "Google News",
       "curated": false,
       "id": "501f92956f33"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "UMG Partners with ElevenLabs for AI Music Platform",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2hOOEVfanBYZUZOSG9IMjhZU1N3WXFlMU1DaG1qUlpSVVh5Yk4zLVppY2NzR2hqUWFYWG83Y0Z1ZGgyMnNzS0s3d2V6VEZ5S1JYRkhNS1AtdFdVT3Rzb280Z1ZoZWxYS1RMRVFWT2t0NFZzWE8xN3UxV1F1RzZsMEtDMFZjM0g2bFFTcDM1cDZSZjk0?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0ecd784775f2"
     }
   ],
   "items": [
+    {
+      "id": "85b280384d4a",
+      "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/",
+      "source": "Search Engine Journal",
+      "summary": "Google is testing payments for content contributing to AI answers, Mueller says AI position data is hard to report, and Cloudflare splits training from search. The post Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-19T12:30:42Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "5426e419087b",
       "title": "Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern",
@@ -1810,17 +1821,6 @@
       "published": "2026-09-16T16:04:30Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "5c29ec03e704",
-      "title": "Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/",
-      "source": "Search Engine Journal",
-      "summary": "Google lowers Search profile eligibility to 10,000 followers for U.S. websites and creators, with new account tools and updated article displays. The post Google Search Profiles Now Available At 10,000 Followers appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-16T16:00:15Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "2ce24fe58dae",
