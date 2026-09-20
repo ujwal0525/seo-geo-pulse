@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T03:46:27Z",
+  "updated": "2026-09-20T09:07:58Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -902,6 +902,18 @@
       "id": "19c5ce8722ea"
     },
     {
+      "date": "2026-09-15",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Unveils a ‘Creative Operating System’ to Power Your Imagination",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzlTZTFGUF9sZDI4VGtKOVFaanBSbkowWGVFM3pLRlhaTkN6aDFnZm5SeDlKVGdPQmVIM1lKbm5oX0dsLUo5VHIxemNYd1ZrS1pjUUhobjMtc1pMVFRXXzItc01NSXpKMTJkQzd1MDRwcGFkNTVVVlRSYWdNVFZQZ0RnWm9UQXFQcjlqNnRVNVBYcjg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7c4347efcb3e"
+    },
+    {
       "date": "2026-09-14",
       "company": "Kling AI",
       "front": "GenAI Media",
@@ -1224,18 +1236,6 @@
       "source": "Google News",
       "curated": false,
       "id": "90af6111c096"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "Synthesia",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "AI Video Company Synthesia Launches Express-3 Digital Human Model",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yeW1QNW5CdGEyMlEwZ0tCZUlFUy1Pci1DMjY0OENhTHl2T1Q4aWQ4YmdZeHNQQjVpRUZkYWN2Mmc4cGU2M0RVV1pKeENpdkNOSEtJZ1VNaHN4THhqcUhLTlMtNko3Z2lzcTR0UlRmYWc1bElU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0afdf81348d0"
     }
   ],
   "items": [
