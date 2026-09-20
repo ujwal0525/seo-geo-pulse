@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:07:58Z",
+  "updated": "2026-09-20T15:35:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -698,6 +698,18 @@
       "id": "f22499369ebc"
     },
     {
+      "date": "2026-09-16",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Jio partners with Canva to offer 12-month premium access to eligible users",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXdBZnd0UWJTM0Q0OHlvb3BzaDNfc0NQbE5xMnRuN1o0UUt6T0VVSlJpX1ZfWkF3SFBIdV9RX1dFRVlVQmxBcm9URWM2QnJhVkhWSjN2VTVZbWo3MHg0TURuOHgwbGJZVV9mc2t4enZ3WXBCMWh3X2tQQVpBektUZm9aR1oycEVtc281ekZpZmhkbVYxOXdpWUtHNDhfc2gwVTkwMTZVSnZRYkRxNU5OOW1nY3jSAbQBQVVfeXFMTUV3QWZ3dFFiUzNENDh5b29wc2gzX3NDUGxOcTJ0bjdaNFFLek9FVUpSaV9WX1pBd0hQSHVfUV9XRUVZVUJsQXJvVEVjNkJyYVZIVkozdlU1WW1qNzB4NE1Ebjh4MGxiWVVfZnNreHp2d1lwQjFod19rUEFaQXpLVGZvWkdaMnBFbXNvNXpGaWZoZG1WMTl3aVlLRzQ4X3NoMFU5MDE2VUp2UWJEcTVOTjltZ2N4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6c9d94622977"
+    },
+    {
       "date": "2026-09-15",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -912,6 +924,30 @@
       "source": "Google News",
       "curated": false,
       "id": "7c4347efcb3e"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$200M · $1.3B",
+      "title": "Higgsfield AI Revenue 2026: $200M ARR, $1.3B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Yk1zRE9rdzZUMDJONjZ1MC1Kbm5RQl9Mel9QRWJyRF9wMmk1V0pSdEZMVWN5aDVBY1hqWXJKRHczTGprUFdCUjVyaVlHYWdtOExBYWhHRQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "22d6b9522fc8"
+    },
+    {
+      "date": "2026-09-15",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Jio partners with Canva to offer 12-month Canva Pro, Pro Lite access to subscribers",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVHVscFRYeW92eVhqTEg0S2pWb3RSbHJ6QXFtN2kwMDdUdHBaVDBuSDV1TWVyUTRMLW11TVhNdmkzN0l2OEh4c3NwWFRPZlNsclZ6NkhicU51U3Y0SnhoY1JLaG1ENGxyVWM1SWpidWI3UGNUSlRHNEJhYkE3TU1TRWVIUjlKRWZoZldlR25uU1haS1BPOUkzRXFHMnQwakc0R2NFb2xaaXBoMVdra3hPTjAyV2xlQkprVFpCMUZPX2FkM1ZyV2ZzLVJjR1NiV0tWUzZ2R043MEZhWE5kU1ZNZlNLcTlXZ9IB6wFBVV95cUxONWQwbjJ2UUZFalJLZEQ1WkNEVE52S3JzX2NhM3FWcWl5T0k5MkZDZDNVYlQzZ1BtS2h5UnV2eXlPV3I1N1lHQzhwZHpBekJjX292MWVITjRDaXVuYWh5c0s3QWtGaFgwc01lT01xbUd3MHU3VjlqaDZVSWtzdWlkaFN1QXVOdmlsRmMzejYtcG9xbWQ4LVJoZ1lPUFdqWC14OEF4ZF9LTTlXRHJiLXZsaWxRb20wVjYyTGQ5RzA0N2pEZ2dBT2J3TU1XT3Z1UFBmSmQyR1NMQlpNZE5fWFcwdXB3WnZQOEoxaWg0?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f57baea36c2d"
     },
     {
       "date": "2026-09-14",
@@ -1200,45 +1236,42 @@
       "source": "Google News",
       "curated": false,
       "id": "721353689c50"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
-      "url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
-      "source": "Engadget",
-      "curated": false,
-      "id": "c494f5889c52"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$11B",
-      "title": "ElevenLabs’s $11B valuation is more than twice the size of Suno’s. It just struck a global AI music deal with UMG.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2lBT2RsNWhiUHNaeTNvUUM1X1MzMWVobExPQzBDcTgzOV9PR0FJZlJGU1BKRFVER0VLTVFsWHoweEd6MjVjUl9RN09YaVl4bmwwSV9oOVRaNl9NTHJlSzdyNTlVaEdlSENrUGIwUF9qRTRoakVlTUh6NUd2T3JDeHNuZ3l4d3V6WFRaam91cEg2VVdkQmFyQ3Vwc0tHdzhBWjVfZFJpVzZwLWFCSFpUdDlWdS1MLWJEUHlvVk11MmdPWDJsSVRiQ29YNmU0cGsxUkdJd2hHV1ZqZGR1R2EwZUVfSGc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "04d6f7258c45"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Warner Music Group partners with Suno as major labels embrace AI music",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PekE0dGVvMHBLRzNPNU5zSWI3MkJMMFJwRk80YWwzUV9leVBPV0NCV00yanhTaFdNdzMwclY1SkhnRnJYdFljY20tRWVyd2Y5MVRKWVZwNXlON3lZbzRsWW5lYWJrWnBpRm5vaA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "90af6111c096"
     }
   ],
   "items": [
+    {
+      "id": "7e8067d6fe4e",
+      "title": "Programming Note: Offline Monday For Yom Kippur 5787",
+      "url": "https://www.seroundtable.com/yom-kippur-5787-42114.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This is a programming note: I will be 100% offline from Sunday night (September 20th) through Monday night (September 21st) for Yom Kippur. I am not scheduling any stories tomorrow, Monday, Yom Kippur; nothing will be posted.",
+      "category": "SEO",
+      "published": "2026-09-20T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ded511b1e7f1",
+      "title": "Google Web Guide Classic Search Button Doesn't Take You To Classic Search",
+      "url": "https://www.seroundtable.com/google-web-guide-bug-42124.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search has this beta opt-in feature named Web Guide, it is like a mix of its AI search results interface and web search interface - in one. That being said, there seems to be a bug where, when you click the button that says \"Classic search,\" it does not take you out of…",
+      "category": "GEO",
+      "published": "2026-09-20T13:30:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "be65c0b05617",
+      "title": "Google Search Console Crawl Stats Missing A Day Of Data: September 15th",
+      "url": "https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The crawl stats report is missing a day of data again, this time, the missing data is from September 15th (it might be a day later for some of you on different time zones). That being said, this has happened numerous times before and Google tends to always restore the data.",
+      "category": "SEO",
+      "published": "2026-09-20T11:55:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "a7822ebbe723",
       "title": "AI Mode Tags: FollowUp, Generate, Layout, Entity List and @prompt_leaks.ignore",
@@ -3953,39 +3986,6 @@
       "summary": "Google has expanded access to Waze Ads beyond the United States and to a total of 42 countries. Google updated the PMax help documents in the Google Ads help center with this new information. It now says, \"Waze Ads are currently available across select global markets...\"",
       "category": "SEO",
       "published": "2026-09-04T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bc7aebfefb0f",
-      "title": "Google Ads Collapsing Sitelinks That You Can Expand",
-      "url": "https://www.seroundtable.com/google-ads-collapsing-sitelinks-42014.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is testing another variation of expandable sitelinks, where sitelinks are collapsed by default and a number indicator shows how many more are available. You can then click to expand the sitelinks to show more.",
-      "category": "SEO",
-      "published": "2026-09-04T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4a80310cc079",
-      "title": "Bing Tests Bolded HTTPS URLs In Snippets",
-      "url": "https://www.seroundtable.com/bing-bolded-https-urls-41939.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing bolding the https portion of the URLs in the Bing Search results. We've seen Microsoft test HTTPS labels in various forms over the years, including using lock icons. But here, Microsoft Bing is being more subtle about it by just bolding the HTTPS portion of…",
-      "category": "SEO",
-      "published": "2026-09-04T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "02659d511247",
-      "title": "Google Ads Pushing Dismissed Recommendations",
-      "url": "https://www.seroundtable.com/google-ads-dismissed-recommendations-42016.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is now pushing notifications to advertisers for recommendations they have previously dismissed. Google shows a message in the ads console that reads, \"You still have dismissed recommendations for this campaign,\" which you can dismiss once again?",
-      "category": "SEO",
-      "published": "2026-09-04T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
     }
