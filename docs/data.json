@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:11:07Z",
+  "updated": "2026-09-20T03:46:27Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1010,6 +1010,18 @@
       "id": "6c025ececb33"
     },
     {
+      "date": "2026-09-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Vokèra launches Affinity 20 Promotion",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczcwM2xsQXRROGFHRHBhZ0RnYTVNM3hicmxNNmRFMjVCd3d4bFVGUXZPUGp6elliblR2cFNkVXoxMS1Jd09HaUl0RFU1OS1xb2hJZ3V3aGUyanp1RHlHdWt2aDI5NGNIVVVrMjdqNHo5djhoenlKZ0JTR2VuNEFOOUQ2VnlURVU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "71581adf42cd"
+    },
+    {
       "date": "2026-09-13",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -1224,21 +1236,20 @@
       "source": "Google News",
       "curated": false,
       "id": "0afdf81348d0"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Adobe to Acquire Topaz Labs – AI Upscaling and Image Enhancement, On-Device Models, Standalone Apps to Continue",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVJpZEdSOWpBUFQxM3FKREV6TmJDalpVZGdsSXlrT3VGOUl2dTUyaldUZjh4V0RGQS10Vm02MW1lTnI0NW9ITVlvVXhyeUpoMnlXTFctUjlLS3BxWjNrQ1M3NUgwM011SnJrUV9EY0RXM25OVWVpWWp3d2pqWUgxRHIzVElKYUYyMTJZWGc1QzEzZ0wyREl3Q09IX25fREgtRko1Y2dCSmRJa2xNNEZuWGxBQVVVZDE3RFc2aDhrQWd5TUw2R3BIalB3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "501f92956f33"
     }
   ],
   "items": [
+    {
+      "id": "a7822ebbe723",
+      "title": "AI Mode Tags: FollowUp, Generate, Layout, Entity List and @prompt_leaks.ignore",
+      "url": "https://dejan.ai/blog/ai-mode-tags/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Explore the core AI mode tags used",
+      "category": "GEO",
+      "published": "2026-09-20T00:54:30Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "85b280384d4a",
       "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse via @sejournal, @MattGSouthern",
@@ -1351,10 +1362,10 @@
     },
     {
       "id": "594561529d36",
-      "title": "State Of Search 2027: What To Stop, Measure & Fund",
+      "title": "The State Of Search In An AI World: What Marketing Leaders Need To Know Now",
       "url": "https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/",
       "source": "Search Engine Journal",
-      "summary": "Is a traffic decline actually hurting your business? Our State of Search 2027 shows how to tell and where to invest next. The post State Of Search 2027: What To Stop, Measure & Fund appeared first on Search Engine Journal .",
+      "summary": "Is a traffic decline actually hurting your business? Our State of Search 2027 shows how to tell and where to invest next. The post The State Of Search In An AI World: What Marketing Leaders Need To Know Now appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-18T14:15:43Z",
       "coverage": 1,
@@ -3977,17 +3988,6 @@
       "published": "2026-09-04T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "da0284b7b6cb",
-      "title": "ChatGPT Ads Manager Plugin, Audience Updates, Product Feeds & More",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42017.html",
-      "source": "Search Engine Roundtable",
-      "summary": "We got a number of updates coming from OpenAI about ChatGPT Ads and the ChatGPT Ads Manager, we also suspect that the shopping results coming from ChatGPT only come from those who submit product feeds. The other updates include a plugin for integration with ChatGPT and/or Codex…",
-      "category": "GEO",
-      "published": "2026-09-04T11:05:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
