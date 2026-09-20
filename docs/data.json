@@ -1,8 +1,9 @@
 {
-  "updated": "2026-09-20T15:35:07Z",
+  "updated": "2026-09-20T18:38:22Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
+    "Aleyda Solis",
     "Andrea Volpini (WordLift)",
     "Backlinko",
     "Dan Petrovic (DEJAN)",
@@ -1271,6 +1272,17 @@
       "published": "2026-09-20T11:55:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "a8f14d726048",
+      "title": "The AI Search Optimization Checklist – With Worksheet [Updated Sep 2026]",
+      "url": "https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/",
+      "source": "Aleyda Solis",
+      "summary": "I’ve created an AI Search Content Optimization Checklist, going through the most important aspects to take into account to optimize your content for AI search answers along with their importance and how to take action. Check it out. La entrada The AI Search Optimization…",
+      "category": "GEO",
+      "published": "2026-09-20T04:00:51Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "a7822ebbe723",
@@ -3975,17 +3987,6 @@
       "summary": "Google Business Profiles seems to be adding a fifth way to verify your business, this new method is by submitting a photo of your business location. The other methods are phone or text, email, live video call or a postcard in the mail.",
       "category": "SEO",
       "published": "2026-09-04T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fa5af597e21f",
-      "title": "Google Expands Waze Ads Beyond The United States",
-      "url": "https://www.seroundtable.com/google-expands-waze-ads-42018.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has expanded access to Waze Ads beyond the United States and to a total of 42 countries. Google updated the PMax help documents in the Google Ads help center with this new information. It now says, \"Waze Ads are currently available across select global markets...\"",
-      "category": "SEO",
-      "published": "2026-09-04T11:41:00Z",
       "coverage": 1,
       "impact": 4.0
     }
