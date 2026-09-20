@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T18:38:22Z",
+  "updated": "2026-09-20T22:14:31Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1083,6 +1083,18 @@
       "id": "7b87102101f2"
     },
     {
+      "date": "2026-09-13",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches Music v2.5 with API and App, Usage Framework Clarified",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWdCN1AxUnNRblYtYmw5cnFPWGNpdTF1akFrWEE2ZnFXTGNDM0ZYV0FJRW9XYks5NXNTaDhwZ2ZVclZWdEFNR2lxN3VTQzZyZ0diUDV1ejc4NlRYcE9VUE5sX0g2UmdKVURlalltR2ZNQ0lVNnczZUY2YzRWQi1la3diMS1TalNWV3JnWXlscHdMaWlPOXNfSGJwUXR3Y2JZ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2b8dde23fd35"
+    },
+    {
       "date": "2026-09-12",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1225,18 +1237,6 @@
       "source": "Google News",
       "curated": false,
       "id": "595baf741601"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Nitro and Motörhead Collaborate on Signature Collection",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR05zUlpqWXBfSV9Qd2xpdFdpeGhqZ1BEMnpQMDEyMVZYczA4YnJTZlYxQk1tOURXQ25TbEVkOWJib1NYYnJYQXB5ZHhnbFMyQllQaVY1M1NiWFFzb3RUNmZ3LVJZRnlTMlNkaW5wSU8wd2VFLUI2ZDJlY05yMjd3TzlwT2RNR0ZHYVM2YmtpM21qZEZrTUItMEl0LVdxVWMxUTZtS09B?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "721353689c50"
     }
   ],
   "items": [
