@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T17:58:15Z",
+  "updated": "2026-09-21T23:03:54Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -531,6 +531,18 @@
       "id": "0fc433cfb475"
     },
     {
+      "date": "2026-09-21",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Free money waiting: Kentucky launches unclaimed property search",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MRTVoYk9lV0hhcF9iLURwdWpFRjdqRENheVhJSk81YS1ZdGFWNV9SRFc0QmhIVnRkUjhuWmVDVGFUVk5CZGFTMEZnM29aNlBJYzJZYjdsbWplenRkbi14UjRNa29Pd001d2xnREY3THNQYlUzSmM1WXAxb2dzS0k?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c469a418a824"
+    },
+    {
       "date": "2026-09-20",
       "company": "Affinity",
       "front": "Creative",
@@ -975,6 +987,18 @@
       "id": "f57baea36c2d"
     },
     {
+      "date": "2026-09-15",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Tony Stewart Racing Unveils Purple Haze Super Bee Nitro Cars",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXBZY3RuTFE4ZW1GM1RzOXlPdFRxMDR1WVp2T1p2NVBrZTNkajNDbGhuVHZEV2xQYmJpOWdhMDdUNTRvQmtiTExBeFFhN2E5MFNuQ3EwRVlxOWpqOUZmRkF4T1cybFB4SWpKalNjUXJseXJMTFVKajcwaXV6bXFxbFJBLXlGdTAxSm1qa0ZmRTQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "11d6ae897b78"
+    },
+    {
       "date": "2026-09-14",
       "company": "Kling AI",
       "front": "GenAI Media",
@@ -1213,33 +1237,53 @@
       "source": "Google News",
       "curated": false,
       "id": "16cb35e57268"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Wellington Management Group LLP Acquires 89,908 Shares of Figma, Inc. $FIG",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUg1SXhZMFk5RkZjY0lpV1lWUXJJLUlHaWV5LV9qeTI0MWVnQk5KN2NSUG9YZ0phT3Y5UmpCMW5iOXJPTHk2YTIxYXZqekRCVktMMUpadjlJT0p4LTMxemxNU1hXZUJ0Q0tNNDF5R2VpcjJmbnFYOEtmbUhYRDhHeEZHSldIUTBFZkNXVGZ1TTFPS3laY0Zjc09QZ05HY05nX1N0cDNMMXhxOEhSU0JMY0RDN29BYUVBQ0NDcE8ySkJ2bi1wNmdobVc3dw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "04778dc6a204"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Bienville Capital Management LLC Acquires New Shares in Figma, Inc. $FIG",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdTQ4RFl6Y1I0OGpIVHNoMk1idHkzemRxZFFZQlNlVkdRNjREUG13bXB5X1lpZ1U4eTZESndIdTJsaGVkaWY4by1ESmx2Zks1Zll2NHZ0dy1SdzNfVGJsUXk3WEZ5UV9lS19xUVh5TENyUWF5UkhuYTRTTncxUzJ4YmhjbHphSUJVUDFfVzBmRVRRemt2WUg5RWZHMWVvM3hkWG9VZFJSbUdvX3BWZGFjbHFkOVNYbExFQzdvMjdqQWZqbUF1RmRiUmp3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "03fe3a1f5a7a"
     }
   ],
   "items": [
+    {
+      "id": "ffce90addb6a",
+      "title": "Job Boards Say Google Indexing API Requests Get No Response via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/",
+      "source": "Search Engine Journal",
+      "summary": "Job site operators report months-long waits for Google Indexing API approval, with no stated review timeframe in Google’s documentation. The post Job Boards Say Google Indexing API Requests Get No Response appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-21T20:30:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3a893248881b",
+      "title": "International SEO For Publishers: How To Succeed Across Borders",
+      "url": "https://www.searchenginejournal.com/international-seo-for-publishers-how-to-succeed-across-borders/589631/",
+      "source": "Search Engine Journal",
+      "summary": "A single .com works for The Guardian because of brand power. For most news publishers, separate country-code domains are the strategy that holds up. The post International SEO For Publishers: How To Succeed Across Borders appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-21T19:00:39Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "b528b5a1a5fb",
+      "title": "How To Find The Sources Shaping AI Answers In Your Industry via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-to-find-the-sources-shaping-ai-answers-in-your-industry/589756/",
+      "source": "Search Engine Journal",
+      "summary": "Trendos' Gintare Rimolaityte explains how to map AI citation sources by industry and engine, identify competitor gaps, and turn an audit into content and outreach priorities. The post How To Find The Sources Shaping AI Answers In Your Industry appeared first on Search Engine…",
+      "category": "GEO",
+      "published": "2026-09-21T18:12:21Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4e050f6dc6fb",
+      "title": "n8n owns just 15.7% of its own AI citations. The rest belongs to external sources",
+      "url": "https://foundationinc.co/lab/vol-310",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "You’ve written the comparison pages, documented every feature, and answered every objection your buyers raise. Then they ask AI about your product, and it quotes a stranger on Reddit instead. Showing up in AI answers doesn’t mean you control what those answers say about you. So…",
+      "category": "GEO",
+      "published": "2026-09-21T18:00:45Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "652c0b1065a9",
       "title": "LinkedIn’s Creator Monetization Expansion",
@@ -1316,6 +1360,17 @@
       "published": "2026-09-21T12:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "d37f5b2c5927",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "category": "GEO",
+      "published": "2026-09-21T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "a0416f1d0718",
@@ -3934,61 +3989,6 @@
       "published": "2026-09-07T11:21:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "fefe13e2938c",
-      "title": "Site Rules For Applebot-Extended Are Not Considered In Ranking For Search",
-      "url": "https://www.seroundtable.com/applebot-extended-search-ranking-42025.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Apple has updated its help documentation for Applebot over the weekend and added a single line at the end that reads, \"Site rules for Applebot-Extended are not considered in ranking for Search.\" Applebot-Extended is not new; we covered it in April 2025, but here Apple is making…",
-      "category": "SEO",
-      "published": "2026-09-07T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "cffb015e24e1",
-      "title": "Google AI Overviews Get A Character Counter Tool",
-      "url": "https://www.seroundtable.com/google-ai-overviews-character-counter-42026.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google will now give you an interactive widget within AI Overviews for when you are looking for a simple character counter website. Websites that offer character counting service features are in trouble.",
-      "category": "GEO",
-      "published": "2026-09-07T11:05:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "4aee73781326",
-      "title": "AI chatbots talked 57.5% of AI users out of buying",
-      "url": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/",
-      "source": "Semrush Blog",
-      "summary": "We surveyed 2,338 US consumers: 65% of AI users have replaced some product-related Google searches with chatbots, and 4 in 10 dislike chatbot ads.",
-      "category": "SEO",
-      "published": "2026-09-07T08:48:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "fe72f632db26",
-      "title": "The AI hours nobody on your marketing team is counting",
-      "url": "https://www.growth-memo.com/p/the-ai-hours-nobody-on-your-marketing",
-      "source": "Growth Memo",
-      "summary": "AI adoption can turn marketers into unpaid (ineffective) software teams, while the real work absorbs the opportunity cost.",
-      "category": "SEO",
-      "published": "2026-09-07T08:28:41Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "e02ae19def6b",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "source": "OpenAI",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "category": "SEO",
-      "published": "2026-09-07T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
