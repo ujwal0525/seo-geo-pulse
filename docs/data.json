@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T09:41:47Z",
+  "updated": "2026-09-21T17:58:15Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -519,6 +519,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-21",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Keys Koffee Donates $5,000 to Parsippany PAL, Introduces Nitro Cold Brew Kiosk",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWkyRU9RWXdNOHFsaHp6ZTlwdFM2NEdiNVA4ZE05WnQ5NkxpbFY1ODRqVnRwQWVteFhndTRkOVBRdG9WVXh1cFdiQzg3WUZteW5qSl9ORWhLbXV6dUlibmt6Y1RLZms2a2gyQklaUTAtdEtRX2VCQ2ZWVEdLNnltUWZXTTJKR2VZRDlBWGFpUWg1MDhLVjRlck1FTUNMRHg0T01pa0x1WQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0fc433cfb475"
+    },
+    {
       "date": "2026-09-20",
       "company": "Affinity",
       "front": "Creative",
@@ -529,6 +541,18 @@
       "source": "Google News",
       "curated": false,
       "id": "35fc91cf08a8"
+    },
+    {
+      "date": "2026-09-20",
+      "company": "Recraft",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Yandex launches Dокументы for desktop with offline editing and freemium model",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVVHTm9pa3JsenFPMVlLZ2FoblpkSWJMWXFnakhNbGF4Y2tSa3RKaDgyWWNuVldGVzBXN2g2QzdXM3ROX0Rza0o0c1VJU0VBWkwzNjFfdVVOSzRtT1FJMW44WFd0Rm9ySU8ydUlvaG5nLVZKaTJWOFA0NlNjR0h0TU5DS3ljb2RwalNDOGk5c0RKcjdTbXowTjE5WkRMTEQ5LXdNaDJXVm5kSVc4bm1hUA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b07a3703a232"
     },
     {
       "date": "2026-09-18",
@@ -1213,33 +1237,141 @@
       "source": "Google News",
       "curated": false,
       "id": "03fe3a1f5a7a"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs releases Dubbing v2 model to enhance AI voice translation quality",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQndfMVlBMG9RM2tyLW5XelQ3VVdieUQ0NXRhRU5NYURRNy1CejdlVGpmWEgwck81c3RXelRqckJpdWRRY0RfVEFXS0JaU0hXYVk3TU1FU3FObG5Vek1xQV9DSUZMeE5NYmhjN1ROR3A?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "113650000d4f"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Stephen Curry's UNDERRATED Golf and Docusign Announce \"Where Deals Get Done\" Partnership",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPclVTRE9pbWI1V19wblYxS0xFdHpiMFZaTm53M1ZUbDBzU3JwV0dfMF92QVFjTmsya282R2cxQkp3c2NQeXhuZllYd0Q4ZGF3SmptcWdaeDJCcG96RC14ZUxnM0JiR1NDb0VpVUFFVEZrSHdGRmNzMUw5dGxhRkUyZUZZMWhacGp6MjJ5NWRzcVYySC1DRldoTndKTnVrRmJudXJ0ajFwbGNQVDY2aUoyQzBveFhvRk1VR3VOa2tMRTFqSHAzTUVrd3pRVUZQYkJNLUgtRkt1RlA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "595baf741601"
     }
   ],
   "items": [
+    {
+      "id": "652c0b1065a9",
+      "title": "LinkedIn’s Creator Monetization Expansion",
+      "url": "https://neilpatel.com/blog/linkedin-creator-monetization/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways LinkedIn has long been a place for professionals to build their networks and share industry expertise. Now, the platform appears to be preparing to give creators more ways to turn that expertise into a business. Leaked internal documents reportedly reveal plans for…",
+      "category": "SEO",
+      "published": "2026-09-21T16:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "8d2523c1e897",
+      "title": "Shopify CEO Warns AI ‘Slop Grenades’ Shift Work To Coworkers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/",
+      "source": "Search Engine Journal",
+      "summary": "Shopify CEO Tobi Lütke says unreviewed AI output is landing on coworkers. Freelance marketplace data shows demand for AI cleanup work rising elsewhere too. The post Shopify CEO Warns AI ‘Slop Grenades’ Shift Work To Coworkers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-21T15:14:46Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "148df89c7826",
+      "title": "Google Lighthouse Adds Audit For AI Agent Resource Discovery via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/",
+      "source": "Search Engine Journal",
+      "summary": "Lighthouse 13.5 adds an audit for AI agent resource discovery, but its checks differ from the latest ARD proposal. The post Google Lighthouse Adds Audit For AI Agent Resource Discovery appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-21T14:32:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "19363185fa5c",
+      "title": "Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/agentic-commerce-is-not-the-next-voice-shopping-but-it-is-still-unproven/589439/",
+      "source": "Search Engine Journal",
+      "summary": "Visa, Mastercard, PayPal, and Stripe name no live merchant. Google names three. Here is what the agentic commerce documentation still refuses to say. The post Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-21T14:30:37Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3cf3a0b9be3c",
+      "title": "Managing the AI mandate upward",
+      "url": "https://www.growth-memo.com/p/managing-the-ai-mandate-upward",
+      "source": "Growth Memo",
+      "summary": "69% of senior executives use AI less than 1 hour a week. But they’re often setting your team's AI automation agenda anyway.",
+      "category": "SEO",
+      "published": "2026-09-21T12:07:17Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a82f2abd08cb",
+      "title": "How To Build Local Pages AI Systems Can Find And Trust via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/how-to-build-local-pages-ai-systems-can-find-and-trust/588097/",
+      "source": "Search Engine Journal",
+      "summary": "AI ranks passages, reads alt text, and cites whatever numbers you publish. Practical rules for local service pages from SEJ Live. The post How To Build Local Pages AI Systems Can Find And Trust appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-21T12:00:25Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a7ca59844a94",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "category": "SEO",
+      "published": "2026-09-21T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "a0416f1d0718",
+      "title": "Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/",
+      "source": "Search Engine Journal",
+      "summary": "Is Google lying about AI Search? New research shows AI Mode decreases clicks and it gives a poor user experience. The post Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-21T11:47:17Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "2c9792fbb14a",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "category": "SEO",
+      "published": "2026-09-21T10:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "6b45bdc042a6",
+      "title": "AI citation outreach: a Semrush & Claude workflow",
+      "url": "https://www.semrush.com/blog/ai-citation-outreach/",
+      "source": "Semrush Blog",
+      "summary": "AI answers pull brand facts from the pages they cite. Use Semrush data and Claude Code to get on those pages.",
+      "category": "GEO",
+      "published": "2026-09-21T09:49:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "530db518a73a",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "category": "SEO",
+      "published": "2026-09-21T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "d1749ba76a98",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "category": "GEO",
+      "published": "2026-09-21T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "7e8067d6fe4e",
       "title": "Programming Note: Offline Monday For Yom Kippur 5787",
@@ -3857,138 +3989,6 @@
       "published": "2026-09-07T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "a8e8f9dc895a",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "category": "SEO",
-      "published": "2026-09-06T09:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "19672c4832d4",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "category": "SEO",
-      "published": "2026-09-06T08:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "5dd3eab1320f",
-      "title": "Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/",
-      "source": "Search Engine Journal",
-      "summary": "Google says Search Console AI reports are now worldwide, and John Mueller weighs in on recovery timing, markdown for AI crawlers, and sitemap cache-busting. The post Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-05T12:30:53Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0598379872b9",
-      "title": "Google Ads Tests Serving Search Ads With Restrictive Match Types In AI Mode",
-      "url": "https://www.seroundtable.com/google-ads-serving-restrictive-match-types-ai-mode-42024.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has confirmed it has recently begun running a \"small experiment\" where it is serving regular pure Search campaigns with restrictive match types in AI Mode. Ginny Marvin, Google's Ads Liaison, told me, \"This is a small experiment that recently kicked off.\"",
-      "category": "GEO",
-      "published": "2026-09-04T18:50:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "b7a074a3b885",
-      "title": "How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/",
-      "source": "Search Engine Journal",
-      "summary": "Learn which AI visibility metrics matter, how to prioritize your next steps, and the tactics that win more citations in AI answers. The post How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-04T18:08:42Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "00a165e18720",
-      "title": "Meta Tags for SEO: What They Are, Why They Matter, and How to Use Them",
-      "url": "https://neilpatel.com/blog/why-meta-tags-are-so-important/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways What does the term “meta tags” cover, and which ones matter for SEO? Some of the advice out there is outdated, and plenty of tags that sound important don’t really affect your rankings. This guide covers the meta tags for SEO that influence how search engines and…",
-      "category": "SEO",
-      "published": "2026-09-04T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "aeb279e2a8f1",
-      "title": "Google Job Search Not Showing New Jobs?",
-      "url": "https://www.seroundtable.com/google-job-search-bug-42022.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google may have a bug with its job search feature because it is barely showing any new jobs within its search results. This has been happening for the past week and it is unclear why.",
-      "category": "SEO",
-      "published": "2026-09-04T15:12:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "baae30e7d27c",
-      "title": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
-      "source": "Search Engine Journal",
-      "summary": "Getting surfaced in ChatGPT is the easy half. Three checks every retailer should run before connecting a fourth agentic commerce protocol. The post Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-04T14:30:02Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "92b94970a9b8",
-      "title": "How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find)",
-      "url": "https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/",
-      "source": "Search Engine Journal",
-      "summary": "Explore how to improve your brand's visibility in AI search results and understand ranking discrepancies with traditional methods. The post How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find) appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-04T13:57:33Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3a0351e8738d",
-      "title": "Search News Buzz Video Recap: Google Ad Tech Monopoly Wonât Be Broken Up, AI Mode Takes Over, Gemini Not Citing, AdSense Impression Changes & Bugs",
-      "url": "https://www.seroundtable.com/video-09-04-2026-42015.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week, we covered how Google for the second time dodged being broken up, this time over its ad tech monopoly. Google AI Overviews are expanding by default...",
-      "category": "GEO",
-      "published": "2026-09-04T12:01:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "5b637cd2819d",
-      "title": "People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/",
-      "source": "Search Engine Journal",
-      "summary": "Research shows how people can keep using Google while making fewer traditional searches and clicking through to fewer websites. The post People Aren’t Leaving Google For AI. They’re Using Both appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-04T12:00:01Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7a585e94e183",
-      "title": "New Google Business Profiles Submit A Business Photo For Verification",
-      "url": "https://www.seroundtable.com/google-business-profiles-business-photo-verification-42019.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Business Profiles seems to be adding a fifth way to verify your business, this new method is by submitting a photo of your business location. The other methods are phone or text, email, live video call or a postcard in the mail.",
-      "category": "SEO",
-      "published": "2026-09-04T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
