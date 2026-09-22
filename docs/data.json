@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:41:05Z",
+  "updated": "2026-09-22T09:06:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -699,6 +699,18 @@
       "id": "570299ac3727"
     },
     {
+      "date": "2026-09-17",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXhlM0tZcVZSNnlvOFhvbXU0NXBDVzBBZmFWdVZidDlqRlAtS0V6VHl6OVVpVjJET2ZweDNhT2E1Z2FLVzE3elFfaXh5YVV3SVlqNE43bFAzejdLSFlVUFpZc1NtSm1HeGFFeTljSm0tUnpzR2NRaWxCWGVVcUFNWEhOVkxkTG9zZ0RSbTJDTGc4RHg5Slg3THlHU3E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f6c57894eb31"
+    },
+    {
       "date": "2026-09-16",
       "company": "Affinity",
       "front": "Creative",
@@ -1155,6 +1167,18 @@
       "id": "afca0f73b7ca"
     },
     {
+      "date": "2026-09-12",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$3B · $23B",
+      "title": "The Boring Company Raises $3B at $23B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWN6cjZST2I2TnZDdHFvZTB6RVRNQkNYTmRnZkVQeDc1aXVkcG1FRHozWlhib3lEUXZDR1U2WGRDZW92SkZyMHU3ajNsRjRLVEJhUEN1a3h5Wm1rNVBzams0eTgyQUFqVFhCYnFKREtORGx1ME9xbDNsdFBzV2pGcW9sbjBCSGZfaGZZa2h0dDY?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f69bdd4ca967"
+    },
+    {
       "date": "2026-09-11",
       "company": "Freepik",
       "front": "GenAI Media",
@@ -1213,33 +1237,20 @@
       "source": "Google News",
       "curated": false,
       "id": "d3cbd35e342d"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "The One Club and CapCut Announce Major Global AI Partnership",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1uQ2tDOGQyXzdkeXdhbi1odUVXdWRoTGRuQ3VnRjJLQmVVcmF4UHh3SUZfVk9iVnZpdURVbHd0ZjZpb3dIWU1BemdENTJHQjZEUGw2U1FKOHozRWNoUWxGM01ITDI5VHMxYlRIOExHdVgtbGdUcVRDQmc5VDVGWGNJNjl0MTZVMnFwOE5xakMxa2ZkRHdSaWxtNkJvWm1GNWozUA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8868ae869f03"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Universal Music Group and ElevenLabs inks AI-powered music platform partnership - Mi-3.com.au.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUVhcE1BYlJ1NmRkNmVkUGN1RlByVC1DOHJJZXRJNGlaQ3pRa3ZzV2IyNjFCT3pTUjItbGJXVm1nYmdHOXFYNHpSU3QxYkxLSm9LV2NJVDZsc0hCTF9POEpINHpsNnRITTBfUFB0a2dtdlJJMnFXZ0R2UV9Va2d3bktfNXNWQVNNd1M3Nk5KZVotTGJyaE1wOV9NajdlZWVGbWpaNmRzUWVHRkg0QVBuWEZEelo?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "16cb35e57268"
     }
   ],
   "items": [
+    {
+      "id": "49004aa0306c",
+      "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
+      "source": "Search Engine Journal",
+      "summary": "Google Analytics supports Include data filters for hostnames, so a property can keep event data from approved domains instead of excluding spam one by one. The post Google Analytics Adds Include Filters For Hostnames appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-22T08:06:17Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "ffce90addb6a",
       "title": "Job Boards Say Google Indexing API Requests Get No Response via @sejournal, @MattGSouthern",
@@ -3978,17 +3989,6 @@
       "published": "2026-09-07T11:31:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "cbaa006fb884",
-      "title": "Google Shopping Ads Have A Reverse Crocodile Effect With AI Overviews",
-      "url": "https://www.seroundtable.com/google-shopping-ads-imp-ctr-42021.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Since Google added AI Overviews to Google Search, many of us have been experiencing what some call the crocodile effect, also known as the great decoupling. But according to new data, the opposite may be happening with Google Shopping Ads.",
-      "category": "GEO",
-      "published": "2026-09-07T11:21:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
