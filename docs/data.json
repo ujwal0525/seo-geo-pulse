@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T09:06:01Z",
+  "updated": "2026-09-22T16:26:13Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -519,6 +519,54 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-22",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Affinity Workforce Solutions acquires Training Toolz in first move beyond recruitment",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOWhQQWRZMnlnejBJN25JNlFBTlo4dWxiWmduV2xGc3hIWXVEazNwQ1JpWlhJU0FEd2J3Q1B0VkxaNkk2Q0YyN2NDaS1lR2JGVDVWME5IYU5ZX1FBanhnZjhvTlc5eVdBYjdQcW5WaTgzM2V2TWgybk1HdHhqM2pHYndPeUdXWVVPUnF3LWduSm9BRDdXdjR0TWw4YlNIX1NNWlg1eVZ0YVRRTExQYUJnZEc4S1d5ZVhsOC1oZ2ZR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "36b252e9b6ed"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "PandaDoc",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "PandaDoc Launches Contract Lifecycle Management Built for Growing Businesses",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVXduUUtSakR2THgtRndOY25UYXJiVXlHbFZvY0dtdkpKTVl0UXc3eXAwaUs2UDhaV3JzZXExLWFOeUJkR093eUlxQXd2SWRZZXlWYkFmR0ZGdXowRDhGWUdYRWtQTnA0U3JlY0ZPV194VnBOSy1GaV94Mk55UjQ0cDVZNml5WGM2YnNJdW0tcEhHb09UUmVEaWx0WHpWWTlqaHo1UFNVd29FcEtFVVQzeElNVE9uT25OS2JYOUZPTE13X3lIQVFLazhFb3o5UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "520256defb94"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "UPDF",
+      "front": "Documents",
+      "move": "Partnership",
+      "detail": "",
+      "title": "UPDF, URA Strengthen Strategic Partnership Through Transformational Leadership Course",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnBfRVAtWnFKY1RWemZuajJyeTQ5VGJURW5veU14V043OUV2bEM0RWl1bElOYWZFeFJQUWRPMDBwQ0VkQktFcTB1NlJoVWx5UGF6OEVKUldMbkFIWWNya0w0bmJnMWhGT21sb19MUkFhMmoyQmJDakZtXzdHNk84Y0JLMklUbTctMlRwZHdKaV9kaFdXT1ZVSXZoOG9uM1lqbFpWaUNjZy1jSXZyNF8zci1YOUhjN2FsS0xJ0gHAAUFVX3lxTE1EQVF6eEJ2ZkNOajlNOU13OVJ5bTFhTWFBd0lfbHpqdVFfclJfQkhjY25fRnFXeFFqdkVnVEtpQzlnU0tDRWkwVVRBMVNldUhFTk5iZ20wMkFVRHE0Z1FiSXJqa2o4UkE5dTByQzd6dzBpMGYtT0ZBYnNYVFZiWVZXSDJVN08zbmIwZnpCX3gzSWdzVHZtNXlSY2lLNW5VRUNBTk9PcVZVV0E1YUVpOXNVdGJNdmRqTFVqRWlabjZ3UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "44abbbd759cc"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "CamScanner",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "CamScanner Debuts Apex 1 Pro, Its First Standalone Scanner, on Kickstarter",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2U5M2JHeFlUTXRncGE4bXQ5RnVUZ1F6a3NpdldCeVZJbTFLLVBMSjJaaEE0LVI2OFlUTUFBUy1WTk43cmhuMjNEemRfbTZLajc3dHBvVjJ3ZWU5djJLc0k5aHB6eTZ2WTRwWC1CZkpheDVqajJMbF95SXpiMVRxOEJqQTFpWHdhTzhBYi1OYmxSNmNEN1FoSHJxZVZvUDlPajVqY3JBX0hBcXc0bTA2SmNkemlNd3hqYWNnSFRGMzVMWkdmMzhN?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6800b8da5528"
+    },
+    {
       "date": "2026-09-21",
       "company": "Nitro",
       "front": "Documents",
@@ -541,6 +589,30 @@
       "source": "Google News",
       "curated": false,
       "id": "c469a418a824"
+    },
+    {
+      "date": "2026-09-21",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Creality Unveils AI-Powered 3D Printing, Laser Engraving and 3D Scanning Ecosystem at IFA 2026",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRzJpemEwblVHOVBycmk5MkR3VW54Rld1ZVIzZUhyS05BYXJJdWN0UmVTYjNIdDZyVUlPSzV2bU5TcklrN2ZRZ2RMdlQ5QmV1QVl6eFJPTkljVmlSUnVndUZQaWRtRUxjRmRYX1diT2pWN2h2bWlGS1FpUWhFMlYyQ2J0bTFiVUU2MS03ZmRWVWtTZV8yLXVIN1dfR1RmREJoa1JUUU9aLUxUNU1ROHJLZ2d0RjJCdXhmTmRjR09hbmktRmVXVk95VG04WVUxQkRONzJFajhUejNxdzA2TWRPcGpNSkozd1JnNjhvQjdrUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3bd2f84c9043"
+    },
+    {
+      "date": "2026-09-21",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Affinity 3.3 Revolutionizes Design Software with Over 60 New Features Thanks to Canva Partnership",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHllVDBhX1RLODdsa0VDUjBqd2Y0dHlOTVBPd1NMdm85REhzb00teHQ1b3BzWEp4WkdqOU9jN0VKV2FTMTRPUXBraDN4Y2Z1YkhwQi1pbnpSNUlaTndLMElnWjVWTUxPajc4WlduQzJYazNLR245V1N5TGY?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "df4591a49b60"
     },
     {
       "date": "2026-09-20",
@@ -1165,81 +1237,174 @@
       "source": "Google News",
       "curated": false,
       "id": "afca0f73b7ca"
-    },
-    {
-      "date": "2026-09-12",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$3B · $23B",
-      "title": "The Boring Company Raises $3B at $23B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWN6cjZST2I2TnZDdHFvZTB6RVRNQkNYTmRnZkVQeDc1aXVkcG1FRHozWlhib3lEUXZDR1U2WGRDZW92SkZyMHU3ajNsRjRLVEJhUEN1a3h5Wm1rNVBzams0eTgyQUFqVFhCYnFKREtORGx1ME9xbDNsdFBzV2pGcW9sbjBCSGZfaGZZa2h0dDY?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f69bdd4ca967"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "Freepik",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "LOOK: List of Philippine Holidays for 2027 Released",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TRy0wX00tV1VFSHlVQmNYQ0RIeHFiMFRKZElGTmlVU3VKZTdMVS16Sy1IbkZQbG5pWkprTHBpNEdoNFRteHp2QURHVjRSVVFiWkUwMjRoeEdPUEF5ZU1JRWZsMm9UNFA4OU5nYQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1d4206c05673"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Universal partners with AI startup ElevenLabs -",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43cTVnbDhhYy1TVHF2blBmeWZsTGplanFnd29kRVVQU0xCX01QYXdpTGVxZzdMQWRnUDQ3Q3RJcTZXQmpWbjVFQndiNjlleFhmdkhtX296aVVNYWZ6cTZ1LTU5TWN5eHJnNzQtUGpB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2cea2894e6aa"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "Photopea",
-      "front": "Creative",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Google Trends: ‘ChatGPT Download’ surges across India as 1980s AI photo trend goes viral",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVlCRFpndUhIb09wRXpKcnBCVzVpZEdGYUZYa2RpdlpEVFZxTGN4SUh6RFFuSktScU84OVY0WUNRTkV5dmJ6emY1RnB0U0lyeHJMNF9TYWswNXJjVGlhcE5fWUVmemdzZ0x4YWxqU296T0c0WWdLZWpSSGRQTFBsaU1rMzltcWV4SGpzMDZEcW5STm9jc0RpOHRDY3VwaW9vMlRLd2pXZjYxZ05UVTVmU1RsVE16c2Y5VjIyLUtFUXB6Wm1GdFE1NXhKMzZBX2VXa3JEYVhZVU83eEXSAeIBQVVfeXFMTjZCaVNrQzVFdmRQb2FPUHhDVzFCendaVUJvV2NJUzF6eS1lcUNMYUc3eXhaSUo2ek9DQlA4LWpKbFN4ZWVtQ1h0MHhGWUJXaGQ3TkV3Ym54Y3JwbFNYeDFVenJpNk5RMVBFQUJWc0pHMEUzQ3p0U01fb3VVREtQOVFqdGt2dkxqR0h1bVZqRXFRelJ2dlZ4MVFETUNRRDVjU0FELXduY2FyeGZTelZfSEM2ZXVIMklsUS1nRXFHU212NUtfcjRLMEtDR01veWhXNmg1UjN6WC1DUE5UejFzY09vdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f8f624d8b361"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "FLUX Video Edit, an AI-powered video editing tool, has been released, allowing users to edit only specific sections of a video.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfVzE2MHRDb1JiWjE1RHpKQ1pWQ0dlQTVQamZ6RE1RcHd5TzJmWWxfQmxSekI4aTg5ODJySXpOZzMzYkpnUGJGbmtNY3BvekVRb1BvMTNRYm5PUU5kQkhuYWZWWEZWRGhUSHc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8a36d27940c2"
-    },
-    {
-      "date": "2026-09-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Launches Music v2.5 Commercial Model with Thicker Melodies, Closer-to-Life Instruments, and Deeper Arrangement Layers",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tVF9TdkZGZFFsWEJlY0FMeXVWR1pnNV83cHY0OXpJcHltc2pqY3U5cXN1aE9yWmQ1c1poNDZ3bFNZMVd4LUtTcm1nd0ZPTVZpbDI1VGdIOVA0bUtLbElBc0dlQW54U0xjTEF4djlEdzhpanZr?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d3cbd35e342d"
     }
   ],
   "items": [
+    {
+      "id": "ed800c4b3437",
+      "title": "Which Fintech Brands Win in AI Search? We Analyzed 68,000 Answers to Find Out",
+      "url": "https://neilpatel.com/blog/fintech-ai-visibility/",
+      "source": "Neil Patel",
+      "summary": "Key Findings Note: Note: Our AI Visibility Score is a 100-point measure combining how often a brand appears in AI answers, how early it’s mentioned, and how many categories it shows up in. “What’s the best budget tracking app?” “How do I send money to friends and family?” These…",
+      "category": "GEO",
+      "published": "2026-09-22T16:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "b2c2ff0aeabc",
+      "title": "Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode & Gemini",
+      "url": "https://www.seroundtable.com/google-native-checkout-emails-42140.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is sending email notifications to Google Merchant Center users if their e-commerce platform supports Universal Commerce Protocol (UCP) and if so, telling them that \"your products are now eligible for native checkout.\" This means that your eligible products are…",
+      "category": "GEO",
+      "published": "2026-09-22T15:20:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "1d602ae05e50",
+      "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
+      "url": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/",
+      "source": "Search Engine Journal",
+      "summary": "Decide whether Google Ads Customer Lifecycle Goals fit your business, and avoid settings that inflate ROAS or exclude valuable prospects. The post Customer Lifecycle Goals: The Good, The Bad, The Ugly appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-22T14:30:28Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8099a808584b",
+      "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/",
+      "source": "Search Engine Journal",
+      "summary": "Fiverr's holiday survey finds more of its search freelancers reporting rising GEO requests than Google-ranking requests, though most still back SEO long term. The post GEO Requests Rise Among More Search Freelancers Than Google SEO appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-22T14:05:38Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "3558ba4ebc31",
+      "title": "Daily Search Forum Recap: September 22, 2026",
+      "url": "https://www.seroundtable.com/recap-09-22-2026-42134.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-09-22T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f06f28439daf",
+      "title": "Cutting AI Compute by 34% Without Losing Control: The Reverse Information Paradox",
+      "url": "https://wordlift.io/blog/en/cutting-ai-compute-governance-benchmar/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "Every AI system pays for intelligence twice: once in money, once in the knowledge it consumes to work. This benchmark shows what happens when that intelligence moves into a governed knowledge layer instead: 34.2% lower compute, no loss in accuracy. The post Cutting AI Compute by…",
+      "category": "SEO",
+      "published": "2026-09-22T12:40:33Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "94d2cfde9e6b",
+      "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler",
+      "url": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
+      "source": "Search Engine Journal",
+      "summary": "Buying groups arrive with vendors already chosen. AEO cannot fix a shortlist formed months earlier. Three steps to build brand consideration before research begins. The post 3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist appeared first on Search Engine…",
+      "category": "GEO",
+      "published": "2026-09-22T12:00:42Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0e5ac71c7880",
+      "title": "Gemini Notebook Pages Spamming Google Search",
+      "url": "https://www.seroundtable.com/gemini-notebook-spam-google-search-42136.html",
+      "source": "Search Engine Roundtable",
+      "summary": "It looks like spammers are taking advantage of Gemini Notebook, public NotebookLM, pages to spam Google with all sorts of content. This includes pages on sex toys, porn, peptides, coupon codes and more.",
+      "category": "GEO",
+      "published": "2026-09-22T11:52:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "84c4bc0a4c95",
+      "title": "Google AI Overview Links Pushing You To AI Mode Over Web Pages",
+      "url": "https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is placing links, normal looking links, within the AI Overviews that take you into AI Mode instead of taking you to web pages and web sites. These links appear at the bottom of the AI Overview and prompt follow-up questions that take you into AI Mode.",
+      "category": "GEO",
+      "published": "2026-09-22T11:51:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "6f03d75faac3",
+      "title": "Google Merchant Center Updates Requirements For Google Store Ratings",
+      "url": "https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google added a new section to the Google Store ratings: An overview for Merchants within Google Merchant Center detailing the requirements for Google Store ratings. This was added a week or so ago, and it says you need at least 100 reviews, an average star rating of 3.5 to 5, a…",
+      "category": "SEO",
+      "published": "2026-09-22T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a72dded21e88",
+      "title": "Google Business Profiles Permanently Closed Option Gone?",
+      "url": "https://www.seroundtable.com/google-business-profiles-permanently-closed-42121.html",
+      "source": "Search Engine Roundtable",
+      "summary": "In Google Business Profiles, businesses can go in and mark their business as \"Permanently closed.\" But it seems that option went missing a few days ago. I no longer see it as an option, along with the option to select \"temporarily closed\" and some others.",
+      "category": "SEO",
+      "published": "2026-09-22T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "cc659a1d451a",
+      "title": "Google Business Profiles Email: Detected A Spike In Spam Reviews",
+      "url": "https://www.seroundtable.com/google-business-profiles-spike-in-spam-reviews-42123.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is now sending out Google Business Profile email notifications when its spam systems detect a spike in spam reviews on your Business Profile. The email says, \"Protecting your Business Profile from spam reviews,\" and adds, \"Google has detected a spike in spam reviews on…",
+      "category": "SEO",
+      "published": "2026-09-22T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "11f3038ca0eb",
+      "title": "Google Sponsored Results Sitelinks Tests More From Advertiser Name Title",
+      "url": "https://www.seroundtable.com/google-sponsored-results-sitelinks-titles-42122.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search is testing placing a title above the sitelinks for the sponsored results, the title says \"more from [advertiser name goes here].\" I think it makes it super clear where these sponsored links go to, but it may be a bit overkill.",
+      "category": "SEO",
+      "published": "2026-09-22T11:11:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "ddc56cfd40a0",
+      "title": "Google Ads To Run Gun Accessory 6-Month Pilot",
+      "url": "https://www.seroundtable.com/google-ads-gun-accessories-42133.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads will allow some gun accessory ads to run in the United States starting in October 2026 for six months. The \"limited pilot\" of gun accessories includes bipods, sights, slings, mounts, and braces.",
+      "category": "SEO",
+      "published": "2026-09-22T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c7a2e0314b8b",
+      "title": "Google's AI contribution pilot pays publishers",
+      "url": "https://www.semrush.com/blog/google-launches-ai-contribution-pilot/",
+      "source": "Semrush Blog",
+      "summary": "Google‘s AI contribution pilot pays invited publishers through Search Console. Citations and links in AI answers don‘t qualify for payment.",
+      "category": "GEO",
+      "published": "2026-09-22T10:22:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "49004aa0306c",
       "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
@@ -1624,17 +1789,6 @@
       "published": "2026-09-18T14:04:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "803a41706886",
-      "title": "Daily Search Forum Recap: September 18, 2026",
-      "url": "https://www.seroundtable.com/recap-09-18-2026-42117.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-09-18T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "bbbfcb402815",
@@ -3835,160 +3989,6 @@
       "published": "2026-09-08T10:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "7cb7e89eeda8",
-      "title": "Growth Intelligence Brief #24",
-      "url": "https://www.growth-memo.com/p/growth-intelligence-brief-24",
-      "source": "Growth Memo",
-      "summary": "Amazon hits a record low, the IRS loses 60% as Google drops PDFs, AI Overviews open as full AI Mode answers, YouTube and Facebook bounce, Reddit and TikTok slide",
-      "category": "GEO",
-      "published": "2026-09-08T09:27:40Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "99c22bc85dd5",
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "source": "OpenAI",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "category": "SEO",
-      "published": "2026-09-08T09:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "c054f65c4079",
-      "title": "GPT-4o Answers Above 77% Internal Confidence and Abstains Below It",
-      "url": "https://dejan.ai/blog/llm-confidence/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "GPT-4o abstains below roughly 77% internal calibrated confidence. Steering that confidence in Gemma 3 27B swung abstention 59.5 percentage points, with an effect roughly ten times larger than question difficulty or retrieval scores.",
-      "category": "GEO",
-      "published": "2026-09-08T08:55:16Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a5ef9cac6351",
-      "title": "Search Central Live is coming to Bogota and Ciudad de México",
-      "url": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
-      "source": "Google Search Central",
-      "summary": "Leer en español",
-      "category": "SEO",
-      "published": "2026-09-08T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "671a9fed35e2",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "category": "SEO",
-      "published": "2026-09-08T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "9816f5beea82",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "url": "https://openai.com/index/1password",
-      "source": "OpenAI",
-      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "category": "SEO",
-      "published": "2026-09-08T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6d5963b49569",
-      "title": "Brex ranks #1 on Google. AI recommends someone else.",
-      "url": "https://foundationinc.co/lab/vol-308",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Brex ranks #1 on Google for “business credit cards for startups.” Their Spend Trends library has nearly doubled in traffic value to $536,000. The AI Overview sitting above that #1 result draws on a Reddit thread and cites Nav instead. This happens because AI engines treat SERP…",
-      "category": "GEO",
-      "published": "2026-09-07T18:00:31Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a88818a8effe",
-      "title": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/",
-      "source": "Search Engine Journal",
-      "summary": "Harvard scored 940 occupations on how morally objectionable the public finds automating them. Search marketing scored low at 2.31 out of 7 The post Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-07T14:30:22Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "56758d49ae47",
-      "title": "Topic clusters for SEO: what they are & how to create them",
-      "url": "https://www.semrush.com/blog/topic-clusters/",
-      "source": "Semrush Blog",
-      "summary": "Topic clusters help you earn visibility in search engines and on AI search platforms. Follow these 5 steps to create them.",
-      "category": "GEO",
-      "published": "2026-09-07T12:58:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "d3a970c2f8aa",
-      "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO",
-      "url": "https://www.seroundtable.com/google-lose-faith-42032.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller went off again on programmatic SEO, this time saying that programmatic SEO can \"often leads to a site that's either spam, borderline spam, or low quality,\" he wrote. These tactics can often lead Google's \"systems have possibly lost faith in your site…",
-      "category": "SEO",
-      "published": "2026-09-07T12:37:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8593e995c627",
-      "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
-      "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
-      "source": "Search Engine Journal",
-      "summary": "Publishing more content won't fix what AI gets wrong about your brand. Too many versions of the truth is the real problem. The post Your Biggest AI Search Risk Is Conflicting Information About Your Brand appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-07T12:00:11Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f188e33494cf",
-      "title": "New Google Ads Automated Promotions",
-      "url": "https://www.seroundtable.com/google-ads-automated-promotions-42006.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads posted a new help document about automated promotions that describes how Google Ads can and does automatically identify and apply active promotional offers directly from your website.",
-      "category": "SEO",
-      "published": "2026-09-07T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "29704d5574e3",
-      "title": "Google Search Booking Partner Prices Are Customized",
-      "url": "https://www.seroundtable.com/google-booking-partner-prices-customized-41935.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's new DMA booking search widgets now carry a disclaimer to explain that the prices listed in that block are customized \"based on factors such as your device type.\" It is unclear what other factors are being used outside of \"device type,\" but you'd have to assume the users…",
-      "category": "SEO",
-      "published": "2026-09-07T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b569687d53f6",
-      "title": "Google Merchant Center Shows AI Prompts For Top Performance Insights",
-      "url": "https://www.seroundtable.com/google-merchant-center-ai-prompts-42023.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google accidentally showed the prompts it uses for some of the insights reports within Google Merchant Center. Instead of providing an easy-to-digest summary of the top product that drove your performance within Merchant Center, it spit out the prompts and actions, like…",
-      "category": "GEO",
-      "published": "2026-09-07T11:31:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
