@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T16:26:13Z",
+  "updated": "2026-09-22T22:46:38Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -24,6 +24,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-09-22",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "1b1f7660aacb"
+    },
     {
       "date": "2026-09-15",
       "family": "model",
@@ -565,6 +575,18 @@
       "source": "Google News",
       "curated": false,
       "id": "6800b8da5528"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Introducing DIFFUSE: A New Hiring Platform for the AI-Native Creative Workforce",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aUjQtODBMSG5JdzZyU3NxYjM4WDVNSW9qc2pDcFNUYUtoYkFRblU1a2RFN1hnZU1qNW14T2dMQVUxWTE0dGtsdzZORVJkTHpNZlRjM1RxNXpnd25KQmsyNmcteGpQNHM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f70d1c482c43"
     },
     {
       "date": "2026-09-21",
@@ -1225,21 +1247,53 @@
       "source": "Google News",
       "curated": false,
       "id": "2b8dde23fd35"
-    },
-    {
-      "date": "2026-09-12",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Video Generation Company Higgsfield Launches ChatGPT Dynamic Design Plugin",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95TF8xd0JjOFRnOXRiWFJjOC1TM0Jzd2dGcF9lbHN3RFBFbFZLWU9RT2JwdEY0aEMxcWdISm5nMzRJM0YzanlyTzA5bEZmRmJ5Z1I1VHZrNUlCTTBEemlNZTJrZU9HUXJlWkViZ2xuckRrSGk2?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "afca0f73b7ca"
     }
   ],
   "items": [
+    {
+      "id": "b6b1e4118cdb",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "category": "GEO",
+      "published": "2026-09-22T21:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "7277a0668da4",
+      "title": "Google Page Experience Docs Adds CrUX Ad Metrics",
+      "url": "https://www.seroundtable.com/google-page-experience-crux-ad-metrics-42141.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the understanding page experience in Google Search results help document to add the new CrUX ad metrics which launched last week. To be clear, Google did not say this is a specific ranking signal for search, the CrUX ad metrics line was added to the \"Page…",
+      "category": "SEO",
+      "published": "2026-09-22T19:15:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "9dca883a00ef",
+      "title": "Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/",
+      "source": "Search Engine Journal",
+      "summary": "AI search pulls from more sources than most SEOs track. Here's a tiered view of which data sources deserve your attention first. The post Which Data Sources Should You Care About For AI Search? appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-22T19:00:31Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "3d48e529ad7a",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "category": "GEO",
+      "published": "2026-09-22T18:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "ed800c4b3437",
       "title": "Which Fintech Brands Win in AI Search? We Analyzed 68,000 Answers to Find Out",
@@ -1316,6 +1370,17 @@
       "published": "2026-09-22T12:00:42Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "ce45d8dc0f6c",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "category": "GEO",
+      "published": "2026-09-22T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "0e5ac71c7880",
@@ -1415,6 +1480,17 @@
       "published": "2026-09-22T08:06:17Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "b4fb82cc1313",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "category": "SEO",
+      "published": "2026-09-22T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "ffce90addb6a",
@@ -3921,72 +3997,6 @@
       "summary": "Google is testing a new form of responses in AI Mode that offers paginated follow-up questions and responses, with a skip button to skip them.",
       "category": "GEO",
       "published": "2026-09-08T11:31:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "305f03a4aa6a",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "category": "GEO",
-      "published": "2026-09-08T11:30:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "3020e8f5e1e0",
-      "title": "Google Search Console Links Report Not Updated In A Month",
-      "url": "https://www.seroundtable.com/google-search-console-links-report-delayed-42034.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The Google Search Console link report has now not been updated for a month. The last time the report was updated with fresh link data was around August 8, 2026 - a month ago.",
-      "category": "SEO",
-      "published": "2026-09-08T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "16b117a9f134",
-      "title": "Google Tests Thinner AI Overview Citations Panel",
-      "url": "https://www.seroundtable.com/google-thinner-ai-overview-citations-panel-42040.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a thinner design for the citations/link panel on the right side of the AI Overview. The citations panel is noticeably thinner and may be less noticeable to searchers, maybe leading to fewer clicks?",
-      "category": "GEO",
-      "published": "2026-09-08T11:15:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "d7d9fee26747",
-      "title": "Google Business Profiles Email: Does This Look Right To You",
-      "url": "https://www.seroundtable.com/gbp-does-this-look-right-to-you-email-42030.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is sending out Google Business Profiles notifications to business owners asking if the user-suggested edit or update is correct or not. The email says, \"Does this look right to you?\" and then it shows the suggested update to your business, which you can mark as correct or…",
-      "category": "SEO",
-      "published": "2026-09-08T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7aadd366211a",
-      "title": "Google Shopping Ads With Number Sold Last Week",
-      "url": "https://www.seroundtable.com/google-shopping-ads-sold-last-week-42039.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is showing the number of sold items for a specific product in the Google Shopping Ads format. The ad has an extension added on it that says \"200+ sold last,\" or whatever number it might be.",
-      "category": "SEO",
-      "published": "2026-09-08T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fbb79928f7d9",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "category": "GEO",
-      "published": "2026-09-08T10:00:00Z",
       "coverage": 1,
       "impact": 6.0
     }
