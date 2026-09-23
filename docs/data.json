@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:16:13Z",
+  "updated": "2026-09-23T22:45:25Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -602,6 +602,66 @@
       "id": "1569f94457eb"
     },
     {
+      "date": "2026-09-23",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d4f7f75176b0"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs debuts FLUX 3 Action, tops RoboLab leaderboard",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NE40MXd5SGYxLTNWZUxZQlhpcV9JZkVNb1VNSDhrUUFHd2Y0cWJXNGx1cjNqNWxyUXM3LTdsZ3JfbExEWEtUMTRuMUoyUmpONFNtNXhnYW5PX3U5N3BUT3VqWmRUbGRZTGF3RFhwOGN4Mi1xcEE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6afe14394aa0"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe’s Acquisition of Topaz Labs is Complete as Double Down on AI Enhancements Continues",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QaFlzTUFsZlpWZG5rQnQtZjZxbHlrYWYxYVhjTlp6ZmRaWk1laHdlY0lXME9ldU5NUzdmcklsUDJ6cGtfN2FwSkpTOFFpQlZ4WFVlTzRMZ2EyMHpVdFZz?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "08dbc9d96118"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe Acquires Topaz Labs: What Changes for You",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkhha0RiWHlNUUQwZXhnLVBQQUV4LXN6R18tN3dnV1QzT2V4eFg3MDhZdU5oYTRvb3lkYXI0UEhzd1QyaEhXSDUtdVNLb0R6U0NGWHJ4eWhNV203SmQ1UXRHdFEwX0ZLM2tKelZLelUyM3ZMR0dVR3pFNEtPeUVpbDFtd2Ezam53RUh4RTFPVlNVSkVLMnBvOEQ0MGp2Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "96113c0781a6"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Topaz Labs Acquired by Adobe: What It Means for Workflows",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VMVJULUg5cWxfdXpMdENCNDE5RVJWWjdLMl90TGxyMnJvQWE5RGVmTGhkbkVxWjVyckxSMXFPX1BoV0h3T2VhTWg0X2hMVkR1NlY1bGZjUTlKTnA1YnNYOW5JUEdNcE9CLVNkb21GYWw5T2lhN0FvVmtfdzZOWWM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "526bc7432c78"
+    },
+    {
       "date": "2026-09-22",
       "company": "Affinity",
       "front": "Creative",
@@ -1188,69 +1248,42 @@
       "source": "Google News",
       "curated": false,
       "id": "11d6ae897b78"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kling AI Launches Kling 3.0: Kuaishou's AI Director Platform",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXBsY25rbng2YU02QUNXN1RkZ1BrMHJlU2Y0RUozNzF5eDFPSk80eWRsMnFzcGxLV1ptb1NyZTJSWEhUZ25WcnJXVVRwVnBFMGVVU24zYlB3RVdmVGNsUGs1RDRGNlJZOWxodVlJOTBrTGFtSjlUVDgzMFBaQ1k2dnRfNzBJSHVZdy10N1d2M3gwbkNWenRYQTVmcw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1d3a33b5de40"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "UMG, ElevenLabs announce AI music licensing partnership",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlk4QTZ6R3dKSGo5MV8zNHI1aFVleDNoSnU1UF91VmZ6ODNnNGJUb1pFTVp2dWpYZFFsR3N2c0xsSmkxT2M0ZXNSak9penJEOVdwUi05dzQyWTVqRDI2eXhvbV9BWkk3UnBFNWhXUGxwTU55TG51T3FVSms0elNGdklpb2xCaXpIZklzTFhaZFBGOUJW?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "620d5d5a966d"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Content Giants Sue Free AI, Invest in Paid Collaborations",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzlyM3BERlg1TTR1bG5PYVJSNzVpN1VhX21PRlZJSnM5Rm5rSlQ4LURxZndhNF9Remc2OTJyRUIyY1ByQVhfZ0hJUjVIOUVEZ3JsYUM4TEhTT1dzREpoNjRubGNjVXdQUnVCMWg1cmtubFBUSnctU0lOSU0teVpYQlRSUUduWlFI?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1e2a64e535d9"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs unveils ‘Music v2.5’ – but UMG wasn’t involved",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbjdzSWZ1dkM2VUpJS09FQkZKTk5veEY1ZXRvdDlQUXF0anFNQ1dhanNKYzhKZUxPbTcxNl94TjQ5NlUyM1FtVlRETHRicm5VZ1VRcVNkcXRmS3pRLW5xSEJVMENNdThCaTI4SEVpb1dYclF2UnhLNkRaaFZrUUZ2MmpxdGNnYlN6MWt0YmdKZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0b50576746ad"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Launches 'Best Ever' Music Model, But Not With UMG",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzbFloVXBOeS1aeEZ1czBJTkF3YjV0WWMycmNmNE54cHVKa3dmcC04N1IzV3BwZ3p2eGFQZU9zM2U4TDRSeWFnSnFaMHVPQVJXMnJXOWJxVUFMcmdmMFhVcUVtN2JGY2lraXd3TnZnM3ptQmN0S0E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f34163408d0d"
     }
   ],
   "items": [
+    {
+      "id": "5ec45c1abd1b",
+      "title": "YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
+      "source": "Search Engine Journal",
+      "summary": "YouTube is adding shopping features to Ask YouTube, which may organize product review videos into a comparison table and answer questions on watch pages. The post YouTube Adds Shopping Features To Ask YouTube AI Search appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-23T22:37:15Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "5b6488512fd5",
+      "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/",
+      "source": "Search Engine Journal",
+      "summary": "OpenAI and Go Fish Digital unpack ChatGPT ads, earned AI visibility, practical GEO measurement, and what marketers can test next. The post ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-23T19:08:12Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "2be21dcdeeaa",
+      "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now",
+      "url": "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/",
+      "source": "Search Engine Journal",
+      "summary": "Use Amazon Marketing Cloud's extended purchase history to set acquisition budgets, identify valuable customers, and retarget shoppers beyond the old 13-month limit. The post Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-09-23T19:00:57Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "9d02eeb8cef1",
       "title": "Two years of OpenAI Academy",
@@ -1316,6 +1349,50 @@
       "published": "2026-09-23T12:00:37Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "01d4e543c941",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "category": "SEO",
+      "published": "2026-09-23T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "f7558dc5c9de",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "category": "GEO",
+      "published": "2026-09-23T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "7357353a1f1d",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "category": "GEO",
+      "published": "2026-09-23T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "7cff1964bf19",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "category": "GEO",
+      "published": "2026-09-23T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "7140fc825e14",
@@ -1395,6 +1472,17 @@
       "impact": 4.0
     },
     {
+      "id": "1d5a9cc2d950",
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI",
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "category": "SEO",
+      "published": "2026-09-23T10:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "efd6e2538866",
       "title": "How to conduct an AI visibility audit with Semrush",
       "url": "https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/",
@@ -1437,6 +1525,17 @@
       "published": "2026-09-23T05:30:47Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "73fafdf6f45f",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "source": "OpenAI",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "category": "GEO",
+      "published": "2026-09-23T01:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "09a0c6dbf1c6",
@@ -3901,105 +4000,6 @@
       "published": "2026-09-09T12:00:30Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "51e5ef266fc7",
-      "title": "Google: Sometimes There Is No Absolute Right Answer For SEO",
-      "url": "https://www.seroundtable.com/google-no-absolute-right-seo-answer-42048.html",
-      "source": "Search Engine Roundtable",
-      "summary": "John Mueller has one of his Google lines again, he said in response to someone trying to pick the right answer for an SEO question - he said, \"Sometimes there is no absolute right answer -- but you can choose one, and make it the right answer.\"",
-      "category": "SEO",
-      "published": "2026-09-09T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c480be8717c9",
-      "title": "Google Merchant Center AI Performance: AI Search Intent, Terms & Attribution",
-      "url": "https://www.seroundtable.com/google-merchant-center-ai-performance-new-42043.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The Google Merchant Center AI Performance Insights which launched in July and has begun expanding to more regions earlier this month has also gained new metrics. AI Search intent, AI Search terms and AI attributes have been added to the Google Merchant Center AI Performance…",
-      "category": "GEO",
-      "published": "2026-09-09T11:41:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "5a9ba49e266e",
-      "title": "Google Ads Local Customer Optimization & Store Sales In Data Manager",
-      "url": "https://www.seroundtable.com/google-ads-local-customer-optimization-store-sales-42045.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is releasing two new features for multi-location retailers including Local Customer Optimization and Store Sales in Data Manager. Ginny Marvin, the Google Ads Liaison, wrote on X, \"Ahead of the holiday rush, we're introducing two features for multi-location retailers…",
-      "category": "SEO",
-      "published": "2026-09-09T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5fc5d5cc6d2e",
-      "title": "Almost 100% Of People Also Ask Results Are Answered By Google AI Overviews",
-      "url": "https://www.seroundtable.com/ppa-ai-overviews-google-42047.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is now answering nearly 100% of all people also asked questions with AI Overviews. 14 months ago, it was only at about 12% but now we are seeing thar nearly all People also ask sections are answered by AI Overviews.",
-      "category": "GEO",
-      "published": "2026-09-09T11:21:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "5b7df29a62ed",
-      "title": "Google Ads Location Asset Requirements Update",
-      "url": "https://www.seroundtable.com/google-ads-location-asset-requirements-update-42046.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated its location asset requirements for Google Ads. Google said it made these updates to \"improve terminology, enhance readability, and include troubleshooting steps applicable to advertisers using location assets.\"",
-      "category": "SEO",
-      "published": "2026-09-09T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "587a70348a73",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "category": "GEO",
-      "published": "2026-09-09T11:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b6c4ec9f3127",
-      "title": "Google Confirmed Indexing Reporting Bug From Yesterday As Short Blip",
-      "url": "https://www.seroundtable.com/google-confirmed-indexing-reporting-bug-from-last-night-42051.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Yesterday, for a short period of time, Google Search Console was reporting pages as not being indexed and in the status of \"Crawled - currently not indexed.\" The issue seemed to have been resolved within an hour or so and now John Mueller from Google confirmed what we all saw…",
-      "category": "SEO",
-      "published": "2026-09-09T09:59:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "a566baa1a7a9",
-      "title": "How to build your first AI SEO agent (full walk-through)",
-      "url": "https://www.semrush.com/blog/seo-ai-agent/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to build an AI SEO agent from scratch to automate important tasks like keyword research and topic clustering.",
-      "category": "SEO",
-      "published": "2026-09-09T09:38:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "e444f60db7e7",
-      "title": "9 best AI search engines in 2026 [tested & reviewed]",
-      "url": "https://www.semrush.com/blog/best-ai-search-engines/",
-      "source": "Semrush Blog",
-      "summary": "We reviewed the best AI search engines so you can choose the right one for your needs.",
-      "category": "GEO",
-      "published": "2026-09-09T09:22:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
