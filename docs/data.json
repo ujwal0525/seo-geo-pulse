@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T03:39:47Z",
+  "updated": "2026-09-23T09:08:46Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -19,6 +19,7 @@
     "Search Engine Journal",
     "Search Engine Roundtable",
     "Semrush Blog",
+    "SparkToro",
     "Yoast",
     "Zyppy Signal",
     "iPullRank (Rank Report)"
@@ -539,6 +540,18 @@
       "source": "Google News",
       "curated": false,
       "id": "44a06dbebdf6"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$150 million · $2 billion",
+      "title": "Brahma AI raises $150 million at $2 billion valuation led by Multiples",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUptaGZUeHFGcTRqUE5xbFRhdmNEMUdIdUEzMEdNdmtUZlEwVlpFNlhWNG1VaEZONHVoSFdOSHJJMWZSQVJnQk1WNVlGZkZuSGQwajRPRVlnVzNScUJwUW9lQS01YV8wQUxtbHUtMy05QmZOeG9PbDdIVGh2MkQ0Y2ZRMl9GaGNkYjJLdkNDTjl3TWdGVklxSUNiWVJIVXJ4Vll5c0h3YlBpUm1uZjVWdFYzc0ZMZnlvZTRreDVoRFV1dnM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6e1f68e8275c"
     },
     {
       "date": "2026-09-22",
@@ -1235,21 +1248,42 @@
       "source": "Google News",
       "curated": false,
       "id": "71581adf42cd"
-    },
-    {
-      "date": "2026-09-13",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "How a failed MakerBot acquisition changed 3D printing forever - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjBQb3VTUHlMeUxFZHBtZ0pWNkZuc29BV0lNVmhMYjBXLUZyN1g4Rm9xRTJQU082eTZ3Q0tJZDZrU1NQUi0ySVhVYzBSQ1dQY2tEc0Q0ZFhNV2gySHd2TzlLa1JrUnR6MnZXa0dacC05cHNXcERIUWstYm5CSjcwNldCRXdhdWZONXFqazZwYWM2dw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7b87102101f2"
     }
   ],
   "items": [
+    {
+      "id": "5a1c62f08552",
+      "title": "Google Ads New AI Max Reporting & AI Brief Expands To More Countries",
+      "url": "https://www.seroundtable.com/google-ads-ai-max-reporting-countries-42144.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is expanding access to AI Briefs and also added new AI Max reporting. Google said AI Brief audience targeting works now in Dutch, French, German, Italian, Japanese, Portuguese, and Spanish. Plus, there is a new AI Max reporting feature for looking at the Search Ads…",
+      "category": "SEO",
+      "published": "2026-09-23T08:30:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7e3146e52913",
+      "title": "ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
+      "source": "Search Engine Journal",
+      "summary": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-23T07:00:33Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "18f7a11e3ad9",
+      "title": "Algorithms Don’t Just Happen to Us — We Train Them.",
+      "url": "https://sparktoro.com/blog/algorithms-dont-just-happen-to-us-we-train-them/",
+      "source": "SparkToro",
+      "summary": "Everyone’s really mad about iced coffee right now. “Don’t bring it to job interviews!” one Fortune 500 recruiter said. “Shut up, you bootlickers!” Starbies fans everywhere slammed their cold, clinky, sweaty cups on their desks. If you know, you know. If you don’t, I might be…",
+      "category": "Algorithms",
+      "published": "2026-09-23T05:30:47Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "b6b1e4118cdb",
       "title": "Better prompt caching for GPT-6",
@@ -1480,6 +1514,17 @@
       "published": "2026-09-22T08:06:17Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "3b9c1d8203b7",
+      "title": "21 Marketers Share Their Best Tips for Networking as an Introvert at SEO Events",
+      "url": "https://moz.com/blog/networking-as-an-introvert",
+      "source": "Moz Blog",
+      "summary": "Struggle to network at SEO events as an introvert? Discover 21 actionable tips from real marketers to ease anxiety, spark connections, and thrive in any crowd.",
+      "category": "SEO",
+      "published": "2026-09-22T07:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "b4fb82cc1313",
@@ -3955,50 +4000,6 @@
       "published": "2026-09-08T12:01:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "3a5745979e39",
-      "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/",
-      "source": "Search Engine Journal",
-      "summary": "Advertiser data now spans single-digit to $22 CPCs, but ChatGPT Ads still lacks auction insights, industry benchmarks, and reliable audience data to judge performance. The post 6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like appeared first on…",
-      "category": "GEO",
-      "published": "2026-09-08T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "8cc6a4dc995e",
-      "title": "September Data In Google Business Profiles Insights Missing",
-      "url": "https://www.seroundtable.com/google-business-profiles-insights-missing-42033.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Business Profiles insights analytics report is missing data for the whole month of September 2026. Normally these reports can be a few days delayed but now we 8 days into the month and I still do not see any data.",
-      "category": "SEO",
-      "published": "2026-09-08T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bdc7a29a1fe2",
-      "title": "Google Ads AI Dashboards Live For Some Advertisers",
-      "url": "https://www.seroundtable.com/google-ads-ai-dashboards-live-42031.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Some advertisers are starting to see the new AI dashboards within Google Ads. As a reminder, Google showed off these Gemini-powered Google Ads dashboards last May and then in August said they would roll out soon and I guess now some advertisers are seeing it.",
-      "category": "GEO",
-      "published": "2026-09-08T11:41:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "1fa8726efef5",
-      "title": "Google AI Mode Tests Paginated Follow Up Responses With Skip Button",
-      "url": "https://www.seroundtable.com/google-ai-mode-paginated-responses-skip-42029.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a new form of responses in AI Mode that offers paginated follow-up questions and responses, with a skip button to skip them.",
-      "category": "GEO",
-      "published": "2026-09-08T11:31:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
