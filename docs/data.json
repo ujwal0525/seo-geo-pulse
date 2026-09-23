@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:46:38Z",
+  "updated": "2026-09-23T03:39:47Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -528,6 +528,18 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-23",
+      "company": "Luma AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$150 MILLION",
+      "title": "BRAHMA AI RAISES $150 MILLION ROUND LED BY MULTIPLES",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzdRNjhaMFhwSEFKajJ6dk9jdmNqa3lKekFXU3pjWXFBS0pIdHpFbUt1cmJGMDVHYkdWYlZONFdCRWd3UWZHeGlfS3hCdUlGejBCNVloc3ROaEl3dUo2MkVyVVMtSGlBWUlqcmpHbWxsbWRMdWtiT2QtXzl0LXRSRjlZMTRSR3VVNE0yOWRqVmlYN24yUDJoZG9lUXQ5a19FQ2cyWENR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "44a06dbebdf6"
+    },
     {
       "date": "2026-09-22",
       "company": "Affinity",
@@ -1235,18 +1247,6 @@
       "source": "Google News",
       "curated": false,
       "id": "7b87102101f2"
-    },
-    {
-      "date": "2026-09-13",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Launches Music v2.5 with API and App, Usage Framework Clarified",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWdCN1AxUnNRblYtYmw5cnFPWGNpdTF1akFrWEE2ZnFXTGNDM0ZYV0FJRW9XYks5NXNTaDhwZ2ZVclZWdEFNR2lxN3VTQzZyZ0diUDV1ejc4NlRYcE9VUE5sX0g2UmdKVURlalltR2ZNQ0lVNnczZUY2YzRWQi1la3diMS1TalNWV3JnWXlscHdMaWlPOXNfSGJwUXR3Y2JZ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2b8dde23fd35"
     }
   ],
   "items": [
