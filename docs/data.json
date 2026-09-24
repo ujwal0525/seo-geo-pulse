@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T16:38:47Z",
+  "updated": "2026-09-24T23:03:46Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -33,6 +33,16 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "12ae308555dc"
+    },
+    {
+      "date": "2026-09-24",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "1af471f3952c"
     },
     {
       "date": "2026-09-22",
@@ -647,6 +657,30 @@
       "id": "25502a6b9471"
     },
     {
+      "date": "2026-09-24",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22 billion",
+      "title": "ElevenLabs valuation reaches reported $22 billion as AI voice market competition grows",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcm9HSmltZHNsZ0tDZFR3YnA5T25FQ3FmcllmUjd6cjh1NzAzSERJVmwyOVZ5RnVYdS1FeHpOSXJZb3c1SElOMlR1WTdYczJUT2NwdTVYQ0wyWk1FbnlDZGJXdkNDczgyd1NWcGlzQ3p5WWhiYUNFckIzSUFwUlNEYW5sa1ZsSDNmVWZuMkhYS291NVBLVDB2UDdtaw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "79dd5a867363"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGU4UmEtZTZsd0xiNG1SNVVUaUlaYkVXYmVwZHJUNndVRi11QVhRQ0ZtY1NxVHUzMGxabGRucThpQXVuMzUyLWViNzhGWEJwcHlMX1lVa3FyRV9JLWZpeGNNaUMwaE9CMnBwX2ZBRlhFR1ZVd2RMYUtRSGdOV1hiNk1HRkdiN1RCanJFTkRmT3dWd1UyYXc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a751e45c1f87"
+    },
+    {
       "date": "2026-09-23",
       "company": "Luma AI",
       "front": "GenAI Media",
@@ -1233,33 +1267,42 @@
       "source": "Google News",
       "curated": false,
       "id": "dfe953befe0a"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Wondershare PDFelement",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Wondershare Repairit Introduces New Version, Expanding from Image Repair to AI-Powered Image Editing and Creation",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNU0pkOXZmZm5xX2pVLUVkYU9OUDJDOTRsTlJNXzg1aGlHT1ppUmhaV3JNeFpYNVNyQVYtZVJuOGJ6a2FGUHk0TXJOLTBmUUtpTDJ0TXNMMVB6X3V6Zy1QMHRfeF9PTWNWS1hkMnVSbW9vZ0Y3UWNydUFZOHNMUnVqS0MxS3hJMWk2M0xUczAxWVh2c2RUSTJZYkJ6YndlaU1kdkZ4VGtpZVFtQU1VYnN0VzVTRVJFNzJLekVpNFF0azdtMEVrYW05YW1QRFdBVkxNWWhDNjlxd1poa2FDV29MREdVSENOZWhJSjBYZVJQbWdiOWJycUY2cldhcmw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "67e09c6f899a"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "pdfFiller",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "pdfFiller Launches New PDF Cropping Feature for Faster & Cleaner Document Editing",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaUNteEQtMlVaNm1NZDBwV0s2VG1IWlNaRUZUeWZ0ZWhJOGx2SWNnWlhKbjI4YTNzMnN3UkNoVHU4RTVvWEdlXzNPYmVqeWlhMktzVWVQejkyLXpkYUU3OU5KbjRJMWxhQ3Rvb21ZeXo0SE9iNy1RX3RhU1k4RXZIWnJLWGs1MVgzSmxDOVMyLUZYM2Y1SnFMSk94akJNYk84MFJCUFR3UUs0bE1VOFhaMGFRQXRoWUtQVTVtT3l2dHNRbjlyX0ZRSUdkUllfUTEzUlhKbTR0VDZKWVlEeUdBN2JlV25BTlVY0gHuAUFVX3lxTE1fYlJfQVRaUDQxTXRERkhjUmREV2VUbGt4ZVZpdWpkRXMxRlBTVG14VVdCTlp1NnFaUTFXZWg0QmFMWk5IUVZaaUN2UWVqdG41TTE5M1NUOS1KVjMzaDh2aFNjbFBOaThrR25Kc2FkZ2NNQzZLTmRCZUlpc2l1WE5WUk1aMXM4QlVyT2pXb3RTdVEwMUloclFYTFhfckVuQklnc3lhZDB1ZGpCRFU4ZmZFZU5NRlFidHdlV1hMRjV5SUNMYUkzUjRSNlNzR3hHMnBfT2QzaG1Zdy1XeVJEdThQMmdER1RqUFNpamNLdlE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0a2a264b7f43"
     }
   ],
   "items": [
+    {
+      "id": "751ea279c5c6",
+      "title": "The Versus Layer: Who Owns the Pages AI Uses to Compare Your Product?",
+      "url": "https://foundationinc.co/lab/versus-layer-ai-comparison-pages/",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Ask AI to compare your product with a named competitor. You might get an answer built from vendors that were never in the prompt. That’s what happened in our Applicant Tracking Systems (ATS) study. We asked Google AI Overview “I’m choosing between Greenhouse and Ashby for a…",
+      "category": "GEO",
+      "published": "2026-09-24T22:00:21Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "31df3376ab32",
+      "title": "LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
+      "source": "Search Engine Journal",
+      "summary": "AI answers strip out the signals people once used to judge them. Here's why your content stack now misses in both directions. The post LLMs Are Time Machines That Don’t Tell You How Far You Went appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-24T19:00:37Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "209cbe6da60a",
+      "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
+      "source": "Search Engine Journal",
+      "summary": "Google’s September 2026 spam update is rolling out worldwide and may take up to two weeks to complete. The post Google Rolls Out September 2026 Spam Update Globally appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-09-24T16:45:40Z",
+      "coverage": 2,
+      "impact": 9.0
+    },
     {
       "id": "fe3dcbdffe63",
       "title": "The Full 2026 Google Ranking Factors Chart",
@@ -1270,6 +1313,17 @@
       "published": "2026-09-24T16:28:37Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "af2c5c591455",
+      "title": "The Two Internets Behind AI Answers, and What They Mean for B2B Marketing",
+      "url": "https://foundationinc.co/lab/state-of-b2b-ai-discovery",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Ask ChatGPT and Google’s AI Overview the same question about enterprise software, and the sources behind the two answers only partly overlap. Both lean on vendor pages. Past that, they pull from different corners of the internet. We set out to learn how AI platforms choose the…",
+      "category": "GEO",
+      "published": "2026-09-24T15:44:31Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "6d54b39d8f0b",
@@ -3965,50 +4019,6 @@
       "published": "2026-09-10T11:31:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "420a0cf53506",
-      "title": "Google DeepMind Develops New AI Search Ranking Model via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/",
-      "source": "Search Engine Journal",
-      "summary": "Google DeepMind researchers test Autoregressive Ranking (ARR), a unified model that can replace current retrieval and ranking methods. The post Google DeepMind Develops New AI Search Ranking Model appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-10T11:24:46Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "e7714839c534",
-      "title": "Google Ads Beta Experiment: Budget Or Bidding Targets For Search Campaigns",
-      "url": "https://www.seroundtable.com/google-ads-budget-bidding-targets-42055.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has a new beta variable to test within its experiments area named \"Budget or bidding targets for Search campaigns.\" This test different budget, target CPA or target ROAS amounts to find the optimal level of spending for your campaign, Google wrote.",
-      "category": "SEO",
-      "published": "2026-09-10T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "33c9528eb6a3",
-      "title": "Google Maps Phone Number in Photo Scam",
-      "url": "https://www.seroundtable.com/google-maps-phone-number-in-photo-scam-42056.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Scammers are using the Google Maps contributor program to upload AI-generated photos with phone numbers, tricking users into calling the number in the photo instead of the number on the Google Business Profile listing. These scammers are doing this across dozens, if not…",
-      "category": "GEO",
-      "published": "2026-09-10T11:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "a9933de9475e",
-      "title": "Internal links: ultimate guide + strategies",
-      "url": "https://www.semrush.com/blog/internal-links/",
-      "source": "Semrush Blog",
-      "summary": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back.",
-      "category": "SEO",
-      "published": "2026-09-10T10:11:00Z",
-      "coverage": 1,
-      "impact": 1.0
     }
   ]
 }
