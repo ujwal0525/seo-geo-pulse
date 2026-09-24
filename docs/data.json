@@ -1,11 +1,10 @@
 {
-  "updated": "2026-09-24T09:03:32Z",
+  "updated": "2026-09-24T16:38:47Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Aleyda Solis",
     "Andrea Volpini (WordLift)",
-    "Backlinko",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
@@ -25,6 +24,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-09-24",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "12ae308555dc"
+    },
     {
       "date": "2026-09-22",
       "family": "model",
@@ -590,6 +599,54 @@
       "id": "60409ee0d1be"
     },
     {
+      "date": "2026-09-24",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Navana.ai launches ‘Bodhi TTS’, Indian Text-to-Speech Voice AI Model in 10 Indian Languages; Priced at one-eighth of ElevenLabs, 60% below Sarvam",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNYnVKU3R4VW1udU5YVGo4c0NrVVhEMnV3aGVvMXFqdEZMMDJzbW50UWpsQ2dfUDN4Q3NjVXQwZUZMQ3VnNUFHVnY0MnBmeEcxWjhldC1YX25kOEo0WjBsbUpGSGJCeTB6RDJobnVXamJPSEo1eDEtUkxPbVZ2cy1EaWNlVG02Q3diWWRxalkwSGgycmJfeDhCZ2ZER0VFT0FObjBmbl9Xc2x5M2JONkR4cGZxVU1oV2FXcTZlWHpoUmoxM0x4UENadGVSckw1Vm02Zm9vcXhNUWJHSVRkNjBjajNjZGtDOWtreVhQQjdYOVpTOXRnd2h5eUw1aWlrYlVQTERXbW9nNEd4dDFyTkhPMWgwMTFhV29ncnRMMzlMeVJ4U1VFb1l3enN3ZUQzejJ30gGwAkFVX3lxTE1idUpTdHhVbW51TlhUajhzQ2tVWEQydXdoZW8xcWp0RkwwMnNtbnRRamxDZ19QM3hDc2NVdDBlRkxDdWc1QUdWdjQycGZ4RzFaOGV0LVhfbmQ4SjRaMGxtSkZIYkJ5MHpEMmhudVdqYk9ISjV4MS1STE9tVnZzLURpY2VUbTZDd2JZZHFqWTBIaDJyYl94OEJnZkRHRUVPQU5uMGZuX1dzbHkzYk42RHhwZnFVTWhXYVdxNmVYemhSajEzTHhQQ1p0ZVJyTDVWbTZmb29xeE1RYkdJVGQ2MGNqM2Nka0M5a2t5WFBCN1g5WlM5dGd3aHl5TDVpaWtiVVBMRFdtb2c0R3h0MXJOSE8xaDAxMWFXb2dydEwzOUx5UnhTVUVvWXd6c3dlRDN6Mnc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2857e82e90aa"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe's Acquisition Of Topaz Labs Signals Big Changes For AI-Powered Creative Tools",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEFWRGxzWWtsLXZpSHNMamJ2MFVlN0RTTFdfLU1WUm83d0kxOVY0UXE0aW5lYV92THdWYTNjaHAwRkl1dWE4SHNRVVVuS09YaHpLcFVWVWxyWlI2WEYzTmpyeG5jSHR4cHE1bzZUT3BySENGeHdTaVNnNVhUQlZJcmp1ckg3djF1TGg0?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e1432d480e85"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe Completes Topaz Labs Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93NUdsbGZiRlRxcm8tenNaeVRDY1V2NzN4ZUt2cVZSd3FnamFjRHE3NW5JSFlqN2VGRWNXdHpqcFoxdDdsekUtTmlMcnRMTlp0N3d4YV9LR3duZE5VVzltc2EyMWxoY3lQaVlEQndKQm8?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4a896fde0bb9"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "25502a6b9471"
+    },
+    {
       "date": "2026-09-23",
       "company": "Luma AI",
       "front": "GenAI Media",
@@ -711,15 +768,15 @@
     },
     {
       "date": "2026-09-23",
-      "company": "Topaz Labs",
+      "company": "ElevenLabs",
       "front": "GenAI Media",
-      "move": "M&A",
+      "move": "Launch",
       "detail": "",
-      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
+      "title": "Guava Launches Daytona, a State of the Art Voice Model, alongside an Open Benchmark Evaluating Voice Agent Performance",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPek5KTFQwT1lJX0w4MC1WYjZTSmVRSjNsTElDUklIWlEzSUtNOFpCWjEwY2tFSkVBUDVpN0U0Q3BtS1lfd1FzMDVQcVYwVUhocEgwQTQ5eW9XNVJFSDN2X0gtZ1QxbUctOHR4NFdQdDVXVlIxN1d4dDBoTk1hc3E5WERXT1I0YXBaNnlSVTAyenQ0emFpYkRZVkpuTkRPeFBuNnlYdF9HUVRNLU1qcUttZFVxbHlKbzlMaEh1QjBjMERzTHltZjB0UG5FQS0ySXZGQ3hEREV1Q3p0bTFhamo5cVFMSnpQNkdxTnN5RmQ4ZFZoWTlpdlV1UHlZeE9wUzN5Zjlib19R?oc=5",
       "source": "Google News",
       "curated": false,
-      "id": "5532fb5820ea"
+      "id": "656856eb4052"
     },
     {
       "date": "2026-09-22",
@@ -780,6 +837,18 @@
       "source": "Google News",
       "curated": false,
       "id": "f70d1c482c43"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "CamScanner",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Camscanner Launches Camscanner Apex 1 Pro Standalone Scanner on Kickstarter",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHF4OEVJUVdnSDBvSk04UlRvZkxuUl9Ed3BRU0tUejVjanRBTzY4RnBvc3dRRXdHZlZhb3J5d2xSWXExZEltbzJWRm5iVUFCUmx2dldGMXIxMUxzN1hjSWpYdmpRUnp3b01tWm41VUMxT1UyZzA3SW84Ym42anYtcDRWYmVsTUowZ1QtUWhjMVUzd2k3Smd0bEVGeVNIcms4dVBNRWN5alJQai1fN3pwdzJuVEVvX3E2RE9WeElsajRPOVI0SS1r?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5e5529e21f72"
     },
     {
       "date": "2026-09-21",
@@ -1188,69 +1257,218 @@
       "source": "Google News",
       "curated": false,
       "id": "0a2a264b7f43"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$40M",
-      "title": "AIUC Raises $40M Series A to Audit AI Agents, Signs Cursor, Lovable, Harvey and ElevenLabs",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRm5RVmZDYXFUMlJyejdWUG9zRGJGVDEyeXFTZ0oyckx0RWdQcHNIbEpKTE1nZ0o1SlVuMGIzLXdORHMwWElpeWt6cF8wZGE0YzRiazJWeXlWVk1XRGNtZHRlOFZfSVBDcnNEWWl2UE9vdXo5dERDT2ZPS29hNllyQ08zWGthZGUtZ3FTQkd0WXZGdEZqYzREMFQ4MENtOUFBRXBWeg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6454ae7260a9"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva releases Affinity 3.3",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRVDZBWV9aRzBPN29uVFkwQl94b0NBMXpMSXJ3RGtvT09CQWFWY0lsb3lyaXNLOTQ2WHg4WC1kVzdHczlsUmNUU0pqZE1hczd1OUd1M0toMHFuWTFYSkhOV1FLdGs1UmdyMnBJWnF3NA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0e9de75d3af3"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Nitro Bar Co-Founder Shares How ‘In-House’ Drinks Launched Viral Rhode Island Brand from Homemade Coffee Cart to N.Y.C. Pop-up (Exclusive)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0STRnUXUtY0hzSjdyRnFrZnc2NWQxMEU3cTd5MmNnNE5ET0hMVHl1d0xxV2RfS3EyTkZzYlgzUFdsSU12bXF3bGxhWWhvT011UGpCTGU0RFUwc3NWSXhjMGJzdHE4T294Zy1zbThQcG12QXRSMlNrdQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dbb32b078cfd"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Rolls Out Music v2.5 Following UMG Licensing Pact",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDZOTmRFLWZsRmFkUnFWVGQwVzZRUU52bWVaNDJYLWtzZ0ltTjVMcmlBNC1XOE9WNUoxbW1jeEVBRk9sMVd3dGFQZHlRM2F5d0pXUFZ5RmhjMWdGNndNTE9Ubi15bzZqZUM5azlaNzNTUmROc3g2UkpKQm9KOXV4R0FpU2ZjTXNxNkhZR0JwOXFNNG9OSUJSUg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "34a6029ead1b"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Higgsfield Launches Cash-Paid Affiliate Program to Drive Subscription Growth",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWNLelJRTjZtcXpPd21SLWV2STZjYXFyRjN4YmNqd1cwRm85MnB6UmhGdktnaThpdTdWV3kwdjc1OTBOeFo3dENHZjFqRG9Kd1BNclF1MnZCdUVpYlNZTk5NdWtmNFhwTDF0QjJseU80dGRtU0NiQndhNHVLallHTnV4QVZHVU9mMFJYdGJRbWNIOVZUVTEtbEdTbFFiYjNTelhNendxYjluWjlIcWNKT2dVWkZTZHMxQ1l2eGVPZ0w3Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a87347bd3640"
     }
   ],
   "items": [
+    {
+      "id": "fe3dcbdffe63",
+      "title": "The Full 2026 Google Ranking Factors Chart",
+      "url": "https://signal.zyppy.com/p/full-2026-google-ranking-factors",
+      "source": "Zyppy Signal",
+      "summary": "One chart showing what helps, or hurts, Google rankings from a survey of experts.",
+      "category": "SEO",
+      "published": "2026-09-24T16:28:37Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "6d54b39d8f0b",
+      "title": "Google Video Schema Gets Creator Property & Updated interactionStatistic",
+      "url": "https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated its video structured data documentation to support creator property and it has updated the interactionStatistic in VideoObject structured data. Google said these updates are to \"to document support for the creator and author properties, and clarify supported…",
+      "category": "SEO",
+      "published": "2026-09-24T15:12:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "780e0170d2e0",
+      "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/",
+      "source": "Search Engine Journal",
+      "summary": "Search Console’s new multimodal filter shows which pages receive traffic from image-based searches, without query data. The post Google Search Console Adds Multimodal Filter For Image-Based Searches appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-24T14:52:48Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "898accf945ef",
+      "title": "Why Agencies Lose Clients In The First 90 Days (And How To Stop It)",
+      "url": "https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/",
+      "source": "Search Engine Journal",
+      "summary": "Most client churn happens in the first 90 days, not month six. This phase-by-phase onboarding framework shows agencies how to keep clients engaged and retained. The post Why Agencies Lose Clients In The First 90 Days (And How To Stop It) appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-24T14:30:56Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "17eb6dc9d48f",
+      "title": "Fanout Vectors",
+      "url": "https://dejan.ai/blog/fanout-vectors/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "An analysis and reproduction of Google's query fanout research, demonstrating how vector-based diffusion models could replace text fanouts for faster search.",
+      "category": "SEO",
+      "published": "2026-09-24T14:24:05Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "067a23bb7777",
+      "title": "Rising CPC? You’re Funding The Competition. Here’s How To Trace It.",
+      "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
+      "source": "Search Engine Journal",
+      "summary": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners. The post Rising CPC? You’re Funding The Competition. Here’s How To Trace It. appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-24T14:04:23Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "139aabb7b3d1",
+      "title": "Daily Search Forum Recap: September 24, 2026",
+      "url": "https://www.seroundtable.com/recap-09-24-2026-42158.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-09-24T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "de9996f0acaf",
+      "title": "Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/",
+      "source": "Search Engine Journal",
+      "summary": "Block flattening can make weak AI Overview visibility look like a top ranking, so measure visits and conversions to assess search performance. The post Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-24T12:00:06Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "cfccc1decb6a",
+      "title": "Google Search Ranking Volatility Hits September 23rd & 24th",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-42157.html",
+      "source": "Search Engine Roundtable",
+      "summary": "We are seeing significant volatility again within the Google Search rankings again, this time starting around September 23rd (maybe the 22nd) and throughout today. As we have been seeing, the chatter is generally slowing down as Google has been sending less and less traffic to…",
+      "category": "Algorithms",
+      "published": "2026-09-24T11:51:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "f42c737c2935",
+      "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
+      "source": "Search Engine Journal",
+      "summary": "Google announced a new query fan-out framework that is described as ready for production-scale search. The post Google Announces New Query Fan-Out Framework: R4T-Diffusion appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-24T11:42:47Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "900f046fee10",
+      "title": "Google Business Profiles Tests Set Your Hours Automatically",
+      "url": "https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Business Profiles is testing a new feature to let it set your business hours for you automatically by just asking you to describe your business hours in text. Google will then use AI to interpret them and make them into a structured format to list on your local panel in…",
+      "category": "SEO",
+      "published": "2026-09-24T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b0362967b02f",
+      "title": "Google Ads Budget Recommendation Change With Forecast",
+      "url": "https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is showing some advertisers not just a recommendation with the ability to make a change on that recommendation but it is tied to the advertiser's forecast. It shows your projected weekly conversion value and adds that your campaign is limited by budget, and that you…",
+      "category": "SEO",
+      "published": "2026-09-24T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "86e0e00d6127",
+      "title": "Bing Tests Another Expandable Sitelinks Interface",
+      "url": "https://www.seroundtable.com/bing-expandable-sitelinks-interface-42111.html",
+      "source": "Search Engine Roundtable",
+      "summary": "We've seen Microsoft test variations of expanding sitelinks within the Bing search results before. But here is a different variation on that, one that expands and shows descriptions under the sitelinks after you hover your mouse cursor over the specific sitelink.",
+      "category": "SEO",
+      "published": "2026-09-24T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "42732f0ccdd5",
+      "title": "Google Tests Local Service Ads With Larger Image & Highlight Box",
+      "url": "https://www.seroundtable.com/google-local-service-ads-larger-image-highlight-box-42155.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a redesigned Local Service Ads design in the search results that have larger images and a highlight box under the listings. It makes the ads really stand out and in your face.",
+      "category": "SEO",
+      "published": "2026-09-24T11:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "151e172eba1b",
+      "title": "Google Tests AI Overviews On Hotel On Side Panel",
+      "url": "https://www.seroundtable.com/google-hotel-ai-overviews-42146.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing moving the AI Overviews from the top of the page to the bottom-right location for hotel searches. So when you bring up a hotel knowledge panel, you may see an AI Overview at the bottom of the page.",
+      "category": "GEO",
+      "published": "2026-09-24T11:11:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "6a813e4bff2c",
+      "title": "Google Ads Investment Strategy New Holistic & Growth Modes",
+      "url": "https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads updated its Recommended Investment Strategy tab on the Recommendations page with Strategic budget allocation using Holistic and Growth modes. Holistic mode reallocates spend from underperforming campaigns to top performers for maximum efficiency, while Growth mode…",
+      "category": "SEO",
+      "published": "2026-09-24T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ee432afa3ba5",
+      "title": "SEOntology: Giving SEO a Shared Language for the Age of AI Agents",
+      "url": "https://wordlift.io/blog/en/seontology-shared-language-ai-agents/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "Our research paper on SEOntology just won the Best Student Paper Award at SEMANTiCS 2026. Here's what the peer-reviewed study found, and why it matters for the future of AI-driven SEO. The post SEOntology: Giving SEO a Shared Language for the Age of AI Agents appeared first on…",
+      "category": "SEO",
+      "published": "2026-09-24T09:58:15Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "c484c266f1ad",
+      "title": "Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/",
+      "source": "Search Engine Journal",
+      "summary": "A report finds Google Search and Discover declines got steeper for publishers, while direct, internal, and dark social grew. The post Google Search Decline Steepened To 40% YoY For Publishers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-24T09:25:37Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0a8093ec0ada",
+      "title": "Announcing web multimodal Search performance reporting in Search Console",
+      "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
+      "source": "Google Search Central",
+      "summary": "Understanding how users find your content is crucial for any publisher or site owner. As Search evolves to include more visual and multimodal experiences, we want to ensure you have the data you need to analyze your performance.",
+      "category": "SEO",
+      "published": "2026-09-24T00:00:00Z",
+      "coverage": 2,
+      "impact": 7.0
+    },
     {
       "id": "3b3916627438",
       "title": "Google Ads API Version 25.2 Now Available",
@@ -1325,17 +1543,6 @@
       "summary": "AI agents find the cheapest route to any target you set. Research from MIT and Stanford shows why SEO teams need metrics agents can't fake. The post AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-23T14:30:15Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "cedefda4d4ec",
-      "title": "Daily Search Forum Recap: September 23, 2026",
-      "url": "https://www.seroundtable.com/recap-09-23-2026-42145.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-09-23T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1517,10 +1724,10 @@
     },
     {
       "id": "7e3146e52913",
-      "title": "ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern",
+      "title": "ChatGPT Ads Climbed In 3 Retail Categories, Led By Gaming: Comscore via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
       "source": "Search Engine Journal",
-      "summary": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows appeared first on Search Engine Journal .",
+      "summary": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Climbed In 3 Retail Categories, Led By Gaming: Comscore appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-23T07:00:33Z",
       "coverage": 1,
@@ -1781,10 +1988,10 @@
     },
     {
       "id": "49004aa0306c",
-      "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
+      "title": "Google Analytics Hostname Filters Can Now Allowlist Your Domains via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
       "source": "Search Engine Journal",
-      "summary": "Google Analytics supports Include data filters for hostnames, so a property can keep event data from approved domains instead of excluding spam one by one. The post Google Analytics Adds Include Filters For Hostnames appeared first on Search Engine Journal .",
+      "summary": "Google Analytics supports Include data filters for hostnames, so a property can keep event data from approved domains instead of excluding spam one by one. The post Google Analytics Hostname Filters Can Now Allowlist Your Domains appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-22T08:06:17Z",
       "coverage": 1,
@@ -2702,17 +2909,6 @@
       "published": "2026-09-16T14:04:39Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "067a23bb7777",
-      "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
-      "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
-      "source": "Search Engine Journal",
-      "summary": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners. The post How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-16T14:04:23Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "d5ac559e8c04",
@@ -3813,193 +4009,6 @@
       "published": "2026-09-10T10:11:00Z",
       "coverage": 1,
       "impact": 1.0
-    },
-    {
-      "id": "6b143a038745",
-      "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/",
-      "source": "Search Engine Journal",
-      "summary": "Freshpet and Intero Digital explain how brands can audit AI visibility, restructure content for citation, and connect GEO work to business priorities. The post How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-10T07:45:26Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "36f9101b2d82",
-      "title": "Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/",
-      "source": "Search Engine Journal",
-      "summary": "Le Monde says its audience hasn't dropped since AI Overviews launched in France, while app traffic and subscriber growth complicate the broader traffic story. The post Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-10T07:00:03Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "1ef5285e671d",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "category": "SEO",
-      "published": "2026-09-10T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "016c3ec9b775",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "category": "GEO",
-      "published": "2026-09-10T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "5cd30f9ad015",
-      "title": "5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO",
-      "url": "https://www.searchenginejournal.com/ai-signals-multi-location-uberall-spa/587988/",
-      "source": "Search Engine Journal",
-      "summary": "Explore how multi-location businesses can optimize for AI models like ChatGPT and Gemini. Learn the key factors for success. The post 5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-10T05:00:48Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "4e410dad70fb",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "category": "GEO",
-      "published": "2026-09-10T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "2b26a8066576",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "category": "SEO",
-      "published": "2026-09-10T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f528de47e7bb",
-      "title": "WordPress Co-Founder Matt Mullenweg Ousted As CEO Of Automattic via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/wordpress-co-founder-matt-mullenweg-ousted-from-automattic/589009/",
-      "source": "Search Engine Journal",
-      "summary": "Automattic's board of directors placed Matt Mullenweg on paid leave of absence. Mullenweg claims conspiracy against him. The post WordPress Co-Founder Matt Mullenweg Ousted As CEO Of Automattic appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-09T22:16:35Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "88cb1cd058af",
-      "title": "ChatGPT Shopping Results Lean Hard On Product Feeds via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-shopping-results-lean-hard-on-product-feeds/589000/",
-      "source": "Search Engine Journal",
-      "summary": "ChatGPT Shopping is pulling more product picks from what it calls feed-integrated sources, and store visibility moved too. The post ChatGPT Shopping Results Lean Hard On Product Feeds appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-09T21:39:29Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "0b9065ca62d4",
-      "title": "How to Audit Any Page in Under 3 Minutes with SEOquake",
-      "url": "https://backlinko.com/seoquake-page-audit",
-      "source": "Backlinko",
-      "summary": "You’re looking at a page that should be performing better, and you want answers fast. Maybe it’s a product page that slipped in rankings, a competitor’s post outranking yours, or a client page that isn’t converting. You don’t need a full site crawl to start diagnosing…",
-      "category": "SEO",
-      "published": "2026-09-09T21:24:18Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "45e712f5efb8",
-      "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/chatgpt-gemini-claude-lead-ai-visibility-is-it-time-to-stop-tracking-perplexity/588378/",
-      "source": "Search Engine Journal",
-      "summary": "Giving Perplexity less weight in AI search tracking can prevent distorted visibility scores without erasing useful competitive signals. The post ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-09T19:00:58Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "534907e0d31e",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "category": "SEO",
-      "published": "2026-09-09T17:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "8d02c2d818b8",
-      "title": "New Google Guide To Regional Search Features & Eligibility via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-regional-search-features-eligibility-guide/588975/",
-      "source": "Search Engine Journal",
-      "summary": "Google added documentation mapping regional Search features in the EEA, Türkiye, and South Africa, with eligibility and participation steps. The post New Google Guide To Regional Search Features & Eligibility appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-09T16:37:30Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "91d5074fb05a",
-      "title": "Get ready for the game with new football features in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "source": "Google (Search)",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
-      "category": "GEO",
-      "published": "2026-09-09T16:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "427f69d2b59d",
-      "title": "Education Marketing: A Complete Guide for 2026",
-      "url": "https://neilpatel.com/blog/educational-marketing/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways The global education sector is set to reach $10 trillion in value by 2030, powered by growth in developing markets as well as education technology reaching new heights. Both of those factors add up to a lot of competition out there for your education business or…",
-      "category": "SEO",
-      "published": "2026-09-09T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "ffbe3cd770c1",
-      "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
-      "url": "https://www.semrush.com/blog/seoquake-relaunch/",
-      "source": "Semrush Blog",
-      "summary": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser.",
-      "category": "SEO",
-      "published": "2026-09-09T15:37:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "0f1e2162e5d3",
-      "title": "How AI Is Reshaping Search Intent – What 2 Studies Reveal via @sejournal, @ClaraSoteras",
-      "url": "https://www.searchenginejournal.com/how-ai-is-reshaping-search-intent-what-2-studies-reveal/587491/",
-      "source": "Search Engine Journal",
-      "summary": "Search intent is fracturing across AI Mode, video platforms, and zero-click results and Google's own metrics reveal what actually earns clicks now. The post How AI Is Reshaping Search Intent – What 2 Studies Reveal appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-09T14:30:47Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
