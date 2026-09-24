@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T22:45:25Z",
+  "updated": "2026-09-24T03:30:33Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -530,6 +530,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-24",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Black Forest Labs Highlights FLUX 3 Action Model and Ecosystem Partnerships",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEMzeTFKR05XQl91dzBwVEo5TmtsbGdmTGRFTXJyRm1lOXExVzN4TDVkNTU5NUh6Ykd0NVZiYkRzZlRQRVlIdkxRUmMwaHVKSDZtaWlIMzFCdGM4Q0Z6WFAxdzh1MFZFb1FxOE9kZWNDcm9xOWhrQUN6ZkhaR18zX0ZwcFlOVlJ5QTJ2U1lQYVdYNUN1R0otSmpaVTljMHprQi03RE5XSWR6X0dsb2x3Q3FBWk1CT1hPNHVndkx6ZUg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7078d85e3153"
+    },
+    {
       "date": "2026-09-23",
       "company": "Luma AI",
       "front": "GenAI Media",
@@ -660,6 +672,30 @@
       "source": "Google News",
       "curated": false,
       "id": "526bc7432c78"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe completes its acquisition of Topaz Labs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFYtckp0enBiSXpVaHlHbU5HR1oxcF9NZVJXV3dFRnlVcjIwSloyZXBhX2NqSUtRZkhVUlhwU3h0aXoyV1dKWVVxUXNYb3JaTE00ZlVFNWVMLU43cDFhZ2tvazZaMlhmMTkxTnpZdGFEUk9JS3NTUTdWWWN1SmVLNDAtbGt0VERuSUFieFF3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "114e10d23769"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "EY, in collaboration with Snowflake and Canva, announces launch of agentic sales orchestration platform to address enterprise AI fragmentation",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVnkyN3hHSTJ1eVBUVHlqZjVSWGZfbVdQeDBGa0YwN2dSYmx6elB6d210d1oybUFRTjl5a0NNSGxXeTd6XzFYRDdiR0MyQ2d5RGVqV1kzdG5OcEZBN3JHQ1FoaF8yeURHU1plU2d2WklIcGgtN205YUNYTWI2Q3FkTTg5YVBPTENycS0zdjdyV3lLRzYwM0UtMlJheWwwMFBRWEJCSEJEUnhnWjVXVXlPUTBhQ3dOaGVEMk54OHJwMzEzdE9RV0RHc0h2Z0JHY3BRczFyUEY4MUF5UFBla3BZWGxGUEpLVlppQ2cweUtQVE9uN185X1l6N0pZcFRxYzktWFVIazJLbHVZYk1SZF9F?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "268b6dfe4f5c"
     },
     {
       "date": "2026-09-22",
@@ -1212,45 +1248,20 @@
       "source": "Google News",
       "curated": false,
       "id": "7c4347efcb3e"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$200M · $1.3B",
-      "title": "Higgsfield AI Revenue 2026: $200M ARR, $1.3B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Yk1zRE9rdzZUMDJONjZ1MC1Kbm5RQl9Mel9QRWJyRF9wMmk1V0pSdEZMVWN5aDVBY1hqWXJKRHczTGprUFdCUjVyaVlHYWdtOExBYWhHRQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "22d6b9522fc8"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Jio partners with Canva to offer 12-month Canva Pro, Pro Lite access to subscribers",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVHVscFRYeW92eVhqTEg0S2pWb3RSbHJ6QXFtN2kwMDdUdHBaVDBuSDV1TWVyUTRMLW11TVhNdmkzN0l2OEh4c3NwWFRPZlNsclZ6NkhicU51U3Y0SnhoY1JLaG1ENGxyVWM1SWpidWI3UGNUSlRHNEJhYkE3TU1TRWVIUjlKRWZoZldlR25uU1haS1BPOUkzRXFHMnQwakc0R2NFb2xaaXBoMVdra3hPTjAyV2xlQkprVFpCMUZPX2FkM1ZyV2ZzLVJjR1NiV0tWUzZ2R043MEZhWE5kU1ZNZlNLcTlXZ9IB6wFBVV95cUxONWQwbjJ2UUZFalJLZEQ1WkNEVE52S3JzX2NhM3FWcWl5T0k5MkZDZDNVYlQzZ1BtS2h5UnV2eXlPV3I1N1lHQzhwZHpBekJjX292MWVITjRDaXVuYWh5c0s3QWtGaFgwc01lT01xbUd3MHU3VjlqaDZVSWtzdWlkaFN1QXVOdmlsRmMzejYtcG9xbWQ4LVJoZ1lPUFdqWC14OEF4ZF9LTTlXRHJiLXZsaWxRb20wVjYyTGQ5RzA0N2pEZ2dBT2J3TU1XT3Z1UFBmSmQyR1NMQlpNZE5fWFcwdXB3WnZQOEoxaWg0?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f57baea36c2d"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Tony Stewart Racing Unveils Purple Haze Super Bee Nitro Cars",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXBZY3RuTFE4ZW1GM1RzOXlPdFRxMDR1WVp2T1p2NVBrZTNkajNDbGhuVHZEV2xQYmJpOWdhMDdUNTRvQmtiTExBeFFhN2E5MFNuQ3EwRVlxOWpqOUZmRkF4T1cybFB4SWpKalNjUXJseXJMTFVKajcwaXV6bXFxbFJBLXlGdTAxSm1qa0ZmRTQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "11d6ae897b78"
     }
   ],
   "items": [
+    {
+      "id": "3b3916627438",
+      "title": "Google Ads API Version 25.2 Now Available",
+      "url": "https://www.seroundtable.com/google-ads-api-version-25-2-42154.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has released version 25.2 of the Google Ads API, this is a minor release with several of updates. This update includes competitive benchmarks percentile metrics, the ability to generate Performance Max drafts from Smart campaigns, asset group URL options, Search bid…",
+      "category": "SEO",
+      "published": "2026-09-23T23:42:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "5ec45c1abd1b",
       "title": "YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern",
@@ -1525,6 +1536,17 @@
       "published": "2026-09-23T05:30:47Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "1dd9ce125c6e",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "source": "OpenAI",
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "category": "GEO",
+      "published": "2026-09-23T02:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "73fafdf6f45f",
@@ -3978,28 +4000,6 @@
       "published": "2026-09-09T14:30:47Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "9786c92a289d",
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "category": "SEO",
-      "published": "2026-09-09T13:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "93b558e2c009",
-      "title": "Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/brands-are-tracking-ai-visibility-but-are-they-measuring-the-right-things/587888/",
-      "source": "Search Engine Journal",
-      "summary": "AI visibility tools track brand mentions and citations, but marketers need outcome data to know what those movements mean and what to do next. The post Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-09T12:00:30Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
