@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:48:13Z",
+  "updated": "2026-09-25T09:26:53Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -548,6 +548,18 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-25",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORU8yTmx4N0VueGV4aU4yYnVKUHBHaG4xUlpaaHdoNUpSNGJ1UVJTSk9idHVIMWpOZVB4WXhmd3c5elJOdEdCeTlWSk96Zkl0eC1iamh3LWdKZDlSQnhpenBZLWZEVG80cENOa25oUHhBZmZIcHdTWnhaX2UtOTBiUklZQUl3bHBIblJrczNGU1RHM2lmX1gxQms2a1JNam5kYnBBcXhNV0tvMFdZOEd3eFhTQndpeTdRaUdyTVVhTWktN25hZTNkMXBrNThlMmFIZnpwNm9NY9IB3AFBVV95cUxQRjZHU3d4bnlOWWFaVFVSYnhhM0NwSkNNcGswSDEyUndzMWF5bEQ1WTA1eW9CV2pNNW4ySndCV0pqWUZpWkU2VUJfM01lVnEyUE5pX2F0QldoWGlYM1ZXYkJyeS15V0FoZ2txS05jQldyb2ZIRVl4akxveUJWcTlVMVNSWXhXcHdpU1F5dVdDV05PS2pWWnQ5Nl9BajdnUWJvRU5SbF9DbDduZ192LWNZaWFYblVvYWhCRWNHaWlBMHgzSUVnS0M0VEFZc1g0NmcxOWVkTlJ0MFRpMlNt?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1271315ee1e1"
+    },
     {
       "date": "2026-09-24",
       "company": "Black Forest Labs",
@@ -1255,18 +1267,6 @@
       "source": "Google News",
       "curated": false,
       "id": "995d10a0afb3"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Listrak Launches Listrak Studio, Turning Figma Designs into Ready-to-Send Emails in Minutes",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUVBNeDNiZWpLdjRhbW1IcUxKNmlzTElNbVQ3RHQyajFKc2RKb0dqUXU0M2Z2WUV2ZU5wS1dnY2x3aERLTTY4aGlfeWlLeThFNDd4UjhRZGFxVVVydzRyR2t5Q1dTLV9lU2F5YjBXWWdGVTlfbXhZOWNnYVBpVVR4Tmc3TzhvUFJwU2E0ZEJ1NUIxZGZIcHJ2TEdUb0M3OTUxYlBmazA4U1BXeUFkYnlrS3l2NGpCdmFkVGZ2MUdFdlNGdTNtQTVlV1FBSkxjelVwTndMQk84bzBfcm8yVTNv?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dfe953befe0a"
     }
   ],
   "items": [
