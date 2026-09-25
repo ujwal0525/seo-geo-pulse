@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T16:44:08Z",
+  "updated": "2026-09-25T23:08:41Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -675,6 +675,18 @@
       "id": "3053f39308aa"
     },
     {
+      "date": "2026-09-25",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Clearwater releases 10,000 mosquitofish into four lakes to combat dengue fever",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHlIWGxHN3pGLUprRGhRQmFwRFZGMVZMWi0tY3dza2VlcDVNby1BQ243V0ZKSDJmSUx6VlFPV3lpcUJMZVpWQ01OVzlZeVVtaGNGaXdSR3Zoa0NzOVdvYVJsV0V4emZ1LWJsSUNnTmF3aF85SWZfSHpkcGtxdUFoSkk2ZVZOS0tibGc3dVpsdG9ySWhxTXd3VjZhdzdhT3VQZGMzV2t6dko4X1lRdnUydWkwWUhvREtNam5qc2hHMUlqdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d38b7c6f7006"
+    },
+    {
       "date": "2026-09-24",
       "company": "Black Forest Labs",
       "front": "GenAI Media",
@@ -793,6 +805,18 @@
       "source": "Google News",
       "curated": false,
       "id": "a751e45c1f87"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Education training platform acquired in ‘natural next step’",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUowQVN6MTlHMmhGNERxMEp5cGNfdGpobm1DRDdYX3VXUlh2WWVaelNoU1hBY2pXRzBOM1JWOUJVaHBuek9vOVRqbHJNRUg2aG1KU2VyNDB4dzMxVG5Nb3hLZXJfajNMMkFZaE4zMnhERWtvY0ZVb1dWcl9LYUl0a1ZGcUpDTHc0NEJHaWJfaTdQUmxycmJQNm1HWUZxSDc0cGNzVGNPYXRjdDNwVGFueUZn?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9636931e63ca"
     },
     {
       "date": "2026-09-23",
@@ -1273,33 +1297,20 @@
       "source": "Google News",
       "curated": false,
       "id": "5c8895df79d7"
-    },
-    {
-      "date": "2026-09-16",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Universal Music Group and ElevenLabs Enter Multi-Year AI Music Partnership",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3RqbUVFSGtnSF9fcHEyc0huOXlaYlhDcWpSYzNZUnA5Z1FGVlRrbDk2YjdDSzdnWHJPSTQ4N3hqVzFDY2JVS0syVEI0dGRScTlPblpfcEctbklyWU1LNTBfUVRCMTZFd0RUTFlCWV9xamxEWnlaSVk3MDlqTnlqOHJTWmRpbFJvX0xEd1VPa2xxTS1jeUJFcTJfa19LNV9fejI5OW1CMnFWQTFPY3Azbw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f22499369ebc"
-    },
-    {
-      "date": "2026-09-16",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Jio partners with Canva to offer 12-month premium access to eligible users",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXdBZnd0UWJTM0Q0OHlvb3BzaDNfc0NQbE5xMnRuN1o0UUt6T0VVSlJpX1ZfWkF3SFBIdV9RX1dFRVlVQmxBcm9URWM2QnJhVkhWSjN2VTVZbWo3MHg0TURuOHgwbGJZVV9mc2t4enZ3WXBCMWh3X2tQQVpBektUZm9aR1oycEVtc281ekZpZmhkbVYxOXdpWUtHNDhfc2gwVTkwMTZVSnZRYkRxNU5OOW1nY3jSAbQBQVVfeXFMTUV3QWZ3dFFiUzNENDh5b29wc2gzX3NDUGxOcTJ0bjdaNFFLek9FVUpSaV9WX1pBd0hQSHVfUV9XRUVZVUJsQXJvVEVjNkJyYVZIVkozdlU1WW1qNzB4NE1Ebjh4MGxiWVVfZnNreHp2d1lwQjFod19rUEFaQXpLVGZvWkdaMnBFbXNvNXpGaWZoZG1WMTl3aVlLRzQ4X3NoMFU5MDE2VUp2UWJEcTVOTjltZ2N4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6c9d94622977"
     }
   ],
   "items": [
+    {
+      "id": "619b955b5555",
+      "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/",
+      "source": "Search Engine Journal",
+      "summary": "Strip the visual layer and a machine can still use a website. Strip the structure, as markdown does, and it can only read about it. The post The Text-Only Version Of Your Website Strips Out The Wrong Layer appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-25T19:00:09Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "d2d497e5eee4",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -1396,8 +1407,8 @@
       "summary": "Google's AI Overview links can lead to websites or AI Mode, and Search Console measures those interactions differently. The post Google AI Overviews Have More Links, But Not All Reach The Web appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-25T12:00:57Z",
-      "coverage": 2,
-      "impact": 10.0
+      "coverage": 1,
+      "impact": 8.0
     },
     {
       "id": "0b6c0ce4a8d2",
@@ -1473,6 +1484,17 @@
       "summary": "B2B answer engine optimization improves your odds of appearing in the AI answers buying committees see.",
       "category": "GEO",
       "published": "2026-09-25T09:06:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "984954aa5876",
+      "title": "WTF is NLWeb? — Whiteboard Friday",
+      "url": "https://moz.com/blog/wtf-is-nl-web-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "What is NLWeb? Crystal Carter explains how the Natural Language Web uses the ASK protocol and your structured data to prepare your site for the agentic web.",
+      "category": "SEO",
+      "published": "2026-09-25T07:00:00Z",
       "coverage": 1,
       "impact": 3.0
     },
@@ -4027,28 +4049,6 @@
       "published": "2026-09-10T20:11:11Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "ae7d7c312082",
-      "title": "Everyone Is Quoting The Same Number And Getting Different Answers via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/everyone-is-quoting-the-same-number-and-getting-different-answers/588659/",
-      "source": "Search Engine Journal",
-      "summary": "Publishers are blocking AI crawlers on a metric whose denominator is missing an unknown share of referrals. The post Everyone Is Quoting The Same Number And Getting Different Answers appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-10T19:00:21Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "88ab38f7b5c1",
-      "title": "How to do keyword research with Claude and Semrush",
-      "url": "https://www.semrush.com/blog/claude-keyword-research/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to use Claude and the Semrush MCP to find keyword ideas based on what your audience is saying.",
-      "category": "SEO",
-      "published": "2026-09-10T17:12:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
