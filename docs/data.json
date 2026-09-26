@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:56:12Z",
+  "updated": "2026-09-26T19:05:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -588,6 +588,30 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-09-26",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22 billion",
+      "title": "ElevenLabs hits a $22 billion valuation as rivals give away the same tech for free",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmZZeGtwWktTTzFUanZEQnJNYUF0SGxUVG5ReDlIVzJpNlZyWUg1VVNES1JvX1dJTENJckNCWFVTX0dJSzhkaEppcTR2UFpURWRiUkFpQVBtUmk4NFYteXpfMl9wWjA4NFlxRnZaZkZWRW5UODFXWWRwdFU3OFdTdk9kcl9qM0hBY2VhRTRKMXdodzhDVzIzdF9YZmxjVHZweVBjZzFwZGNmYTVDTVE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "341cd1cab820"
+    },
+    {
+      "date": "2026-09-26",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "IRS unveils new tax-filing app. Do you trust it?",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xbjdIWXZWQzZWNHJCRHk4X1JySU01NElYTVRVM0x4ZW1Ca0NoUXNxRWtMU2JMREFqanlJaUluLVhTalU1ZU9tSV9RbnFuemxSWDJsNDRoN1BxOTU1NmFIX0JWNXZ6ZV9Ua3pGc1ozWnJGV09I?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "29eceb088304"
+    },
     {
       "date": "2026-09-25",
       "company": "Black Forest Labs",
@@ -1283,30 +1307,6 @@
       "source": "Google News",
       "curated": false,
       "id": "3851103d56bc"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRWI3TW04LUpLT0VGUFo1OHhHWHEtdnpHRmV6LUVBYnlqUmxGVEh5RW5VS3VBVWUzTTZURnBnSFBJV1F6SlVRandLbzJQcjFCb3pLUnlBNW1TQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8a898fed6093"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$50 Million",
-      "title": "Reliability Company Raindrop Completes $50 Million Series A and Launches Simulation Product",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NMmc0OVNaWGdCWGxwLXg5d01hamllb0xobXBOTHNWbjdSOGlZLVlBMklaa2I1NDF0MEZFQ09vdXQzVy1FNjF0V1JlS0JnLWVUZExNWHJ3ZnBLLS11bnVtOEFCS21CWDlTZDgxNG9OMV9LV1hi?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "570299ac3727"
     }
   ],
   "items": [
