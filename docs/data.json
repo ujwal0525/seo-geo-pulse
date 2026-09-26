@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T09:12:25Z",
+  "updated": "2026-09-26T15:56:12Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -24,6 +24,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-09-26",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "81e68430e85b"
+    },
     {
       "date": "2026-09-25",
       "family": "engine",
@@ -711,6 +721,18 @@
       "id": "118b9ffc671c"
     },
     {
+      "date": "2026-09-25",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3dsWU9LZjZEaExPbm5sdUVZN242SXB1Q1dsQzRDVi1wX3RHVTZzQVRLS21FRHNJY1BDY01YWm9naG1iaXdYUEMzWFU3X0swOExTQUZCSEp4RmFpUEc3M0g5U3lsMDlxVW5VZktXNFlJRDI3QU5kd0VEM3h2dmJ5eHdzaGNlOWpmVE9BeXBJV1U0Y3FEcHNWQWFIREl1T2Z1QkFTaUl5ZTJYU21TWHlURS1OM3E3TFdpMi03WmZSUWx6UGZrUThraNIByAFBVV95cUxPT3dsWU9LZjZEaExPbm5sdUVZN242SXB1Q1dsQzRDVi1wX3RHVTZzQVRLS21FRHNJY1BDY01YWm9naG1iaXdYUEMzWFU3X0swOExTQUZCSEp4RmFpUEc3M0g5U3lsMDlxVW5VZktXNFlJRDI3QU5kd0VEM3h2dmJ5eHdzaGNlOWpmVE9BeXBJV1U0Y3FEcHNWQWFIREl1T2Z1QkFTaUl5ZTJYU21TWHlURS1OM3E3TFdpMi03WmZSUWx6UGZrUThraA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6f41cdd1a50b"
+    },
+    {
       "date": "2026-09-24",
       "company": "Black Forest Labs",
       "front": "GenAI Media",
@@ -1285,21 +1307,20 @@
       "source": "Google News",
       "curated": false,
       "id": "570299ac3727"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "HiDream Unveils HiDream-O1-Video-1.0, a Native Omnimodal Video Model Built for Physical Consistency",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXhlM0tZcVZSNnlvOFhvbXU0NXBDVzBBZmFWdVZidDlqRlAtS0V6VHl6OVVpVjJET2ZweDNhT2E1Z2FLVzE3elFfaXh5YVV3SVlqNE43bFAzejdLSFlVUFpZc1NtSm1HeGFFeTljSm0tUnpzR2NRaWxCWGVVcUFNWEhOVkxkTG9zZ0RSbTJDTGc4RHg5Slg3THlHU3E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f6c57894eb31"
     }
   ],
   "items": [
+    {
+      "id": "3f62cfb285dc",
+      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/",
+      "source": "Search Engine Journal",
+      "summary": "Google's September spam update may take up to two weeks, Search Console adds image-based search data, reports look at traffic from Search and AI Mode. The post Google Spam Update, Image Search Data In GSC – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-26T12:00:46Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "619b955b5555",
       "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
@@ -4038,17 +4059,6 @@
       "published": "2026-09-10T21:13:27Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "24780c158c2d",
-      "title": "Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/is-your-local-seo-strategy-ready-for-googles-next-ai-updates/589119/",
-      "source": "Search Engine Journal",
-      "summary": "Google & Uberall go live on Sept 24, sharing what comes next in Google Search and five local marketing strategy fixes that get locations recommended. The post Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-10T20:11:11Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
