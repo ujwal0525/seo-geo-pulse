@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T13:34:45Z",
+  "updated": "2026-09-27T19:35:47Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -611,6 +611,18 @@
       "source": "Google News",
       "curated": false,
       "id": "29eceb088304"
+    },
+    {
+      "date": "2026-09-26",
+      "company": "Recraft",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Bambu Lab launches its first laser engraver after losing lawsuit with Stratasys",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFRhS2xJTDVxQzBMcTUwZjdjZ1RwWTlSOWpfTk5HQW9KX2ZfeFNXSWxERlFRa0otWXNPSnRNeU5UYmpSRTV6YVk2TUtjMkg4cF9MNzVhVVEzdkFnWTgzMHlJVGJiZFE5Mk8xNXU1c0NDTDdfZnp0RUNBSUNZMGJYdjdGYkt2bE16bHF0dWNEY0NPNEVscVVLbG5jWHNRalVZNy14TGRjWGU1SDktd3czNHcwOA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5ade56788528"
     },
     {
       "date": "2026-09-25",
@@ -1295,18 +1307,6 @@
       "source": "Google News",
       "curated": false,
       "id": "fec3d5fddaa0"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$500M",
-      "title": "ElevenLabs in talks to raise over $500M in new funding round",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BVVl3UWU4RmprTWJKZFBxOHphWmdmTnRFaGQ2TklsTEJNS09oQlhKdTZQMW5sbXV2Qnp3dkhoTWJ2a2xVdlktUzh3UGhkSUhSNFMwRGROUnQ2TFpSbkNxQk43V09vUzZxajg1SjJvSkw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8e053572548b"
     }
   ],
   "items": [
