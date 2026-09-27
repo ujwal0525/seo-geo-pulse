@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T04:03:05Z",
+  "updated": "2026-09-27T13:34:45Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1261,6 +1261,18 @@
       "id": "3b849a683fb5"
     },
     {
+      "date": "2026-09-18",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "$154.0M",
+      "title": "DocuSign acquires Lexion for $154.0M (SEC) — May 2024",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanR6TmI3NXZGS2x5QlRVbmt5SWNOVll3NGYxWGF1bHctd1NNYkt4eFpwbkkzM2Vqck5heGVqRl9uUy12SzBaQzZhNTBOTXMtOTRTQUJGdG9RZWZwUloxa3FqYTB6dDNLSFFabk1Mb1o4LUFsZTV6YnR1T3ZEc1R4SDMxTE1FVVpmRVE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "51310ab8b2c6"
+    },
+    {
       "date": "2026-09-17",
       "company": "Affinity",
       "front": "Creative",
@@ -1295,18 +1307,6 @@
       "source": "Google News",
       "curated": false,
       "id": "8e053572548b"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Higgsfield Showcases AI-Driven Creative Collaboration at ADWEEK Brandweek",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYldvS2pwN25INVk4MlY3SzA0dFRvRWNaU0IzZ2dteHlUQk50eDYtdnVGVVg4M3p4Q0tMZGpqelVpcjdLSm5WakppVVN4Tnp6ZldqdzFXSldtcHNJYjB3LTB1bmRNQk1aUnNWNURvTHBEWEVza3J4enYxWGpqc182aDhyTHA1OXdLbjdERkE1YnRFaVdCaG9WelZQRlBncVZneVNBTHk5Vk5EM0NPVDNtb2NNb01mZ3RPWmlxdl9B?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3851103d56bc"
     }
   ],
   "items": [
