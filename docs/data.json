@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T04:04:29Z",
+  "updated": "2026-09-28T16:31:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -25,6 +25,26 @@
   ],
   "milestones": [
     {
+      "date": "2026-09-28",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Daily Search Forum Recap: September 28, 2026",
+      "url": "https://www.seroundtable.com/recap-09-28-2026-42173.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "9bcc571cc056"
+    },
+    {
+      "date": "2026-09-28",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google September 2026 Spam Update Has Big WeekendÂImpact",
+      "url": "https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "838af25c5330"
+    },
+    {
       "date": "2026-09-26",
       "family": "engine",
       "platform": "Google",
@@ -33,16 +53,6 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "81e68430e85b"
-    },
-    {
-      "date": "2026-09-25",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Daily Search Forum Recap: September 25, 2026",
-      "url": "https://www.seroundtable.com/recap-09-25-2026-42166.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "fb128f54d13e"
     },
     {
       "date": "2026-09-25",
@@ -589,6 +599,78 @@
   ],
   "competitors": [
     {
+      "date": "2026-09-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches Eleven v4 and v4 Turbo voice models",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXdqMTdNYnctaTk0NUVGQTJ6eDBUbzMxbEFGeFgtS2h4Ty1nU3p4d1NjSTdXck05RWNhenFQNnIxZ0Q2cHJ6YW04WWxQQU5nUTZna0RmSzJnaGVzc2hrdlY5T0RxeFhKdkMyN0lZazljZWxWVXlxWlJOWk5fZEh0d2Fzd0hVVzFnckFvSHJkME4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "99625d6abf9d"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches Eleven V4 With Low-Latency Turbo Variant",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2hGMzFnX1d6N0ZVNEg0ejlKeWY5RjY0M2VUd1BXazRjd20tV3RnRFpuUTVJTWVLaFJxWEoycU1MdERZSGYyN3ZXSlp6bVd5VUxIdlRqMnBxTDBFd0g3Rlp0dUxsbXNwVUIwTmt4b3F0VVFzTnFTcWJ0Nk9CTU01WEQ4YmFIR3NLeHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b2bb9c4fa7a1"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches v4 AI speech model with 90 language support | Tap to know more | Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmtfTDVoVGtsUklOcXRqajFYdm5XR2tON1owWVQ5bFEtVG4wZlh0b3VjWU9lVldib19Md2M5STZPbGtPM3Y4OFA1eVB3ZE10dS1SbVJXTDZmNVpnRjVaNS1iZmlVR1pkd2FZd0JmS3YycUgxSDZidEZEMWV6UHl5TENzRVJ6Sm5BZFFfaU54WjBJZlZZZVVuQXNOaldoRFJscHBIWjczeF9EUdIBrwFBVV95cUxPTE5JNl9mSXJxZ3htTWpnTmxRYlZiTm5mcjZUREFHM1JaUDN0WDc4ZnZmNHhWWFJ0MjdIcXU1OHdhdUtEM1hNNWc3YVpwSTZhV1Q2ZGhTaFZhbWJxbXdWMjVGZ19xSU5QVVg5UDVvUWxTemZhQWc3M09EVzRzT3o4UExHbVNVOEVrMm4zS19DMUFodlRpNjJCVzVFNVBhVkRjbEtsY0JISzdCSVJkMVUw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "22e130667a25"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches v4 speech models with faste...",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWFjaDBQLXp5bHNtdEtaVEliV0FWYW1HRkNHOTB1QTJrU0hicU84TkJDMDVNRkw2RVdFUVo3dG10VW0teERXNWVMOXdKQk4wY0Z0ZG1STTI0d0hWQWtDUXB2TkpVbFFYUEVlRXhlQ213QWlmbzdyTnhiRUdZMTVOSFB4dzZBZ28xRFVzMnltUWZjU29ETFh5ajk1N1E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b6e784cb4d33"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches 'Eleven v4' and 'Eleven v4 Turbo' Text-to-Speech AI Models",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2NzNGN6LTVVVHgyMkZ3ei1HVW9YUXlKc1ZodThkdDhrSkl6RE1BVEVjRDA4OWtJWXZRMDhOai0zNWVsMVFHOVFWVjUzLXg2R2NJZ0FkczNHamp0LXI4YzBteV85OFhVMmxlVWQ0SnJ6dDhKU1JNSFFnSFRDNkNIQ1JQaHlhR3ZMSXdfbm5lanZaR2dZTVFnRmh1YkowTFpaOFgw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f264b4bef4ab"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe completes Topaz Labs acquisition – Topaz stays a standalone brand",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JZbW9ScUY2N2dPMUlaVzY2MnZLOEhyUnVPTTJHZmJyREpiVGZzRXd2MjZuUzU1aGFlUGRDV1dxYXY0LVpDZ3lTU1ZOS1VnbkJkTjVKakw2YTk2WTd5VE9sSUVpUlFURHJnal92ZU1ka2ZjZ2d2V1EzM2dlN0J2UzREd2lxaGRsMEFMQWVFUW9VTTRoeHl0ZjlmZFBNU09jYW5TZEJIQUU5ZUZJT2h4Z1dB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f51ec1bc71c9"
+    },
+    {
       "date": "2026-09-26",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -769,6 +851,18 @@
       "id": "6f41cdd1a50b"
     },
     {
+      "date": "2026-09-25",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "BookExpo365 Launches AI-Powered 365-Day Book Growth Platform",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVktUkVleUZ4ZWhmallPWGw4WjV2dHlnN0RGTWpyazBYR0ZId09GQTZ2TEQ0eGk3Rm5neUlQQm52X2gyRWRVdmJvYk5FQkU2cGl6OEIwQjRnLWNfaE9JQXRvUnFMMDJTZUFlZWpxYlVwTUtjQm91VVNJbW12M2lSSV9OTWx2ZGFZbUltcXZndDJQT2FseGZmNVg1RW1EcVRRQUY0UFJKZGhzeERUclpIVHNEUXVsX2M?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "de251542e2f4"
+    },
+    {
       "date": "2026-09-24",
       "company": "Black Forest Labs",
       "front": "GenAI Media",
@@ -827,18 +921,6 @@
       "source": "Google News",
       "curated": false,
       "id": "e1432d480e85"
-    },
-    {
-      "date": "2026-09-24",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Adobe Completes Topaz Labs Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93NUdsbGZiRlRxcm8tenNaeVRDY1V2NzN4ZUt2cVZSd3FnamFjRHE3NW5JSFlqN2VGRWNXdHpqcFoxdDdsekUtTmlMcnRMTlp0N3d4YV9LR3duZE5VVzltc2EyMWxoY3lQaVlEQndKQm8?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4a896fde0bb9"
     },
     {
       "date": "2026-09-24",
@@ -1235,81 +1317,196 @@
       "source": "Google News",
       "curated": false,
       "id": "28410f3b44a1"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$500M",
-      "title": "EU’s €5B Scaleup Europe Fund in talks to back ElevenLabs’ $500M raise",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWm0wSnhMYUJnSmMxZXhzMXA5T0U5MU1LaXpNVlJpNmNDYVlhcF9hc1pyUnhVczh1SEstQnE4QzB0MEtkS0FKYUdxb0gzaUtLckRsdk9BMUxuSTZDR1FKNzRMTFpZNHVwTXNhaTVha21fWXdYSWlMMkVaV2FyMXlwTmRLcjhRQm1pWFhFTVQydU12REFiaHBIUU9qaw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e3ad72d2738d"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "UPDF",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "NFSU Uganda Unveils Rapid DNA Technology To Strengthen Criminal Investigations",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXE1dl80NDNqYnMyMUl5cEFncjBpb3AwLVZHWFUxU2Z3d3F6MllQN2QwOWt0VldTS29qWjQxWDRUOXdfUl8wRVNFdGVkTVllVU9UMlV3R3RqUUFGSXI5c1pVMmhVRHVzbFFUNmhYUDlTTTg0UTFsczlrTEYxM1lKWWRFTWtGRHdWMUtIdTROdzZBWTJ2UERkbnJjVDdjcTVFZFBnaDFfRTNrdXFjZFYxWtIBtgFBVV95cUxPekIwa1N5LWc2OUN2M2RwNkdybURjT1JjTVlNS3NNaUVWNjRyeFQ1WkRobzM5bU9JU3Z3S3hnT1B2Y2VmeFU5YnhHc1hCZXVOb2ZaZzNTb1YwTTUxQmJ6bUlYd1JIYS1ENnloQ0VjdDUwSTNCdk5jWmt5WU5nSTFGV0xIY3V1aWZhNDhDaTV4U20tdjQ3bWtyaTYxZDhUWWhoQVZDRnRyR3hOUzk1S3QxSzBpNmtOdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "efceedd14a85"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "Midjourney",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Meta partners with Midjourney to bring AI image tech to future products",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUJXMkdZMHVTMHFKOEVvREpFQ1VvUEx2YlpaMzhpM1R1R01oZDRiNkdzRVFmLWJsa0REeW9fRGdCSHJCUUlxOVh6eWY0Y2d1NEVIWEo4b1J3cXhDU182bFRXNnh1UkZHaGltWG9pbW8wUFRHMDM4MGJuSC1fTTF0OTM4cnR6RnlpUTVINWJrMXZfQ3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3b849a683fb5"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "$154.0M",
-      "title": "DocuSign acquires Lexion for $154.0M (SEC) — May 2024",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanR6TmI3NXZGS2x5QlRVbmt5SWNOVll3NGYxWGF1bHctd1NNYkt4eFpwbkkzM2Vqck5heGVqRl9uUy12SzBaQzZhNTBOTXMtOTRTQUJGdG9RZWZwUloxa3FqYTB6dDNLSFFabk1Mb1o4LUFsZTV6YnR1T3ZEc1R4SDMxTE1FVVpmRVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "51310ab8b2c6"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity Pathfinder Launches New Website for Somatic Coaching, Community, and Embodied Growth",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalN1NjYzaTlsQjNvTWp5MnlVSFFHYllxRDlYYlNzazRfYlpubERJRVlPZ2lPWG5nNy1zRWtxcjQ2R0FnWGkxMnNORHJIX3lKY1J0VmhYaTB6VWQ1X01LeHBNZXdZX24weW5TWWN3QXZLOE1EQjhnZDQwT1hvZ0hETWluNzlZQmhQZEFiUXVhM1J0MXhlMkRDZnhYb3E2Y05PYTA3REJCczF1c2RuODJ0ZG5iMVJnRHA4ZGtaSnl3TE5rLWg3UFpMRzJFbjQyZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "96bde79611f1"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Higgsfield Launches Unified Generative AI API With Usage-Based Pricing",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzdsbnF6dUJINjhScUZIaHN0LWo2VFA1Mm1Va0RFdUk5RE1lZFNiVTFhZzNOYkNLX1lEWW5xV2NoSWx0MktNTHh6Qk9IY2hObGNpQ2dhZlZGMmx2ZzEwTnIzOFRzWXhUOWJUVjFjeUw5M3hUOTVDZGhNQ2NtVUI3TWR6WkFQU3hkYWVEMVRrOFdtUVdCWW9kU09KeU1pUEhaRHhTdXVHQnBkamoxWkVON2N3M0NZTGhWcnc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fec3d5fddaa0"
     }
   ],
   "items": [
+    {
+      "id": "0f4ccfa2b5fa",
+      "title": "Building Mini Personas to Write Content Your Target Audience Actually Wants",
+      "url": "https://neilpatel.com/blog/audience-first-content/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways You get the brief, and the target audience line reads something like “marketing professionals.” That’s it. So you guess at the tone, pick a reasonable angle, and hope it lands. Sound familiar? Most writers run into this gap between “know your audience” advice and…",
+      "category": "SEO",
+      "published": "2026-09-28T16:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "2bcc9d3fe5d0",
+      "title": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
+      "url": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
+      "source": "Search Engine Journal",
+      "summary": "CallRail's ChatGPT ads integration lets SMBs and agencies attribute calls, texts, and forms to campaigns, send conversion data to OpenAI, and compare performance across channels. The post CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies appeared first on…",
+      "category": "GEO",
+      "published": "2026-09-28T15:46:48Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "32e3a500bbc4",
+      "title": "The Generative AI Report Sucks – Let’s Make It Brilliant",
+      "url": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
+      "source": "Search Engine Journal",
+      "summary": "Google's Generative AI report shows visibility and nothing else. Layer commercial data and traffic dependency on top and you get real exposure. The post The Generative AI Report Sucks – Let’s Make It Brilliant appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-28T14:30:29Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "236c33475c89",
+      "title": "Daily Search Forum Recap: September 28, 2026",
+      "url": "https://www.seroundtable.com/recap-09-28-2026-42173.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. The Google September spam update had a big impact this weekend...",
+      "category": "Algorithms",
+      "published": "2026-09-28T14:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "297259a593d4",
+      "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/",
+      "source": "Search Engine Journal",
+      "summary": "UCP has published a draft hotel booking specification, Google says it will adopt the open standard for AI Mode hotel booking over the coming months. The post Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-28T13:44:16Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "370206034ecd",
+      "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study via @sejournal, @MPentzek",
+      "url": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/",
+      "source": "Search Engine Journal",
+      "summary": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself. The post AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study appeared first on Search…",
+      "category": "SEO",
+      "published": "2026-09-28T12:00:01Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d3bcfd32830c",
+      "title": "Google September 2026 Spam Update Has Big WeekendÂImpact",
+      "url": "https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The first stage of the Google September 2026 Spam update seems to have been felt in a big way starting Friday, September 25th, with even more movement on Saturday, September 26th and then ending on Sunday, September 27th. There is more to come, since we are only five days into…",
+      "category": "Algorithms",
+      "published": "2026-09-28T11:51:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "36b148b10634",
+      "title": "Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/",
+      "source": "Search Engine Journal",
+      "summary": "WP Engine is gratified by the judge's antitrust ruling, but Automattic also scores seven victories. The post Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-28T11:46:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a20c33b2de81",
+      "title": "Google Web Search Service API Documentation Has Been Removed",
+      "url": "https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html",
+      "source": "Search Engine Roundtable",
+      "summary": "A couple of weeks ago, Google seemed to accidentally publish its Web Search Service API documentation, then pulled it down last week. Google doesn't offer a public Web Search Service API, so we really can't access it, but I assume it does have some partners with access, like…",
+      "category": "SEO",
+      "published": "2026-09-28T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ec7410329bce",
+      "title": "Several Google Merchant Center Policy Documents Updated",
+      "url": "https://www.seroundtable.com/google-merchant-center-policy-docs-updates-42167.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated several Google Merchant Center policy documents late last week. The documents include Products that enable dishonest behavior, Dangerous products, Counterfeit products, Sexual content, Editorial & professional requirements, the overarching Shopping ads…",
+      "category": "SEO",
+      "published": "2026-09-28T11:31:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "50e2531b686d",
+      "title": "Google Tests Replacing Show More Button On AI Overviews With Loading...",
+      "url": "https://www.seroundtable.com/google-ai-overviews-loading-button-42170.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing replacing the \"Show more\" button under the AI Overviews with a \"Loading...\" button. Also, earlier this year, Google tested \"Enter AI Mode\" for the button text but that obviously did not stick.",
+      "category": "GEO",
+      "published": "2026-09-28T11:21:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "c7e968ffe884",
+      "title": "Google Merchant Center API Help Document Vastly Updated",
+      "url": "https://www.seroundtable.com/google-merchant-center-api-help-doc-update-42137.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has completely revamped the Google Merchant Center API help document page. It was previously named \"API access to Merchant Center\" and was renamed to \"Google Merchant Center API.\" Plus, the content on the page has been completely rewritten and expanded.",
+      "category": "SEO",
+      "published": "2026-09-28T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0d1121af169a",
+      "title": "Google Search Profiles Follow Button Removed From Desktop Search Results",
+      "url": "https://www.seroundtable.com/google-search-profiles-follow-button-removed-42169.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to have removed the Follow button from the desktop search results page, but it is still on the mobile search results page. The follow button lets you quickly follow a Search profile for the individual or brand you searched for.",
+      "category": "SEO",
+      "published": "2026-09-28T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e4c0c68320cd",
+      "title": "Google Tests More Sitelinks Designs",
+      "url": "https://www.seroundtable.com/google-test-more-sitelinks-designs-42172.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google continues to test variations of designs and user experiences for Sitelinks within its search results. The new design spotted has the Sitelinks listed line by line, with a horizontal line across the left side of the mobile search result snippet.",
+      "category": "SEO",
+      "published": "2026-09-28T09:45:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b3cc9d597c8c",
+      "title": "The usefulness of attribution for AI Search",
+      "url": "https://www.growth-memo.com/p/the-collapse-of-attribution",
+      "source": "Growth Memo",
+      "summary": "Click-based attribution hasn’t been ideal for non-paid channels for a long time. AI puts a lid on it. (Featuring George Bonaci, VP Growth @ Ramp)",
+      "category": "GEO",
+      "published": "2026-09-28T09:42:25Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7d6a53ed3848",
+      "title": "10 SEO best practices for Google and AI search",
+      "url": "https://www.semrush.com/blog/seo-best-practices/",
+      "source": "Semrush Blog",
+      "summary": "SEO best practices that hold up in AI search, where Semrush found the average visitor is worth 4.4x an organic one.",
+      "category": "GEO",
+      "published": "2026-09-28T09:18:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "28cdfc0e0085",
+      "title": "From Discovery to Booking: UCP Lodging and the Agentic Web for Travel",
+      "url": "https://wordlift.io/blog/en/ucp-lodging-and-the-agentic-web/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "After meeting UCP creator Amit Handa at the W3C × GS1 workshop in Zurich, I wanted to understand what the protocol really means for travel. Using Alpina.travel as a live example, this article shows how entity memory, live availability and UCP Lodging can move AI from discovery…",
+      "category": "SEO",
+      "published": "2026-09-28T08:54:19Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "fda646d0ea5b",
       "title": "Google's 28th Birthday Doodle Takes You To Google AI Mode Quiz",
@@ -1375,17 +1572,6 @@
       "published": "2026-09-25T14:30:43Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "228f81f2a248",
-      "title": "Daily Search Forum Recap: September 25, 2026",
-      "url": "https://www.seroundtable.com/recap-09-25-2026-42166.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has released a new algorithm update, not a core update, but a spam update and this spam update will take two weeks...",
-      "category": "Algorithms",
-      "published": "2026-09-25T14:00:00Z",
-      "coverage": 1,
-      "impact": 8.0
     },
     {
       "id": "b52e852c276f",
@@ -3883,182 +4069,6 @@
       "published": "2026-09-11T15:54:59Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "9a3ae1d321cf",
-      "title": "The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
-      "source": "Search Engine Journal",
-      "summary": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate. The post The 2003 Framework That Was Already Doing Query Fan-Out appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-11T14:30:50Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "83975534003b",
-      "title": "Google Search Console Indexing Report Missing Old June Data",
-      "url": "https://www.seroundtable.com/google-search-console-indexing-report-missing-data-42073.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The Google Search Console page indexing report is now missing a huge chunk of data from June 2026. It seems something is super buggy with this report over the page several months or something weird is happening with indexing in Google Search. I am hoping it is just a reporting…",
-      "category": "SEO",
-      "published": "2026-09-11T13:17:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ae54626f86fc",
-      "title": "Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types & Google Maps Photo Scams",
-      "url": "https://www.seroundtable.com/video-09-11-2026-42061.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week we covered how Google said it launched its biggest reduction in search quality in Europe over the DMA laws. Google also posted a document on the regional differences with the Google Search experiences. Google confirmed there was a temporary indexing reporting bug in…",
-      "category": "SEO",
-      "published": "2026-09-11T12:01:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "c6b746a84c1a",
-      "title": "What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/",
-      "source": "Search Engine Journal",
-      "summary": "A University of Washington paper estimates AI Overviews reduced search referrals to Wikipedia by about 5%, a metric Google disputes. The post What Wikipedia Reveals About AI Overviews And Web Traffic appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-11T12:00:42Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "4b2f9bdf9d10",
-      "title": "Google Shopping Ads X Days Left Attribute On Sponsored Ads",
-      "url": "https://www.seroundtable.com/google-ads-x-days-left-42063.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is running a \"very early experiment\" to show a new attribute in sponsored results in Google Search. This attribute shows how many days remain in a sale or deal on Shopping Ads.",
-      "category": "SEO",
-      "published": "2026-09-11T11:51:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "8bc2fba7178e",
-      "title": "Google Ads Reporting Segments For Loyalty Program Members",
-      "url": "https://www.seroundtable.com/google-ads-loyalty-program-members-segments-42050.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Last month, Google Ads added a new customer retention option named Loyalty program members. Now Google Ads can segment reporting by Loyalty program members.",
-      "category": "SEO",
-      "published": "2026-09-11T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1b96cd656df9",
-      "title": "Google Ads Sponsored Results Label Alignment Is Off (Sometimes)",
-      "url": "https://www.seroundtable.com/google-sponsored-result-label-alignment-off-42059.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google may have a bug with some of its search results formatting, where the sponsored results heading is sometimes not left-aligned. This does not seem intentional and it seems more like a formatting bug, but who knows.",
-      "category": "SEO",
-      "published": "2026-09-11T11:31:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "85d70e9a2eb3",
-      "title": "Google Ads Video Campaign Group Beta",
-      "url": "https://www.seroundtable.com/google-ads-video-campaign-group-42027.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is beta testing a new option during the campaign creation process for \"Video Campaign Group.\" This option is for video or Demand Gen campaigns, and it features aggregated metrics and controls for reach and frequency across campaigns.",
-      "category": "SEO",
-      "published": "2026-09-11T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e40bc9447887",
-      "title": "Google Merchant Center With Add Product Videos",
-      "url": "https://www.seroundtable.com/google-merchant-center-add-product-videos-42064.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Merchant Center now lets you upload videos of your products through a new Product videos section. \"Product videos offer a more engaging and immersive experience to customers,\" Google wrote on the \"Add videos\" page within Merchant Center.",
-      "category": "SEO",
-      "published": "2026-09-11T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a99f5b3c0a4f",
-      "title": "Google AdSense Max Message Coverage & Optimize My Consent Message",
-      "url": "https://www.seroundtable.com/google-adsense-maximize-message-coverage-optimize-consent-message-42069.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google AdSense announced two new privacy-focused features it is rolling out or has rolled out in European Economic Area (EEA), the United Kingdom (UK), or Switzerland regions. Google Ads has \"Maximize message coverage\" and \"Optimize my consent message\" in Privacy & messaging.",
-      "category": "SEO",
-      "published": "2026-09-11T11:05:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "3341b990a3db",
-      "title": "What is zero-click marketing? How to execute and measure it",
-      "url": "https://www.semrush.com/blog/zero-click-marketing/",
-      "source": "Semrush Blog",
-      "summary": "Zero-click marketing is a content strategy for delivering value without requiring clicks to other pages.",
-      "category": "SEO",
-      "published": "2026-09-11T10:06:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "c7d3c8aeae42",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "category": "GEO",
-      "published": "2026-09-11T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b18d9ad47371",
-      "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/",
-      "source": "Search Engine Journal",
-      "summary": "Stas Levitan of LightSite AI explains four first-party signals marketers can use to connect AI bot attention with human traffic and better SEO decisions. The post New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-11T07:45:21Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "7ab7a5fba485",
-      "title": "How to Strengthen Your Brand's Authority — Whiteboard Friday",
-      "url": "https://moz.com/blog/strengthen-your-brands-authority-whiteboard-friday",
-      "source": "Moz Blog",
-      "summary": "Discover proven strategies for strengthening your brand's authority in 9 easy steps. From product excellence (featuring Tony's Chocolonely) to customer service mastery (like Amazon), learn how successful brands maintain their edge. This guide covers essential elements, including…",
-      "category": "SEO",
-      "published": "2026-09-11T07:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "3c42afcff6d2",
-      "title": "The Ghost Citation: When AI Knows Your Brand Better Than It Knows Your Content",
-      "url": "https://foundationinc.co/lab/n8n-ghost-citation-audit",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "AI can recommend your brand while citing sources you don’t own. That is what happened with n8n, the AI workflow automation platform. When we asked AI systems to recommend workflow automation tools without mentioning n8n by name (for example, “What is the best platform for…",
-      "category": "SEO",
-      "published": "2026-09-10T22:00:31Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "1e0743e043d0",
-      "title": "The Docs Dividend: How Docker Built Its Largest First-Party AI Evidence Layer",
-      "url": "https://foundationinc.co/lab/docker-docs-ai-citations",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "You’ve probably rewritten the comparison page, added an FAQ block to the product page, and refreshed last year’s blog posts, all to get cited in AI answers. But Docker’s citation data points somewhere else: technical documentation. Across two Profound runs on August 23 and 24…",
-      "category": "GEO",
-      "published": "2026-09-10T21:22:37Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
