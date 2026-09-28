@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T22:51:52Z",
+  "updated": "2026-09-28T04:04:29Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1310,6 +1310,17 @@
     }
   ],
   "items": [
+    {
+      "id": "fda646d0ea5b",
+      "title": "Google's 28th Birthday Doodle Takes You To Google AI Mode Quiz",
+      "url": "https://www.seroundtable.com/googles-28th-birthday-doodle-42171.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Today is Google's 28th birthday and Google has a special Google Doodle to celebrate. The Doodle takes you back in time to an early Google logo. Plus, when you click on the Doodle, you are taken into AI Mode where you can take \"a fun trivia quiz about Google's company lore…",
+      "category": "GEO",
+      "published": "2026-09-28T00:17:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "3f62cfb285dc",
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
@@ -4048,17 +4059,6 @@
       "published": "2026-09-10T21:22:37Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "c33cb18f67e1",
-      "title": "Google Adds Post View Counts To Business Profiles via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/",
-      "source": "Search Engine Journal",
-      "summary": "Google says Business Profile post view counts are rolling out globally for posts published in the past 18 months, combining views from Search and Maps. The post Google Adds Post View Counts To Business Profiles appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-10T21:13:27Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
