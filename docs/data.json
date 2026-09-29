@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T16:31:39Z",
+  "updated": "2026-09-29T00:14:29Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -10,7 +10,6 @@
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
-    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -671,6 +670,42 @@
       "id": "f51ec1bc71c9"
     },
     {
+      "date": "2026-09-28",
+      "company": "Freepik",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Health Care At Home India and QMS Medical Allied Services announce pharma business merger",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTzVSZ0ZyNkozY255VE1xNk5GamdkUEluaUN5SXhMNGRqT3hmT2tKWkdndzRnbkVrOGxDWUdYOFpuTGl2UTFWQ2MzRlp1Q3N4OGhVVkRLUHR5WUpQUVFqNXBrUER0dVdfOEhtVFYwbWUtUFNWam5ZcThnbmwzODBTYTJ4bmVzZHM3RXVDSnpQd19uSGxCOElFWl9qVFpZeUFkZFlfekFheU5xQTVKb2lDUFpueVJ6UkxBUGdhalBfenZfMTliRUZveURaa25JTFVrNmtFN3VIbW8?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a281f55c0f85"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$2.8 Billion",
+      "title": "Kuaishou’s Kling AI Secures $2.8 Billion in Financing Commitments",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0eXdXZkY5VlJzT1VxalhObzUySExObTlQNFY2ZENfdWs4TU9zcl9kWTZLODB0Y1NkYUxxcVRjQ044WU84Q01tdEltNzNKeXg1VjJPV3ZtSnQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4cc688323b13"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou Technology’s AI spinoff unveils Kling 4.0 video model ahead of Hong Kong listing",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53RUJ2QmxjSVNSVlZsY1BidEZWWWNsd0ZPVk5jekpkdGxPZXFab2tGQzZHRERxRjhvZDlmS0o1a3VZMjZLV25lcHVrT0xzdThjaWdzQmZFelJBMkl6NTlTQ0psRTdVaWFIMXVUT3lpSlgtcUJ6VG9GaDRBSQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4800c8f71a3d"
+    },
+    {
       "date": "2026-09-26",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1281,45 +1316,64 @@
       "source": "Google News",
       "curated": false,
       "id": "3cd077cac5d3"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Video Generation Media Platform Higgsfield Launches Unified API for Over 50 Models, Pay-Per-Use Pricing Without Subscription Binding",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuNlN4VVFkWldJTS1nbWdNYWQwaUZ5V1Awdy1sTXNDT1FHaWJKRWthcHkxY3JMeVpsYWY1bDNVUVhDUHc1dkU2SGp6XzUtdFJ2TUtvVFAwcWZWeUwtd1FpYmtVejhlUkM1Z2hIU2x3d2pJVXBP?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9d849c85ad2e"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Introducing Enhance Frame Rate",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCOFcwOHBLU3FBY1ltVG53LUhobndhQ1hmV3ZhSVNWalBPZmI2MERud1l2YXdUVHM3UGxkaEpicXZKUTdOYjR0WVc1eDNmREJSQW5fRkxOeVlPeXl3ZTNfT1lEdVZGc2VqLXlhbUdkc1lXc2UyRlE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "25c2e19b96c1"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$500M",
-      "title": "EU-backed €5B fund in talks to join ElevenLabs' $500M Series E",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0ZYYTlROFJ5eG5PeVB5OFN0N2NsdnFWTHJGY3htZU43OFUtUFFSd2F2T3ZCOWlWVURXeE42N0hyeUs4RWpibE9McGZwQzdVN3kxVkQzQ2RIMmlrZV9VejZEWVhxUU5sc1NadzliRmxDLXZzbE10S2xIMl83UWtzenJjUnBqdTZTazZVRXB5T05RZjVpTUFURA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "28410f3b44a1"
     }
   ],
   "items": [
+    {
+      "id": "d33d08bcd61e",
+      "title": "Anthropic Publishes Prompting Guidance For Claude Opus 5.5 via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/anthropic-claude-opus-5-5-prompting-guidance/591278/",
+      "source": "Search Engine Journal",
+      "summary": "Anthropic's Claude Opus 5.5 prompting guide asks developers to retest effort settings and reconsider chat prompt lines telling Claude to think carefully. The post Anthropic Publishes Prompting Guidance For Claude Opus 5.5 appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-28T20:48:12Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "82587e57fcd9",
+      "title": "Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/",
+      "source": "Search Engine Journal",
+      "summary": "A court brief quotes an OpenAI engineer saying users \"won't click\" links and cites Microsoft data on lower CTRs in Bing Chat than in search. The post Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-28T20:23:46Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5700786de3bb",
+      "title": "MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/",
+      "source": "Search Engine Journal",
+      "summary": "SEO and paid media managers can strengthen their promotion case by proving AI's net gains and building a reskilling plan for their teams. The post MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-28T19:00:01Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "10e5dedfed4e",
+      "title": "54% of Docker’s own AI citations come from docs. Where do yours come from?",
+      "url": "https://foundationinc.co/lab/vol-311",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "You’ve written new blog posts, updated old pages, and added FAQ blocks to the pricing page. You covered every place you assumed AI assistants would look for evidence about your product. Docker’s data says the answer isn’t better blog posts. It’s documentation, which stays their…",
+      "category": "GEO",
+      "published": "2026-09-28T18:30:51Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "baa0c202a7b7",
+      "title": "What is llms.txt & should you use it?",
+      "url": "https://www.semrush.com/blog/llms-txt/",
+      "source": "Semrush Blog",
+      "summary": "An llms.txt file is designed to help large language models (LLMs) better understand the content on your site.",
+      "category": "GEO",
+      "published": "2026-09-28T16:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "0f4ccfa2b5fa",
       "title": "Building Mini Personas to Write Content Your Target Audience Actually Wants",
@@ -1508,6 +1562,17 @@
       "impact": 3.0
     },
     {
+      "id": "216d56bba26c",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "category": "SEO",
+      "published": "2026-09-28T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "fda646d0ea5b",
       "title": "Google's 28th Birthday Doodle Takes You To Google AI Mode Quiz",
       "url": "https://www.seroundtable.com/googles-28th-birthday-doodle-42171.html",
@@ -1515,6 +1580,28 @@
       "summary": "Today is Google's 28th birthday and Google has a special Google Doodle to celebrate. The Doodle takes you back in time to an early Google logo. Plus, when you click on the Doodle, you are taken into AI Mode where you can take \"a fun trivia quiz about Google's company lore…",
       "category": "GEO",
       "published": "2026-09-28T00:17:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "914f14710638",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "category": "SEO",
+      "published": "2026-09-28T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "bf0fe8cc388a",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "category": "GEO",
+      "published": "2026-09-28T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
     },
@@ -3202,6 +3289,17 @@
       "impact": 3.0
     },
     {
+      "id": "1e0743e043d0",
+      "title": "The Docs Dividend: How Docker Built Its Largest First-Party AI Evidence Layer",
+      "url": "https://foundationinc.co/lab/docker-docs-ai-citations",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "You’ve probably rewritten the comparison page, added an FAQ block to the product page, and refreshed last year’s blog posts, all to get cited in AI answers. But Docker’s citation data points somewhere else: technical documentation. Across two Profound runs on August 23 and 24…",
+      "category": "GEO",
+      "published": "2026-09-17T07:00:37Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
       "id": "363bbead77de",
       "title": "Introducing Astra for Law",
       "url": "https://openai.com/index/astra-for-law",
@@ -3968,105 +4066,6 @@
       "summary": "Remember back in March when we told our Indian community to \"sit tight\" while we figured out the APAC event calendar? Hopefully, you didn't take that too literally, because sitting tight for six months is probably not great for your back. In any case, you can finally stand up…",
       "category": "SEO",
       "published": "2026-09-14T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "338c9330d1f0",
-      "title": "Matt Mullenweg Apparently Back In Charge At Automattic via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/",
-      "source": "Search Engine Journal",
-      "summary": "Automattic says Matt Mullenweg has returned with the board's full support. But its official announcement raises additional questions. The post Matt Mullenweg Apparently Back In Charge At Automattic appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-13T21:10:22Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7514730b9548",
-      "title": "Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/",
-      "source": "Search Engine Journal",
-      "summary": "Google admits that Search Console's AI search reporting does not adequately reflect AI search positioning data for SEO. The post Google Admits Search Console Reporting For AI Search Is Inadequate appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-13T12:17:31Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a6502a755228",
-      "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/",
-      "source": "Search Engine Journal",
-      "summary": "Google redesigned Search results across the EEA, Business Profile posts get view counts again, and ChatGPT Shopping now leans harder on product feeds. The post Google Search Redesign, Business Profile Post Views – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-12T12:30:38Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "faa04f5da654",
-      "title": "SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh",
-      "url": "https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/",
-      "source": "Search Engine Journal",
-      "summary": "SEO For Paws is back with Barry Schwartz, Glenn Gabe, and a lineup of search experts talking about search in the AI era. The post SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-11T19:00:59Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "67930cd928b4",
-      "title": "Google Documents Partner-Only API For Full-Web Search Results via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/",
-      "source": "Search Engine Journal",
-      "summary": "Google's developer docs for the Web Search Service API show a partner-only path to full-web search results. The post Google Documents Partner-Only API For Full-Web Search Results appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-11T17:32:12Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2038fac373df",
-      "title": "Dashboards Available In Google Analytics",
-      "url": "https://www.seroundtable.com/google-analytics-dashboards-42075.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Analytics is rolling out dashboards where you can create your own custom dashboards using Google Analytics data. Google explains that you can \"create custom visualizations to quickly pull actionable insights from your Google Analytics data, all in a single, consolidated…",
-      "category": "SEO",
-      "published": "2026-09-11T16:32:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "c3aa33826442",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "category": "GEO",
-      "published": "2026-09-11T16:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "c352fbc96cf4",
-      "title": "20 Landing Page Examples to Learn From",
-      "url": "https://neilpatel.com/blog/landing-page-examples/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Traffic alone doesn’t pay the bills. You can drive thousands of visitors to your site and still watch your conversion rate flatline. If that’s happening, the problem might be your landing page. Your landing page is where interested visitors become leads (or don’t)…",
-      "category": "SEO",
-      "published": "2026-09-11T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "18afab3612a3",
-      "title": "How I Built an MCP Server for agents to use my Algo Update list",
-      "url": "https://www.mariehaynes.com/how-i-built-algo-update-mcp/",
-      "source": "Marie Haynes",
-      "summary": "I turned my 15-year archive of Google algorithm updates into an official Model Context Protocol (MCP) server at algo.mariehaynes.com. Here is how it was built, the architecture behind it, and how you can connect it to Claude Desktop. The post How I Built an MCP Server for agents…",
-      "category": "GEO",
-      "published": "2026-09-11T15:54:59Z",
       "coverage": 1,
       "impact": 5.0
     }
