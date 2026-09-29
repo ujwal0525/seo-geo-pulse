@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:47:10Z",
+  "updated": "2026-09-29T23:29:33Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -32,6 +32,26 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "96c374198739"
+    },
+    {
+      "date": "2026-09-29",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "944dd949d12a"
+    },
+    {
+      "date": "2026-09-29",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "95840e8c4cb9"
     },
     {
       "date": "2026-09-28",
@@ -644,6 +664,42 @@
       "id": "fd7d414c789c"
     },
     {
+      "date": "2026-09-29",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Voice Agent Launched on OpenAI Marketplace",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SMTVzVFBHVkVqYzJNZks3NFpTNlM2bHZfWDZoVzN5bGtMdkJXMW5oeHZTVTFJS1p5by1ZSUFNU2dXWnp5dTJva0J4QmktUTJUYjRiSmc1b3kyTWtGMjM4Y1VSTURYcWJJdVlDZGI2b1BpT28z?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "53dbef10d7b8"
+    },
+    {
+      "date": "2026-09-29",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$4.5M",
+      "title": "$4.5M raised on trust alone: SEC alleges affinity fraud in merchant lending",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUR0WnhiaVBpRE9RUTZIR2ZlTDRIUUo3TGYtOXF4MF94Q2lqYURGVzc4TzR4UThxaW1PNzJZWElyakFUVllLQmJDTmE5eDlsUWhjV2xJcmFFUUY4SzktUzJaTU1mQ2VUdDJseG5yVW1PeTJ6VmRwcU9aa0FCeHhOMVRpMXQ5OERpVGl5aXJWRUVOc1dHR2t2Ny0tOGsxUngzNGIyRENQcXlRQVJXZWZab2N6NS0tZXJRSlh4WDFLT3FUX1drOWNOUll3SXExeHRuRl9aeQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5f5399341293"
+    },
+    {
+      "date": "2026-09-29",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "NBA Trainer Chris Brickley Debuts His Latest Puma All-Pro Nitro 2 PE",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3ZwMDVlM2FZSC12MTRQVlBxZ0h2dzMyQWM4WXRtalNGckx6REtRbjVDdU5DdEZQclEtTHhDbTNSNXc0c1pqZUJPV0xwOXFmSVN3MzFxNFpubGYxa25OVk5BOE01VDJIVG5lTmZmX182V1RtVVhzcG9udmJadHRoRkZoZW1Mb0w1ekxOUmpWcUJLQktkR282NGRyX1p1aTdFUVN6VHkwR1NYTHNRR0xMZXY0TnAzZmtoNk5jOWhGWlI?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5a391fe31d63"
+    },
+    {
       "date": "2026-09-28",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -918,6 +974,18 @@
       "source": "Google News",
       "curated": false,
       "id": "7450e9610ea8"
+    },
+    {
+      "date": "2026-09-25",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Meta launches Vibes, an AI video feed to create short videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVl5U3BJSk0wWHlCeU9aVG1yQmpIcm16SklCRzFDQ2NpcWloSV9KQzNCbG14UHB3QU5tNHZiTDh4dTNaMWhENEFqdXZuTXdBNzRkY3pBaW5nRWE4aDE4ekI0ZXBiMkM2WVRZVV9PejBPNTBCbS1KRE9lWXo4Q3NLR1hPbmZEYkRrM0lEb2RDMzViSWNG?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b814ffa0b2fd"
     },
     {
       "date": "2026-09-24",
@@ -1278,57 +1346,31 @@
       "source": "Google News",
       "curated": false,
       "id": "c469a418a824"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Creality Unveils AI-Powered 3D Printing, Laser Engraving and 3D Scanning Ecosystem at IFA 2026",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRzJpemEwblVHOVBycmk5MkR3VW54Rld1ZVIzZUhyS05BYXJJdWN0UmVTYjNIdDZyVUlPSzV2bU5TcklrN2ZRZ2RMdlQ5QmV1QVl6eFJPTkljVmlSUnVndUZQaWRtRUxjRmRYX1diT2pWN2h2bWlGS1FpUWhFMlYyQ2J0bTFiVUU2MS03ZmRWVWtTZV8yLXVIN1dfR1RmREJoa1JUUU9aLUxUNU1ROHJLZ2d0RjJCdXhmTmRjR09hbmktRmVXVk95VG04WVUxQkRONzJFajhUejNxdzA2TWRPcGpNSkozd1JnNjhvQjdrUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3bd2f84c9043"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Affinity 3.3 Revolutionizes Design Software with Over 60 New Features Thanks to Canva Partnership",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHllVDBhX1RLODdsa0VDUjBqd2Y0dHlOTVBPd1NMdm85REhzb00teHQ1b3BzWEp4WkdqOU9jN0VKV2FTMTRPUXBraDN4Y2Z1YkhwQi1pbnpSNUlaTndLMElnWjVWTUxPajc4WlduQzJYazNLR245V1N5TGY?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "df4591a49b60"
-    },
-    {
-      "date": "2026-09-20",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$5b",
-      "title": "Kushner's Affinity Partners raises $5b amid diplomatic role in Middle East",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pJalRkSEVvWFp3ckVzaTNlQXRtd3FXaUZybWNNZENqaTZoeG95YUpaUUNkOTZPbTc0ODg1SndhVGpJeHNUNHhXYktjNUZjZkpoUUktQUo2QllwbTc2b0p6RG5acHBJaHk1aWFfOWZMNEVMRUVFWkF0U0hVTlVRS1hHMGVzbHF5V1ZNVzBJRjVNZGZQS2VWNjU5Nk9icGZ2eWd1T1pCREJpRGtZZDljWTVUTkFFVE1fV29aeVNKUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "35fc91cf08a8"
-    },
-    {
-      "date": "2026-09-20",
-      "company": "Recraft",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Yandex launches Dокументы for desktop with offline editing and freemium model",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVVHTm9pa3JsenFPMVlLZ2FoblpkSWJMWXFnakhNbGF4Y2tSa3RKaDgyWWNuVldGVzBXN2g2QzdXM3ROX0Rza0o0c1VJU0VBWkwzNjFfdVVOSzRtT1FJMW44WFd0Rm9ySU8ydUlvaG5nLVZKaTJWOFA0NlNjR0h0TU5DS3ljb2RwalNDOGk5c0RKcjdTbXowTjE5WkRMTEQ5LXdNaDJXVm5kSVc4bm1hUA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b07a3703a232"
     }
   ],
   "items": [
+    {
+      "id": "c93e50edda1a",
+      "title": "Yes, You Can Change AI’s Opinion. Here’s How.",
+      "url": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
+      "source": "Search Engine Journal",
+      "summary": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix. The post Yes, You Can Change AI’s Opinion. Here’s How. appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-29T20:40:41Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "af80a1d3bf9e",
+      "title": "Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry",
+      "url": "https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/",
+      "source": "Search Engine Journal",
+      "summary": "Test whether honest expectations and money-back guarantees build trust in health marketing, then judge results beyond the first conversion. The post Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-29T19:00:11Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "cc4d7eff1b4d",
       "title": "The LLM positioning lag: What it is and how to avoid it",
@@ -1495,6 +1537,28 @@
       "impact": 4.0
     },
     {
+      "id": "dd66acaed2a0",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "category": "GEO",
+      "published": "2026-09-29T10:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "19db7cc5ca5c",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "category": "GEO",
+      "published": "2026-09-29T10:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "4c98427b4a8f",
       "title": "Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/sej-webinar-recap-1ff80c9968b8/590978/",
@@ -1526,6 +1590,17 @@
       "published": "2026-09-29T01:11:42Z",
       "coverage": 2,
       "impact": 9.0
+    },
+    {
+      "id": "884977ecb800",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "category": "SEO",
+      "published": "2026-09-29T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "d33d08bcd61e",
@@ -4021,61 +4096,6 @@
       "summary": "Google announced a delay in processing applications for access to the Google Business Profile API. This was posted by Victoria Kroll in multiple languages in the Google Business Profiles support forum.",
       "category": "SEO",
       "published": "2026-09-15T11:51:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "073c862688bc",
-      "title": "Google AI Mode Tests Text Link Ads",
-      "url": "https://www.seroundtable.com/google-ai-mode-text-link-ads-42082.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a text-based link format for ads within AI Mode. So the ads look like normal AI Mode responses, with normal looking text links with anchor text, but they are labeled as \"Sponsored\" above the AI-generated response.",
-      "category": "GEO",
-      "published": "2026-09-15T11:41:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "de7ceb5d3065",
-      "title": "Google Ads August 17 Target-Based Bidding Update Finished August 27",
-      "url": "https://www.seroundtable.com/google-august-17-bidding-update-finished-august-27-42090.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has posted the date of when the Google Ads bidding update, the target-based bid strategies rolled out, completed globally. It started on yes, August 17, 2026 and completed on August 27, 2026.",
-      "category": "SEO",
-      "published": "2026-09-15T11:32:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e34ef56f3874",
-      "title": "Google Ads PMax: Where Should People Go After Clicking Your Ads?",
-      "url": "https://www.seroundtable.com/google-ads-pmax-options-42087.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads added a new option within your Performance Max campaigns to select \"Where should people go after clicking your ads?\" The two available options for that question are (1) Your website and (2) Google Business Profile (optimized for ads).",
-      "category": "SEO",
-      "published": "2026-09-15T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "919eecbf4357",
-      "title": "Google European Ecosystem Carousel Live For Weather, Translations & More",
-      "url": "https://www.seroundtable.com/google-european-ecosystem-carousel-live-42083.html",
-      "source": "Search Engine Roundtable",
-      "summary": "As you know, Google has new features in many European regions to promote vertical search services (VSS) by way of the Digital Markets Act. Many of those changes have been live for a while, but now the Ecosystem carousel seems to be live.",
-      "category": "SEO",
-      "published": "2026-09-15T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b5e9610728f2",
-      "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
-      "source": "Search Engine Journal",
-      "summary": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Prompts That Improve AI Results appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-15T10:14:18Z",
       "coverage": 1,
       "impact": 5.0
     }
