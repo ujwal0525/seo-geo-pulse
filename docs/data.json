@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T10:27:39Z",
+  "updated": "2026-09-29T17:47:10Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1330,11 +1330,165 @@
   ],
   "items": [
     {
+      "id": "cc4d7eff1b4d",
+      "title": "The LLM positioning lag: What it is and how to avoid it",
+      "url": "https://www.semrush.com/blog/llm-positioning-lag/",
+      "source": "Semrush Blog",
+      "summary": "See why LLMs get your brand positioning wrong and how to fix it.",
+      "category": "GEO",
+      "published": "2026-09-29T14:50:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "0f11b8948ed1",
+      "title": "Amazon Blocked Meta’s Muse, And Robots.txt Had Nothing To Say via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/amazon-blocked-metas-muse-and-robots-txt-had-nothing-to-say/590494/",
+      "source": "Search Engine Journal",
+      "summary": "Any website can write Amazon's block-page sentence into its own terms. Spotting an agent that looks like a shopper is the hard part. The post Amazon Blocked Meta’s Muse, And Robots.txt Had Nothing To Say appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-29T14:30:54Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "61cb4d9349ed",
+      "title": "Shopify Extends WebMCP Into Checkout For Browser Agents via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/shopify-extends-webmcp-into-checkout-for-browser-agents/591478/",
+      "source": "Search Engine Journal",
+      "summary": "Shopify has extended its WebMCP tools into checkout, letting browser agents update a shopper's checkout and place the order after the buyer confirms it. The post Shopify Extends WebMCP Into Checkout For Browser Agents appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-29T14:14:29Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9c96e4639133",
+      "title": "Daily Search Forum Recap: September 29, 2026",
+      "url": "https://www.seroundtable.com/recap-09-29-2026-42182.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google's Nick Fox was interviewed again and said the DMA changes make him sad and are terrible for searchers...",
+      "category": "SEO",
+      "published": "2026-09-29T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a3f2c41432b2",
+      "title": "Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-desktop-mobile-ctr-q2-2026/591402/",
+      "source": "Search Engine Journal",
+      "summary": "Q2 data shows Google desktop CTR down and mobile up at top positions, in a comparison spanning the end of a Search Console logging error. The post Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-29T13:26:52Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "287756664cec",
+      "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/emdash-1-0-challenges-wordpress-freedom-with-cloudflare-lock-in/591378/",
+      "source": "Search Engine Journal",
+      "summary": "EmDash 1.0 trades WordPress's freedom of choice for heavy reliance on Cloudflare's infrastructure. The post EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-29T12:17:17Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5fa1b87cfc1f",
+      "title": "ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ad-ctr-markets-report/591384/",
+      "source": "Search Engine Journal",
+      "summary": "A report using Similarweb panel data breaks down ChatGPT ad click-through rates by market and tracks how often the top ChatGPT advertisers changed. The post ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-29T12:10:56Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "3629efa6347d",
+      "title": "AI Won’t Kill Us All, But It’s Rewriting How Marketers Have To Work via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-wont-kill-us-all-but-its-rewriting-how-marketers-have-to-work/590378/",
+      "source": "Search Engine Journal",
+      "summary": "Better AI marketing starts with testing assumptions, aligning brand messaging, and building evidence into PR pitches before publishing. The post AI Won’t Kill Us All, But It’s Rewriting How Marketers Have To Work appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-29T12:00:01Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5b4082b38227",
+      "title": "Google's Nick Fox Feels Sad & Terrible For European Searchers After DMA",
+      "url": "https://www.seroundtable.com/nick-fox-google-dma-42178.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Pietro Valetto interviewed Nick Fox, Senior Vice President of Knowledge & Information at Google. Nick Fox shared a snippet from the full video about the DMA changes that led Google to say it had to make the biggest reduction in search quality in its 28-year history. Fox said…",
+      "category": "SEO",
+      "published": "2026-09-29T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "221c78df16ae",
+      "title": "Google Local Panel With Two Rows Of Buttons On Mobile",
+      "url": "https://www.seroundtable.com/google-local-panel-two-rows-of-buttons-42176.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing showing two rows of action buttons of the local panels within mobile search. Google has been testing showing a more + sign to load more or a scrollable carousel of buttons and now here it is with two rows.",
+      "category": "SEO",
+      "published": "2026-09-29T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "32c0e00a2255",
+      "title": "Google AI Overviews Testing Citations Cards At Bottom (Not Right Side) Again",
+      "url": "https://www.seroundtable.com/google-ai-overviews-citations-cards-bottom-42177.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing showing citation cards at the bottom of AI Overview responses on desktop, instead of on the right side. Google tested variations of this at least twice before, once in March of 2026 and before that in September 2025.",
+      "category": "GEO",
+      "published": "2026-09-29T11:31:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "6503841dddeb",
+      "title": "Google Maps Bug Places Map Pins In Middle Of Ocean",
+      "url": "https://www.seroundtable.com/googlemap-pins-ocean-42181.html",
+      "source": "Search Engine Roundtable",
+      "summary": "A new bug with Google Business Profiles and Google Maps is placing some businesses' Google Maps pins in the middle of the ocean. This is reportedly happening for some service area businesses that do not list their address publicly on their Google local listings.",
+      "category": "SEO",
+      "published": "2026-09-29T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "26e1aa875faa",
+      "title": "Google Business Profiles Policies Adds Misuse Of Support Channels",
+      "url": "https://www.seroundtable.com/google-business-profiles-misuse-of-support-channels-42175.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has added a new policy to the Google Business Profiles policies document. The new policy is named \"Misuse of support channels.\"",
+      "category": "SEO",
+      "published": "2026-09-29T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "dd0e8301af96",
+      "title": "Google Appeals Europe's DMA Mandate To Share Search History Data",
+      "url": "https://www.seroundtable.com/google-appeals-eu-dma-search-history-data-42180.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has officially appealed to the European Union to stop the European Commission's Digital Markets Act (DMA) mandate requiring it to share search history data with competitors. Google said, \"We're appealing decisions that will force us to share people's private search…",
+      "category": "SEO",
+      "published": "2026-09-29T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "16e0a9d6ca9c",
       "title": "One Playbook, Four Brands: L’Oréal Türkiye CPD’s Up to 450% AI Search Growth",
       "url": "https://wordlift.io/blog/en/loreal-turkiye-ai-search-knowledge-graph/",
       "source": "Andrea Volpini (WordLift)",
-      "summary": "Four brands, one playbook. WordLift built a knowledge graph architecture for L'Oréal Paris, Garnier, Maybelline New York, and NYX Professional Makeup in Türkiye, turning product pages into the source AI search cites. Maybelline's AI search views grew as much as 450%. The post…",
+      "summary": "Four brands, one playbook. WordLift built a knowledge graph architecture for L'Oréal Paris, Garnier, Maybelline New York, and NYX Professional Makeup in Türkiye, turning product pages into the source AI search cites. The post One Playbook, Four Brands: L’Oréal Türkiye CPD’s Up…",
       "category": "GEO",
       "published": "2026-09-29T10:16:06Z",
       "coverage": 1,
@@ -1482,17 +1636,6 @@
       "published": "2026-09-28T14:30:29Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "236c33475c89",
-      "title": "Daily Search Forum Recap: September 28, 2026",
-      "url": "https://www.seroundtable.com/recap-09-28-2026-42173.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. The Google September spam update had a big impact this weekend...",
-      "category": "Algorithms",
-      "published": "2026-09-28T14:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     },
     {
       "id": "297259a593d4",
@@ -3935,149 +4078,6 @@
       "published": "2026-09-15T10:14:18Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "b35328fd07cd",
-      "title": "How ChatGPT Resolves Local Business Entities: Google Place IDs, lbe1 and schema:hasMap",
-      "url": "https://wordlift.io/blog/en/chatgpt-local-entities/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "We traced ChatGPT’s local-business identifiers to real-world Google Place identities, observed how lbe1 powers the entity experience, and found that selecting an entity can shape the next search and conversation. The post How ChatGPT Resolves Local Business Entities: Google…",
-      "category": "GEO",
-      "published": "2026-09-15T07:56:20Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4ad87cdada76",
-      "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/",
-      "source": "Search Engine Journal",
-      "summary": "CallRail’s Meagan McLoughlin explains what to audit before/after Local Services Ads migrate into Google Ads, from historical reports to tracking numbers and lead quality. The post Local Services Ads To Performance Max: What To Audit Before Migration appeared first on Search…",
-      "category": "SEO",
-      "published": "2026-09-15T07:45:08Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fde2bf46a4d7",
-      "title": "How To Get Your Website Ready For AI Agents",
-      "url": "https://moz.com/blog/get-your-website-ready-for-ai-agents",
-      "source": "Moz Blog",
-      "summary": "AI agents are already browsing your site. Here is Crystal Carter's five-part framework for agent readiness, from llms.txt and MCP to choosing the right partners.",
-      "category": "GEO",
-      "published": "2026-09-15T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "64a9cbd7ffd3",
-      "title": "90% of executives see no productivity gains from AI. What separates the other 10%?",
-      "url": "https://foundationinc.co/lab/vol-309",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Ask leaders whether AI is helping their business, and 64% will say yes. But only 39% will point to an actual earnings impact, according to McKinsey’s The State of AI in 2026 Report. So I asked Enzo Carletti, our AI Service Delivery Lead, aka Foundation’s “robot guy” and “Claude…",
-      "category": "GEO",
-      "published": "2026-09-14T22:26:44Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "bde0493b4e0e",
-      "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/",
-      "source": "Search Engine Journal",
-      "summary": "Google is testing a Search Console pilot that pays publishers when their content contributes to Gemini, AI Overviews, and AI Mode answers. The post Google Tests Paying Publishers For AI Answers Via Search Console appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-14T17:38:53Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "9a7cf236792c",
-      "title": "How to Create A Landing Page That Actually Converts",
-      "url": "https://neilpatel.com/blog/the-definitive-guide-to-creating-high-converting-landing-pages/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Ever wondered why your landing page pulls in traffic but barely converts anyone? You’re not alone. The median landing page converts about 6.6 percent of visitors, and plenty of pages fall well below that. The problem is rarely traffic or budget. It’s the page…",
-      "category": "SEO",
-      "published": "2026-09-14T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "3d10ed6a7792",
-      "title": "AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
-      "source": "Search Engine Journal",
-      "summary": "Count AI marketing's hidden rework and maintenance costs before claiming efficiency gains, or risk repeating programmatic's mistake and starving long-term strategy. The post AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise appeared first on…",
-      "category": "SEO",
-      "published": "2026-09-14T14:30:08Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6183b53d9dda",
-      "title": "Google Search Update September 4th That Reverted September 13th?",
-      "url": "https://www.seroundtable.com/google-search-ranking-update-94-42079.html",
-      "source": "Search Engine Roundtable",
-      "summary": "I've been pretty quiet on posting reports Google updates recently, in fact, I have not posted about one since late August. But while most sites seem calm in the Google rankings, there was definitely some sort of ranking blip around September 4th, and in some cases, the September…",
-      "category": "SEO",
-      "published": "2026-09-14T12:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "cae6cb4bb832",
-      "title": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
-      "source": "Search Engine Journal",
-      "summary": "Sean McCrohan and Steve Wiideman explain how citation clicks, calls, prompt libraries, and customer language can connect AI discovery to local leads. The post How To Connect AI Search Visibility To Local Leads appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-14T12:00:25Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "296d33defd03",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "category": "GEO",
-      "published": "2026-09-14T12:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "a0019bc49aee",
-      "title": "Google Search Tests Blue More Link In Shopping Results",
-      "url": "https://www.seroundtable.com/google-blue-more-link-in-shopping-results-42077.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a blue background color on the \"More\" link within the product results in Google Search. The link is normally just a basic \"more\" link with no prominence or color that calls it out but in this test, Google is using a blue highlight color for the link.",
-      "category": "SEO",
-      "published": "2026-09-14T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "47efb188e14b",
-      "title": "Google AI Mode More Query Expansion Interfaces",
-      "url": "https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google continues to test new query expansion methods in AI Mode, beyond standard follow-up questions. Now Google is testing questions with multi-selection tools, a query refinement option and those recent paginated responses.",
-      "category": "GEO",
-      "published": "2026-09-14T11:41:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "c8e7a362cdfa",
-      "title": "Google Search: It's Normal For Image Thumbnails To Be Slow To Update",
-      "url": "https://www.seroundtable.com/google-search-slow-image-thumbnails-42072.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller said it is normal for Google Search to take a while to update image thumbnails in its search results with updated images from the website it pulls from. And it can take even longer if the image is still on the page, but was only moved down the page later…",
-      "category": "SEO",
-      "published": "2026-09-14T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
