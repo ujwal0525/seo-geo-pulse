@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T23:29:33Z",
+  "updated": "2026-09-30T04:22:00Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1349,6 +1349,17 @@
     }
   ],
   "items": [
+    {
+      "id": "57c2dc1c3317",
+      "title": "Google Working To Restore Google Analytics",
+      "url": "https://www.seroundtable.com/google-analytics-fix-42187.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has confirmed there are issues with Google Analytics loading the platform. Google updated its status report to say that it has \"restored for some users\" and Google expects \"a resolution for all users in the near future.\"",
+      "category": "SEO",
+      "published": "2026-09-30T01:17:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "c93e50edda1a",
       "title": "Yes, You Can Change AI’s Opinion. Here’s How.",
@@ -4087,17 +4098,6 @@
       "published": "2026-09-15T11:52:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "84782b0843d2",
-      "title": "Google Business Profile API Application Delays",
-      "url": "https://www.seroundtable.com/google-business-profile-api-application-delays-42085.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced a delay in processing applications for access to the Google Business Profile API. This was posted by Victoria Kroll in multiple languages in the Google Business Profiles support forum.",
-      "category": "SEO",
-      "published": "2026-09-15T11:51:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
