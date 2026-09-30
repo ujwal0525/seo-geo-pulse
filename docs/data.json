@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:22:00Z",
+  "updated": "2026-09-30T14:42:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1349,6 +1349,127 @@
     }
   ],
   "items": [
+    {
+      "id": "3d927b046a72",
+      "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
+      "source": "Search Engine Journal",
+      "summary": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility. The post Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-30T14:30:05Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "6848cdfeb165",
+      "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
+      "source": "Search Engine Journal",
+      "summary": "Google Analytics now supports app conversions in its performance and attribution reports. The post Google Analytics Adds App Conversions To Cross-Channel Reports appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-30T14:23:27Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "18c6b2f6b8c1",
+      "title": "The AI Search Metrics I Use To Track Client Pipelines",
+      "url": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
+      "source": "Search Engine Journal",
+      "summary": "See whether AI search reaches buyers and creates qualified opportunities with five measures covering brand presence, answer accuracy, and attribution. The post The AI Search Metrics I Use To Track Client Pipelines appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-30T12:00:13Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "7791e98a2045",
+      "title": "Google Maps Now Requires Sign In To Read All Reviews & More",
+      "url": "https://www.seroundtable.com/google-maps-account-reviews-42186.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Maps now requires you to sign in to a Google account to see all the reviews on a Google Business Profile listing. It is also required in order to sort the reviews, leave a review, and more. I assume this was done to help prevent AI, bots, and third parties from scraping…",
+      "category": "SEO",
+      "published": "2026-09-30T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "670d77c4d44d",
+      "title": "Google Paying ~100 Publishers 0.1% Of Ad Revenue In AI Contribution Pilot",
+      "url": "https://www.seroundtable.com/google-ai-contribution-pilot-01-percent-42188.html",
+      "source": "Search Engine Roundtable",
+      "summary": "As you know, Google has a small pilot named the AI contribution pilot, where they are paying some publishers for using their content in AI features like AI Overviews, AI Mode and Gemini. Well, according to The Information, it is about 100 publishers and those publishers are…",
+      "category": "GEO",
+      "published": "2026-09-30T11:41:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "76305b4a1620",
+      "title": "Google Tests Sponsored Products Grid That Looks Like The Organic Product Grid",
+      "url": "https://www.seroundtable.com/google-tests-sponsored-products-block-42184.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing making the sponsored products search results block or grid look more like the organic products/shopping grid. Instead of showing a long carousel of products across the top or on the right, this shows a product grid format we are more accustomed to for the free…",
+      "category": "SEO",
+      "published": "2026-09-30T11:31:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "9c105fbecc36",
+      "title": "Bing Tests Product Features Labels On Product Listings",
+      "url": "https://www.seroundtable.com/bing-product-features-labels-42161.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Bing is testing adding product feature labels to product listings in the search results. This can add labels like \"great for...,\" \"effective,\" \"performs well,\" \"lightweight\", and so on.",
+      "category": "SEO",
+      "published": "2026-09-30T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "facac11eee89",
+      "title": "Bing Sponsored Ads With One-Line Consumer Review Extension",
+      "url": "https://www.seroundtable.com/bing-consumer-review-ads-42183.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Advertising now shows \"consumer review\" ad extensions in the Bing search results sponsored results section. These are one-line snippets of text, added under the sponsored result, that come a \"from consumer review.\"",
+      "category": "SEO",
+      "published": "2026-09-30T11:11:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "03c1d3dc2474",
+      "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
+      "url": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/",
+      "source": "Search Engine Journal",
+      "summary": "OuterBox launches OBxFrontier, a custom AI development service that maps client workflow problems and builds AI agents around their existing systems. The post OuterBox Launches OBxFrontier to Kill Busywork With Custom AI appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-09-30T11:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "8b2508b7a014",
+      "title": "AEO vs SEO: core differences & how to win visibility in both",
+      "url": "https://www.semrush.com/blog/aeo-vs-seo/",
+      "source": "Semrush Blog",
+      "summary": "Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both.",
+      "category": "GEO",
+      "published": "2026-09-30T08:36:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "4254280ca40b",
+      "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
+      "source": "Search Engine Journal",
+      "summary": "Tom Capper of STAT walks through the biggest AI search measurement challenges and a tactical solution for each one: October 14 at 2 p.m. ET. The post How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-09-30T07:45:08Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "57c2dc1c3317",
       "title": "Google Working To Restore Google Analytics",
@@ -3977,127 +4098,6 @@
       "published": "2026-09-16T07:00:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "ba69ae98983c",
-      "title": "Search Central Live Deep Dive Europe 2026: Meet the community speakers",
-      "url": "https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers",
-      "source": "Google Search Central",
-      "summary": "It's happening! We are absolutely pumped that we're just about two weeks away from Search Central Live Deep Dive Europe 2026! From September 30 to October 2, 2026, the Google Search Central team is heading to the gorgeous city of Barcelona, Spain for three days of deep technical…",
-      "category": "SEO",
-      "published": "2026-09-16T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b2db10da9446",
-      "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
-      "source": "Search Engine Journal",
-      "summary": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track. The post Google Adds New Ad Experience Metrics To CrUX Report appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-15T21:46:09Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "eac4e93e529a",
-      "title": "Impact of Parametric Memory and Grounding on Ordinal Positioning of Brands in Generative Responses",
-      "url": "https://dejan.ai/blog/llm-rank-formula/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Mathematical formulas for evaluating entity association, semantic embedding similarity, ordinal rank positioning, and generation performance in AI models.",
-      "category": "GEO",
-      "published": "2026-09-15T21:39:13Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "1d4fb5ad7f3e",
-      "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
-      "source": "Search Engine Journal",
-      "summary": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending. The post Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-15T21:29:41Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "586bb82ad566",
-      "title": "Foundation Is Now a Verified Profound Partner",
-      "url": "https://foundationinc.co/lab/foundation-profound",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Let’s make it official. Foundation Marketing is now a verified Profound Partner after joining their inaugural agency certification cohort. The certification recognizes agencies with the expertise to measure and improve AI visibility for brands across AI engines, such as ChatGPT…",
-      "category": "GEO",
-      "published": "2026-09-15T19:15:27Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "f879384d8be6",
-      "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity",
-      "url": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
-      "source": "Search Engine Journal",
-      "summary": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action. The post Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-15T19:00:14Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "8725c1a6a2bc",
-      "title": "Google Search Live Now Powered By Gemini 3.8 Live",
-      "url": "https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search Live is now powered by Google's latest AI model, Gemini 3.8 Live. Search Live has been around for a couple years now, both in audio only format and then video format. Search Live was released globally in March, and before that, it removed the opt-in requirements.",
-      "category": "GEO",
-      "published": "2026-09-15T17:58:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b8737006db17",
-      "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/",
-      "source": "Search Engine Journal",
-      "summary": "Meta published two Muse documents on the same day. One never mentions risk, attack, or prompt injection. The other uses them 39 times. The post Meta Published 2 Documents About Muse And Only One Mentions Attacks appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-15T14:30:08Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "0ab193fa96a7",
-      "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
-      "source": "Search Engine Journal",
-      "summary": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-15T14:10:14Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "15eb924a3584",
-      "title": "ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/",
-      "source": "Search Engine Journal",
-      "summary": "Give ChatGPT Ads a clear role, budget source, and success criteria before pulling money from paid search campaigns that already perform. The post ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-15T12:00:30Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "1004fd46603f",
-      "title": "Google Search Ranking Volatility Heats Up This Morning - September 15th",
-      "url": "https://www.seroundtable.com/google-update-42091.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search seems to be heating up this morning, I am seeing a huge spike in chatter in the past few hours and the tools may be starting to heat up as well. We will know more tomorrow but I am suspecting we are seeing the start of a Google update, hopefully one Google will…",
-      "category": "Algorithms",
-      "published": "2026-09-15T11:52:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
