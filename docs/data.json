@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:36:53Z",
+  "updated": "2026-10-01T04:33:16Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -628,6 +628,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-01",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22 Billion",
+      "title": "ElevenLabs Hits $22 Billion Valuation in Employee Share Sale, Doubling in Eight Months",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LZFBJQVJibnBEd2QzQXhrSWF6WjBPcW1tcW1ydnNneXBObE5Jd2xrQnkwVG5aQXdKNVc0dDhJY09hUmQzWnZEU3FfZG15Y0VPVXpyWlVqZTAwRzkwOU0zY2c2d3hyMUlkRVpzTEJ2STE2OWRkSnc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "54259b58a1c6"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22B",
+      "title": "ElevenLabs doubles valuation to $22B as it unveils humanlike voice AI - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94c0FXanRjSTJhSVQwNkhRMmlPQ0dJZF9sSEpydWhFMUk5TEFoOEpOVG4yLUh4MlVldi1tN1BxbmR3UllOZ2hZLWVoSEhZY0FuVDYyaGtRNzJiaHRHT2ZUVFRaVk9yQ3dDZHcyZzNEZzRyOFZVQlBQUDNR0gGOAUFVX3lxTE5WVzk5UkswdVNyakV4WE1vQzkzVmcxeGtpVGhtbzJ6WHJMdEpJMEVOX2R0NlBxWWs1aUwxZ0Q0Sm1VMVNoTUYxdXFKY1hjWGphVTM2dTFidlN6aDlNY3hqOVE1TWpVNUJkc19XUDB0UnhoRFNMM21ONWF3TmdhUlNYckhYM3pvN082ek91VHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7db41cc80325"
+    },
+    {
       "date": "2026-09-30",
       "company": "Midjourney",
       "front": "GenAI Media",
@@ -686,18 +710,6 @@
       "source": "Google News",
       "curated": false,
       "id": "fe59b8688a03"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B",
-      "title": "ElevenLabs hits $22B valuation in employee tender, doubling in months",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjNYbUxUa1FqaWYxNzc5c2lxRmdSMkhqRmxhYTA2dlA3aXFPRG8wVDBmRDEyUFBPdURrR3M2cVBDWnRZNUVKTENZX2lHMEVhMVh6RV85VGF2UFY4dXJmbnJPTlJEd2lIQjhEbFJETmw4Y0paRlNFUHJVQjFDRC1MNjV6TmZHOGx0bkZTUEdJUmJ4R2pRRkJ4MkRHNUc2dko1cFhz?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3184c1375d6d"
     },
     {
       "date": "2026-09-30",
@@ -782,6 +794,54 @@
       "source": "Google News",
       "curated": false,
       "id": "b715d408070d"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Runway News | Introducing Runway Ads",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JNndZZWlCRWFfc2lUbXpwRkVyNjJaSnZLOVA5V0lweFJtVG40MU9nd0JYbkZ5TkpjUDN5VGwwNlRpS0Nyc3N5dmk1UlJSWEpaR3lmZ1RrNERFYlFXWkhjaU02YzJTS2pmb3pZ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "87f6364b3953"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva unveils fleet of tools for large organizations",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ybF9mTDZHUkpTOE03SVlSd1FNcnU4c2Rmall6Ylg2VmpTbTZzYVNUVWRUeXJpbWk4bWcyMkRZVWZJcTRWNkFMeFlPakpXMmhhU0JKZWVPWmZEZUYyZzJhZUNBSG1LUldJTDZ3Nw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "18c65e633907"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "OpenAI Launches Marketplace, Partners with Adobe, Figma, and Others",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmEtRk1GTVBoSW5zcnVqSzB4SFNtZXVzdm5CaWxWUWozMnJfNTdwNWRDMjBaN2R2eGxBaW9zWWZBd3pIUFJZaDNieWRvOVV5TUY5S2dkV1hXc3ZiZFhmWDVRUXg4WnBNOTIwTkVsdWlEcm15b3BldFR4bEdoQzdBRkdXVDZ0M2xCcGV4M3hWNXhTNWhsSEtpaEVqeWlyNzQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8a26c35ecaca"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Short Shorts Film Festival & Asia 2026 Screening in Autumn Unveils Lineup Featuring Oscar® Contenders, Landmark AI Showcase, and Cannes Industry Spotlight - Short Shorts Film Festival & ASIA",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VUGZZTVp1UFVRWHRlUDRyaVJuWUkybzg1UktlODBzR2lYQkVnb09hT1pHOUs2SVIyYmd6eE5fbnJjMWFtRkJDazhzdXkyU3JBaGFsbkZpdS1rN0JvNVlFVkM0REZIdHlKOWZKMmt4MVRvZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b71032f9dc0b"
     },
     {
       "date": "2026-09-29",
@@ -1286,69 +1346,20 @@
       "source": "Google News",
       "curated": false,
       "id": "44a06dbebdf6"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$150 million · $2 billion",
-      "title": "Brahma AI raises $150 million at $2 billion valuation led by Multiples",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUptaGZUeHFGcTRqUE5xbFRhdmNEMUdIdUEzMEdNdmtUZlEwVlpFNlhWNG1VaEZONHVoSFdOSHJJMWZSQVJnQk1WNVlGZkZuSGQwajRPRVlnVzNScUJwUW9lQS01YV8wQUxtbHUtMy05QmZOeG9PbDdIVGh2MkQ0Y2ZRMl9GaGNkYjJLdkNDTjl3TWdGVklxSUNiWVJIVXJ4Vll5c0h3YlBpUm1uZjVWdFYzc0ZMZnlvZTRreDVoRFV1dnM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6e1f68e8275c"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Navana.ai Launches ‘Bodhi TTS’ Voice Model Across 10 Languages at 1/8th the Cost of ElevenLabs",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEYzTnhla3RKdnJvbmR1bnlsSEpGUGlLVUFWMVdPdjR4QXhtWlBmT25HY3E5Tk5ZOEJKV25IQy1Kc1YwNExzeWlvMGRtb2lKSlVOT3hqTk41cUhMbTRKWFNsTU10aDVmc0NINy0yeHVSUWEyanVmWjAyR1p5dXB2LVpadmViWVVRTmx2SmllLXVzWmR2Wlh4cWNjeGJMYktqNkVfTVBzcnpSRkk3M0hVNk40dndBbTR2bFREelhPd0otaHktTUZyUg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4e8bb3863c76"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Affinity Workforce Solutions buys UK-based Training Toolz",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWUwSDNpM0R3OEUyYm1VM0JXdGlsOG1naTZkUzVWSlhHVWxHRml1ekZjOFg0VHVkRUZuOTNDWExIYlQxZGhVSUVHV1lHWEFLb25JRENyQ1FUXzRZanExOTd2TVNuYTFxWjlmRHl1dURDTU0wUXY3dXBkanUzX2tvRTlVMm44XzdVYzlMcndSelEyMk9UdEhabDJXYkdPTHBIR3pWNnhYX0ppLWxhQ0U5RUM1RQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1569f94457eb"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d4f7f75176b0"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs debuts FLUX 3 Action, tops RoboLab leaderboard",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NE40MXd5SGYxLTNWZUxZQlhpcV9JZkVNb1VNSDhrUUFHd2Y0cWJXNGx1cjNqNWxyUXM3LTdsZ3JfbExEWEtUMTRuMUoyUmpONFNtNXhnYW5PX3U5N3BUT3VqWmRUbGRZTGF3RFhwOGN4Mi1xcEE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6afe14394aa0"
     }
   ],
   "items": [
+    {
+      "id": "45cfe46a56ef",
+      "title": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/liveramp-expands-openai-partnership-chatgpt-ads/591510/",
+      "source": "Search Engine Journal",
+      "summary": "LiveRamp expands its OpenAI partnership, bringing RampID first-party audiences to ChatGPT Ads as advertisers gain more targeting and bidding options. The post LiveRamp Expands OpenAI Deal With First-Party Data Targeting appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-01T03:05:53Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "fccd42a6ae71",
       "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
@@ -4087,17 +4098,6 @@
       "published": "2026-09-16T12:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "973a91148c50",
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "source": "OpenAI",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "category": "GEO",
-      "published": "2026-09-16T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
