@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T15:10:18Z",
+  "updated": "2026-10-01T20:51:08Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -41,6 +41,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "19da8391e82a"
+    },
+    {
+      "date": "2026-10-01",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "ChatGPT Adds Virtually Try On Clothing & Accessories",
+      "url": "https://www.seroundtable.com/chatgpt-virtually-try-on-42215.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "8ddd5b1c5c4e"
     },
     {
       "date": "2026-09-29",
@@ -767,6 +777,66 @@
       "id": "1872705339a1"
     },
     {
+      "date": "2026-10-01",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch",
+      "curated": false,
+      "id": "7b3e01f9b0ad"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "Ideogram",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Ideogram says its new model can edit part of an image without messing up the rest",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjVxanl1TnBZT2RyV1ItZ2NoYThjOXA1c1pZZnpUWjNGUHpvZzI0a19IOVN6Rlk3NktQdDNQNEk4eHp6aC1wcDhCNVhCdkdzcmRoalBxZWFoaFlndHpkaTNQUlJTYW9RX3ZXdHdEWUs0M1V6Unc0VzRvWDNBLWV1MWllRmVTeG9xc1ZvVGhsbGMxR29PRG9id3JGWW1hMG5OVGJ3blFBMjMwQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "804da8061493"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22B",
+      "title": "ElevenLabs hits $22B valuation with employee tender",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3FaTHk1OU5yU0dIZTlhRXpfN2ZIeUFRdWd3OE5lWF80RkxLTC1JRkJJOWdVaG0xWmJMaFFhX1E4YzRCQ3c0SXBMZHZpNzlwNURTV01mRmhteTBqY2VadkI3bzBnZmUxeFZIaG50SkxVYzJ1SmRPanFfQ3lEdmRyS2hVZUk1Y1Rw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "48554ee5f6bf"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22B · $300M",
+      "title": "ElevenLabs Doubles Valuation to $22B Through $300M Employee Tender Offer",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2JQV082eW5UcHB5czB0eTNSVmxaZEdoVVRFODZ1ZEhKWDd5dnRWa24yUV84dC00bWdpT3ZwdTI4N0ZsbVJ6bHZKMlozOFVYV21yR1BEaFdPWnVYYk5WZzhaNGd6Nl9YaGV4VG9qTGdZUUZLVnIyaXFoMVBNbVlJNGt5VjRjTjB1d3hRRzg1ajZzQUticlR4QUszRFZlUlhwczNCVUZydkRBT0dx?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ccceac7efbc7"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22B",
+      "title": "ElevenLabs valuation doubles to $22B – four times that of AI music rival Suno",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXFJUXloS2FCR1lmVi1NNkpGZGRHa0pvSDVBdFRMTGd4b3JMQlRTalpRZUxjMGo1TmRmeHcwc21vcWxXQXlKWmtHRkRsX1ZsYlVnbTIyV2o3aXVJbS1hcVNBVW9ubDR3NGZRX0Jnb0xWeU1ZZF9jQTZmLUVJeWRiWGxUbVRKaTZuajcxZTRDaWp4WlgxQ2ZFSHNWYVdXd2Q5RmlFZkJpYm1rTHluVUZZNWZLblA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "11ba824757dd"
+    },
+    {
       "date": "2026-09-30",
       "company": "Midjourney",
       "front": "GenAI Media",
@@ -801,18 +871,6 @@
       "source": "Google News",
       "curated": false,
       "id": "6f010d0f9662"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B · $300M",
-      "title": "ElevenLabs doubles valuation to $22B after recent $300M employee tender offer (NVDA:NASDAQ)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGNOOXFtNUNZRlFPSmloR0xta2ZkWDBfZGtkOWtscmZxZE42a1VMZ3d6SGRFUFlEeE9ycnF6cGFhR3QzUGdHU1VLb1dEakw5XzBrRUN5OWMwZExLSHNEaXhmbEZpNUtYOTJKOWRVOE55YXA3VHZUeGFKOEFVSEVEaWNqNG1tc3lrSEI4MnZXRWNuZ0M0ZERwam1fVmwxRHUtZkdHUDlLY1VydFNqT0ZCcG9zcw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "158b0c39b0c8"
     },
     {
       "date": "2026-09-30",
@@ -981,6 +1039,18 @@
       "source": "Google News",
       "curated": false,
       "id": "b03e1bfdeed7"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Runway Research | Introducing Praxis-1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXMVZWVHRRRDN5VmRLNHdkb0UwYm9Vc29KZTh6OWFGNVktOUoxN0ZVcS1fWURUZ1l2Vkh0eHZlTHNRd3otc2NoRVk4aEx0ZlVvRWZWQlBtNDNBMGsw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a16a4b6a5442"
     },
     {
       "date": "2026-09-29",
@@ -1305,69 +1375,64 @@
       "source": "Google News",
       "curated": false,
       "id": "358e92c5a91e"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Navana.ai launches ‘Bodhi TTS’, Indian Text-to-Speech Voice AI Model in 10 Indian Languages; Priced at one-eighth of ElevenLabs, 60% below Sarvam",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWGVSWU92dkF4T0E2ZnhBdmNTaWxpbjJoMjQzb0RkUmU2TFVjdTN2T0VVVW56TUtZWVNUYkNEbE45M2JYMWMtcVFSbkg5dUhubkVyeHZYeW9aQ1FfSU9QRDJ0enJ4WWJvVXlMM2xHbmlrMzMtT2o2NGlsYVhhYVVoSzE3ZW1JMzVXUWZKRE1ROThWeVhka2tMUHktbWhSUWZiMGpUMGl5M09ueTJjNlpvZ28zVHRGRFZqcVBpcmpLc0JPV0YxX05KZ0xHdzVIVmxNeUMtRTJ0R0JIZ045bHZnQ3RlMXFrS3dXZ2hCQnU5ak5LVlVFRXp5T2ItbjhkM05jU3pReGRVdEF6ZmlMbnhv?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "118b9ffc671c"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3dsWU9LZjZEaExPbm5sdUVZN242SXB1Q1dsQzRDVi1wX3RHVTZzQVRLS21FRHNJY1BDY01YWm9naG1iaXdYUEMzWFU3X0swOExTQUZCSEp4RmFpUEc3M0g5U3lsMDlxVW5VZktXNFlJRDI3QU5kd0VEM3h2dmJ5eHdzaGNlOWpmVE9BeXBJV1U0Y3FEcHNWQWFIREl1T2Z1QkFTaUl5ZTJYU21TWHlURS1OM3E3TFdpMi03WmZSUWx6UGZrUThraNIByAFBVV95cUxPT3dsWU9LZjZEaExPbm5sdUVZN242SXB1Q1dsQzRDVi1wX3RHVTZzQVRLS21FRHNJY1BDY01YWm9naG1iaXdYUEMzWFU3X0swOExTQUZCSEp4RmFpUEc3M0g5U3lsMDlxVW5VZktXNFlJRDI3QU5kd0VEM3h2dmJ5eHdzaGNlOWpmVE9BeXBJV1U0Y3FEcHNWQWFIREl1T2Z1QkFTaUl5ZTJYU21TWHlURS1OM3E3TFdpMi03WmZSUWx6UGZrUThraA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6f41cdd1a50b"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "BookExpo365 Launches AI-Powered 365-Day Book Growth Platform",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVktUkVleUZ4ZWhmallPWGw4WjV2dHlnN0RGTWpyazBYR0ZId09GQTZ2TEQ0eGk3Rm5neUlQQm52X2gyRWRVdmJvYk5FQkU2cGl6OEIwQjRnLWNfaE9JQXRvUnFMMDJTZUFlZWpxYlVwTUtjQm91VVNJbW12M2lSSV9OTWx2ZGFZbUltcXZndDJQT2FseGZmNVg1RW1EcVRRQUY0UFJKZGhzeERUclpIVHNEUXVsX2M?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "de251542e2f4"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Affinity Workforce buys Mattracker in first move beyond staffing",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb1d3c0dOR1FsbHJ0YUJoUnZpTDF5YV9kbk14S05wMGdGdFJGMENmb1ZBWmpIcUE5OVZ6NzBYSzkyOTg0VkotWlpaUGl6ZFlxSGs1TTJHQVlYQTFBNk04Y0dCU1pXTlVCR1NLTjBqQUdFOGJ5RFAzSmVpVzRXSjRuWGx4WXJsSTBQX1BMNFA2RjY4NVBkc29FcHNMS1g1SHc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7450e9610ea8"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Meta launches Vibes, an AI video feed to create short videos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVl5U3BJSk0wWHlCeU9aVG1yQmpIcm16SklCRzFDQ2NpcWloSV9KQzNCbG14UHB3QU5tNHZiTDh4dTNaMWhENEFqdXZuTXdBNzRkY3pBaW5nRWE4aDE4ekI0ZXBiMkM2WVRZVV9PejBPNTBCbS1KRE9lWXo4Q3NLR1hPbmZEYkRrM0lEb2RDMzViSWNG?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b814ffa0b2fd"
     }
   ],
   "items": [
+    {
+      "id": "11c900025889",
+      "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
+      "source": "Search Engine Journal",
+      "summary": "YouTube is updating recommendations to favor original Shorts and reduce reach for channels that mainly re-upload others' clips without significant changes. The post YouTube To Cut Reach Of Channels Reposting Barely Changed Clips appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-01T20:44:41Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c1b68ca8a022",
+      "title": "ChatGPT Adds Virtually Try On Clothing & Accessories",
+      "url": "https://www.seroundtable.com/chatgpt-virtually-try-on-42215.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI announced that it is rolling out virtual try-on for clothing and accessories for ChatGPT on the mobile and web interfaces. This also includes saving these to your ChatGPT Library.",
+      "category": "GEO",
+      "published": "2026-10-01T19:32:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "7e67b43cf9d0",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "category": "SEO",
+      "published": "2026-10-01T17:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "a80484c2d584",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "category": "GEO",
+      "published": "2026-10-01T16:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "0183166dd38e",
+      "title": "Google AI Overview Lawsuit Dismissed Over No Agreement With Publishers",
+      "url": "https://www.seroundtable.com/google-ai-overview-lawsuit-dismissed-42211.html",
+      "source": "Search Engine Roundtable",
+      "summary": "About a year ago, Penske, which operates and owns Rolling Stone, The Hollywood Reporter, Billboard, Variety, and others, sued Google over its AI Overviews. Well, that case was dismissed because Penske failed to prove that Google entered into any formal agreement with Penske to…",
+      "category": "GEO",
+      "published": "2026-10-01T15:31:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "2b05ad330681",
       "title": "SEO for Static Sites: 8 Problems to Watch For",
@@ -1422,6 +1487,17 @@
       "published": "2026-10-01T13:00:47Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "872f7275cb75",
+      "title": "5 ways Search can help you perfect your at-home coffee routine",
+      "url": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+      "source": "Google (Search)",
+      "summary": "Google AI-created image showing a latte in a cup, with latte art of a magnifying glass and Gemini spark",
+      "category": "GEO",
+      "published": "2026-10-01T13:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "688fdeaaa5e1",
@@ -4051,72 +4127,6 @@
       "published": "2026-09-17T11:51:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "67d5c179bb14",
-      "title": "Google Ad Tech Monopoly Remedies: Behavioral Changes With Oversight",
-      "url": "https://www.seroundtable.com/google-ad-tech-monopoly-remedies-42107.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Earlier this month, we learned a judge ruled that Google won't be broken up over its monopoly ruling in its ad tech case. And now we have the full memo with the judge's proposed remedies, including Google making behavioral changes.",
-      "category": "SEO",
-      "published": "2026-09-17T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "40ae06ee6058",
-      "title": "Google Local Knowledge Panel As An AI Overview",
-      "url": "https://www.seroundtable.com/google-local-knowledge-panel-ai-overview-42105.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is turning the local knowledge panels, your Google Business Profile, into an AI Overview listing. At the top of the local listing it says \"AI Overview\" and then there is a \"Show more\" button to expand, which brings you into the follow up AI Mode style chat interface.",
-      "category": "GEO",
-      "published": "2026-09-17T11:31:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "17eee578479c",
-      "title": "Bing Product Carousels With Top Picks, Sale, Price Drop, Views & More Labels",
-      "url": "https://www.seroundtable.com/bing-product-carousel-labels-42092.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing adding new labels to the Bing Search product carousels. Labels include Top Picks, Price Drop, Sale and likely other labels on the Bing Search product listings, within the carousels.",
-      "category": "SEO",
-      "published": "2026-09-17T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "db7a2ebaa76b",
-      "title": "Google Sponsored Places That Expand On Hover",
-      "url": "https://www.seroundtable.com/expandable-google-sponsored-places-42081.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing the Sponsored Places ads that expand when you hover over the ads within Google Search. Google has been testing expandable ads on hover for a while, but here is one with the Sponsored Places ads.",
-      "category": "SEO",
-      "published": "2026-09-17T11:11:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "1e0743e043d0",
-      "title": "The Docs Dividend: How Docker Built Its Largest First-Party AI Evidence Layer",
-      "url": "https://foundationinc.co/lab/docker-docs-ai-citations",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "You’ve probably rewritten the comparison page, added an FAQ block to the product page, and refreshed last year’s blog posts, all to get cited in AI answers. But Docker’s citation data points somewhere else: technical documentation. Across two Profound runs on August 23 and 24…",
-      "category": "GEO",
-      "published": "2026-09-17T07:00:37Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "363bbead77de",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "category": "SEO",
-      "published": "2026-09-17T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
