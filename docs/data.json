@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:31:13Z",
+  "updated": "2026-10-02T20:24:10Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -9,6 +9,7 @@
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
+    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -1351,6 +1352,18 @@
       "id": "c3154e7d118e"
     },
     {
+      "date": "2026-09-28",
+      "company": "Luma AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$21.2M · $4B",
+      "title": "Luma AI Revenue 2025: $21.2M Est. ARR, $4B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zYW1McTc1TmEyWkhrWDJkakM5S043TWVSbXZlQjYzRzM2WFBKM2NhQnRlcWpiTnpRc1g2QnB5ZjRLcWtmR24tdFJrWFhNX1o0Q0Rrcg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0827c04e3547"
+    },
+    {
       "date": "2026-09-26",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1373,21 +1386,97 @@
       "source": "Google News",
       "curated": false,
       "id": "29eceb088304"
-    },
-    {
-      "date": "2026-09-26",
-      "company": "Recraft",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Bambu Lab launches its first laser engraver after losing lawsuit with Stratasys",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFRhS2xJTDVxQzBMcTUwZjdjZ1RwWTlSOWpfTk5HQW9KX2ZfeFNXSWxERlFRa0otWXNPSnRNeU5UYmpSRTV6YVk2TUtjMkg4cF9MNzVhVVEzdkFnWTgzMHlJVGJiZFE5Mk8xNXU1c0NDTDdfZnp0RUNBSUNZMGJYdjdGYkt2bE16bHF0dWNEY0NPNEVscVVLbG5jWHNRalVZNy14TGRjWGU1SDktd3czNHcwOA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5ade56788528"
     }
   ],
   "items": [
+    {
+      "id": "d8f448698e04",
+      "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
+      "source": "Search Engine Journal",
+      "summary": "Shopify merchants: your agentic storefronts setting now shares products with Meta and unnamed startups. Leave it on, and watch what Shopify adds. The post Shopify Now Enrolls Your Store In Every New AI Shopping Channel appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-02T19:00:52Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3794d03fe09a",
+      "title": "Google changed their helpful content guidelines to emphasize good “Main Content”",
+      "url": "https://www.mariehaynes.com/main-content/",
+      "source": "Marie Haynes",
+      "summary": "Google recently made substantial updates to my favorite piece of search documentation: Creating helpful, reliable, people-first content. For years, this has been my favourite Google documentation because it reflects the exact principles Google is training its machine learning…",
+      "category": "SEO",
+      "published": "2026-10-02T17:02:58Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "8e206c4d9ed6",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "category": "GEO",
+      "published": "2026-10-02T16:15:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "e05e2084e68a",
+      "title": "What’s Making AI Impact Difficult to Measure for Marketers?",
+      "url": "https://neilpatel.com/blog/ai-attribution-difficult-to-measure/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways AI search is becoming an increasingly important way for consumers to discover brands. But measuring its impact is proving much harder than measuring a traditional referral. A user might ask ChatGPT for a product recommendation, see a brand mentioned, and then…",
+      "category": "GEO",
+      "published": "2026-10-02T16:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "21ce56fda53d",
+      "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
+      "source": "Search Engine Journal",
+      "summary": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos. The post OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-02T15:49:43Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "9c6633b36140",
+      "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
+      "source": "Search Engine Journal",
+      "summary": "Google's people-first content guidance now warns site owners against fabricated author profiles, a form of deception its rater guidelines already described. The post Google Adds Fake Author Warning To Helpful Content Guidance appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-02T15:03:06Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "146395efa822",
+      "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
+      "url": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
+      "source": "Search Engine Journal",
+      "summary": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-02T14:30:46Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "3353620a88f7",
+      "title": "Daily Search Forum Recap: October 2, 2026",
+      "url": "https://www.seroundtable.com/recap-10-02-2026-42220.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-02T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "e2a427ea40e6",
       "title": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
@@ -1554,6 +1643,17 @@
       "impact": 5.0
     },
     {
+      "id": "a97398f76ee5",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "category": "GEO",
+      "published": "2026-10-02T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "11c900025889",
       "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
@@ -1638,17 +1738,6 @@
       "summary": "AI changed the buyer in 18 months. Most businesses still run on 12-month plans. Here's where the gap shows up and why it keeps widening. The post AI Changed Your Buyer Faster Than Your Business Can Adapt appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-01T14:00:52Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b7b79efc832f",
-      "title": "Daily Search Forum Recap: October 1, 2026",
-      "url": "https://www.seroundtable.com/recap-10-01-2026-42205.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-01T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -4049,94 +4138,6 @@
       "published": "2026-09-18T12:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "25fdcb72fc86",
-      "title": "Google May Be More Successful In Blocking Scrapers & Tracking Tools",
-      "url": "https://www.seroundtable.com/google-blocking-scrapers-and-tracking-tools-42118.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google may be more successful in blocking AI scrapers, search scrapers and third-party tracking tools since around September 13th or so. This coincides with the September 4th and September 12th reversals we reported, and it also aligns with the methods Google has been using to…",
-      "category": "SEO",
-      "published": "2026-09-18T11:55:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e0434f96a06d",
-      "title": "Google Search Bar Results Page Testing AI Mode Button",
-      "url": "https://www.seroundtable.com/google-search-bar-testing-ai-mode-button-42110.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is now testing adding the AI Mode button to the search bar when you are inside the search results page. Google has the AI Mode button almost everywhere else, but now we are seeing it added to the search bar, within the search results page, not just the home page.",
-      "category": "GEO",
-      "published": "2026-09-18T11:51:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "051f94009af0",
-      "title": "Bing Also Asking To Verify You Are Human Before Showing Search Results",
-      "url": "https://www.seroundtable.com/bing-verify-you-are-human-42102.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is also asking some searchers to verify they are human before showing them search results. Google is doing this a lot, in various forms, and now Bing was spotted doing this.",
-      "category": "SEO",
-      "published": "2026-09-18T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2ef957fafe53",
-      "title": "Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/",
-      "source": "Search Engine Journal",
-      "summary": "Google's John Mueller explains how publishers can catch site problems before they become an indexing crisis. The post Google Responds To Cross-Domain Canonical De-Indexing Report appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-18T11:39:51Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a73dcfdef21f",
-      "title": "From Markup to Memory: Building an Open Web for AI Agents",
-      "url": "https://wordlift.io/blog/en/structured-data-for-ai-agents/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Andrea Volpini's talk at \"E-commerce for Humans and AI Agents,\" a workshop jointly organized by W3C and GS1 as a hybrid event in Zurich, argues that structured data for AI agents has to become navigable memory, not just markup. Here's what that means for schema.org, WebMCP, and…",
-      "category": "SEO",
-      "published": "2026-09-18T11:38:03Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "0f2856665cf5",
-      "title": "Google Ads Commerce Audience Sharing Help Document",
-      "url": "https://www.seroundtable.com/google-ads-commerce-audience-sharing-42109.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has posted a new help document in the Google Ads help area named About commerce audience sharing through Google Ads. It explains that \"Commerce audience sharing allows commerce partners, such as retailers or marketplaces, to share first-party data segments with their…",
-      "category": "SEO",
-      "published": "2026-09-18T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "201e6ff5b5c0",
-      "title": "Google Merchant Center API Now Supports Product Reviews",
-      "url": "https://www.seroundtable.com/google-merchant-center-api-supports-product-reviews-42101.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google updated the upload a product reviews data source to Merchant Center help document to now say that you can do this via the Merchant Center API. Previously, the document said, \"API isn't currently supported for product reviews data sources.\" Now it says, \"Add product…",
-      "category": "SEO",
-      "published": "2026-09-18T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "79033f4f1ba1",
-      "title": "Google Now Requires You Label Adult Products In Ecommerce Feeds",
-      "url": "https://www.seroundtable.com/google-adult-products-labels-42116.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated its guidelines for sites with explicit content to now specify that ecommerce sites must \"label adult products in ecommerce feeds or markup.\" There is also a new section at the bottom of the help document titled, \"For Google Shopping features.\"",
-      "category": "SEO",
-      "published": "2026-09-18T11:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
