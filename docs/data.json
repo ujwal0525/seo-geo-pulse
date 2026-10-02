@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T04:25:36Z",
+  "updated": "2026-10-02T14:31:13Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-02",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Tests URL Tracking Parameters To AI Overviews & AI Mode",
+      "url": "https://www.seroundtable.com/google-ai-overview-link-tracking-parameters-42219.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "690e40aa93b6"
+    },
     {
       "date": "2026-10-01",
       "family": "engine",
@@ -657,6 +667,78 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-02",
+      "company": "Descript",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge",
+      "curated": false,
+      "id": "5a5fb244e89b"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "Ideogram",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0ZQeU51bVd3MkJLRHFzOTFuU000b1dnSW9HNGJzSjE2Y3BDa3pDMDZmaE1BT3lLVnpiNWE4MkZjRVIwMXR4d29Tc0U1STV5TlVtekhFTmxGWVRkcExva1pJOGNRc0xWY2x4MGhWdDFPR0ZPLWU3N0R5aDFSWk1OX2hVRVpDNUFUV21BTTYwMnFfSk4zZ2IwU0pFWEE4RE9BQ2ZHN3ZEUE1fUVNiSFhwbjJVN014Y1hmaTlial9hSW1XemdVQV9uRlQ3RQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "cb6f5ce7d041"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22B · $300M",
+      "title": "ElevenLabs Reaches $22B Valuation Following $300M Employee Tender",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzZjZnY5Vkd4UHVNNjg2ZkpnMmsyTlB0aVIxZjk5MzBCUUU1Vlk0Ym1MOEZseXc2aENUWkp4Z2dHTzZlcmVhREw2VUxJYUJOTlI4dWpaUkhFSkZ3dU00UWFYT3hfT3ZNbE9ZaGd5S1czeEF4Nm53S09HOGNQc1NFZWFmeUtHWmI2dGNaU3RLRVlGRUFJdHdhM1J3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1e6b2a90c8b8"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Microsoft Debuts Voice AI to Compete with ElevenLabs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV09DMW1CTTN6MUhtZ0dTYzF0VkkwTzViQUZVV1V2amozWXBQU2UxZ3A4WklYWEJxRmYxNkFMWVh6TFVHdjBZbUJ2WWw3M21oZ2JoR05OM2YtM01YLVFaOTI3dmdDeHpuX0REb2hsNXVwVXU4SVdWZHFJa2ZxOE9MUERqS2dSMU5oLVFGcEln?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9cd12ce95d41"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "FLUX 3 Image, an AI image generation tool, has been released. It boasts advanced features such as 'up to 4K generation,' 'subject positioning,' and 'partial editing,' and an open-source version is expected to be released in a few weeks.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0TVU5TjZpeUdIeEtJMkhZYjZBUXVvN0ZpWHlfRmFGSzEwNXprTnpSMmhsT2JXSE5vRm5NN1NIM3dXeTZWV2hjMV9fOEJ3bFNBcEpJU2JWUkw0Sl9Ma1NlVTlIVlh5Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2180cdb9b1c4"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe and Topaz Labs: How the Acquisition Could Change AI Photo and Video Editing",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcFFWTjlSc2pCbEZROENXQzM3UFVsUTBJdWE0LTNMa1dKZlhzYVZabG1reWcwQW1rSFAzcUI3OGFYZ0o0azA2dGM5OXdWZG1tTTY5Y0w4b3U1ektFM2dqb29tYjBlLXMtQUhFeFhjaWNUREltUFNlRENiR1J4UHNxU0pBQ0tvcFZvV0IwWnlWei1ZZ0M4c2FqT0YzaUhDSjJndTc5T3JQSU9KRURpZlJ6SGtMdkxKNl9od1JpMmdNR1I3M0VpR2xmQzA0NUFYdkM0b1lFczNuZWs3ZWJ4NTBPedIB4AFBVV95cUxPcFFWTjlSc2pCbEZROENXQzM3UFVsUTBJdWE0LTNMa1dKZlhzYVZabG1reWcwQW1rSFAzcUI3OGFYZ0o0azA2dGM5OXdWZG1tTTY5Y0w4b3U1ektFM2dqb29tYjBlLXMtQUhFeFhjaWNUREltUFNlRENiR1J4UHNxU0pBQ0tvcFZvV0IwWnlWei1ZZ0M4c2FqT0YzaUhDSjJndTc5T3JQSU9KRURpZlJ6SGtMdkxKNl9od1JpMmdNR1I3M0VpR2xmQzA0NUFYdkM0b1lFczNuZWs3ZWJ4NTBPeQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "14657a55f8a5"
+    },
+    {
       "date": "2026-10-01",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -847,6 +929,30 @@
       "source": "Google News",
       "curated": false,
       "id": "e2a8f93c0404"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$400M",
+      "title": "Headline Closes $400M European AI Venture Fund",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSTVVcl9kMnNqREtxbFdvRks0bm1Bc1RjVlg0R3U5ZUh5eHZRdHpYSUxPakFtVkd2TTdSSlZSeUxudnd0R2VtaF9tZ1U0YjhNUzFCbWhNVldpWWlsdlN3a1dBUnV0RE9oUEVFQlhNc2xZRFl6Y3d2MEhtcHRHSVIyTjZtTVRDcVRhMGhQZ3JhQ3Ayc3JoYjhqUDB5X3czNGJ2N1FOOE5WamlNUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "dc6ad677288d"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7a4c6239022d"
     },
     {
       "date": "2026-09-30",
@@ -1233,6 +1339,18 @@
       "id": "4800c8f71a3d"
     },
     {
+      "date": "2026-09-28",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$4B · $42B",
+      "title": "Canva Revenue 2025: $4B ARR, $42B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHQVI2Z1JfcTVFaTFveUlJeXNfeWN5Y1RkNU93SVMwUlZoOXpQYTFvT2xsZmZkbzU4clU2eHZ5WExVX1NxMVh1cXdKV0M?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c3154e7d118e"
+    },
+    {
       "date": "2026-09-26",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1267,117 +1385,152 @@
       "source": "Google News",
       "curated": false,
       "id": "5ade56788528"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORU8yTmx4N0VueGV4aU4yYnVKUHBHaG4xUlpaaHdoNUpSNGJ1UVJTSk9idHVIMWpOZVB4WXhmd3c5elJOdEdCeTlWSk96Zkl0eC1iamh3LWdKZDlSQnhpenBZLWZEVG80cENOa25oUHhBZmZIcHdTWnhaX2UtOTBiUklZQUl3bHBIblJrczNGU1RHM2lmX1gxQms2a1JNam5kYnBBcXhNV0tvMFdZOEd3eFhTQndpeTdRaUdyTVVhTWktN25hZTNkMXBrNThlMmFIZnpwNm9NY9IB3AFBVV95cUxQRjZHU3d4bnlOWWFaVFVSYnhhM0NwSkNNcGswSDEyUndzMWF5bEQ1WTA1eW9CV2pNNW4ySndCV0pqWUZpWkU2VUJfM01lVnEyUE5pX2F0QldoWGlYM1ZXYkJyeS15V0FoZ2txS05jQldyb2ZIRVl4akxveUJWcTlVMVNSWXhXcHdpU1F5dVdDV05PS2pWWnQ5Nl9BajdnUWJvRU5SbF9DbDduZ192LWNZaWFYblVvYWhCRWNHaWlBMHgzSUVnS0M0VEFZc1g0NmcxOWVkTlJ0MFRpMlNt?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1271315ee1e1"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "microagi Explores Conversational Robotics Through Collaboration With ElevenLabs",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa18xYlhpV1V1UUF0NVpjcXdrWExJd1duQmk2TUcwZTkxY00xV2tWeDFjMVk1YzllckRhRzhLaDVHTmlkbmxvUHJydEZoZTU1YUZTZUxpVG85RWVmT2drUzNITmtTanJXNWlBNHdicnBSNjRseXlUV3plMXh2ajZsWVd0dExuaDVZeUViNlEtaUxrRHRndGUwX3dGVmY3V2h4ZXFqN28tUUkxcnhNQUZobkRoSHZzRHpCcjJVREI3N2RRVUppenc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "23de51cf8e63"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Germany's Black Forest Labs Unveils 7B-Parameter Robot Control AI \"FLUX 3 Action,\" Tops Benchmark Rankings",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lVmo5ZFdRa205LXdGZWNRMF9lYzNYWG93RFlaNC1XVDFtM1NZOG92U0JpTGZqdGRXUDZFOWJ6UzNKd1FnSTFFUWk0bzI0ZXlrLS1QaWU4SWoyNW42ZkppZ1RXU0FieFJtTFZ1LXZnVWgzLWthY0E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e1289d647084"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs unveils 'FLUX 3 Action,' an AI model for robot control.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NQ1F4cFNZSFpLYTlCQjZzc21pbWpELWNYNVhTeVRrRzNTSkNnQlFDVzJBSDBuaWtEOGhEQXlSdEZnSm5wcnVqV0RmbFNuU29aWDNOY1BPOU1IREZuWUtEQnNPaEpzOTA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b22160742425"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Adobe completes acquisition of AI company Topaz Labs",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXdUZXl5Z2prc0F1OEVLSWVDVzdHdE5lRVBzRWxjbVhCMm02ejdYQUVsVHZZcjNqLU9GT0VPcjhLYmlKY3FGTDNrVm5KTkJLSEdyYVFFR3RkSFRGc050TS1tTVlJOGxPUHJKcXAzeWUtaWJHc2R1VXR2VVdRNXJPMG00cTFtT2NycHhCLTNEeXFZNVVDY0pzZnNB0gGaAUFVX3lxTE9hd1RleXlnamtzQXU4RUtJZUNXN0d0TmVFUHNFbGNtWEIybTZ6N1hBRWxUdllyM2otT0ZPRU9yOEtiaUpjcUZMM2tWbkpOQktIR3JhUUVHdGRIVEZzTnRNLW1NWUk4bE9QckpxcDN5ZS1pYkdzZHVVdHZVV1E1ck8wbTRxMW1PY3JweEItM0R5cVk1VUNjSnNmc0E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2154a0654f81"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Who's the Nikon Z5IIC for? Adobe buys Topaz & Snap's new glasses, all debated in our news podcast",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1BDb3A4andtdEhlOXdZRExlekhtaFgwYjVxeDBqY0JORUpKaDR0cE5KYXQ3TDVVTmwzaG9YQnZLUTk1amZtUmpnSWJBLTR3bVRpdHdMR2JPTDZ1RGFBakJFaDRtZHFrcXA3SmxGNDk4OGxKM19od1UwdXZWWWRFbjNueU1sOUFPbWc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "10e283cca1a8"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Tom Hanks’ 69-year-old wife Rita Wilson unveils giant back tattoo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXNTdWEweF9JRUtEN3A4em9JV0NSSXZtdGVIbUJscUFaZlpnWGJ3eU9XckRUSkktZ0tOWnF0ODBIcXY4cEJ0X2ZzVmtDVVRKdVFPYnVnel9TQ1FtanhBd2dHRkhvRWx3M2pxbzQ1Z2l0TUxWM2J2VVJpZk1HSzNDSHVPWTl3S0ZhVWUzVUpiREVSM05YcGw1dW0xVjZ0SXlfMEo5aTRTTdIBrAFBVV95cUxPVkM3MWFLU1Y4aWVFRWlKZVFJVTA4SGIySHZUQlRNblQ2azl1b0xjN2JqVmpVYjBvQmlGWHBVM3JHcFFWSG50RHJRU0pscDhTVmtiZWZDNGNkdHdUOUFSaUFCS3ZKcVcxWmxRUlFqZkppZ0hWem90c1RzTjYxcFJ2Z1I3NjZqZmZWdkFYUlZvUUQ5OS00MDZxajFPalB0bkJQZ3lndGZ4cDlVd242?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a5c5f216c834"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Rep. Ro Khanna unveils universal childcare proposal with eye on 2028 - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXBIU092anRsYUwya2MxdUU5aGctOUpqTWdaUzlUTlc5WGx1RWYtQUs5Sng5VlhKV1gyeWNpUUhPd29kcmtCNWo0QWFRckZlcG9zbHBxU1dORElrMG05NUEzWXo3YVd2aGN6X2hxcndqWlBjNkFtUkxsNkdZa2JDd1prb3hhYlB0aTNhOW5aMnk3dWk3MDBZa0VfTlNLVVJkY0I3ddIBqgFBVV95cUxPWmZESS05LWlLei1lakNZYnlyaWtTakxWTXY2eFhvVUdFQ01ycks5LVNmTGdaWnlaTDVIR1JMdUVRZlMzODF5X2VhWFhKVUZHTmVILVhwU1pvakRPSlJ6ZVZZU29IVl9PZ3FQRnVqakQtYWdfR093dExQTjBua2xpaGx5aFJPaVFhQTFPSWRMSGxtZkpaMUpnOG9jNFZXY0wydEYtU09VY1BqZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3053f39308aa"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Clearwater releases 10,000 mosquitofish into four lakes to combat dengue fever",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHlIWGxHN3pGLUprRGhRQmFwRFZGMVZMWi0tY3dza2VlcDVNby1BQ243V0ZKSDJmSUx6VlFPV3lpcUJMZVpWQ01OVzlZeVVtaGNGaXdSR3Zoa0NzOVdvYVJsV0V4emZ1LWJsSUNnTmF3aF85SWZfSHpkcGtxdUFoSkk2ZVZOS0tibGc3dVpsdG9ySWhxTXd3VjZhdzdhT3VQZGMzV2t6dko4X1lRdnUydWkwWUhvREtNam5qc2hHMUlqdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d38b7c6f7006"
     }
   ],
   "items": [
+    {
+      "id": "e2a427ea40e6",
+      "title": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
+      "url": "https://www.seroundtable.com/video-10-02-2026-42210.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This week, we covered the first impact felt by the Google September 2026 spam update. And then on Wednesday and Thursday we had the second impact of this spam update. Remember the AI contribution report...",
+      "category": "SEO",
+      "published": "2026-10-02T12:01:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "17d70c057702",
+      "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
+      "source": "Search Engine Journal",
+      "summary": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility. The post When A Search Query Becomes A Standing Instruction appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-02T12:00:09Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "65b8e61316d9",
+      "title": "Google Loyalty Customer Match Expands To AI Mode & More Regions",
+      "url": "https://www.seroundtable.com/google-loyalty-customer-match-expands-42216.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google made several changes to the about merchant loyalty program within the Google Merchant Center help documentation. The key changes are that Loyalty Customer Match expanded to AI Mode and Gemini and to more regions, but there are even more changes noted in the help…",
+      "category": "GEO",
+      "published": "2026-10-02T11:51:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "86a551216fc9",
+      "title": "Google Tests URL Tracking Parameters To AI Overviews & AI Mode",
+      "url": "https://www.seroundtable.com/google-ai-overview-link-tracking-parameters-42219.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be testing adding tracking parameters to the link URLs within AI Overviews. If this rolls out fully, this will help you decipher when you get a click from an AI Overview in Google Search or just a click from the main Google Search web results.",
+      "category": "GEO",
+      "published": "2026-10-02T11:46:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "8349c0bee887",
+      "title": "Google Local Service Ads Hiding Phone Number By Default",
+      "url": "https://www.seroundtable.com/google-local-service-ads-hides-phone-number-42207.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Local Service Ads seems to hide the phone number until you hover your mouse over the ad. I am not sure if this is new or not, but there is a big button that says \"Get phone number\" which is not needed because the phone number does show up as soon as you move your mouse…",
+      "category": "SEO",
+      "published": "2026-10-02T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "17e4a7548cc5",
+      "title": "AI Overviews Currently Appear for 83% of Branded Searches",
+      "url": "https://ahrefs.com/blog/ai-overviews-on-branded-searches/",
+      "source": "Ahrefs Blog",
+      "summary": "That prompted us to investigate AI Overviews for branded searches on a larger scale. We found that AI Overviews now appear for 83% of branded queries, potentially reducing clicks to brands’ own websites and giving third-party sources like Wikipedia, YouTube … Read more ›",
+      "category": "GEO",
+      "published": "2026-10-02T11:33:46Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "fbc95e413184",
+      "title": "Bing Product Results With Recommended By Section",
+      "url": "https://www.seroundtable.com/bing-recommended-by-products-section-42193.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Bing is testing a new'ish section labeled \"Recommended by\" followed by the company making the recommendations. The weird thing is, the specific product thumbnails link to various retailers and not the place that recommended it.",
+      "category": "SEO",
+      "published": "2026-10-02T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ac96d8bf7182",
+      "title": "Google Ads Sponsored Products Results Missing Images",
+      "url": "https://www.seroundtable.com/google-sponsored-products-results-missing-images-42213.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads may have a bug or maybe it is testing, not showing images on sponsored product results. You can see from the screenshot below, the images that are generally shown above the ad titles and descriptions are missing from the Sponsored products carousel in Google Search.",
+      "category": "SEO",
+      "published": "2026-10-02T11:21:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "91fb7ff7b55f",
+      "title": "Google Ads Sitelinks Format In AI Mode",
+      "url": "https://www.seroundtable.com/google-ads-sitelinks-ai-mode-42206.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads show up a lot within AI Mode these days and with that, Google is testing various ad formats to see which formats get the highest click-through rate (unlike links in AI Mode). Here is a screenshot of what may be the Google Ads Sitelinks within AI Mode.",
+      "category": "GEO",
+      "published": "2026-10-02T11:11:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "5aa22401254a",
+      "title": "Google Ads To Allow Some Advertisers To Use Different Business Names",
+      "url": "https://www.seroundtable.com/google-ads-business-name-policy-42214.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads will update its business name policy to allow some advertisers to use a business name that differs from the ad's destination domain. This is limited to certain cases, specifically three cases and it also excludes advertisers who are not the direct verified brand.",
+      "category": "SEO",
+      "published": "2026-10-02T11:05:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0f7c356f9821",
+      "title": "Google Helpful Content Doc With New Main Content & EOT/SA Sections",
+      "url": "https://www.seroundtable.com/google-helpful-content-main-content-and-eot-sa-42218.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the creating helpful, reliable, people-first content help document to primarily add two new sections. First, it added that the main content is super critical, added what is main content and then explained how Search Quality raters review content quality of the…",
+      "category": "Algorithms",
+      "published": "2026-10-02T10:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "812b7250b98d",
+      "title": "Growth Intelligence Brief #25",
+      "url": "https://www.growth-memo.com/p/growth-intelligence-brief-25",
+      "source": "Growth Memo",
+      "summary": "SaaS loses a third of its Google visibility in a year, Realtor.com and Amazon hit record lows, Homes.com hits a record high, X jumps 33%, LinkedIn holds its June step, Reddit falls to a March low, Zoo",
+      "category": "SEO",
+      "published": "2026-10-02T07:56:14Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "1709fe6cf955",
+      "title": "Model Drift: Why ClickUp Looks Different Across Six AI Surfaces",
+      "url": "https://foundationinc.co/lab/model-drift-clickup-ai-visibility",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "A high AI visibility score can hide the difference between showing up in the results and getting chosen, and that gap has obvious commercial consequences. ClickUp, an all-in-one work management platform, is a particularly illustrative example. We ran a sample of 21 prompts twice…",
+      "category": "GEO",
+      "published": "2026-10-02T06:00:57Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "afb75106cd4c",
       "title": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
@@ -3984,149 +4137,6 @@
       "published": "2026-09-18T11:15:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "7c78160d9fef",
-      "title": "Google Search Drops Free Product Listings From European Economic Area",
-      "url": "https://www.seroundtable.com/google-drops-free-product-listings-eea-42113.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search has dropped the free product listings and carousel formats from the European Economic Area (EEA). This change is part of what the European Commission forced Google to do in these regions under the Digital Markets Act.",
-      "category": "SEO",
-      "published": "2026-09-18T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1d3c8f473968",
-      "title": "Google Supports Local Business Queries In Aggregator & Supplier Search Units",
-      "url": "https://www.seroundtable.com/google-local-business-query-units-42115.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has added local business query support to the aggregator and supplier units within Google Search. Google updated both the aggregator unit and supplier unit documentation to add \"and local businesses\" sprinkled throughout those documents.",
-      "category": "SEO",
-      "published": "2026-09-18T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8ed5d4834e54",
-      "title": "How to Prepare for any SEO Conference, Including MozCon - Whiteboard Friday",
-      "url": "https://moz.com/blog/seo-conference-preparation",
-      "source": "Moz Blog",
-      "summary": "Looking to make the most out of attending your SEO conference experience? Discover how the right preparation can boost your team's strength, energy, and enthusiasm during and after events like MozCon. Whether you're a seasoned attendee or a first-timer, our guide will ensure you…",
-      "category": "SEO",
-      "published": "2026-09-18T07:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "eb5f6edf050e",
-      "title": "More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/",
-      "source": "Search Engine Journal",
-      "summary": "Pew's 37-country survey finds more people expect AI to reduce jobs than add them, a view more common in high-income countries than middle-income ones. The post More People Expect AI To Cut Jobs Than Add Them, Pew Finds appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-17T21:44:38Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a67a1ce983f7",
-      "title": "Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-updates-mediapartners-google-crawler-guidance-less-about-adsense/589821/",
-      "source": "Search Engine Journal",
-      "summary": "Google expanded their Mediapartners-Google guidance to make it about more than just AdSense. The post Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-17T20:51:57Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7bea3f4be21b",
-      "title": "There Is No “Accuracy” in AI Search Tracking – Only Precision",
-      "url": "https://ipullrank.com/accuracy-vs-precision",
-      "source": "iPullRank (Rank Report)",
-      "summary": "I get some version of the same question every week now. A client has two AI visibility platforms running side by side. One says they show up in 41% of the prompts that matter to them. The other says 23%. Somebody on the marketing team has to put a number in a board deck, and […]…",
-      "category": "GEO",
-      "published": "2026-09-17T19:20:56Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "03fcb916f694",
-      "title": "I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It via @sejournal, @suganthan",
-      "url": "https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/",
-      "source": "Search Engine Journal",
-      "summary": "GPTBot, ClaudeBot, and Googlebot won't pay your price yet. Charge now and you lose citations. Here's what to decide before the dashboard toggle arrives. The post I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It appeared first on Search Engine…",
-      "category": "GEO",
-      "published": "2026-09-17T19:00:29Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "184b193be1de",
-      "title": "Cyber5 Prep: Are You Ready for Paid Media’s Biggest Week?",
-      "url": "https://neilpatel.com/blog/cyber5-paid-media-prep/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Cyber5 runs from Thanksgiving through Cyber Monday, and those five days can carry a bigger share of annual paid media revenue than almost any other stretch on the calendar. Adobe found the period drove close to a third of November’s e-commerce sales last year, and…",
-      "category": "SEO",
-      "published": "2026-09-17T19:00:01Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "9b19416a4af4",
-      "title": "AI Citation Test Finds Source Order Matters Less Than It Looks via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/",
-      "source": "Search Engine Journal",
-      "summary": "A controlled AI citation test found source order mattered less than raw data suggested, while structured rewrites shifted how citation credit was distributed. The post AI Citation Test Finds Source Order Matters Less Than It Looks appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-17T17:02:58Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "dd47a742afa0",
-      "title": "Reddit AI Search Picks Already-Popular Comments, Audit Finds via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/reddit-ai-search-picks-already-popular-comments-audit-finds/589771/",
-      "source": "Search Engine Journal",
-      "summary": "An audit of Reddit AI search found formal, highly upvoted comments were selected more often, while experiential language appeared less often. The post Reddit AI Search Picks Already-Popular Comments, Audit Finds appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-17T15:44:51Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "4f087a5f563e",
-      "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO via @sejournal, @rollerblader",
-      "url": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/",
-      "source": "Search Engine Journal",
-      "summary": "Product page copy builds shopper trust and fills gaps in AI feeds, giving customers the details they need to buy. The post Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-17T14:30:32Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "08c51d2b5e3b",
-      "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
-      "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
-      "source": "Semrush Blog",
-      "summary": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one.",
-      "category": "SEO",
-      "published": "2026-09-17T13:34:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "f70b7d6c861e",
-      "title": "A prompting guide for AI website builders",
-      "url": "https://yoast.com/prompting-guide-ai-website-builders/",
-      "source": "Yoast",
-      "summary": "AI website builders make it possible to go from a blank screen to a live website in minutes. Which is a great option if you want to get your website live, but don’t have the technical skills to get this done yourself. But there’s a catch most people run into: type in a vague…",
-      "category": "GEO",
-      "published": "2026-09-17T12:51:25Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
