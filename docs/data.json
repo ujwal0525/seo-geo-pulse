@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:51:08Z",
+  "updated": "2026-10-02T04:25:36Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -837,6 +837,18 @@
       "id": "11ba824757dd"
     },
     {
+      "date": "2026-10-01",
+      "company": "Midjourney",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ctrlc.ai Launches Free AI Image References and Prompts for Designers",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDFFNEk0MDZneVNEczlld040UFFQRUY1RjRqOVYzME5SelZCakNKNUE3aGt6RDFJaWxpWDFvaWliSHRqbFVaZjB6ZmlPLVZESFBRYVppYi1vcU5ld2VBZjV3QkVoUTB2MUNEWHA2LW0wX2lHMm5ndDNmOEc0RmNLNUVFYXFkNWF6ekdCRkJlRGQtZnJhTWxEZ2t1QkNtTXhjRDUtaEFPSUZEeE4xTUF5c01KTnl1RERlVDVUZA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e2a8f93c0404"
+    },
+    {
       "date": "2026-09-30",
       "company": "Midjourney",
       "front": "GenAI Media",
@@ -1363,21 +1375,31 @@
       "source": "Google News",
       "curated": false,
       "id": "d38b7c6f7006"
-    },
-    {
-      "date": "2026-09-25",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPak1BYVp6cENXWWI4Y1A2bmJpMmtnQXZDRC1vTUU5blVldUtUUU5lYVZqTGRyeEhEUV9TQTE2R0xiNGZmRHg2V1BRUFZTQkdvSHRyblVuMEJGd3U2SWVyT05iYjMtbXFfTEljdEhwZXBkRFBVeWg0TWVsMVQzYnFzZ0NfcUw4dUVnLTlELWNQc3ZKVjhnUXBFMnVjX29LN3lfbTRTTjZtaVp5WURwUE5JQlVCbEg2TURKYjdqa3VLejY4YTdOUGVKSWZzOXNDa0Vic19GT1hfS0VycV96ZkhPUDd2dUNVSmNvR1ZqeWdEeEQtYmRQOVdr0gH3AUFVX3lxTE9qTUFhWnpwQ1dZYjhjUDZuYmkya2dBdkNELW9NRTluVWV1S1RRTmVhVmpMZHJ4SERRX1NBMTZHTGI0ZmZEeDZXUFFQVlNCR29IdHJuVW4wQkZ3dTZJZXJPTmJiMy1tcV9MSWN0SHBlcGREUFV5aDRNZWwxVDNicXNnQ19xTDh1RWctOUQtY1BzdkpWOGdRcEUydWNfb0s3eV9tNFNONm1pWnlZRHBQTklCVUJsSDZNREpiN2prdUt6NjhhN05QZUpJZnM5c0NrRWJzX0ZPWF9LRXJxX3pmSE9QN3Z1Q1VKY29HVmp5Z0R4RC1iZFA5V2s?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "358e92c5a91e"
     }
   ],
   "items": [
+    {
+      "id": "afb75106cd4c",
+      "title": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
+      "url": "https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated Google Search's \"guidance on using generative AI content on your website\" document to tell those who use AI-generated content to \"manually factcheck and review all AI-generated content for accuracy and trustworthiness before publishing.\"",
+      "category": "GEO",
+      "published": "2026-10-02T00:10:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "cbde6376284f",
+      "title": "Google Tells Sites To Fact-Check AI Content Before Publishing via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+      "source": "Search Engine Journal",
+      "summary": "Google's guidance on AI-generated content now says to fact-check it by hand before publishing, and the review extends to titles, alt text, and other metadata. The post Google Tells Sites To Fact-Check AI Content Before Publishing appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-02T00:03:36Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "11c900025889",
       "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
@@ -1707,6 +1729,17 @@
       "published": "2026-10-01T03:05:53Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "3bba52758573",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "category": "GEO",
+      "published": "2026-10-01T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "fccd42a6ae71",
@@ -4094,39 +4127,6 @@
       "published": "2026-09-17T12:51:25Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "2306d6a67fcc",
-      "title": "3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/",
-      "source": "Search Engine Journal",
-      "summary": "The surface that ranks and the surface that earns are decoupling. Three predictions for Google in 2027, plus one about whether you'll know. The post 3 Predictions For 2027, And Why You Won’t Be Able To Check Them appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-17T12:00:01Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "964ae1dd0fac",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "category": "GEO",
-      "published": "2026-09-17T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "62fc770468ad",
-      "title": "What Ever Happened To Google Discover On Desktop",
-      "url": "https://www.seroundtable.com/google-discover-on-desktop-not-found-42103.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Last year, Google began to roll out Google Discover on the desktop interface of Google.com. But now, for the past several months, Discover on desktop is not been found. Google tested Discover on Desktop in 2023 and then, in 2025, said it was coming; it even started to roll it…",
-      "category": "SEO",
-      "published": "2026-09-17T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
