@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T04:08:50Z",
+  "updated": "2026-10-03T13:06:55Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -680,6 +680,30 @@
       "id": "505bf6b32517"
     },
     {
+      "date": "2026-10-03",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Vienna Tourist Board launches free Figma template inspired by Viennese Modernism",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JWDh2QVduaW9fYWc1d0pubTY3NFRqaFB5WWNPUTVfRWxBUFZyRzh2Uk4xOVpuc0pOSTk4MWhhVWpITllteXh6elZiREFGSl9yQ2lUMDcyRk1POHpkelJJNjFlYmpDR0U1Wi1ySVBSSWg4Z2dLTFQw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8d989726c495"
+    },
+    {
+      "date": "2026-10-03",
+      "company": "CorelDRAW",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "CorelDRAW Introduces Text-to-Vector AI Feature",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdTJUUzM1VWxIZWFLVk9aN1BQczFnZkkxajN0bnB2dXNZclFLOUdsSXdhWVNfaWNjUW51QmhQUjlzcnJ1TDRqZk1RRExKc2RGYlVPd3RRc0xBOElVemxnVGp2aVoycVRxOE9LRDRMRmQzMUpCVmNxMU9FRkd1RFJyaUUzaHpLaDRXNWtBS01jdzRzQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b4c82d1f60ae"
+    },
+    {
       "date": "2026-10-02",
       "company": "Descript",
       "front": "GenAI Media",
@@ -1220,6 +1244,18 @@
       "id": "887d4126ed7e"
     },
     {
+      "date": "2026-09-30",
+      "company": "Proposify",
+      "front": "Documents",
+      "move": "Funding",
+      "detail": "$8M · $12.4M",
+      "title": "Proposify Revenue 2024: $8M ARR, $12.4M Raised",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40X24tWmtDSGhXMFM0ZWx1cWE5eC0yNjkyTWNrdHB0bU1MZFVaX0NhUWFteWJXal9pZkVYVkZFMXl5MEgxam1TQkxpd2VIQUJYN3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3f9b02a5761a"
+    },
+    {
       "date": "2026-09-29",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1350,45 +1386,20 @@
       "source": "Google News",
       "curated": false,
       "id": "f51ec1bc71c9"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Freepik",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Health Care At Home India and QMS Medical Allied Services announce pharma business merger",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTzVSZ0ZyNkozY255VE1xNk5GamdkUEluaUN5SXhMNGRqT3hmT2tKWkdndzRnbkVrOGxDWUdYOFpuTGl2UTFWQ2MzRlp1Q3N4OGhVVkRLUHR5WUpQUVFqNXBrUER0dVdfOEhtVFYwbWUtUFNWam5ZcThnbmwzODBTYTJ4bmVzZHM3RXVDSnpQd19uSGxCOElFWl9qVFpZeUFkZFlfekFheU5xQTVKb2lDUFpueVJ6UkxBUGdhalBfenZfMTliRUZveURaa25JTFVrNmtFN3VIbW8?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a281f55c0f85"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$2.8 Billion",
-      "title": "Kuaishou’s Kling AI Secures $2.8 Billion in Financing Commitments",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0eXdXZkY5VlJzT1VxalhObzUySExObTlQNFY2ZENfdWs4TU9zcl9kWTZLODB0Y1NkYUxxcVRjQ044WU84Q01tdEltNzNKeXg1VjJPV3ZtSnQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4cc688323b13"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kuaishou Technology’s AI spinoff unveils Kling 4.0 video model ahead of Hong Kong listing",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53RUJ2QmxjSVNSVlZsY1BidEZWWWNsd0ZPVk5jekpkdGxPZXFab2tGQzZHRERxRjhvZDlmS0o1a3VZMjZLV25lcHVrT0xzdThjaWdzQmZFelJBMkl6NTlTQ0psRTdVaWFIMXVUT3lpSlgtcUJ6VG9GaDRBSQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4800c8f71a3d"
     }
   ],
   "items": [
+    {
+      "id": "88ce1d1cc157",
+      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
+      "source": "Search Engine Journal",
+      "summary": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits. The post Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-03T12:00:26Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "d8f448698e04",
       "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
@@ -4127,17 +4138,6 @@
       "published": "2026-09-18T12:00:41Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "559b0cf11197",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "category": "SEO",
-      "published": "2026-09-18T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
