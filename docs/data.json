@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T13:06:55Z",
+  "updated": "2026-10-03T19:03:27Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -800,6 +800,18 @@
       "id": "b2d73393f10c"
     },
     {
+      "date": "2026-10-02",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Runway introduces Praxis-1 world action model for robotics",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNME9VdncwOHBES21xREdFNVpXVWhjYzFaMXloR1JmUjlpVjl3ZlpSSzBhdkkwcWJja29RSU1OV0R0V2hFQUVrNHphOVd0aGxZeG4yYWNiYXBkQ3J1MUthUUk0T1NySWdXQm95bmo5aG43MERPV2ZRSlBvYlREeEFkakFyUnlxRU8waE1PTWNrcw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "36b6f303f39a"
+    },
+    {
       "date": "2026-10-01",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1014,6 +1026,18 @@
       "source": "Google News",
       "curated": false,
       "id": "7a4c6239022d"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "Leonardo AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Ideogram says its new model can edit part of an image without messing up the rest - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjVxanl1TnBZT2RyV1ItZ2NoYThjOXA1c1pZZnpUWjNGUHpvZzI0a19IOVN6Rlk3NktQdDNQNEk4eHp6aC1wcDhCNVhCdkdzcmRoalBxZWFoaFlndHpkaTNQUlJTYW9RX3ZXdHdEWUs0M1V6Unc0VzRvWDNBLWV1MWllRmVTeG9xc1ZvVGhsbGMxR29PRG9id3JGWW1hMG5OVGJ3blFBMjMwQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "087da11a14e0"
     },
     {
       "date": "2026-09-30",
@@ -1362,30 +1386,6 @@
       "source": "Google News",
       "curated": false,
       "id": "b2bb9c4fa7a1"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs launches v4 AI speech model with 90 language support | Tap to know more | Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmtfTDVoVGtsUklOcXRqajFYdm5XR2tON1owWVQ5bFEtVG4wZlh0b3VjWU9lVldib19Md2M5STZPbGtPM3Y4OFA1eVB3ZE10dS1SbVJXTDZmNVpnRjVaNS1iZmlVR1pkd2FZd0JmS3YycUgxSDZidEZEMWV6UHl5TENzRVJ6Sm5BZFFfaU54WjBJZlZZZVVuQXNOaldoRFJscHBIWjczeF9EUdIBrwFBVV95cUxPTE5JNl9mSXJxZ3htTWpnTmxRYlZiTm5mcjZUREFHM1JaUDN0WDc4ZnZmNHhWWFJ0MjdIcXU1OHdhdUtEM1hNNWc3YVpwSTZhV1Q2ZGhTaFZhbWJxbXdWMjVGZ19xSU5QVVg5UDVvUWxTemZhQWc3M09EVzRzT3o4UExHbVNVOEVrMm4zS19DMUFodlRpNjJCVzVFNVBhVkRjbEtsY0JISzdCSVJkMVUw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "22e130667a25"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Adobe completes Topaz Labs acquisition – Topaz stays a standalone brand",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JZbW9ScUY2N2dPMUlaVzY2MnZLOEhyUnVPTTJHZmJyREpiVGZzRXd2MjZuUzU1aGFlUGRDV1dxYXY0LVpDZ3lTU1ZOS1VnbkJkTjVKakw2YTk2WTd5VE9sSUVpUlFURHJnal92ZU1ka2ZjZ2d2V1EzM2dlN0J2UzREd2lxaGRsMEFMQWVFUW9VTTRoeHl0ZjlmZFBNU09jYW5TZEJIQUU5ZUZJT2h4Z1dB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f51ec1bc71c9"
     }
   ],
   "items": [
