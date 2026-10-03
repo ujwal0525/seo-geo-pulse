@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T20:24:10Z",
+  "updated": "2026-10-03T04:08:50Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -668,6 +668,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-03",
+      "company": "Freepik",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Uttar Pradesh: Probe launched into allegations of caste-based discrimination against Class 7 student",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTZVLS1uMmJsbkhlTjhPX3VxSTFpY01PLXFESHZyRW5BcnVvS19KeFpONEJMeXlDNGlnTVN0Q3ExVkVzMkRWQldBaDlnRUQ3aUdFMEZYZ2R1YkV6Njg0cm1YclFIb1REN1phWEdZR29JVmplanAwZWM2bGVnOUhyaGM5SWNpMndza3dQNmVpMmkwcGtibzNKZUR4SzBONERoNTM4bVdId1hra1cwRm9weG1hZ3dmaEd3d3pWbmpINW5UQWJCZlhLZ9IBzgFBVV95cUxOaVBsVkxhNWltVnR4UFlraFFodjJUYjN4WERFV3BTMS0yQVZXU29DcllrbGZHeGNXeE1UZG1paGJEWDJTUEJxZFI1NWtGMTczQWptb3FzWHdGSXVyQ1U1MHEzeDkzVkFfcU5KQnpyc29JOFUxRzlXazZWX3NEcFlHajFPai02Z3gzTGM3SFVkMjlmSmg2YXkyUWdmSkw3R0dFelFoZ3Qyb3BiY1MtUTNrUktlVzFMNjdWVzFkVm96eTB3UHVERWxrMXRFeGlBQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "505bf6b32517"
+    },
+    {
       "date": "2026-10-02",
       "company": "Descript",
       "front": "GenAI Media",
@@ -738,6 +750,30 @@
       "source": "Google News",
       "curated": false,
       "id": "14657a55f8a5"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "Stability AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$76 Million",
+      "title": "Stability AI Raises $76 Million as It Expands Into Music Tools",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZVlsX0lJYzlVWUdPSUJEWmhHNktQX01BbkJFaC13TVFfUWNwb0FqcG1DV0tJTVplTFg4WWZOSUNTSG9HUThxcHNiYlBvTE9DT1EwR3Q5Nmg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9e659f04d18a"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs Launches Flux 3 Image: JSON Bounding Boxes Lock Unchanged Pixels Numerically",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOanZPZU9JS2RMYkFOVm1WRjlabG9scDdOVXlIczFjWk1VajBTUEVSU1VucXV6US0yaGhnaEN0VTNuUW0tVmV5Uzl3YkVGc0ZnNmw3REFveHJuYi1ON1FFRDBtQXJ5TG1aYkZHTWN1eU1QTl9ET05HODQ0U3Jkc05qOHBhTjBmX1NZQ2QwTll5MkpvcWE1SnpCNTV0czRGcjZMWlZ1cFVBOTFuREhFVFNJSjVoeVVOY294MTRCeWNtVTNPYjg1M0NQaUdMazFUZThaVjAyWG5adTktSHhGZ1huMXB3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b2d73393f10c"
     },
     {
       "date": "2026-10-01",
@@ -1172,6 +1208,18 @@
       "id": "a16a4b6a5442"
     },
     {
+      "date": "2026-09-30",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$400 Million",
+      "title": "S4S Ventures Backs Higgsfield in Reported $400 Million Series B Round",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVNRSkxGem95MG5JNjY5R1pGUk9fNlRiUkhoWVZMdzVldVBqWUNxbDFBNEYzUVBFVG0yZUdFM2lUbTVTSVZjNno2ZjlmVXZQenZ4d1BqUHA5OHJqZ2RWYTZBUjlFSHJkTHo2elUtYUJleTJHdXcycnBnaDJNdVJvUVRYRGhIQ0VnNlREaVlRbnlmbThNbnJ2QVNXZUdsZ0tFRVdQbm1VSzFJQzRZZjluYi0wTjJfeTA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "887d4126ed7e"
+    },
+    {
       "date": "2026-09-29",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1338,54 +1386,6 @@
       "source": "Google News",
       "curated": false,
       "id": "4800c8f71a3d"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$4B · $42B",
-      "title": "Canva Revenue 2025: $4B ARR, $42B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHQVI2Z1JfcTVFaTFveUlJeXNfeWN5Y1RkNU93SVMwUlZoOXpQYTFvT2xsZmZkbzU4clU2eHZ5WExVX1NxMVh1cXdKV0M?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c3154e7d118e"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Luma AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$21.2M · $4B",
-      "title": "Luma AI Revenue 2025: $21.2M Est. ARR, $4B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zYW1McTc1TmEyWkhrWDJkakM5S043TWVSbXZlQjYzRzM2WFBKM2NhQnRlcWpiTnpRc1g2QnB5ZjRLcWtmR24tdFJrWFhNX1o0Q0Rrcg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0827c04e3547"
-    },
-    {
-      "date": "2026-09-26",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 billion",
-      "title": "ElevenLabs hits a $22 billion valuation as rivals give away the same tech for free",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmZZeGtwWktTTzFUanZEQnJNYUF0SGxUVG5ReDlIVzJpNlZyWUg1VVNES1JvX1dJTENJckNCWFVTX0dJSzhkaEppcTR2UFpURWRiUkFpQVBtUmk4NFYteXpfMl9wWjA4NFlxRnZaZkZWRW5UODFXWWRwdFU3OFdTdk9kcl9qM0hBY2VhRTRKMXdodzhDVzIzdF9YZmxjVHZweVBjZzFwZGNmYTVDTVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "341cd1cab820"
-    },
-    {
-      "date": "2026-09-26",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "IRS unveils new tax-filing app. Do you trust it?",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xbjdIWXZWQzZWNHJCRHk4X1JySU01NElYTVRVM0x4ZW1Ca0NoUXNxRWtMU2JMREFqanlJaUluLVhTalU1ZU9tSV9RbnFuemxSWDJsNDRoN1BxOTU1NmFIX0JWNXZ6ZV9Ua3pGc1ozWnJGV09I?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "29eceb088304"
     }
   ],
   "items": [
