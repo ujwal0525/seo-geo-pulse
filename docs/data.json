@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:40:35Z",
+  "updated": "2026-10-04T13:45:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -680,6 +680,18 @@
       "id": "9ef2506c0544"
     },
     {
+      "date": "2026-10-04",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e82afa017fb4"
+    },
+    {
       "date": "2026-10-03",
       "company": "Freepik",
       "front": "GenAI Media",
@@ -1029,18 +1041,6 @@
     },
     {
       "date": "2026-10-01",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7a4c6239022d"
-    },
-    {
-      "date": "2026-10-01",
       "company": "Leonardo AI",
       "front": "GenAI Media",
       "move": "Launch",
@@ -1050,6 +1050,18 @@
       "source": "Google News",
       "curated": false,
       "id": "087da11a14e0"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22 billion",
+      "title": "ElevenLabs, the British voice AI gem, doubles its valuation to $22 billion",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnhzTWtfVmpldnktQW50d1RCNW94QklFMGpXUjdOS19CQk5JaEdERVF2cFhEQ04yMWlJZUpib0pmenB5N0lsV1JJdTJPemQtdzI5cGkzY3VaY3R4TTlicUxPU3JTZFY5NlNIMmktV3ZMNHFWNzd3a2JjNlY1VWJZT29uRjRmS0RtR3FncnZ3eVl3Qm1wYmdOVGRLWnphM1RmVl90Mm1iSWE2ZWpWQS1vdA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "712ecc2501c7"
     },
     {
       "date": "2026-09-30",
@@ -1374,18 +1386,6 @@
       "source": "Google News",
       "curated": false,
       "id": "cee1def9b903"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Debuts V4 Speech Models With 90-Language Support and Faster Voice Agents",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yeVJ4UFJKbkhrS3c0RWtVdmlQMElhaUt1UkN3VU9IU2JLZEw3b3VoaW1aM1FWMzlTbE9yNERjc3lOeThfbjAyX0pfZWN5VzBnYVdhaloyWV9DV28zeEJqYmpJaUFuaWFWM25DdF9zdzhiVFRwUUE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "91a389ad6fec"
     }
   ],
   "items": [
