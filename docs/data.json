@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:17:18Z",
+  "updated": "2026-10-04T22:49:54Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1389,6 +1389,17 @@
     }
   ],
   "items": [
+    {
+      "id": "1fe829a4764a",
+      "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
+      "source": "Search Engine Journal",
+      "summary": "Google's Gary Illyes showed timing ranges for crawling, indexing, site moves, and core update recovery at Search Central Live Deep Dive Europe in Barcelona. The post Google Shows How Long Crawling, Indexing & Recovery Can Take appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-04T20:41:36Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "8050dec434b3",
       "title": "Why we don't do prompt tracking.",
@@ -4127,17 +4138,6 @@
       "published": "2026-09-18T14:04:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "bbbfcb402815",
-      "title": "Search News Buzz Video Recap: Unusual Google Search Ranking Volatility, Ad Tech Monopoly Remedies, AI Contribution Publisher Payouts & More",
-      "url": "https://www.seroundtable.com/video-09-18-2026-42112.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week we covered the first week or so of Google's unusual ranking volatility only to see things spike up in a big way this week as well - something is up. Google's remedies are out for its ad tech monopoly ruling. Google has an AI contribution pilot for paying publishers...",
-      "category": "Algorithms",
-      "published": "2026-09-18T12:01:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
