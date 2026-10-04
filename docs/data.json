@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T22:43:59Z",
+  "updated": "2026-10-04T04:40:35Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -667,6 +667,18 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-10-04",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Higgsfield Targets Professional Creators With New Partnership Program",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1Ria3kwaHBlSjV5M2pVVWZoNm1mRWxwaFc2dnZiODE5UF9NOWR4WHFsaEYxaWthWXNiOE9XeVdvTHhhRVZTUGJKYkFpWUUxUTk4cy1Pa0Z5TnFQd1BsR25qX1VzbkdhY0YwMFJlb01GbmhpRGV1LW5fbDNLNmNNSjYwRDRKYjRqeEhhQ29lM25HTGR3Tld3ODZvNDNid1NnbnZ1cEtWdVpsRVVpUHN0VE5XQk1nOGln?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9ef2506c0544"
+    },
     {
       "date": "2026-10-03",
       "company": "Freepik",
@@ -1374,21 +1386,20 @@
       "source": "Google News",
       "curated": false,
       "id": "91a389ad6fec"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Launches Eleven V4 With Low-Latency Turbo Variant",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2hGMzFnX1d6N0ZVNEg0ejlKeWY5RjY0M2VUd1BXazRjd20tV3RnRFpuUTVJTWVLaFJxWEoycU1MdERZSGYyN3ZXSlp6bVd5VUxIdlRqMnBxTDBFd0g3Rlp0dUxsbXNwVUIwTmt4b3F0VVFzTnFTcWJ0Nk9CTU01WEQ4YmFIR3NLeHc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b2bb9c4fa7a1"
     }
   ],
   "items": [
+    {
+      "id": "8050dec434b3",
+      "title": "Why we don't do prompt tracking.",
+      "url": "https://dejan.ai/blog/prompt-tracking/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Instead of infinite prompt variations, this measurement framework tracks canonical core entities across AI models to score brand visibility over time.",
+      "category": "GEO",
+      "published": "2026-10-04T04:28:29Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "88ce1d1cc157",
       "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
@@ -4127,17 +4138,6 @@
       "published": "2026-09-18T12:01:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "e85ae8ba631a",
-      "title": "Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/",
-      "source": "Search Engine Journal",
-      "summary": "Google, Cloudflare, and Microsoft are testing different models for paying publishers when AI systems access or use their content. The post Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-18T12:00:41Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
