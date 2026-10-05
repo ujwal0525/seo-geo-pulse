@@ -1,9 +1,8 @@
 {
-  "updated": "2026-10-05T04:27:22Z",
+  "updated": "2026-10-05T16:52:46Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
-    "Aleyda Solis",
     "Andrea Volpini (WordLift)",
     "Dan Petrovic (DEJAN)",
     "Google (Search)",
@@ -23,6 +22,36 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-05",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Search Spam Updates Use AI To Find AI Spam & More",
+      "url": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "e4aaa276b7dc"
+    },
+    {
+      "date": "2026-10-05",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "OpenAI To Test Visual ChatGPT Ad Format During AI Image Generation",
+      "url": "https://www.seroundtable.com/openai-visual-chatgpt-ad-format-42229.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "5cb08505b967"
+    },
+    {
+      "date": "2026-10-05",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "0f5edf8920b4"
+    },
     {
       "date": "2026-10-02",
       "family": "engine",
@@ -667,6 +696,18 @@
     }
   ],
   "competitors": [
+    {
+      "date": "2026-10-05",
+      "company": "pdfFiller",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "OCR feature is now available in pdfFiller, making scanned PDFs instantly editable",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcDh2aTQ1amk0QXcyZTI5NldzcjNmVDQyWHJLbVlCckxpd0EwYUltS1dUQ0F0eUlSYXJkNGljS3hJNEx3ekhDTWVpV3lQZnFMTnVJX2U0Vk8yVnV3aXB1NFdPa29TWE5HTWlhczVJSlV0UkV3MktPUkpEaFQ4UHNieTVUeUluRnpjZVgtVk1hWFphRnZTLXo3SXZkSmtESEJfSDVEdlBSNXlGdU1sR1VnZEhwZXlXODBjYmhJME9qQ1F5eFBseUxZVVpQN3ZObjRWVkVGdFJIVVVrc3JlMXUtdXg2V19TRThTVFJmVjVtczZ3NWNlVHFrMEY2ZGxCYmJhUjRMVEhyT1drbHdTUlEw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4da5386acdaf"
+    },
     {
       "date": "2026-10-04",
       "company": "Higgsfield",
@@ -1374,21 +1415,196 @@
       "source": "Google News",
       "curated": false,
       "id": "5a391fe31d63"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "\"Runway to Ruin\" Launches October 1",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SdkZuM1pLLVhhdVExZTRNQ040eGlnUFZNTWhwbTgtbExHNGxYejVaeGgwOEs4dGxGa21JcF8yb3czU0pvaHpuR1ZyR2R5Nzh4eVR3dS1RVU55QjJtOGhxUm5Uc3VBUXMxdGcyQ29FVEZUVE1WdlM4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "cee1def9b903"
     }
   ],
   "items": [
+    {
+      "id": "7f73170d262e",
+      "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
+      "source": "Search Engine Journal",
+      "summary": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking bot access. The post AI Cites Your Brand: How to Choose Your Next Move appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-05T16:16:34Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "9c833e9a652b",
+      "title": "AI Is Reshaping PR Budgets",
+      "url": "https://neilpatel.com/blog/ai-is-reshaping-pr-budgets/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways For years, public relations and SEO have operated in neighboring but often separate parts of the marketing organization. AI search is beginning to change that relationship. As AI systems become a larger part of how people discover companies, products, and services…",
+      "category": "GEO",
+      "published": "2026-10-05T16:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "78ad53815846",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "category": "SEO",
+      "published": "2026-10-05T15:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "cbff57d31d6e",
+      "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
+      "url": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
+      "source": "Search Engine Journal",
+      "summary": "Trace misleading sale badges and outdated product images to Google's hidden data layer, with checks that go beyond your current feed. The post Google’s Hidden Data Layer: What Is It And What To Do About It appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-05T14:30:56Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7bf37c17db5b",
+      "title": "Daily Search Forum Recap: October 5, 2026",
+      "url": "https://www.seroundtable.com/recap-10-05-2026-42227.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-05T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4f5e9dfda616",
+      "title": "Local SEO: What is it & how to do it",
+      "url": "https://www.semrush.com/blog/what-is-local-seo/",
+      "source": "Semrush Blog",
+      "summary": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses.",
+      "category": "SEO",
+      "published": "2026-10-05T12:51:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "785c023287db",
+      "title": "How To Build A Content Distribution System That Compounds",
+      "url": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
+      "source": "Search Engine Journal",
+      "summary": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations. The post How To Build A Content Distribution System That Compounds appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-05T12:00:27Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "ae5fa2e81953",
+      "title": "Wheels up: Trends and tips for 2026 holiday travel",
+      "url": "https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/",
+      "source": "Google (Search)",
+      "summary": "Illustration of family traveling",
+      "category": "SEO",
+      "published": "2026-10-05T12:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "251100e3b3dd",
+      "title": "Dark Mode Coming To Google Search Console",
+      "url": "https://www.seroundtable.com/google-search-console-dark-mode-42224.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google will soon support dark mode in Google Search Console. Ariel Kroszynski, a Senior Software Engineer at Google, announced this at the Google Search Central Live Deep Dive Europe 2026 in Barcelona last week.",
+      "category": "SEO",
+      "published": "2026-10-05T11:51:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "c6064d15bb9e",
+      "title": "Google Search Spam Updates Use AI To Find AI Spam & More",
+      "url": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google spoke at the three-day Google Search Central Live Deep Dive event in Europe about why it has rolled out so many spam updates in 2026, according to John Campbell's recap at We Are Roast. He said that Google has been doing more spam updates because there is so much more new…",
+      "category": "Algorithms",
+      "published": "2026-10-05T11:45:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "943540a1dfdf",
+      "title": "Google Ads To Automated Promotions For Search & PMax Campaigns Soon",
+      "url": "https://www.seroundtable.com/google-ads-automated-promotions-october-12-42223.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads sent an email notifying some advertisers that it will automatically identify and extract high-quality promotions from your website and apply them directly to your campaigns starting on October 12, 2026. This is called automated promotions and only applies to Search…",
+      "category": "SEO",
+      "published": "2026-10-05T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fc97be395f53",
+      "title": "Google Ads With Doubled About This Ad Button",
+      "url": "https://www.seroundtable.com/google-ads-double-dots-42222.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to have a bug of sorts where sometimes it can show the three dots about this ad or search result button twice, instead of just once. I can replicate this for some queries but not all.",
+      "category": "SEO",
+      "published": "2026-10-05T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1c5ab7982564",
+      "title": "Google Search Data On Crawling, Indexing & Serving Timelines",
+      "url": "https://www.seroundtable.com/google-crawling-indexing-serving-data-42225.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Gary Illyes from Google reportedly presented new data from Google Search on how long Google for crawling, indexing and serving on average. This is broken down by process, withing crawling, indexing and serving and shows the typical timeframe versus the slowest timeframe.",
+      "category": "SEO",
+      "published": "2026-10-05T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3f7c6f9d7b37",
+      "title": "Google Ads AI Campaign Localization Tool (Beta)",
+      "url": "https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has a new AI campaign localization tool for Search campaigns (beta), at least according to a new help document I found late last week. \"You can use the AI campaign localization tool to quickly localize entire Search campaigns for new languages and regions using…",
+      "category": "SEO",
+      "published": "2026-10-05T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e2ec2866eed5",
+      "title": "OpenAI To Test Visual ChatGPT Ad Format During AI Image Generation",
+      "url": "https://www.seroundtable.com/openai-visual-chatgpt-ad-format-42229.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI announced \"new visual ad format in ChatGPT\" that it will be testing \"later this month in the US with an initial group of advertisers.\" The new visual ad format is an \"ad format during image generation in ChatGPT.\" So if you ask ChatGPT to make an image for you, it will…",
+      "category": "GEO",
+      "published": "2026-10-05T11:03:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "3cbec84de8bf",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "category": "GEO",
+      "published": "2026-10-05T10:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "c46fd08f4cc6",
+      "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
+      "source": "Search Engine Journal",
+      "summary": "Google's recent changes provide strong clues about major changes from the next core algorithm update. The post What To Expect From Google’s Next Search Ranking Update appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-10-05T09:42:03Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "1fe829a4764a",
       "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
@@ -1498,17 +1714,6 @@
       "published": "2026-10-02T14:30:46Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "3353620a88f7",
-      "title": "Daily Search Forum Recap: October 2, 2026",
-      "url": "https://www.seroundtable.com/recap-10-02-2026-42220.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-02T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "e2a427ea40e6",
@@ -3962,182 +4167,6 @@
       "published": "2026-09-20T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "ded511b1e7f1",
-      "title": "Google Web Guide Classic Search Button Doesn't Take You To Classic Search",
-      "url": "https://www.seroundtable.com/google-web-guide-bug-42124.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search has this beta opt-in feature named Web Guide, it is like a mix of its AI search results interface and web search interface - in one. That being said, there seems to be a bug where, when you click the button that says \"Classic search,\" it does not take you out of…",
-      "category": "GEO",
-      "published": "2026-09-20T13:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "be65c0b05617",
-      "title": "Google Search Console Crawl Stats Missing A Day Of Data: September 15th",
-      "url": "https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The crawl stats report is missing a day of data again, this time, the missing data is from September 15th (it might be a day later for some of you on different time zones). That being said, this has happened numerous times before and Google tends to always restore the data.",
-      "category": "SEO",
-      "published": "2026-09-20T11:55:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a8f14d726048",
-      "title": "The AI Search Optimization Checklist – With Worksheet [Updated Sep 2026]",
-      "url": "https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/",
-      "source": "Aleyda Solis",
-      "summary": "I’ve created an AI Search Content Optimization Checklist, going through the most important aspects to take into account to optimize your content for AI search answers along with their importance and how to take action. Check it out. La entrada The AI Search Optimization…",
-      "category": "GEO",
-      "published": "2026-09-20T04:00:51Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "a7822ebbe723",
-      "title": "AI Mode Tags: FollowUp, Generate, Layout, Entity List and @prompt_leaks.ignore",
-      "url": "https://dejan.ai/blog/ai-mode-tags/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Explore the core AI mode tags used",
-      "category": "GEO",
-      "published": "2026-09-20T00:54:30Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "85b280384d4a",
-      "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/",
-      "source": "Search Engine Journal",
-      "summary": "Google is testing payments for content contributing to AI answers, Mueller says AI position data is hard to report, and Cloudflare splits training from search. The post Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-19T12:30:42Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5426e419087b",
-      "title": "Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-discover-test-adds-topic-overviews-starting-with-videos/589963/",
-      "source": "Search Engine Journal",
-      "summary": "Google is testing a \"Dive deeper\" button in Discover, starting with videos. The post Google Discover Test Adds Topic Overviews, Starting With Videos appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-18T22:24:26Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c239e2cc1402",
-      "title": "Google Discover Tests Dive Deeper Feature",
-      "url": "https://www.seroundtable.com/google-discover-dive-deeper-42119.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a new feature in Google Discover named \"Dive deeper.\" When you click on it, it does not take you to a publisher's article, instead, it takes you to an AI-generated short topic overview with links to some other articles (which do take you to the publisher) and…",
-      "category": "GEO",
-      "published": "2026-09-18T20:22:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "be392f321a39",
-      "title": "Checking A Page Is Part Of A Retrieval Pipeline For AI via @sejournal, @chrisgreenseo",
-      "url": "https://www.searchenginejournal.com/checking-a-page-is-part-of-a-retrieval-pipeline-for-ai/589284/",
-      "source": "Search Engine Journal",
-      "summary": "No GSC for ChatGPT? Paste a distinctive snippet into a chatbot and ask for exact matches. If your URL comes back, retrieval isn't your problem. The post Checking A Page Is Part Of A Retrieval Pipeline For AI appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-18T19:00:53Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ad24255c90e9",
-      "title": "Google Adds Local Businesses To EEA Search Result Units via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-adds-local-businesses-to-eea-search-result-units/589955/",
-      "source": "Search Engine Journal",
-      "summary": "Google updated its Search documentation to add local business queries to the two result units rolled out in the EEA for directories and direct providers. The post Google Adds Local Businesses To EEA Search Result Units appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-18T17:51:12Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8c641df8aa14",
-      "title": "Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/your-brand-needs-an-ai-accountability-document-a-school-district-beat-big-tech-to-it/589240/",
-      "source": "Search Engine Journal",
-      "summary": "Turn AI guardrails into search assets with a school district's template for published policies, named reviewers, and clear data protections. The post Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-18T17:30:42Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "aedf8eaba460",
-      "title": "What is agentic SEO? 8 workflows run on a live site",
-      "url": "https://www.semrush.com/blog/agentic-seo/",
-      "source": "Semrush Blog",
-      "summary": "Agentic SEO hands defined workflows to an AI that pulls its own data. See the free Claude setup we used.",
-      "category": "GEO",
-      "published": "2026-09-18T14:37:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9e574cfa4be0",
-      "title": "Cloudflare Will Write Your Robots.txt, And It Has A Point via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/cloudflare-will-write-your-robots-txt-and-it-has-a-point/589262/",
-      "source": "Search Engine Journal",
-      "summary": "Bot Preference Sync sets AI crawler policy per category, not per crawler. Allow GPTBot and block Bytespider, and no setting describes what you do. The post Cloudflare Will Write Your Robots.txt, And It Has A Point appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-18T14:30:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "33a0f1162bf9",
-      "title": "Content Analysis v3: From the Semantic Web to the Entity Layer of AI",
-      "url": "https://wordlift.io/blog/en/content-analysis/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Fifteen years after IKS and Apache Stanbol, entity resolution is becoming core infrastructure for AI. Content Analysis v3 turns language into stable Wikidata identities across eight languages, and it abstains when the evidence is thin. On our evaluation sets it already scores…",
-      "category": "SEO",
-      "published": "2026-09-18T14:28:31Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "48d567530949",
-      "title": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
-      "url": "https://www.semrush.com/blog/semrush-mcp-use-case/",
-      "source": "Semrush Blog",
-      "summary": "Copy-paste Semrush MCP prompts for keyword, competitor, content, and reporting work, tested on a live site.",
-      "category": "GEO",
-      "published": "2026-09-18T14:17:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "594561529d36",
-      "title": "The State Of Search In An AI World: What Marketing Leaders Need To Know Now",
-      "url": "https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/",
-      "source": "Search Engine Journal",
-      "summary": "Is a traffic decline actually hurting your business? Our State of Search 2027 shows how to tell and where to invest next. The post The State Of Search In An AI World: What Marketing Leaders Need To Know Now appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-18T14:15:43Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c868c88e1565",
-      "title": "Cloudflare's AI training block now spares Googlebot",
-      "url": "https://www.semrush.com/blog/cloudfare-blocks-ai-training/",
-      "source": "Semrush Blog",
-      "summary": "Cloudflare‘s Disallow AI Training setting blocks AI training crawlers but not Googlebot. Bing won‘t honor it until early 2027.",
-      "category": "SEO",
-      "published": "2026-09-18T14:04:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
