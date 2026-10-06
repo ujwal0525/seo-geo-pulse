@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T18:02:04Z",
+  "updated": "2026-10-06T23:37:52Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -801,6 +801,18 @@
       "id": "920f286d15b2"
     },
     {
+      "date": "2026-10-06",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$1 billion",
+      "title": "Kuaishou's Kling AI said to have picked IPO banks, targeting Hong Kong listing as early as next year with at least $1 billion raise",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04QlpreU41c2R5bmNrX1A1YnExOURINHVuR0pMTGg4clQ0Rl9oTzEtLUdOUFd0U0dNRmZfQ3RmMndUbHl4eTdoSC1WaU1EZk9LS0dEWTBMTk40dnB4XzF1bHZRQ0o0WTNNMUFncVN0dGV0NF9EaUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "be2b17919502"
+    },
+    {
       "date": "2026-10-05",
       "company": "pdfFiller",
       "front": "Documents",
@@ -1423,21 +1435,42 @@
       "source": "Google News",
       "curated": false,
       "id": "8a26c35ecaca"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Short Shorts Film Festival & Asia 2026 Screening in Autumn Unveils Lineup Featuring Oscar® Contenders, Landmark AI Showcase, and Cannes Industry Spotlight - Short Shorts Film Festival & ASIA",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VUGZZTVp1UFVRWHRlUDRyaVJuWUkybzg1UktlODBzR2lYQkVnb09hT1pHOUs2SVIyYmd6eE5fbnJjMWFtRkJDazhzdXkyU3JBaGFsbkZpdS1rN0JvNVlFVkM0REZIdHlKOWZKMmt4MVRvZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b71032f9dc0b"
     }
   ],
   "items": [
+    {
+      "id": "94e63c8f5709",
+      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
+      "source": "Search Engine Journal",
+      "summary": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error. The post WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-06T20:05:17Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "24be04bdddd1",
+      "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/",
+      "source": "Search Engine Journal",
+      "summary": "Here's how one technical SEO splits audit work: deterministic checks for facts, a local LLM to explain them, and a human to judge. The post Using AI To Assist With SEO Work, Not Replace The Worker appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-06T19:00:47Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0bbc884f4d42",
+      "title": "Google Search Crawl Rate Doc Adds Retry-After HTTP & More",
+      "url": "https://www.seroundtable.com/google-crawl-rate-documentation-update-42247.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has just pushed some updates to the reduce the Google crawl rate documentation. Most of the changes are just organizational to the content on the page but under the \"Urgently reduce crawler traffic (for emergencies)\" section, Google added new information on how to use…",
+      "category": "SEO",
+      "published": "2026-10-06T18:59:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "09eca034d916",
       "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
@@ -1446,8 +1479,8 @@
       "summary": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results. The post OpenAI To Test Visual Ads In ChatGPT Image Generation appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-06T17:21:56Z",
-      "coverage": 2,
-      "impact": 6.0
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "eca6e50713b4",
@@ -1582,6 +1615,28 @@
       "impact": 3.0
     },
     {
+      "id": "342677ae7ead",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "category": "GEO",
+      "published": "2026-10-06T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "47b9255d8fa0",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "category": "SEO",
+      "published": "2026-10-06T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "c13ec312278f",
       "title": "Final Phase Of Google September 2026 Spam Update Rollout Oct 4-6?",
       "url": "https://www.seroundtable.com/google-september-2026-spam-update-phase-3-42239.html",
@@ -1670,11 +1725,22 @@
       "impact": 4.0
     },
     {
+      "id": "9964af802e9c",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "category": "SEO",
+      "published": "2026-10-06T10:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "18f19b44a9f1",
-      "title": "Google Explains Couldn’t Fetch Sitemap Errors via @sejournal, @martinibuster",
+      "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
       "source": "Search Engine Journal",
-      "summary": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains Couldn’t Fetch Sitemap Errors appeared first on Search Engine Journal .",
+      "summary": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains The “Couldn’t Fetch” Sitemap Errors appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-06T09:52:43Z",
       "coverage": 1,
@@ -4121,72 +4187,6 @@
       "published": "2026-09-22T14:30:28Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "8099a808584b",
-      "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/",
-      "source": "Search Engine Journal",
-      "summary": "Fiverr's holiday survey finds more of its search freelancers reporting rising GEO requests than Google-ranking requests, though most still back SEO long term. The post GEO Requests Rise Among More Search Freelancers Than Google SEO appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-22T14:05:38Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f06f28439daf",
-      "title": "Cutting AI Compute by 34% Without Losing Control: The Reverse Information Paradox",
-      "url": "https://wordlift.io/blog/en/cutting-ai-compute-governance-benchmar/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Every AI system pays for intelligence twice: once in money, once in the knowledge it consumes to work. This benchmark shows what happens when that intelligence moves into a governed knowledge layer instead: 34.2% lower compute, no loss in accuracy. The post Cutting AI Compute by…",
-      "category": "SEO",
-      "published": "2026-09-22T12:40:33Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "94d2cfde9e6b",
-      "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler",
-      "url": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
-      "source": "Search Engine Journal",
-      "summary": "Buying groups arrive with vendors already chosen. AEO cannot fix a shortlist formed months earlier. Three steps to build brand consideration before research begins. The post 3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist appeared first on Search Engine…",
-      "category": "GEO",
-      "published": "2026-09-22T12:00:42Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ce45d8dc0f6c",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "category": "GEO",
-      "published": "2026-09-22T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "0e5ac71c7880",
-      "title": "Gemini Notebook Pages Spamming Google Search",
-      "url": "https://www.seroundtable.com/gemini-notebook-spam-google-search-42136.html",
-      "source": "Search Engine Roundtable",
-      "summary": "It looks like spammers are taking advantage of Gemini Notebook, public NotebookLM, pages to spam Google with all sorts of content. This includes pages on sex toys, porn, peptides, coupon codes and more.",
-      "category": "GEO",
-      "published": "2026-09-22T11:52:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "84c4bc0a4c95",
-      "title": "Google AI Overview Links Pushing You To AI Mode Over Web Pages",
-      "url": "https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is placing links, normal looking links, within the AI Overviews that take you into AI Mode instead of taking you to web pages and web sites. These links appear at the bottom of the AI Overview and prompt follow-up questions that take you into AI Mode.",
-      "category": "GEO",
-      "published": "2026-09-22T11:51:00Z",
-      "coverage": 1,
-      "impact": 8.0
     }
   ]
 }
