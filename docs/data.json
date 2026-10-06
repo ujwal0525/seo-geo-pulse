@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:52:46Z",
+  "updated": "2026-10-06T01:10:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -709,6 +709,30 @@
       "id": "4da5386acdaf"
     },
     {
+      "date": "2026-10-05",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "CFO Rikki Powell acquires 557 Shutterstock (SSTK) shares following a stock award conversion.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjlrUFYzeFZLbkhmZllrdGcwdDUtMHoySkpCeVZkbUd5TmJwWXgyS1pKRVcyUXh0RzFUVDdoZXpsNm0xTmFoMGFLWWRNQUE2S1Z5YkdrdW5WMTJhYkN3anZ0Q2FpdTJkajBoSFNfTzBWZzdkcHU0ZWhmRWFFN1dWaUg3UUhhaVYxZnpweTZ5aVR3TXEtd2tMX3V2NWhUSXNweERBSzZ0SEIybWJuRjNR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2d373758e88f"
+    },
+    {
+      "date": "2026-10-05",
+      "company": "UPDF",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "UPDF 3 Division Launches Political Education Course For Troops",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0IyUmJJUW1RMjBuWHMyVFhrT1pVYVUwU3NLM2J1dUszQVlEd09oUUdIdmlZVmhrREFtN2lvT2ZtSk9kSXNqaXVzUzRJSi1OR1ktSUJQREVaczl4bkYzeUxjNnpfLXoyMGpxTkQ1NkN2bkJSdzhRMDJHcE10dXZNbHBmemR5ZjVYYXlUZmdublhhUGJiRTB4bHNwRUl4SEti0gGgAUFVX3lxTE9LQjJSYklRbVEyMG5YczJUWGtPWlVhVTBTc0szYnV1SzNBWUR3T2hRR0h2aVlWaGtEQW03aW9PZm1KT2RJc2ppdXNTNElKLU5HWS1JQlBERVpzOXhuRjN5TGM2el8tejIwanFORDU2Q3ZuQlJ3OFEwMkdwTXR1dk1scGZ6ZHlmNVhheVRmZ25uWGFQYmJFMHhsc3BFSXhIS2I?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a4efdaab5b72"
+    },
+    {
       "date": "2026-10-04",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1391,33 +1415,53 @@
       "source": "Google News",
       "curated": false,
       "id": "53dbef10d7b8"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$4.5M",
-      "title": "$4.5M raised on trust alone: SEC alleges affinity fraud in merchant lending",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUR0WnhiaVBpRE9RUTZIR2ZlTDRIUUo3TGYtOXF4MF94Q2lqYURGVzc4TzR4UThxaW1PNzJZWElyakFUVllLQmJDTmE5eDlsUWhjV2xJcmFFUUY4SzktUzJaTU1mQ2VUdDJseG5yVW1PeTJ6VmRwcU9aa0FCeHhOMVRpMXQ5OERpVGl5aXJWRUVOc1dHR2t2Ny0tOGsxUngzNGIyRENQcXlRQVJXZWZab2N6NS0tZXJRSlh4WDFLT3FUX1drOWNOUll3SXExeHRuRl9aeQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5f5399341293"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "NBA Trainer Chris Brickley Debuts His Latest Puma All-Pro Nitro 2 PE",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3ZwMDVlM2FZSC12MTRQVlBxZ0h2dzMyQWM4WXRtalNGckx6REtRbjVDdU5DdEZQclEtTHhDbTNSNXc0c1pqZUJPV0xwOXFmSVN3MzFxNFpubGYxa25OVk5BOE01VDJIVG5lTmZmX182V1RtVVhzcG9udmJadHRoRkZoZW1Mb0w1ekxOUmpWcUJLQktkR282NGRyX1p1aTdFUVN6VHkwR1NYTHNRR0xMZXY0TnAzZmtoNk5jOWhGWlI?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5a391fe31d63"
     }
   ],
   "items": [
+    {
+      "id": "f807a3d4197a",
+      "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
+      "source": "Search Engine Journal",
+      "summary": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it. The post OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-06T01:07:32Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "c954b038886b",
+      "title": "Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+      "source": "Search Engine Journal",
+      "summary": "Google's John Mueller says AI training crawlers usually don't offer sitemap submission and suggests default sitemap names or RSS feeds to help them find sites. The post Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-05T22:47:18Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9ba38805580a",
+      "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
+      "source": "Search Engine Journal",
+      "summary": "Google is fighting back against SERP tracking. The explosion of AI agents may cause it to clamp down harder. The post Google Is Fighting SERP Tracking. AI Agents May Make It Worse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-05T21:03:08Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "316bb51517a0",
+      "title": "How to plan 2027 when traffic is down and AI won't attribute",
+      "url": "https://www.growth-memo.com/p/how-to-plan-2027-when-traffic-is",
+      "source": "Growth Memo",
+      "summary": "Traffic is down, attribution is broken, and the final budget meeting is in 3 weeks. Here's what to bring.",
+      "category": "SEO",
+      "published": "2026-10-05T20:31:05Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "7f73170d262e",
       "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
@@ -3201,6 +3245,17 @@
       "impact": 3.0
     },
     {
+      "id": "69f2b5ec7d18",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "source": "OpenAI",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "category": "GEO",
+      "published": "2026-09-25T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
       "id": "751ea279c5c6",
       "title": "The Versus Layer: Who Owns the Pages AI Uses to Compare Your Product?",
       "url": "https://foundationinc.co/lab/versus-layer-ai-comparison-pages/",
@@ -4112,61 +4167,6 @@
       "published": "2026-09-21T11:47:17Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "2c9792fbb14a",
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "category": "SEO",
-      "published": "2026-09-21T10:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6b45bdc042a6",
-      "title": "AI citation outreach: a Semrush & Claude workflow",
-      "url": "https://www.semrush.com/blog/ai-citation-outreach/",
-      "source": "Semrush Blog",
-      "summary": "AI answers pull brand facts from the pages they cite. Use Semrush data and Claude Code to get on those pages.",
-      "category": "GEO",
-      "published": "2026-09-21T09:49:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "530db518a73a",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "source": "OpenAI",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "category": "SEO",
-      "published": "2026-09-21T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "d1749ba76a98",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "category": "GEO",
-      "published": "2026-09-21T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "7e8067d6fe4e",
-      "title": "Programming Note: Offline Monday For Yom Kippur 5787",
-      "url": "https://www.seroundtable.com/yom-kippur-5787-42114.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This is a programming note: I will be 100% offline from Sunday night (September 20th) through Monday night (September 21st) for Yom Kippur. I am not scheduling any stories tomorrow, Monday, Yom Kippur; nothing will be posted.",
-      "category": "SEO",
-      "published": "2026-09-20T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
