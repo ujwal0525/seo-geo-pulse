@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T01:10:39Z",
+  "updated": "2026-10-06T11:04:17Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -697,6 +697,54 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-06",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "80423cfe161e"
+    },
+    {
+      "date": "2026-10-06",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Adobe releases Photoshop 27.11",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdlYyYTR0dGthdndqdE10U1JBR3duSUdBV1pDUTZraFdTOGVFRmFOM0NjTnkwT2ZXSFhoOGRYM2Q2V1lxMUdyNHZveUhDNmxTSW5fZ3VvemRDc2RQZ1lsN3UtdlhhN2NsUUZRdE8weUFWbjQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "47d059da3e93"
+    },
+    {
+      "date": "2026-10-06",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Uber Advertising Launches Cross-Channel Incrementality Measurement, Powered by Affinity Solutions, to Prove Sponsored Listings Drive Brick-and-Mortar Sales",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2VUb0pPRU50T2wyNzRBWWM0VlVCUlRBVUM0SjktSjJqeWNHc085S0ZydlFpV3FHT0kwM2NhTTdIWkNRVTRJRVRMT3FydW5aV1BPbk5sWDZhbFBYVHp2a0hCQnVKYW1wYjN6OVdRdko1U0pmc25UaC00M1d1Y3JCYkVYVkI4T3M?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4d8848ad89af"
+    },
+    {
+      "date": "2026-10-06",
+      "company": "OneSpan",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "Bank of America buys OneSpan stake as OneSpan stock yields 2.90 percent",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmpZWmNEekJod2g1LXhWYmVrX3NEWWJWS1BMZVdEdC1KdmdlVWNITFI2TUl3T283c2lxYmh6QUhUTUdiQ1U1Vmk3MC1Md3lVXzlLN1V3N21sQ09PS3lCQkJPRkdNeDhqaTNpSmZaaXd3cF83MUE4S1dNQXNrblZ0WGU1SzlzMlZPNUtyYzNIOU1TYkVWME1RWlVyb3RNMWY3R01CYjhnMjdOVmdhYWU4cUdoVGhhNlRxaEY4Mm1Rd1RBVFdhNzI4WG9n?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "84465ac3da23"
+    },
+    {
       "date": "2026-10-05",
       "company": "pdfFiller",
       "front": "Documents",
@@ -733,6 +781,18 @@
       "id": "a4efdaab5b72"
     },
     {
+      "date": "2026-10-05",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Skydance Unveils Leadership Team for Paramount-WBD",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON3dHaEJWeFZzTUQ1YjZOdXlhTnk3MmtFMklaTW9YMHNlWXJFWVBjdm5RTnBYOXBKQ3V0aEhxUmxtU2RSc3hDYXRFelJJdHl6QUdzRUx6WHo4RkhYUm54UWFseFBqRkxwQVY2MnZqS0tRbXJ2Z3QxTFJFUkw2cFBRUENPdE9JbnljUFAzTWlKVXlCT051djhKeHFKT3RfNFUwWEdEMjF5UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3e22bbbc01a9"
+    },
+    {
       "date": "2026-10-04",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -743,18 +803,6 @@
       "source": "Google News",
       "curated": false,
       "id": "9ef2506c0544"
-    },
-    {
-      "date": "2026-10-04",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e82afa017fb4"
     },
     {
       "date": "2026-10-03",
@@ -791,6 +839,18 @@
       "source": "Google News",
       "curated": false,
       "id": "b4c82d1f60ae"
+    },
+    {
+      "date": "2026-10-03",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$4B · $42B",
+      "title": "Canva Revenue 2025: $4B ARR, $42B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHQVI2Z1JfcTVFaTFveUlJeXNfeWN5Y1RkNU93SVMwUlZoOXpQYTFvT2xsZmZkbzU4clU2eHZ5WExVX1NxMVh1cXdKV0M?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e6911f6fed32"
     },
     {
       "date": "2026-10-02",
@@ -1355,69 +1415,31 @@
       "source": "Google News",
       "curated": false,
       "id": "887d4126ed7e"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "Proposify",
-      "front": "Documents",
-      "move": "Funding",
-      "detail": "$8M · $12.4M",
-      "title": "Proposify Revenue 2024: $8M ARR, $12.4M Raised",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40X24tWmtDSGhXMFM0ZWx1cWE5eC0yNjkyTWNrdHB0bU1MZFVaX0NhUWFteWJXal9pZkVYVkZFMXl5MEgxam1TQkxpd2VIQUJYN3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3f9b02a5761a"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs launches v4 speech models in 90+ languages",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRVZscFJnd0dQLXUzODJGR1VhVUNtRG11Z0RYZ2pGTHRmbHpOdktwV2NKdk9GMHFFVEdsY3hiUWh5cmJmanR2QXdJRHp4UERwQXVSVXZUVWp2NzJpQ3BWWkh1ZTNBbDZNTW5CTHNJWi00V0FNZ3k4MGg3eVIydE40akVKSUE4eDBj?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "87fac69c0f26"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Launches Eleven V4 and Eleven V4 Turbo for TTS",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lMG5xTVVaendZR2w0RDZnY25qLVJsQTZqZWgyU3h5YkhnMXNZTC1Gd2RBek9iTkNLeHRzUzYtRDJpM2s0b2g1T2dOTXBDaXpYOEZoanFuX1lVemxLaE56RDJxQkNTS1Q3cHc1ZEpR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c7e2128207e4"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Releases v4 and Turbo Voice Models",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ITFhhdkpXMGhfaEpmVzVGVDFqR0x3clkzMXBHWFphaTJGblotcEdWeThRUkNaTkhoanNrUkNxbVhkeWluMXNyWmdqb05vUm5mdUVaUElINmpna0o3QzJmWVdvTVVUXzI1TmNSOC1YemxWWmJB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fd7d414c789c"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Voice Agent Launched on OpenAI Marketplace",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SMTVzVFBHVkVqYzJNZks3NFpTNlM2bHZfWDZoVzN5bGtMdkJXMW5oeHZTVTFJS1p5by1ZSUFNU2dXWnp5dTJva0J4QmktUTJUYjRiSmc1b3kyTWtGMjM4Y1VSTURYcWJJdVlDZGI2b1BpT28z?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "53dbef10d7b8"
     }
   ],
   "items": [
+    {
+      "id": "18f19b44a9f1",
+      "title": "Google Explains Couldn’t Fetch Sitemap Errors via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
+      "source": "Search Engine Journal",
+      "summary": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains Couldn’t Fetch Sitemap Errors appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-06T09:52:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3c40419ed0bd",
+      "title": "Google AI Overviews now appear for most major brands",
+      "url": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
+      "source": "Semrush Blog",
+      "summary": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why.",
+      "category": "GEO",
+      "published": "2026-10-06T09:06:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "f807a3d4197a",
       "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
@@ -4145,28 +4167,6 @@
       "published": "2026-09-21T12:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "d37f5b2c5927",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "category": "GEO",
-      "published": "2026-09-21T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "a0416f1d0718",
-      "title": "Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/",
-      "source": "Search Engine Journal",
-      "summary": "Is Google lying about AI Search? New research shows AI Mode decreases clicks and it gives a poor user experience. The post Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-21T11:47:17Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
