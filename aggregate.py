@@ -70,6 +70,8 @@ FEEDS = [
     {"name": "NewzDash (News SEO)",        "url": "https://www.newzdash.com/feed"},
     {"name": "Candour",                    "url": "https://candour.co.nz/feed/"},
     {"name": "Ross Simmonds (Foundation)", "url": "https://foundationinc.co/lab/feed/"},
+    {"name": "Advanced Web Ranking",       "url": "https://www.advancedwebranking.com/blog/feed/"},
+    {"name": "Seer Interactive",           "url": "https://www.seerinteractive.com/insights/feed/"},
 
     # ── Community — Reddit often blocks automated fetches; uncomment to try ──
     # {"name": "r/SEO",                    "url": "https://www.reddit.com/r/SEO/.rss"},
