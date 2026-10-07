@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:37:52Z",
+  "updated": "2026-10-07T04:41:58Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -717,6 +717,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-07",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield Launches AI Influencer Studio",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtUkVIVTJZYlc0c3VvLUJCczBmNWRZYnNmajd4c3F0a0xLdTdZVnJaUUhDQWI1YzQ1UGo2RGxqVEpXaXRFSHVEZE5VQThoc29GamxzNzliano1eVhqdlRyWmVmV2d2aHJLQzBXVUNoZGlQUjI3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ccd0c344a890"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield Launches Google Nano Banana 2.1, Output Up to 4K",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03dEVKSkZwRTI1YlktUDRBbnM0LUxjcTlILVRBTHNicnNmaWxyWXJjUWk0c2JuZ2NVaHA1T0JpMkZxcmp4cXBaeXpZOUVESHNDeDRqUWZ2MFE2ek41dk1ndWF0VkU0RkN3ZFlrM3Fpd1ZoQk9D?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6ecb34555994"
+    },
+    {
       "date": "2026-10-06",
       "company": "Topaz Labs",
       "front": "GenAI Media",
@@ -1411,30 +1435,6 @@
       "source": "Google News",
       "curated": false,
       "id": "87f6364b3953"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva unveils fleet of tools for large organizations",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ybF9mTDZHUkpTOE03SVlSd1FNcnU4c2Rmall6Ylg2VmpTbTZzYVNUVWRUeXJpbWk4bWcyMkRZVWZJcTRWNkFMeFlPakpXMmhhU0JKZWVPWmZEZUYyZzJhZUNBSG1LUldJTDZ3Nw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "18c65e633907"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "OpenAI Launches Marketplace, Partners with Adobe, Figma, and Others",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmEtRk1GTVBoSW5zcnVqSzB4SFNtZXVzdm5CaWxWUWozMnJfNTdwNWRDMjBaN2R2eGxBaW9zWWZBd3pIUFJZaDNieWRvOVV5TUY5S2dkV1hXc3ZiZFhmWDVRUXg4WnBNOTIwTkVsdWlEcm15b3BldFR4bEdoQzdBRkdXVDZ0M2xCcGV4M3hWNXhTNWhsSEtpaEVqeWlyNzQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8a26c35ecaca"
     }
   ],
   "items": [
