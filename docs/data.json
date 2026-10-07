@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T04:41:58Z",
+  "updated": "2026-10-07T16:36:35Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -15,8 +15,8 @@
     "Ross Simmonds (Foundation)",
     "Search Engine Journal",
     "Search Engine Roundtable",
+    "Seer Interactive",
     "Semrush Blog",
-    "SparkToro",
     "Yoast",
     "Zyppy Signal",
     "iPullRank (Rank Report)"
@@ -741,6 +741,54 @@
       "id": "6ecb34555994"
     },
     {
+      "date": "2026-10-07",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$50 billion",
+      "title": "Kimi's parent reportedly preparing for Hong Kong IPO at around $50 billion valuation! Kling AI is on its way too",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55dHEtbVExYUEyN0VnQXBsbWt0bVJoMGF3Y21vS3hFSEtWMlhzbUdMZlJyTEFqQWh6MzFiSVJ4dFZnaUZiand6ZlNJZE1lM3BlaXRhU21XbGpidUF2WmhMV0hQSFM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c7fc25020a14"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Readers sound off on ASPCA partnerships, public housing and Pope Leo on AI",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3RwV1RHY0RjVWRTSGZPekFMSTFZeUx6clJGV3dYMWRZMGJfalVzRU9RcG9lRmFjRzNkMHdEZDR3VEJCZHJUdlA1YjVVRmF3YnBXcDNSVGFhbThxdEZYVWVCMmtsTzJiUWQ1UGU0dkZxN05GUlVnY0hqVjF0NENjMnBKNERxOXFTMzlPM3dEajBQRlFnZE0wOFRsNUpuMUtLNGhsRTVIRHNkNDA5SC1paVBPdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7ce04b4b7e5a"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "OneSpan",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "OneSpan (OSPN) Unveils Enhanced Digital Agreements Platform to B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW15TGFmZ1ZzS3dhQ2pYLVY0ZE51SkxQdEJsUHNabUhEampqLWx6ZnhPSEQtdW4tRWlqVGhZWmN3WWtzTU1ibDVjUWxVZ3gzbDZXdFctMU0wNW54cTF4bDBBT19NV1RWbHo1MGhiejlHOHpaT2xXR282OVAwbjBDd0pZU3hlR21XUHNJMXZmeV92eWtXeVpjbEZZX2FtNDdIbVdvZnZwNEhSS1NsaGVtYl9PclUtWXltUl9nb0dVUDFlSWR0N2pn?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "50cec0d23952"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "UPDF",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Military Police Brigade Launches New Phase Of UNEB Operation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnV0TUV1LUhmVHZUeUV6N3BrSzg4RUg3RjBHZHd0NE5UeW9Nc3ZtYVRLSFlsSG9Kal9RTE9WeHRteUMzd1BXVExQZG1aZFNOUnE2emNyUmxwcjRPTWxFemthS09zZ3pTeVE5WDZLX1BRSkp0ZHB1TVRtUk9mRm5Dc1dzSnd5SXNGeTIyU1IyQnNhSXRYQVc3ddIBngFBVV95cUxNZjZsOThwVmV3RUNKOVl4Tzlhc3k3Wko0aVpfOVBqTVRfZDNacUpOZjkzM0FoNEhRTWN5NWFPdTl2dkYtSnRJRjJXc3czbmR4Y0VkTlhsMnJRVU1zU1ZISjVSOEQzczZxbEN4ejBLRzFXb19uMkQwanAzNUl5UnJ5b2dXU05lQkRBQW13ZzBENDVoNTY2YVhMUTlwa0ZFdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "faf1b11a68b2"
+    },
+    {
       "date": "2026-10-06",
       "company": "Topaz Labs",
       "front": "GenAI Media",
@@ -1065,6 +1113,18 @@
       "id": "f96b6214ce1d"
     },
     {
+      "date": "2026-10-02",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "FLUX 3 Image Launches: Specs, Pricing, Benchmarks and Model Comparisons",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02MXcxeG5RTjNkbnFNcDNBck1TeWMzNU1uT1RsREpfNW5BUXdZQnhIazVzVFh5UVRrdnNGbEVyVDZxVEZkcWlMMklPbDRLd1JDTlBtZmdWOTVZZUlhM25mU2xFeDdFeGVGQXJhRDlNTUI?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e64a2e468fe3"
+    },
+    {
       "date": "2026-10-01",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1375,69 +1435,196 @@
       "source": "Google News",
       "curated": false,
       "id": "7cf328ac98f1"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22BN · $300M",
-      "title": "ElevenLab’s valuation doubles to $22BN, as completes $300M employee tender offer",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZF9IQkJaYVNjeG5aM3l6aV9FbUxGYjJYX0txVkthU3NDSnNnSEpHOHdZOXVwd3NGcV9WYXM0eng3WmFPX1U5cU45bnZfRjI4Q0Rqalg5ZHpTa3NmeU1HME91dU1JTS1KY3ZVOTVMOFZiYU9HX3N1akh0cHRMLWRxVFVTQlU2VzJaSU5jcmU4TEdvdTdVVU1FRmc0bW50UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d4b07e1411a6"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 billion",
-      "title": "ElevenLabs, the start-up specializing in AI-generated voices, doubles its valuation to $22 billion",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0pWUGJ6X293MUlXMGdPSjRyYWdaYm5BXzhXUTViRS1nVk00bGNNUWZGQzJUMlRxb2dGXzhXS2pYeWhzZkk5Q1dieFNEUHQ3S1FQclgtRkhtSUhGRDMzQ3pHNXFJLWJLbDFCc3NMUDMwREpRRUtNUkRsZU9FbjBscjBIRkpjLW5SQjRhS29Cb3hXZGVpRVFySUFoMUhuYkFqcDRPWDFwZzdNdjdDNHh3ak1SR0ZGZ3hVUEs2b25Qa0E5eW5fNHNadG9IclFoSHA5My1mT1FESFlvX0dvdy1xX3ZR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "96b514d69609"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Instagram rolls out an AI video editor for creators",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX290a2g0djh1aWZtdEFzUnc1emZES1Y0aHY3Ny1fVmxMWFZMYzJGd3NZVWZuSlR5YmE0a3JxVVM5bnJvTmFiUnFWcEhYNkdyUk10U2pmelBNdU1GUkw5REZ4NktKV0JYRFdGdEl4Z3c5dmhGZ29MODF1WkxwZGNzUUNLeHFCai1zeWFXUm13NA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b3ce5c37fc06"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Instagram introduces AI video editor to help creators edit Reels and boost audience reach",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGhjWTFoNWhoaW1uOGtBOUFncjVMVXZ0T2Q3TEJ0dUU4b3ZSM2J5VF9KU191eDRRY0lzY1E4eVVub0VoZk5Pcmc5VjRyZWVHdTcwcHQxcjJEYUNrNWtvSWh3VWF0ZjJsVm55V2V1c2xWdWoyOXIzSWJiMUlXQjBLV2dtSGlQc3dEQ1pvSElTMERTakxPWTd4V0Utc29iVUg5YjhhREZjd1ZqVUQ5MVBMUWI3UjhHSFBjSWtPMnpqYzN3VUlfWGJyenNZSHVONVHSAdQBQVVfeXFMUEdBNDNFUnp1Z3FRZGxTWnRBVVlZVEYtWmtiR05ZUlNUbi0wY3hJMVVPaDg4NFFrZzdrc0pLSUw5cEJ3X2ZHZnJJZDhhR1pYRUV1d2JWS0tqN2tWVUpFRnhiMUpmRktUMWszLTdfVmxQMFBURGcwcW5uQ2QwOTVPLVhpOVF3ZUFFT2hKMWFrbFRfd2p3aU9RdXRjeTVYZlAzWjJFTGdwZEdvcGhJTjE3YzNCaTg4VWRuSUV1YXl6aWMwR1p6NVp3UGFoaUsxWVdBSHphM3Y?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b715d408070d"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway News | Introducing Runway Ads",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JNndZZWlCRWFfc2lUbXpwRkVyNjJaSnZLOVA5V0lweFJtVG40MU9nd0JYbkZ5TkpjUDN5VGwwNlRpS0Nyc3N5dmk1UlJSWEpaR3lmZ1RrNERFYlFXWkhjaU02YzJTS2pmb3pZ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "87f6364b3953"
     }
   ],
   "items": [
+    {
+      "id": "93e67de1d426",
+      "title": "Email Marketing in the AI Era: Personalization, Automation & Deliverability",
+      "url": "https://neilpatel.com/blog/email-marketing-ai-personalization/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Have you noticed your team is sending more emails than ever, but the results don’t feel any different? Most marketers are pointing AI at email marketing’s wrong problem. The real opportunity is understanding customer intent, automating decisions, and personalizing…",
+      "category": "SEO",
+      "published": "2026-10-07T16:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "b1141f83ad99",
+      "title": "Daily Search Forum Recap: October 7, 2026",
+      "url": "https://www.seroundtable.com/recap-10-07-2026-42249.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-07T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a911b5e530cd",
+      "title": "AI Search Is Changing Your Website’s Job, Here’s How To Adapt via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
+      "source": "Search Engine Journal",
+      "summary": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses. The post AI Search Is Changing Your Website’s Job, Here’s How To Adapt appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-07T13:30:50Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e17856f6d788",
+      "title": "Yoast SEO vs All in One SEO: which WordPress plugin is right for you?",
+      "url": "https://yoast.com/yoast-vs-all-in-one-seo/",
+      "source": "Yoast",
+      "summary": "If you’re weighing Yoast SEO vs All in One SEO, you’re asking the right question. Your SEO plugin touches almost every page you publish. It shapes how search engines read your site and how AI platforms understand it too. Both plugins have been part of WordPress for a long time…",
+      "category": "SEO",
+      "published": "2026-10-07T12:17:58Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "fbbe8632d318",
+      "title": "How to track your AI citations and sources with Semrush",
+      "url": "https://www.semrush.com/blog/track-ai-citation-sources-semrush/",
+      "source": "Semrush Blog",
+      "summary": "Find the sources that are cited when your brand is missing from AI answers and take action with content or outreach to get more mentions.",
+      "category": "GEO",
+      "published": "2026-10-07T12:01:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "ca0b47def5e6",
+      "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
+      "url": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
+      "source": "Search Engine Journal",
+      "summary": "Learn how to justify SEO budgets in the AI era by aligning investments with revenue generation, risk reduction, infrastructure, and business value. The post The Business Case For SEO Is Changing; Budget Justifications Should Too appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-07T12:00:32Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "ad4e14640e35",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "category": "GEO",
+      "published": "2026-10-07T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "20db0a3f5cfb",
+      "title": "Google Drops Review Snippets For Healthcare Web Pages",
+      "url": "https://www.seroundtable.com/google-drops-healthcare-review-snippets-42248.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to no longer be showing review rich reviews in Google Search when review schema or structured data is added to healthcare web pages.",
+      "category": "SEO",
+      "published": "2026-10-07T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c9e391633ecc",
+      "title": "Google AI Overviews Add To Calendar Feature",
+      "url": "https://www.seroundtable.com/google-ai-overviews-add-to-calendar-42233.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing allowing AI Overviews to add items to your calendar with an add to calendar link on event dates. I can't replicate this and the truth is, every time i refresh the queries I am testing on, I get a slightly different AI Overview, so who knows.",
+      "category": "GEO",
+      "published": "2026-10-07T11:41:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "39e97f316a50",
+      "title": "Google Ads Updated Billing Menu With More Links",
+      "url": "https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is testing a new billing menu bar or tab that adds more options and links to the billing section. It looks like Google added double the amount of links in the menu.",
+      "category": "SEO",
+      "published": "2026-10-07T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "546b98d3c82e",
+      "title": "Google Merchant Center New UCP Integration Hub",
+      "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account.",
+      "category": "SEO",
+      "published": "2026-10-07T11:21:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "e84fbb6f3844",
+      "title": "Google Local Panel Gains WhatsApp Button",
+      "url": "https://www.seroundtable.com/google-local-panel-whatsapp-button-42230.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is now showing WhatsApp buttons, in place of chat or in addition to the other action buttons, in the local panel results within Google Search. Next to the call, directions. website, share buttons can be a WhatsApp button to let searchers chat with the store or company…",
+      "category": "SEO",
+      "published": "2026-10-07T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f14bf55140d8",
+      "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
+      "source": "Search Engine Journal",
+      "summary": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions. The post WordPress Releases Canonical MCP Adapter Plugin appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-07T10:48:53Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5f0561e18b1f",
+      "title": "This Is My 50,000 Published Story On Search",
+      "url": "https://www.seroundtable.com/barry-schwartz-50000-stories-42234.html",
+      "source": "Search Engine Roundtable",
+      "summary": "50,000 is a big number, so I figured I'd document it here by letting you all know that this \"story\" is my 50,000th published story for the search industry. Yes, I've written 50,000 stories on search and on the search industry over the past almost 23 years.",
+      "category": "SEO",
+      "published": "2026-10-07T10:04:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "feb58811c324",
+      "title": "Multi-location SEO: How to build a scalable strategy",
+      "url": "https://www.semrush.com/blog/multi-location-seo/",
+      "source": "Semrush Blog",
+      "summary": "Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings.",
+      "category": "SEO",
+      "published": "2026-10-07T09:39:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "b0c170108b20",
+      "title": "The September 2026 SEO Update by Yoast recap",
+      "url": "https://yoast.com/the-september-2026-seo-update-by-yoast-recap/",
+      "source": "Yoast",
+      "summary": "Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google’s latest content updates, the impact of AI on search visibility, and how to adapt to the evolving digital landscape. Watch the full…",
+      "category": "SEO",
+      "published": "2026-10-07T09:37:26Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "4fba5a157214",
+      "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
+      "url": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
+      "source": "Search Engine Journal",
+      "summary": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business. The post Google’s Search Antitrust Ruling: What Advertisers Should Check Next appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-07T05:00:12Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "94e63c8f5709",
       "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
@@ -1578,17 +1765,6 @@
       "summary": "Why don't SEOs talk more about Google's helpful content documentation? Its latest update shows exactly what the ranking systems are being trained to reward. The post Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ appeared first on Search Engine…",
       "category": "SEO",
       "published": "2026-10-06T14:30:10Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dcf5fd36e905",
-      "title": "Daily Search Forum Recap: October 6, 2026",
-      "url": "https://www.seroundtable.com/recap-10-06-2026-42240.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-06T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -2029,6 +2205,17 @@
       "summary": "Google recently made substantial updates to my favorite piece of search documentation: Creating helpful, reliable, people-first content. For years, this has been my favourite Google documentation because it reflects the exact principles Google is training its machine learning…",
       "category": "SEO",
       "published": "2026-10-02T17:02:58Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "386662008dcb",
+      "title": "Re-imagining AI Visibility KPIs in a Query Fan Out world",
+      "url": "https://www.seerinteractive.com/insights/ai-visibility-kpis",
+      "source": "Seer Interactive",
+      "summary": "Wil, take me right to the KPI for long term sustainable GEO visibility!!",
+      "category": "GEO",
+      "published": "2026-10-02T16:30:48Z",
       "coverage": 1,
       "impact": 3.0
     },
@@ -3089,6 +3276,17 @@
       "impact": 5.0
     },
     {
+      "id": "348eafe7c241",
+      "title": "SaaS Marketers - Promote your Claude & Codex connectors & win in AI search",
+      "url": "https://www.seerinteractive.com/insights/saas-marketers-promote-your-claude-or-codex-connectors",
+      "source": "Seer Interactive",
+      "summary": "Claude and I had a 12,000 word back and forth on how to use Cloudflare and GA4 data to answer a hard question. If you were a SaaS marketer what would you do with all that context to make better answers?",
+      "category": "GEO",
+      "published": "2026-09-28T20:30:29Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
       "id": "82587e57fcd9",
       "title": "Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/",
@@ -3595,6 +3793,17 @@
       "impact": 4.0
     },
     {
+      "id": "4bdc0f4da825",
+      "title": "AI Citations Aren't Your Top KPI: ChatGPT-5.6 Luna Runs More Targeted Searches",
+      "url": "https://www.seerinteractive.com/insights/gpt-5.5-vs-gpt-5.6-luna",
+      "source": "Seer Interactive",
+      "summary": "TL;DR We ran a direct comparison of 346 matched prompts to see whether ChatGPT-5.6 Luna behaved differently from GPT-5.5 GPT-5.6 Luna used web search more often but ran fewer queries, resulting in little movement on the number of fan-out queries compared to GPT-5.5 Domain-target…",
+      "category": "GEO",
+      "published": "2026-09-24T19:36:11Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
       "id": "31df3376ab32",
       "title": "LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
@@ -3976,215 +4185,6 @@
       "summary": "The Competition and Markets Authority (CMA) has proposed new measures to force Google to make it easier for users of Google's Android and Chrome to use an alternative search engine or AI platform. This is \"designed to give millions of Google Android and Google Chrome customers…",
       "category": "SEO",
       "published": "2026-09-23T11:55:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "eb673dd9c599",
-      "title": "Test Google Ads AI Max Against Dynamic Search Ads",
-      "url": "https://www.seroundtable.com/google-ads-ai-max-vs-dynamic-search-ads-42142.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads added new help documentation on how to test AI Max against Dynamic Search Ads (DSAs) by using experiments. Google posted two options within Google Ads experiments including (1) custom experiments and (2) the experiment template.",
-      "category": "SEO",
-      "published": "2026-09-23T11:51:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "cf9ff61b6e9d",
-      "title": "Bing Tests Favicons On Shopping Ads Carousel",
-      "url": "https://www.seroundtable.com/bing-shopping-ads-carousel-favicons-42126.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing placing favicons on the Bing shopping ads, product results, carousel. Normally, this ad unit just shows the site name but Bing is testing adding favicons in front of the site name.",
-      "category": "SEO",
-      "published": "2026-09-23T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b3358dfb6bdf",
-      "title": "Google Hreflang Examples To Uppercase Codes - But It Doesn't Matter",
-      "url": "https://www.seroundtable.com/google-hreflang-examples-to-uppercase-codes-42138.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the localized versions of your page help document to change all the hreflang examples from lowercase codes to uppercase codes. It doesn't matter because the hreflang value is case-insensitive; Google accepts lowercase and uppercase codes.",
-      "category": "SEO",
-      "published": "2026-09-23T11:31:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "d41a3d1852e4",
-      "title": "Google Business Profiles Gives You Four Days To Reject User Edits",
-      "url": "https://www.seroundtable.com/google-business-profiles-4-days-42139.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google updated its help document to clarify that you have four days to reject a user suggested edit to your Google Business Profile. If you do not reject the edit within four days, Google may apply that edit to your Google local listing.",
-      "category": "SEO",
-      "published": "2026-09-23T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2f37ce916832",
-      "title": "Google AdSense Drops Identity Verification Threshold To $0",
-      "url": "https://www.seroundtable.com/google-adsense-identity-verification-threshold-42143.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google AdSense has lowered the identity verification threshold from $10 to $0, according to an update to the help documentation.",
-      "category": "SEO",
-      "published": "2026-09-23T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1d5a9cc2d950",
-      "title": "Introducing MentalHealthBench",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "category": "SEO",
-      "published": "2026-09-23T10:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "efd6e2538866",
-      "title": "How to conduct an AI visibility audit with Semrush",
-      "url": "https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/",
-      "source": "Semrush Blog",
-      "summary": "6 steps to perform an AI visibility audit for your brand, including how to deliver the report.",
-      "category": "SEO",
-      "published": "2026-09-23T08:39:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "5a1c62f08552",
-      "title": "Google Ads New AI Max Reporting & AI Brief Expands To More Countries",
-      "url": "https://www.seroundtable.com/google-ads-ai-max-reporting-countries-42144.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is expanding access to AI Briefs and also added new AI Max reporting. Google said AI Brief audience targeting works now in Dutch, French, German, Italian, Japanese, Portuguese, and Spanish. Plus, there is a new AI Max reporting feature for looking at the Search Ads…",
-      "category": "SEO",
-      "published": "2026-09-23T08:30:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7e3146e52913",
-      "title": "ChatGPT Ads Climbed In 3 Retail Categories, Led By Gaming: Comscore via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
-      "source": "Search Engine Journal",
-      "summary": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Climbed In 3 Retail Categories, Led By Gaming: Comscore appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-23T07:00:33Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "18f7a11e3ad9",
-      "title": "Algorithms Don’t Just Happen to Us — We Train Them.",
-      "url": "https://sparktoro.com/blog/algorithms-dont-just-happen-to-us-we-train-them/",
-      "source": "SparkToro",
-      "summary": "Everyone’s really mad about iced coffee right now. “Don’t bring it to job interviews!” one Fortune 500 recruiter said. “Shut up, you bootlickers!” Starbies fans everywhere slammed their cold, clinky, sweaty cups on their desks. If you know, you know. If you don’t, I might be…",
-      "category": "Algorithms",
-      "published": "2026-09-23T05:30:47Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1dd9ce125c6e",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "source": "OpenAI",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "category": "GEO",
-      "published": "2026-09-23T02:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "73fafdf6f45f",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "source": "OpenAI",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "category": "GEO",
-      "published": "2026-09-23T01:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "09a0c6dbf1c6",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "category": "SEO",
-      "published": "2026-09-23T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b6b1e4118cdb",
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "category": "GEO",
-      "published": "2026-09-22T21:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "9dca883a00ef",
-      "title": "Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo",
-      "url": "https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/",
-      "source": "Search Engine Journal",
-      "summary": "AI search pulls from more sources than most SEOs track. Here's a tiered view of which data sources deserve your attention first. The post Which Data Sources Should You Care About For AI Search? appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-22T19:00:31Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "3d48e529ad7a",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "category": "GEO",
-      "published": "2026-09-22T18:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "ed800c4b3437",
-      "title": "Which Fintech Brands Win in AI Search? We Analyzed 68,000 Answers to Find Out",
-      "url": "https://neilpatel.com/blog/fintech-ai-visibility/",
-      "source": "Neil Patel",
-      "summary": "Key Findings Note: Note: Our AI Visibility Score is a 100-point measure combining how often a brand appears in AI answers, how early it’s mentioned, and how many categories it shows up in. “What’s the best budget tracking app?” “How do I send money to friends and family?” These…",
-      "category": "GEO",
-      "published": "2026-09-22T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "b2c2ff0aeabc",
-      "title": "Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode & Gemini",
-      "url": "https://www.seroundtable.com/google-native-checkout-emails-42140.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is sending email notifications to Google Merchant Center users if their e-commerce platform supports Universal Commerce Protocol (UCP) and if so, telling them that \"your products are now eligible for native checkout.\" This means that your eligible products are…",
-      "category": "GEO",
-      "published": "2026-09-22T15:20:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "1d602ae05e50",
-      "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
-      "url": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/",
-      "source": "Search Engine Journal",
-      "summary": "Decide whether Google Ads Customer Lifecycle Goals fit your business, and avoid settings that inflate ROAS or exclude valuable prospects. The post Customer Lifecycle Goals: The Good, The Bad, The Ugly appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-22T14:30:28Z",
       "coverage": 1,
       "impact": 4.0
     }
