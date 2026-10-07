@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T16:36:35Z",
+  "updated": "2026-10-07T21:03:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,26 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-07",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
+      "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "afd788821da0"
+    },
+    {
+      "date": "2026-10-07",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "f8541da2978f"
+    },
     {
       "date": "2026-10-06",
       "family": "engine",
@@ -789,6 +809,30 @@
       "id": "faf1b11a68b2"
     },
     {
+      "date": "2026-10-07",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "AI video startup Higgsfield launches tool to build custom AI influencers",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONG45eXJxMkRYNm1qZXNxZ3Frd01kcEJlUWZxWk9XNW5fWFRuVkJvdGFLa1VTbUxBTmlBc3N5SjRWQXJqZEtVLXZuMzNTWjkzZ3FmdDBfSUdMM3kxZkZDRktKaFVncHJOTU5RVS1XRFJvNmY2cUJ2dWR2SVVZRi1EODQzb1NvWXQ4bkFSTnppekpLRXI1VWZoLVRFTmFLUXk3NU9TbEFR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e0bcd0bfb863"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYks3dzNFejlIaXQyYXVBSlV6NWhHQTBxTGo2dlVJcXBDbHFCZVUweGhvS1h1Z2c3LTZERHJKX2ltenU1OXBUelV6OFp3azhRTEczMUdVaVd0UER3UHpMUG5LcjBDei1oVGVJVDhWS3I0eTRxak5xNE1kcmc0ck02ZnpET3ZDT0ZHUUltN28tMA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1665c6161e51"
+    },
+    {
       "date": "2026-10-06",
       "company": "Topaz Labs",
       "front": "GenAI Media",
@@ -1411,33 +1455,53 @@
       "source": "Google News",
       "curated": false,
       "id": "0e236b02e662"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 billion · $300 million",
-      "title": "ElevenLabs valuation doubles to $22 billion as employees get a $300 million share sale offer",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ENUFVNEJNbWZjMDU5akE2by1tZUI2d3ltV21ZaU9ZSFdlU1UyZ21FUE02NW1pdGZEM2lqMTM0Vk93azAxSUtOMHBSd0p4dGRXenEyRXpnUHRnVTIyU1p3Tnpqemd3bEVzaFhhekwxbTI1VWc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "baa1f2b94657"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 Billion",
-      "title": "AI Voice Demand Heats Up: ElevenLabs Completes Tender Offer, Valuation Rises to $22 Billion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2lxa203ZUxpaFBReG14S21JN24zM0w4NXY2cUVxRkJVb3Ztei1tUGtLM1Q0dDRROXBsbk5SMWRuS2VfajBKV0lpU1VtREpMMkREeGd4SUU0a3NCRkNrOHg3ZkVUTndCc3lNaWFuZ2QxdFVIN0hteE05NlpLS2JZNjlWVEFWdkluRVNkMGxoLS01Ym1SaGdjVFlDbW42WlFFUnNPWEhpWHZUSWhUbVpCaQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7cf328ac98f1"
     }
   ],
   "items": [
+    {
+      "id": "2958c1444aeb",
+      "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
+      "source": "Search Engine Journal",
+      "summary": "Google opened its SynthID Detector to everyone, allowing users to check images, video, and audio for watermarks from Google and partner AI tools. The post Google Opens Its SynthID Watermark Detector To The Public appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-07T19:38:35Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b2f88c2d60d9",
+      "title": "Competitive Analysis for Paid Media: How To Find the Broken Stage",
+      "url": "https://www.seerinteractive.com/insights/competitive-analysis-for-paid-media-find-the-broken-stage",
+      "source": "Seer Interactive",
+      "summary": "TL;DR Competitive research can show which stage of your funnel is broken (Be Seen, Be Believed, or Be Chosen) and which channel to fix it in.",
+      "category": "SEO",
+      "published": "2026-10-07T19:01:13Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "f795ecad4f30",
+      "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
+      "url": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/",
+      "source": "Search Engine Journal",
+      "summary": "Consolidate redundant PPC campaigns to give Smart Bidding stronger signals without erasing the business distinctions that keep your account profitable. The post Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-07T19:00:23Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "118ccba34ef3",
+      "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
+      "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
+      "source": "Search Engine Journal",
+      "summary": "Is another major Google update coming? The documentation changes, spam update pace, and Google's own statements all point the same way. The post Prediction: The Next Massive Google Update Is Around The Corner appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-10-07T17:30:46Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "93e67de1d426",
       "title": "Email Marketing in the AI Era: Personalization, Automation & Deliverability",
@@ -1615,6 +1679,17 @@
       "impact": 1.0
     },
     {
+      "id": "04e9dc3828b5",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "category": "GEO",
+      "published": "2026-10-07T07:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "4fba5a157214",
       "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
       "url": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
@@ -1624,6 +1699,17 @@
       "published": "2026-10-07T05:00:12Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "0ca1450969b5",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "category": "GEO",
+      "published": "2026-10-07T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "94e63c8f5709",
@@ -1932,6 +2018,17 @@
       "published": "2026-10-06T09:06:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "3919bb1d988f",
+      "title": "Link Building & Outreach for AI Search",
+      "url": "https://dejan.ai/blog/outreach/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Natural linking follows predictable human patterns that deep learning models and search algorithms easily detect, exposing inorganic link building efforts.",
+      "category": "GEO",
+      "published": "2026-10-06T03:08:33Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "f807a3d4197a",
@@ -4108,83 +4205,6 @@
       "summary": "AI agents find the cheapest route to any target you set. Research from MIT and Stanford shows why SEO teams need metrics agents can't fake. The post AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-23T14:30:15Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1d77064cbebb",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "category": "SEO",
-      "published": "2026-09-23T13:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2e404c113723",
-      "title": "Baidu Now Measures AI Citations: Here’s What SEOs Should (And Shouldn’t) Read Into It via @sejournal, @MPentzek",
-      "url": "https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/",
-      "source": "Search Engine Journal",
-      "summary": "Baidu's new AI CTR divides clicks by citations, not impressions. Here's why that matters and what else the AI Traffic Analysis report will show. The post Baidu Now Measures AI Citations: Here’s What SEOs Should (And Shouldn’t) Read Into It appeared first on Search Engine Journal…",
-      "category": "GEO",
-      "published": "2026-09-23T12:00:37Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "01d4e543c941",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "category": "SEO",
-      "published": "2026-09-23T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f7558dc5c9de",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "category": "GEO",
-      "published": "2026-09-23T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "7357353a1f1d",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "category": "GEO",
-      "published": "2026-09-23T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "7cff1964bf19",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "category": "GEO",
-      "published": "2026-09-23T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "7140fc825e14",
-      "title": "CMA: Google Should Make It Easier To Choose Other Search Engine On Android & Chrome",
-      "url": "https://www.seroundtable.com/cma-android-chrome-search-engine-42148.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The Competition and Markets Authority (CMA) has proposed new measures to force Google to make it easier for users of Google's Android and Chrome to use an alternative search engine or AI platform. This is \"designed to give millions of Google Android and Google Chrome customers…",
-      "category": "SEO",
-      "published": "2026-09-23T11:55:00Z",
       "coverage": 1,
       "impact": 4.0
     }
