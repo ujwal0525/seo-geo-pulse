@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T04:52:34Z",
+  "updated": "2026-10-08T15:17:10Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,26 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-08",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "8938b6983e42"
+    },
+    {
+      "date": "2026-10-08",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "efe3aae14c91"
+    },
     {
       "date": "2026-10-07",
       "family": "engine",
@@ -737,6 +757,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-08",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Ryan Serhant Partners with HeyGen to Turn His Own Face and Voice Into a Daily Content Engine",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTcwNTZYWTZNTUNLcUJHUXRfejdCUmJXeF81bjNUMGRzaEhFNkVnWU1kVnBoTnQ5RUNDdVpnc3hvM3FNUi1JOGs2RnZtczZZemd1aFFJNkg2ZTNIeVlIS1NwcEZONmI0ZjZhYjZwVFlQOUQ2MHFRQVVSWkg2YVFPOG5aZmFMdlo2VVFpVWc4bHN5d19ZRkxXZGFFaHVvV0c5Y1lfam1INU80MFdhS1UycDBXTVpPMHJES3VCUXBJUktSQ1NzT3VHbUtEeU16cXQwTGlJTnpuVDhUblRlZEYtZWF3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "04cb43c04776"
+    },
+    {
       "date": "2026-10-07",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1443,21 +1475,141 @@
       "source": "Google News",
       "curated": false,
       "id": "6f010d0f9662"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 Billion",
-      "title": "ElevenLabs Doubles Valuation to $22 Billion in Employee Tender",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80cG5VNVRfV1hidmNUTWRxZFREcnlXNkx5R2xtc1hXWG1xR3kydDlBcjIxMTdJcGp6TzNLTDdyNmhQaDFKRmJubW1Ib1VDdVhqV29DZjRIcDRlRE41YmRYY1VzXy1rYjdpWTFnZlBGVWpIbk5TemYyS2JTNTg5dw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fe59b8688a03"
     }
   ],
   "items": [
+    {
+      "id": "aecc656e5d62",
+      "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/",
+      "source": "Search Engine Journal",
+      "summary": "Google DeepMind proved one model can theoretically rank without a separate index. If it ships, visibility stops being a position and becomes inclusion or absence. The post Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It appeared first…",
+      "category": "SEO",
+      "published": "2026-10-08T14:30:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fc10600c29eb",
+      "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
+      "url": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
+      "source": "Search Engine Journal",
+      "summary": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact. The post How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-08T13:49:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c5e12cb9192b",
+      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
+      "source": "Search Engine Journal",
+      "summary": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-10-08T12:58:07Z",
+      "coverage": 2,
+      "impact": 9.0
+    },
+    {
+      "id": "ab3b3f49c02e",
+      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
+      "source": "Search Engine Journal",
+      "summary": "Avoid costly site changes during a Google spam update by separating early ranking volatility from lasting losses and setting clear milestones for leadership. The post Why Google Search Updates Cannot Be Judged During Early Rollout appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-10-08T12:00:19Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "68d85cfe649a",
+      "title": "Google Search Issuing More Google Manual Action Penalties?",
+      "url": "https://www.seroundtable.com/google-search-manual-action-spike-42258.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google may be issuing more manual action penalties over the past few weeks than it has over the weeks before that. The increase in manual actions seems to have started several weeks ago, but more so recently, according to some SEOs.",
+      "category": "Algorithms",
+      "published": "2026-10-08T11:51:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "e93de04d0222",
+      "title": "Google Local Service Ads Expands How Leads Work Information",
+      "url": "https://www.seroundtable.com/google-local-service-ads-how-leads-work-42259.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the how leads work help documentation within Local Service Ads with a lot more detail. The changes are meaningful, including what counts as a billable phone lead and how Google handles lead quality/credits.",
+      "category": "SEO",
+      "published": "2026-10-08T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "52bcd44a4bc8",
+      "title": "Google Merchant Center May Disapprove Products That Change Frequently",
+      "url": "https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google updated its help document in Merchant Center to say that if a product changes more than once per day, it may be \"disapproved instead of updated if we detect a mismatch.\"",
+      "category": "SEO",
+      "published": "2026-10-08T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e2dcc2a7d947",
+      "title": "Google Ads AI Max Columns: Brand Inclusion, Commission, Locations Of Interest & Optimized Targeting",
+      "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting.",
+      "category": "SEO",
+      "published": "2026-10-08T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "562d7fb7a44a",
+      "title": "Google Ads Self-Services Conversion Lift Measurement",
+      "url": "https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000…",
+      "category": "SEO",
+      "published": "2026-10-08T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "cf8d51f88404",
+      "title": "Does AI Admit When it Can’t Diagnose an SEO Problem?",
+      "url": "https://ipullrank.com/warrant-seo-benchmark-study",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Nearly every marketer has probably lived through a similar situation in which traffic drops, but there are multiple plausible reasons why. It could be a crawling issue, broken tracking, or other possible options, but you’re just not sure which. So, you start digging for a piece…",
+      "category": "Algorithms",
+      "published": "2026-10-08T11:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "d6b1ab92891c",
+      "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
+      "source": "Search Engine Journal",
+      "summary": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility. The post Link Building Strategies for 2027: What to Keep and Cut appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-08T07:45:34Z",
+      "coverage": 2,
+      "impact": 5.0
+    },
+    {
+      "id": "be1b14ec6900",
+      "title": "Chrome Decisions API: the prompts, limits, engines and code reviews behind DecisionModel",
+      "url": "https://dejan.ai/blog/chrome-decisions-api-decisionmodel/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Chrome's DecisionModel API landed on 6 to 8 October 2026. The exact prompts, limits, engine status and review findings, plus a comparison with Google's MediaPipe DecisionMaker and local tests of EmbeddingGemma 1, EmbeddingGemma 2 and Laya.",
+      "category": "GEO",
+      "published": "2026-10-08T06:43:46Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "2958c1444aeb",
       "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
@@ -1763,8 +1915,8 @@
       "summary": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon. The post Google Opens Search Profiles In India & Canada, Brazil Next appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-06T17:12:37Z",
-      "coverage": 2,
-      "impact": 6.0
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "63241b070b7a",
@@ -2018,17 +2170,6 @@
       "published": "2026-10-06T09:06:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "3919bb1d988f",
-      "title": "Link Building & Outreach for AI Search",
-      "url": "https://dejan.ai/blog/outreach/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Natural linking follows predictable human patterns that deep learning models and search algorithms easily detect, exposing inorganic link building efforts.",
-      "category": "GEO",
-      "published": "2026-10-06T03:08:33Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "f807a3d4197a",
@@ -4086,127 +4227,6 @@
       "published": "2026-09-24T11:11:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "6a813e4bff2c",
-      "title": "Google Ads Investment Strategy New Holistic & Growth Modes",
-      "url": "https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads updated its Recommended Investment Strategy tab on the Recommendations page with Strategic budget allocation using Holistic and Growth modes. Holistic mode reallocates spend from underperforming campaigns to top performers for maximum efficiency, while Growth mode…",
-      "category": "SEO",
-      "published": "2026-09-24T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ee432afa3ba5",
-      "title": "SEOntology: Giving SEO a Shared Language for the Age of AI Agents",
-      "url": "https://wordlift.io/blog/en/seontology-shared-language-ai-agents/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Our research paper on SEOntology just won the Best Student Paper Award at SEMANTiCS 2026. Here's what the peer-reviewed study found, and why it matters for the future of AI-driven SEO. The post SEOntology: Giving SEO a Shared Language for the Age of AI Agents appeared first on…",
-      "category": "SEO",
-      "published": "2026-09-24T09:58:15Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c484c266f1ad",
-      "title": "Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/",
-      "source": "Search Engine Journal",
-      "summary": "A report finds Google Search and Discover declines got steeper for publishers, while direct, internal, and dark social grew. The post Google Search Decline Steepened To 40% YoY For Publishers appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-24T09:25:37Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0a8093ec0ada",
-      "title": "Announcing web multimodal Search performance reporting in Search Console",
-      "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
-      "source": "Google Search Central",
-      "summary": "Understanding how users find your content is crucial for any publisher or site owner. As Search evolves to include more visual and multimodal experiences, we want to ensure you have the data you need to analyze your performance.",
-      "category": "SEO",
-      "published": "2026-09-24T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "3b3916627438",
-      "title": "Google Ads API Version 25.2 Now Available",
-      "url": "https://www.seroundtable.com/google-ads-api-version-25-2-42154.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has released version 25.2 of the Google Ads API, this is a minor release with several of updates. This update includes competitive benchmarks percentile metrics, the ability to generate Performance Max drafts from Smart campaigns, asset group URL options, Search bid…",
-      "category": "SEO",
-      "published": "2026-09-23T23:42:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5ec45c1abd1b",
-      "title": "YouTube Turns Ask YouTube AI Into A Product Discovery Surface via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
-      "source": "Search Engine Journal",
-      "summary": "YouTube is adding shopping features to Ask YouTube, which may organize product review videos into a comparison table and answer questions on watch pages. The post YouTube Turns Ask YouTube AI Into A Product Discovery Surface appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-23T22:37:15Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5b6488512fd5",
-      "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/",
-      "source": "Search Engine Journal",
-      "summary": "OpenAI and Go Fish Digital unpack ChatGPT ads, earned AI visibility, practical GEO measurement, and what marketers can test next. The post ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-23T19:08:12Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2be21dcdeeaa",
-      "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now",
-      "url": "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/",
-      "source": "Search Engine Journal",
-      "summary": "Use Amazon Marketing Cloud's extended purchase history to set acquisition budgets, identify valuable customers, and retarget shoppers beyond the old 13-month limit. The post Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now appeared first on Search Engine…",
-      "category": "SEO",
-      "published": "2026-09-23T19:00:57Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "9d02eeb8cef1",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "category": "SEO",
-      "published": "2026-09-23T16:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "fce42cac8128",
-      "title": "Why More Traffic Won’t Fix Your Growth Problem (But This Will)",
-      "url": "https://neilpatel.com/blog/cro-why-more-traffic-wont-fix-growth/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Have you been pouring more budget into traffic, only to watch revenue stay flat? You’re not alone, and it’s not a traffic problem. According to NP Digital research, for businesses generating at least $10 million in annual revenue that invest in both conversion rate…",
-      "category": "SEO",
-      "published": "2026-09-23T16:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "c42b3175aa10",
-      "title": "AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/",
-      "source": "Search Engine Journal",
-      "summary": "AI agents find the cheapest route to any target you set. Research from MIT and Stanford shows why SEO teams need metrics agents can't fake. The post AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-23T14:30:15Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
