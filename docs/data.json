@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T21:03:39Z",
+  "updated": "2026-10-08T04:52:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -833,6 +833,18 @@
       "id": "1665c6161e51"
     },
     {
+      "date": "2026-10-07",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity Group Launches in Nevis to Support International Gaming Businesses",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmZXRkdEak9OejlhYnRxckd3dXNkaUU2Ymw0dHZMSGVDN1FsVWc3d3BmVFRHSjVPZTF6eVdmdmM2SkMxbGZlUFF2aXd0T2lONXl6aW1OT2tCREJuYWhGNDZQVFZxdHJrMTRINk5CTUVvdUYtbWVoSVdNcndYUGpSbTFEemQzZl9WQjhxWEJfRjA1Ylp3T0hvSFhnSkFhenBnSFdjSmdQVy1UOHZzZDJOQTZ1bUw1UXpmUzR5R2xBNURmZmhaR2tr?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "930d9fb7964c"
+    },
+    {
       "date": "2026-10-06",
       "company": "Topaz Labs",
       "front": "GenAI Media",
@@ -1443,18 +1455,6 @@
       "source": "Google News",
       "curated": false,
       "id": "fe59b8688a03"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$300M · $22B",
-      "title": "ElevenLabs Closes $300M Employee Tender Offer at $22B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZjZGbWFRbHV5Q0VzVXdJRHJjS3NraWtueVlFYjQzSGpWeEl1NXFCMnQ1VWtQb0ZDVk5SM0dmVEZ2aW9lQ0JrNlBybVBJc1RXOWVXY2Q2YUJabHBSejFfSDBuSTFNTnNfTlowS2Vsb0RGdEhlUDVxUkQ5Vl9oUnR2VFZyQmVNeGVjV1VB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0e236b02e662"
     }
   ],
   "items": [
@@ -1708,8 +1708,8 @@
       "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "category": "GEO",
       "published": "2026-10-07T00:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
+      "coverage": 2,
+      "impact": 9.0
     },
     {
       "id": "94e63c8f5709",
