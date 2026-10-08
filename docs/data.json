@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:17:10Z",
+  "updated": "2026-10-08T21:04:56Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -769,6 +769,30 @@
       "id": "04cb43c04776"
     },
     {
+      "date": "2026-10-08",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Docusign Introduces PDF Editor to Simplify the Path from Document Preparation to Signature",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVBOcV9TZjJBQklXNnBZeXRLUkpEZU8zUjZUaWpDVU1Rcnk5aHdOTUJoaVY5RTBPclNuZmg1clpOSWctdm91T2d3Z2piWkhCOVhOUWRxSHJHLUEtVWtSQUx0LWFIOFd1UGJsYy1zRzcyOUt3TEhSdVZVSlU3SktNQy1OaERtRnFDQWNmRHoxb2JmSGZZbWNXTVMxRnlaSjRFWkVUanBXSWlQNHFxUExpbDNFTThhMExJbDB6WDliU2otUE1NQW5ZdkFTOS1nNDQyYjl4a1RpQ251emRzOGlz?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a323186441a4"
+    },
+    {
+      "date": "2026-10-08",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Docusign Launches PDF Editor To Connect Document Preparation, Signature, And Agreement Management",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yNlZ1eUFKRWRHaE5nbWl3bkdzQmpzWXU1SEI5TXVLbDBHTVZaMjZtMkhTalNpdjdTQjdJejRUZmpGTFdXcGxzZGVjak9hRFZlaENWZFZBLWM5Qnlo0gFiQVVfeXFMTWFTWWYtQ2VKdEtWNTNzQnFoVFFNYjNCMGs1YjJhODJTdVB0Um1oNldSQTFXX0ZMR19qcDdfXzRhakhjWTFMcXV0Ry1qaV9GU0lqVVg1T1IxV2Q0dTR5YmRyQmc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6964090a4f84"
+    },
+    {
       "date": "2026-10-07",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -875,6 +899,18 @@
       "source": "Google News",
       "curated": false,
       "id": "930d9fb7964c"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Hughes Federal Credit Union introduces two new affinity debit cards benefiting Southern Arizona arts and education",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNemhzcm5QcDF4b01RTzB4cTlvWTVudFBLRzBURFR4SzBNcy0wM05sbHNmcnlCSTBMbkNfVlA1empWTHZqSnpQYkRFQ2RRX0VhdmlZalljUndLWlg2VXJuWGJhRFhzMl9mTlJIZl9lOVdkajJmMFdTbGl6bUw1TDg0Mnl6SDYzV3BnWmpUX19EM3BIYWZsSmVZUk1neGRTdUN4cy1EczRyR1lBUzdtNnFaLVZlZTAxbndrN2N0SjdrZERkTWxsUE9teEl3eHNZWi1lRHA2c2xvT29IRkZWUk5Fc0UtZlptTWxubmhJ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f71da162ba0a"
     },
     {
       "date": "2026-10-06",
@@ -1213,6 +1249,18 @@
       "id": "e64a2e468fe3"
     },
     {
+      "date": "2026-10-02",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "List of 41 Acquisitions by Adobe (Oct 2026)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjM2QUZzd1lyWmJaamJkcldUMVBhbUp5MXY4elJrTjdOWThTdlBmRGJvWHREZGZzajBtVW94RUkzTUFxUjhEVVBuTUI0UUszcmxzNE9jUldBVDJRUjBXamFVdGg3X2VoTWZZLVlNM2NoRnk4MkNpdDZpcnJuRDlMbG9PdzVmTGpmbGdLZThud0t4cTJTWXlBcDlVTTVrN1NJdWNF?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "44bfe5820970"
+    },
+    {
       "date": "2026-10-01",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1427,57 +1475,53 @@
       "source": "Google News",
       "curated": false,
       "id": "087da11a14e0"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 billion",
-      "title": "ElevenLabs, the British voice AI gem, doubles its valuation to $22 billion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnhzTWtfVmpldnktQW50d1RCNW94QklFMGpXUjdOS19CQk5JaEdERVF2cFhEQ04yMWlJZUpib0pmenB5N0lsV1JJdTJPemQtdzI5cGkzY3VaY3R4TTlicUxPU3JTZFY5NlNIMmktV3ZMNHFWNzd3a2JjNlY1VWJZT29uRjRmS0RtR3FncnZ3eVl3Qm1wYmdOVGRLWnphM1RmVl90Mm1iSWE2ZWpWQS1vdA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "712ecc2501c7"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "Midjourney",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$700 million",
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "source": "TechCrunch",
-      "curated": false,
-      "id": "eafcad11115f"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B · $300 million",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TechCrunch",
-      "curated": false,
-      "id": "46dacd5bf4c9"
-    },
-    {
-      "date": "2026-09-30",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 billion",
-      "title": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQREpaN0ZnTVIwWHpBYjlfaHJ5c1NCMFU0VlpvRElfbVM4bnlvNTRpQmxQd29faml4cjJQWlRuTVJKdFBQSWp4Vnd0YXZnQ0NxTGVkcjhJcU9wc01Xbno5RWpkV3pUaHJCSk51OW01UV9YcTdJYTY5Z083ajV5Wk14MUt2Y2xqTjlUOVhzaEk1MkNnYnVPLXBLU0c4MVR0UEk1SmRVQjJSWFdoX0JLeVdScTAzRWt0T1JoT2hSWmtWZV9WdE0?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6f010d0f9662"
     }
   ],
   "items": [
+    {
+      "id": "c08a35658e75",
+      "title": "AI Citation Tracking: What It Is, Why It Matters, and Which Tools to Use",
+      "url": "https://foundationinc.co/lab/ai-citation-tracking",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Your CEO asks whether the company shows up when buyers ask ChatGPT or Gemini for a vendor. Rankings show where your pages appear in search results, and analytics show visits from AI tools. However, neither tells you which pages an AI answer cited, or how often. That’s why you…",
+      "category": "GEO",
+      "published": "2026-10-08T20:52:01Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "7ef37deade33",
+      "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
+      "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
+      "source": "Search Engine Journal",
+      "summary": "Understand how to address both ad platform and organizational AI concerns for paid media advertisers in regulated industries The post AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-08T19:00:44Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "112b5f00879d",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "category": "GEO",
+      "published": "2026-10-08T16:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "69865b1ba89d",
+      "title": "Google Reveals The UGC Fresh Data Program",
+      "url": "https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has announced its UGC Fresh Data Program, which Google says \"is an initiative designed to help platforms display fresh, high quality, and authentic user-generated content (UGC) across various features on Search.\" Basically, it seems like an API UCG sites like Reddit can…",
+      "category": "SEO",
+      "published": "2026-10-08T15:15:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "aecc656e5d62",
       "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
@@ -1486,6 +1530,17 @@
       "summary": "Google DeepMind proved one model can theoretically rank without a separate index. If it ships, visibility stops being a position and becomes inclusion or absence. The post Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It appeared first…",
       "category": "SEO",
       "published": "2026-10-08T14:30:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "364c615e3089",
+      "title": "Daily Search Forum Recap: October 8, 2026",
+      "url": "https://www.seroundtable.com/recap-10-08-2026-42260.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-08T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1505,7 +1560,7 @@
       "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
       "source": "Search Engine Journal",
-      "summary": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
+      "summary": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three earlier spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
       "category": "Algorithms",
       "published": "2026-10-08T12:58:07Z",
       "coverage": 2,
@@ -1521,6 +1576,17 @@
       "published": "2026-10-08T12:00:19Z",
       "coverage": 1,
       "impact": 8.0
+    },
+    {
+      "id": "ca1ec6c6a1a1",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "category": "GEO",
+      "published": "2026-10-08T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "68d85cfe649a",
@@ -1611,6 +1677,17 @@
       "impact": 4.0
     },
     {
+      "id": "077dea1e8a7a",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "category": "GEO",
+      "published": "2026-10-08T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "2958c1444aeb",
       "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
@@ -1664,17 +1741,6 @@
       "published": "2026-10-07T16:00:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "b1141f83ad99",
-      "title": "Daily Search Forum Recap: October 7, 2026",
-      "url": "https://www.seroundtable.com/recap-10-07-2026-42249.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-07T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "a911b5e530cd",
@@ -4161,72 +4227,6 @@
       "published": "2026-09-24T11:51:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "f42c737c2935",
-      "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
-      "source": "Search Engine Journal",
-      "summary": "Google announced a new query fan-out framework that is described as ready for production-scale search. The post Google Announces New Query Fan-Out Framework: R4T-Diffusion appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-24T11:42:47Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "900f046fee10",
-      "title": "Google Business Profiles Tests Set Your Hours Automatically",
-      "url": "https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Business Profiles is testing a new feature to let it set your business hours for you automatically by just asking you to describe your business hours in text. Google will then use AI to interpret them and make them into a structured format to list on your local panel in…",
-      "category": "SEO",
-      "published": "2026-09-24T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b0362967b02f",
-      "title": "Google Ads Budget Recommendation Change With Forecast",
-      "url": "https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is showing some advertisers not just a recommendation with the ability to make a change on that recommendation but it is tied to the advertiser's forecast. It shows your projected weekly conversion value and adds that your campaign is limited by budget, and that you…",
-      "category": "SEO",
-      "published": "2026-09-24T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "86e0e00d6127",
-      "title": "Bing Tests Another Expandable Sitelinks Interface",
-      "url": "https://www.seroundtable.com/bing-expandable-sitelinks-interface-42111.html",
-      "source": "Search Engine Roundtable",
-      "summary": "We've seen Microsoft test variations of expanding sitelinks within the Bing search results before. But here is a different variation on that, one that expands and shows descriptions under the sitelinks after you hover your mouse cursor over the specific sitelink.",
-      "category": "SEO",
-      "published": "2026-09-24T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "42732f0ccdd5",
-      "title": "Google Tests Local Service Ads With Larger Image & Highlight Box",
-      "url": "https://www.seroundtable.com/google-local-service-ads-larger-image-highlight-box-42155.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a redesigned Local Service Ads design in the search results that have larger images and a highlight box under the listings. It makes the ads really stand out and in your face.",
-      "category": "SEO",
-      "published": "2026-09-24T11:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "151e172eba1b",
-      "title": "Google Tests AI Overviews On Hotel On Side Panel",
-      "url": "https://www.seroundtable.com/google-hotel-ai-overviews-42146.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing moving the AI Overviews from the top of the page to the bottom-right location for hotel searches. So when you bring up a hotel knowledge panel, you may see an AI Overview at the bottom of the page.",
-      "category": "GEO",
-      "published": "2026-09-24T11:11:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
