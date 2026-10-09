@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:02:07Z",
+  "updated": "2026-10-09T20:36:09Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -778,6 +778,42 @@
       "id": "6b2e207d309a"
     },
     {
+      "date": "2026-10-09",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "HeyGen Launches HeyGen Voice, Debuting at #1 on Artificial Analysis' Leaderboard",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHJUdjBXN2Zla2dIYlpvbWZORm1PNzJ5cXgyeDlPSEpvUmI0VmFxMnFDd1FJYXV4RzJDTWJseTljOTRoTmRjR2cwcWgzeEZvRHVaeXlLYktyU2xJN2M0WEZIMmlKR0dscXN0TUo2ZS1XMVN1aXZIZGxyR29rdnVxV1lqRWVkN2Q3TGxla1JKaTJocnl2bjk4ODlhdUQyZ0FIRXVFU1FtV19FYzVqaU5lUXBXY09sTFlEbXBSUFl5X3ZKQXZDbzFyeWZ3VlFXZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4d94403e2b9e"
+    },
+    {
+      "date": "2026-10-09",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "$200 Million",
+      "title": "HeyGen Launches Top-Ranked Voice Model as ARR Surpasses $200 Million",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRldISWIwVUpqVHpOZHN1UUJiS0Rsbmt1bzZiYm85QlNmRm9kdjBHYUtSb3NpR094anQtMjQ5czQ4N1V6ajRDMEl6T1lxckpmQTNMNEtiZDAteUJ6ZkQzb3pDYWZPcDZGZ1BSem9pUXhVTEZCRE9EdEtZNGpoRklkVHVTQ25SY2dhdXVSMzNCZFhjY1VqdEhZLXcxSVQzUTlVa3FBWnREQWpHRFVfaTIwS2dMTVk5UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "319f85dbea62"
+    },
+    {
+      "date": "2026-10-09",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Legaltech Rundown: Docusign Launches PDF Editor, Spellbook Releases Contracting Tool, and More",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXNhN0h3V0VCaF95Zkl6ZzF1YnlzVVItdGpXb19aaEZnOWU3Z21DdHlKaEhuS3ZENmtMLUF6Y182M2JXWWY3SEdCS3Q2WVBGMWVJMjRhb09nYmJZYVcxakZrR2t3NlNXQWhTS0Z6NU1qTlVhbnNuVGdKWktxTk9YOEw2eHBLLWh6Z05HMWRMblB5amVTZ1B6UlFweDFYb1p1dWd4dnlObDJnbVU1c0UyZV9nYXlqZ1A2V1BtbERBLXEzUlhNVWZBcmlvZldoUlEzVnZNaQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "cefb77ef73ac"
+    },
+    {
       "date": "2026-10-08",
       "company": "HeyGen",
       "front": "GenAI Media",
@@ -1448,42 +1484,6 @@
       "source": "Google News",
       "curated": false,
       "id": "804da8061493"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B",
-      "title": "ElevenLabs hits $22B valuation with employee tender",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3FaTHk1OU5yU0dIZTlhRXpfN2ZIeUFRdWd3OE5lWF80RkxLTC1JRkJJOWdVaG0xWmJMaFFhX1E4YzRCQ3c0SXBMZHZpNzlwNURTV01mRmhteTBqY2VadkI3bzBnZmUxeFZIaG50SkxVYzJ1SmRPanFfQ3lEdmRyS2hVZUk1Y1Rw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "48554ee5f6bf"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B · $300M",
-      "title": "ElevenLabs Doubles Valuation to $22B Through $300M Employee Tender Offer",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2JQV082eW5UcHB5czB0eTNSVmxaZEdoVVRFODZ1ZEhKWDd5dnRWa24yUV84dC00bWdpT3ZwdTI4N0ZsbVJ6bHZKMlozOFVYV21yR1BEaFdPWnVYYk5WZzhaNGd6Nl9YaGV4VG9qTGdZUUZLVnIyaXFoMVBNbVlJNGt5VjRjTjB1d3hRRzg1ajZzQUticlR4QUszRFZlUlhwczNCVUZydkRBT0dx?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ccceac7efbc7"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B",
-      "title": "ElevenLabs valuation doubles to $22B – four times that of AI music rival Suno",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXFJUXloS2FCR1lmVi1NNkpGZGRHa0pvSDVBdFRMTGd4b3JMQlRTalpRZUxjMGo1TmRmeHcwc21vcWxXQXlKWmtHRkRsX1ZsYlVnbTIyV2o3aXVJbS1hcVNBVW9ubDR3NGZRX0Jnb0xWeU1ZZF9jQTZmLUVJeWRiWGxUbVRKaTZuajcxZTRDaWp4WlgxQ2ZFSHNWYVdXd2Q5RmlFZkJpYm1rTHluVUZZNWZLblA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "11ba824757dd"
     }
   ],
   "items": [
@@ -1607,6 +1607,17 @@
       "published": "2026-10-09T07:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "90995f7dbc9c",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "category": "GEO",
+      "published": "2026-10-09T07:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "120044aa9055",
@@ -4205,6 +4216,17 @@
       "impact": 3.0
     },
     {
+      "id": "e34096097658",
+      "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+      "url": "https://openai.com/index/lowes",
+      "source": "OpenAI",
+      "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
+      "category": "GEO",
+      "published": "2026-09-25T07:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
       "id": "984954aa5876",
       "title": "WTF is NLWeb? — Whiteboard Friday",
       "url": "https://moz.com/blog/wtf-is-nl-web-whiteboard-friday",
@@ -4214,28 +4236,6 @@
       "published": "2026-09-25T07:00:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "69f2b5ec7d18",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
-      "source": "OpenAI",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-      "category": "GEO",
-      "published": "2026-09-25T00:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "751ea279c5c6",
-      "title": "The Versus Layer: Who Owns the Pages AI Uses to Compare Your Product?",
-      "url": "https://foundationinc.co/lab/versus-layer-ai-comparison-pages/",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Ask AI to compare your product with a named competitor. You might get an answer built from vendors that were never in the prompt. That’s what happened in our Applicant Tracking Systems (ATS) study. We asked Google AI Overview “I’m choosing between Greenhouse and Ashby for a…",
-      "category": "GEO",
-      "published": "2026-09-24T22:00:21Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
