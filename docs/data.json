@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:04:56Z",
+  "updated": "2026-10-09T04:55:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -793,6 +793,18 @@
       "id": "6964090a4f84"
     },
     {
+      "date": "2026-10-08",
+      "company": "Midjourney",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Beyond Now launches platform to unlock CSP AI revenue",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWNreDNWS1NVdXR3ZjlDUV9tWXlsVk5YdkIxWURFdGNQMWxseGw0TmJUZDlicmpzNDAzTy1aWkQ1UnFiSmtHN3BoUUhWYlBXMFVMaF9XWlBMYWFXbkJrMmVwWFo3R01henRCSzBSMmxFY1dpT040LUlRc0VEOGx1UkNxUkNxZmVNa29ncXZkUkx1ZUYt?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b0e425959725"
+    },
+    {
       "date": "2026-10-07",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -911,6 +923,30 @@
       "source": "Google News",
       "curated": false,
       "id": "f71da162ba0a"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Karnataka Government and ElevenLabs sign AI partnership, with Priyank M Kharge highlighting plans for voice restoration, AI safety and citizen services. The Department of ITBT has signed an MoU with ElevenLabs to explore Voice AI applications in governa",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmdwZENXUGFCLXU1TGFZYk1odFNLRVdRSjg1TTRoZTlJSllVTFVzT1B4clQ2WjBvN0JCOFEzQlpnMGQ3eTRES29xcFY4Q1lYRWZhMnppNzkzdzN4NVZWUmR5NHFiNEYzT1U4cXdDRVVCd3djb1FyRjFBLVE5RVhDa3FtNGt5TWxpbWp3aW1EdGU1Y1dudndXUk9MMkZKR01yTnFQbTVGanVLdEotY0NUbXZYZE9MZzV4LUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7925a454db25"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "HME Launches Nitro Vision AI for Drive-Thru Operations",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjMweHNDQ3EzWXNuTHZ4U2gyVWZ6Tm0tUndPcExUVUF2NlVBX0VhM2sxZnlrTDlCMEF3Vy13b0xjWTh1bWlPMk5telJnY2FUMVJLT2RTR0UwNTVpVFlBWFE1OHQtZG16Um1aYzd0cXdUNkRJT2xuY1VjTThVSWw1dkstUzE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "114c23bd56bc"
     },
     {
       "date": "2026-10-06",
@@ -1439,42 +1475,6 @@
       "source": "Google News",
       "curated": false,
       "id": "11ba824757dd"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "Midjourney",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ctrlc.ai Launches Free AI Image References and Prompts for Designers",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDFFNEk0MDZneVNEczlld040UFFQRUY1RjRqOVYzME5SelZCakNKNUE3aGt6RDFJaWxpWDFvaWliSHRqbFVaZjB6ZmlPLVZESFBRYVppYi1vcU5ld2VBZjV3QkVoUTB2MUNEWHA2LW0wX2lHMm5ndDNmOEc0RmNLNUVFYXFkNWF6ekdCRkJlRGQtZnJhTWxEZ2t1QkNtTXhjRDUtaEFPSUZEeE4xTUF5c01KTnl1RERlVDVUZA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e2a8f93c0404"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$400M",
-      "title": "Headline Closes $400M European AI Venture Fund",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSTVVcl9kMnNqREtxbFdvRks0bm1Bc1RjVlg0R3U5ZUh5eHZRdHpYSUxPakFtVkd2TTdSSlZSeUxudnd0R2VtaF9tZ1U0YjhNUzFCbWhNVldpWWlsdlN3a1dBUnV0RE9oUEVFQlhNc2xZRFl6Y3d2MEhtcHRHSVIyTjZtTVRDcVRhMGhQZ3JhQ3Ayc3JoYjhqUDB5X3czNGJ2N1FOOE5WamlNUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dc6ad677288d"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "Leonardo AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Ideogram says its new model can edit part of an image without messing up the rest - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjVxanl1TnBZT2RyV1ItZ2NoYThjOXA1c1pZZnpUWjNGUHpvZzI0a19IOVN6Rlk3NktQdDNQNEk4eHp6aC1wcDhCNVhCdkdzcmRoalBxZWFoaFlndHpkaTNQUlJTYW9RX3ZXdHdEWUs0M1V6Unc0VzRvWDNBLWV1MWllRmVTeG9xc1ZvVGhsbGMxR29PRG9id3JGWW1hMG5OVGJ3blFBMjMwQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "087da11a14e0"
     }
   ],
   "items": [
@@ -1587,6 +1587,17 @@
       "published": "2026-10-08T12:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "f6d3626eb7c8",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "category": "SEO",
+      "published": "2026-10-08T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "68d85cfe649a",
@@ -4214,17 +4225,6 @@
       "summary": "Block flattening can make weak AI Overview visibility look like a top ranking, so measure visits and conversions to assess search performance. The post Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-09-24T12:00:06Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "cfccc1decb6a",
-      "title": "Google Search Ranking Volatility Hits September 23rd & 24th",
-      "url": "https://www.seroundtable.com/google-search-ranking-volatility-42157.html",
-      "source": "Search Engine Roundtable",
-      "summary": "We are seeing significant volatility again within the Google Search rankings again, this time starting around September 23rd (maybe the 22nd) and throughout today. As we have been seeing, the chatter is generally slowing down as Google has been sending less and less traffic to…",
-      "category": "Algorithms",
-      "published": "2026-09-24T11:51:00Z",
       "coverage": 1,
       "impact": 6.0
     }
