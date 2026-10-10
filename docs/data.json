@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:41:23Z",
+  "updated": "2026-10-10T14:17:41Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -765,6 +765,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-10",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Daily Research News Online no. 40448 - Affinity Unveils Larger, More Stable US Retail Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qVlBlREkzRlVMei04ZG9FVzhFUWJYcGpwcnBteW1BX0toWGZDT2pRZnRNOXhIc2g2YTV0c3UwSWZ2dkR5NFJNVmNKQXNxQWJWdGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a0cb7d55e26b"
+    },
+    {
       "date": "2026-10-09",
       "company": "Topaz Labs",
       "front": "GenAI Media",
@@ -823,6 +835,18 @@
       "source": "Google News",
       "curated": false,
       "id": "fcc4ea2b9faf"
+    },
+    {
+      "date": "2026-10-09",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Legaltech Rundown: Ironclad Launches AI Contract Agent, Hotshot Introduces AI Hallucination Course, and More",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXNhN0h3V0VCaF95Zkl6ZzF1YnlzVVItdGpXb19aaEZnOWU3Z21DdHlKaEhuS3ZENmtMLUF6Y182M2JXWWY3SEdCS3Q2WVBGMWVJMjRhb09nYmJZYVcxakZrR2t3NlNXQWhTS0Z6NU1qTlVhbnNuVGdKWktxTk9YOEw2eHBLLWh6Z05HMWRMblB5amVTZ1B6UlFweDFYb1p1dWd4dnlObDJnbVU1c0UyZV9nYXlqZ1A2V1BtbERBLXEzUlhNVWZBcmlvZldoUlEzVnZNaQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c95a5fc8c1c5"
     },
     {
       "date": "2026-10-08",
@@ -1459,33 +1483,20 @@
       "source": "Google News",
       "curated": false,
       "id": "1a7155511807"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$400M",
-      "title": "Mistral and Black Forest Labs backer Headline closes $400M European fund",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3dMTTVUY0FyVHdYQ1cydDRybnhJaXN1VEtSLXJuTUw5VmpaWjIwVEo5RFVoZG9sNnhZVHhOYkI4c1RLMVFrUGxDeG53ZUF1Z2I0YTRGZC00ZlZPdEdYbTZiTFdRLTJSYlFGTGlHNlE2bU4wMXpPUFdyLUJTTGRuV1IwNjdpRF94MThOX3I0UDhIblhyb184b09YM3pveGdZ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1872705339a1"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "source": "TechCrunch",
-      "curated": false,
-      "id": "7b3e01f9b0ad"
     }
   ],
   "items": [
+    {
+      "id": "85d7c2685a0b",
+      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
+      "source": "Search Engine Journal",
+      "summary": "Google's spam update finishes, a talk recap puts site moves in months, Search Console combines countries, and new guidance targets fake author profiles. The post Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-10T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "3719825dcc38",
       "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
@@ -4224,17 +4235,6 @@
       "published": "2026-09-25T09:06:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "e34096097658",
-      "title": "Lowe’s answers millions of home improvement questions with OpenAI",
-      "url": "https://openai.com/index/lowes",
-      "source": "OpenAI",
-      "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
-      "category": "GEO",
-      "published": "2026-09-25T07:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
