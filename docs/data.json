@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:36:09Z",
+  "updated": "2026-10-10T04:41:23Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -9,7 +9,6 @@
     "Google Search Central",
     "Growth Memo",
     "Marie Haynes",
-    "Moz Blog",
     "Neil Patel",
     "OpenAI",
     "Ross Simmonds (Foundation)",
@@ -814,6 +813,18 @@
       "id": "cefb77ef73ac"
     },
     {
+      "date": "2026-10-09",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield Releases Video Editing Tool Katana, Powered by Claude Motion, Integrated with Claude via Higgsfield MCP",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QWW1vTnBoVE5ral9hUWVJZDlPNlhNdmliVGJRTXc2dnpoYVZ2ZFplcWJzNHRIaHN5QzF5STRWeVprT2dhMk9WTzVoTDFPLXlETS13aXBSQkdNUzUweVZ1M1JjQWx0NV9KNXFUMTY3QkN1aWJK?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fcc4ea2b9faf"
+    },
+    {
       "date": "2026-10-08",
       "company": "HeyGen",
       "front": "GenAI Media",
@@ -1472,21 +1483,20 @@
       "source": "TechCrunch",
       "curated": false,
       "id": "7b3e01f9b0ad"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "Ideogram",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Ideogram says its new model can edit part of an image without messing up the rest",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjVxanl1TnBZT2RyV1ItZ2NoYThjOXA1c1pZZnpUWjNGUHpvZzI0a19IOVN6Rlk3NktQdDNQNEk4eHp6aC1wcDhCNVhCdkdzcmRoalBxZWFoaFlndHpkaTNQUlJTYW9RX3ZXdHdEWUs0M1V6Unc0VzRvWDNBLWV1MWllRmVTeG9xc1ZvVGhsbGMxR29PRG9id3JGWW1hMG5OVGJ3blFBMjMwQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "804da8061493"
     }
   ],
   "items": [
+    {
+      "id": "3719825dcc38",
+      "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
+      "source": "Search Engine Journal",
+      "summary": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it. The post Google Explains How To Use HTML Sitemaps For SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-09T21:31:30Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "96728adaad01",
       "title": "Daily Search Forum Recap: October 9, 2026",
@@ -4225,17 +4235,6 @@
       "published": "2026-09-25T07:00:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "984954aa5876",
-      "title": "WTF is NLWeb? — Whiteboard Friday",
-      "url": "https://moz.com/blog/wtf-is-nl-web-whiteboard-friday",
-      "source": "Moz Blog",
-      "summary": "What is NLWeb? Crystal Carter explains how the Natural Language Web uses the ASK protocol and your structured data to prepare your site for the agentic web.",
-      "category": "SEO",
-      "published": "2026-09-25T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
