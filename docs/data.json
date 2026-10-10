@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:17:41Z",
+  "updated": "2026-10-10T19:50:58Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -777,7 +777,7 @@
       "id": "a0cb7d55e26b"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "company": "Topaz Labs",
       "front": "GenAI Media",
       "move": "M&A",
@@ -786,7 +786,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
       "source": "Google News",
       "curated": false,
-      "id": "6b2e207d309a"
+      "id": "f24f07651a6a"
     },
     {
       "date": "2026-10-09",
@@ -895,6 +895,18 @@
       "source": "Google News",
       "curated": false,
       "id": "b0e425959725"
+    },
+    {
+      "date": "2026-10-08",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "DocuSign Introduces New Application to Create, Edit PDFs",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG55bi03UTRRZkpXdmJGNDVsQVNpUjRxc1BOWjZEbl9UZzdEams5NkZNYlBqbU15SjczRXJBcHhjM2lQb0lQRks5NlVNblZjVm5TcFVwRnBvckVNMERsVGYwRDZHNVprWng1VF8zLUZXR1N1R093WDRwZExHc1BMeUxmTTkzZTc1VVdzeE5GbW5fQ3lSY0NkNTNJN1o5VXBwY3VBT19jSQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "51831373608d"
     },
     {
       "date": "2026-10-07",
@@ -1471,18 +1483,6 @@
       "source": "Google News",
       "curated": false,
       "id": "7064cf18a9e2"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "Synthesia",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Synthesia Launches Sessions Platform for Interactive AI Avatars",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlPbkdDWU9aZ2JJWVU5bGpodVZ6UDN2cjV1eUoydDNrTjF0eGpVZFBhb3A1Q0swSnZxdWNld2QzUzJUcF92ZWpuQVAycnNYNHZNSXJzOUlxblY4dDM1Yk9XRXBOMmtZZTlvaTY4OEJxNFdSZldtWklVMUkzd1lqZ3N6OW5NZk43X2dndGRB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1a7155511807"
     }
   ],
   "items": [
