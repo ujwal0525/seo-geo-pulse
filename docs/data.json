@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:50:58Z",
+  "updated": "2026-10-10T23:18:50Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -789,6 +789,18 @@
       "id": "f24f07651a6a"
     },
     {
+      "date": "2026-10-10",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Introduces ProSuite, Uniting Top Creative Tools for Designers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNE9LNXQ3OHRpbWs0N0ZtNm1id0tkUHIwTUI2OE5UM3ZuQXRjRkhrbU9zSnZ1NmlSQkx4STloMlkxcmtHOGNkeHd0Y2Y2T3pjV1NneTczMkUxaWJId1YwZk9vSjVETWxjOWpkRTBfTFVjWGl0dWFQR09JTTh4UWVRTDlfTlg2YXNoZU54OWQwbmh6dTltYkFTa1p3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5d544e2e0182"
+    },
+    {
       "date": "2026-10-09",
       "company": "HeyGen",
       "front": "GenAI Media",
@@ -1389,6 +1401,18 @@
       "id": "44bfe5820970"
     },
     {
+      "date": "2026-10-02",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "The last thing creators add, the first thing viewers notice: Why Adobe is introducing music, speech, and sound effect generation to Firefly",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwZG94RDA5dVB1TVdDRmRhSVhRYUM5TF9EeE1lS2tfcEl1ejNFWDJHU0o4NXEzUlNIbDQtNzNYcWJCV2NvdnRCU0FlUDdrb1BiN3lBclZUa2hBemhUYzVBZFZqd0ZVVHNySTZ6ekFDQ3BDcDRyZ2lJdnhn0gF_QVVfeXFMUF9PVEhqbVFTYXlhTThoY29OWjV3ZFNRSjhsY1NfX3dqU1VPN2N2TU5fN1c2SG1JdnAxREpUWWtUdWFkU2Zycnh3aUkxT3JVR0RUa25vYm5mUEVsd1NzUG1XSlJFTW5CS0xOeVdDMEpzOWdOa0U5dGk2YjA2WnFCSQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c4ffc6d364e3"
+    },
+    {
       "date": "2026-10-01",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1459,30 +1483,6 @@
       "source": "Google News",
       "curated": false,
       "id": "7cd4eb016c6a"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22BN",
-      "title": "ElevenLabs' Valuation Doubles to $22BN in Under a Year",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVGgtYzktNTg0OUdNZW91RGhYcVZtTWhoZTlOSjJTamNWRHBTbkhOdlJESjNMQ0pnaTdITUJwN3BBRUxmb3NYV2poVWktMDNCTjNCOGJIcWxQQWM1SldYcUlXVXB2QWotWGJEdUl3VllMSTVaR2FQNGFnZDN3aG1PV0pzYlhvNVExNF9kMjBGc2hhNF9TZTFqd1JYUkV5NGZDU1FCbXJSM3VBOGllMDlMYWttUlA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8acf217c6175"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22bn",
-      "title": "ElevenLabs doubles valuation to mammoth $22bn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVdPNDZQWk05V096QTJRbFRubzdHZXBoQUJ1SDVqb1VOV0h5eURmQnBxbFd1T25wbk9mby12Y2hBSXlRSDFDcll2LVZwREplc1F5dV9pdXpKc29ESi1raGxBRXNka19yX2pFSnh5eEtaMW5uaXhuNDUyc3dmU3VnTzZXTWk?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7064cf18a9e2"
     }
   ],
   "items": [
