@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:43:06Z",
+  "updated": "2026-10-11T19:57:55Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -873,6 +873,18 @@
       "id": "c95a5fc8c1c5"
     },
     {
+      "date": "2026-10-09",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Meta launches Vibes, an AI video feed to create short videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVl5U3BJSk0wWHlCeU9aVG1yQmpIcm16SklCRzFDQ2NpcWloSV9KQzNCbG14UHB3QU5tNHZiTDh4dTNaMWhENEFqdXZuTXdBNzRkY3pBaW5nRWE4aDE4ekI0ZXBiMkM2WVRZVV9PejBPNTBCbS1KRE9lWXo4Q3NLR1hPbmZEYkRrM0lEb2RDMzViSWNG?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3e143b533fdc"
+    },
+    {
       "date": "2026-10-08",
       "company": "HeyGen",
       "front": "GenAI Media",
@@ -1471,18 +1483,6 @@
       "source": "Google News",
       "curated": false,
       "id": "77f5d637ef1a"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B",
-      "title": "ElevenLabs Doubles Valuation to $22B Through Secondary Sale",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3ZjdUV5TkdVSE9LQmRWUkFJYXk1Q0xoNXdHQ3JuNnROclJXbWQ5bURkUkp3TXFfaXQwTVAzZnU2elpDMk91bC0xbjdPbkpJaEtjdDlfVVlOUkVDNVdnbFdqTW9TclQ5VXIxNW1ER3ViLUN1SkEtaUpsN2xaYmdMTlJzLUlVWVRkVFNhMkJGVDhwYlJHTHh4MUM2eU9wUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fe4d56072538"
     }
   ],
   "items": [
