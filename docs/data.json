@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:57:55Z",
+  "updated": "2026-10-11T23:38:53Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1486,6 +1486,28 @@
     }
   ],
   "items": [
+    {
+      "id": "37f47e4079d1",
+      "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
+      "source": "Search Engine Journal",
+      "summary": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The post Google Is Hiring To Generate AI Content For Discover appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-11T23:31:25Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d7e70a27c441",
+      "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
+      "source": "Search Engine Journal",
+      "summary": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions. The post Anthropic Says Claude Bypassed Site Limits During Internal Tests appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-11T22:07:32Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "6fa52a76f849",
       "title": "Google Search Console Performance Report Extremely Delayed",
@@ -4213,28 +4235,6 @@
       "published": "2026-09-25T11:21:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "0ee091dfa87c",
-      "title": "Google Posts Cracks Down On Unverified Contact Information",
-      "url": "https://www.seroundtable.com/unverified-contact-information-google-posts-42159.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google updated two of its Google Posts help documents to allow phone numbers in Google Posts only if they are verified contact information, but if it is unverified, it is not allowed.",
-      "category": "SEO",
-      "published": "2026-09-25T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e4bac353ba40",
-      "title": "Bing Tests Replacing Copilot With AI Mode In Search Tabs",
-      "url": "https://www.seroundtable.com/bing-ai-mode-search-tabs-42165.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing replacing or renaming the Copilot search tab in Bing Search with the name AI Mode. AI Mode is the name Google uses for its AI search engine, Bing uses Copilot Search, but Microsoft is testing using Google's name here.",
-      "category": "GEO",
-      "published": "2026-09-25T11:05:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
