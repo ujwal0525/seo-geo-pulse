@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:38:53Z",
+  "updated": "2026-10-12T04:41:52Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1089,6 +1089,18 @@
       "id": "114c23bd56bc"
     },
     {
+      "date": "2026-10-07",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$12.4b",
+      "title": "Singapore tech firms raise $12.4b in 9M 2026 on late-stage rounds",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUZlYzR0bmxzdC1QbDhFc2FCbk9ES0NsN01UQnd3anFoSjN4ZVI0VGdaWEc5bHByWFNRZ1RUbkVhOVBCNXVqcHFSclhlT3ZNS2ZyNHdfVVY1bGhZU0t3R0FpYlIwVWFDVndIX2F5cVZvNXpBRVl4YVVtMS1SUWtMMGRTa08xWW5FdXk2eQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fe4495f32bc3"
+    },
+    {
       "date": "2026-10-06",
       "company": "Topaz Labs",
       "front": "GenAI Media",
@@ -1183,6 +1195,18 @@
       "source": "Google News",
       "curated": false,
       "id": "c2fb0976b203"
+    },
+    {
+      "date": "2026-10-06",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Contentsquare Deepens Design Analytics Integration With Figma",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaVBMVlFkcWNCRTlDVEdLOXllUXJRM1FiTVNoTnprU0VSY0EyaFpWVmNHTzBxTjlfQlB0UzBBbFNiREhicGtubDR3djlBcUdWMEczc2Q4N1dqOFJQaW1iSTR4X1M2U2dqMVJGLVZvQUg4eXU3a2RGVV90ZXlZSEtKU3hGeUV1Z3RhTzdXQ2FJa1VUbkNBWlRkTHlnclRiODI2RG1OV2pLalphWnNSY1E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ebc3a144d109"
     },
     {
       "date": "2026-10-05",
@@ -1459,33 +1483,20 @@
       "source": "Google News",
       "curated": false,
       "id": "54259b58a1c6"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B",
-      "title": "ElevenLabs doubles valuation to $22B as it unveils humanlike voice AI - CHOSUNBIZ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94c0FXanRjSTJhSVQwNkhRMmlPQ0dJZF9sSEpydWhFMUk5TEFoOEpOVG4yLUh4MlVldi1tN1BxbmR3UllOZ2hZLWVoSEhZY0FuVDYyaGtRNzJiaHRHT2ZUVFRaVk9yQ3dDZHcyZzNEZzRyOFZVQlBQUDNR0gGOAUFVX3lxTE5WVzk5UkswdVNyakV4WE1vQzkzVmcxeGtpVGhtbzJ6WHJMdEpJMEVOX2R0NlBxWWs1aUwxZ0Q0Sm1VMVNoTUYxdXFKY1hjWGphVTM2dTFidlN6aDlNY3hqOVE1TWpVNUJkc19XUDB0UnhoRFNMM21ONWF3TmdhUlNYckhYM3pvN082ek91VHc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7db41cc80325"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B · $300M",
-      "title": "ElevenLabs doubles valuation to $22B with $300M employee tender as voice AI enters agent era",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTnVZMVctMUhSZzBuTTEwNFZ5dnBMRlUzdWhPcWpONmV5RS1vRlhkb1lueWhNUlU4Z2RVYllOWFZHU1NKUTRfclhjYUVUNHE1QTZQYXAwd2t1d0NyVzRjUkpjSGhHcU1jZDh2V29RdldOSEFMV2JTRU02OHVkTHo3VzlsSFhsYmJpWVV2Y3MwdE45UlFMX2xXSHJ2Ukp1ak03aVlnMWhmNVJZazlxS2ZNSF9KX3FuWi12QTA4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "77f5d637ef1a"
     }
   ],
   "items": [
+    {
+      "id": "fad6cddaffec",
+      "title": "Finding High-Value Converting Queries That Mainstream Tools Miss",
+      "url": "https://dejan.ai/blog/stealthy-queries/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "How to uncover high-converting, commercial search queries that show zero volume in mainstream SEO tools while keeping your sites invisible to competitors.",
+      "category": "SEO",
+      "published": "2026-10-12T02:28:53Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "37f47e4079d1",
       "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
@@ -4222,17 +4233,6 @@
       "summary": "Microsoft Bing is testing adding an editable icon in two formats on images within Bing Search that can be edited using Bing's AI image feature.",
       "category": "SEO",
       "published": "2026-09-25T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ef9cf56a3dad",
-      "title": "Google Ads Disables Editing Target ROAS While Promotion Mode Is Active",
-      "url": "https://www.seroundtable.com/google-ads-target-roas-promotion-mode-42150.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Did you know that you cannot edit your Target ROAS while promotion mode is active in Google Ads? Google will display a notification that reads, \"You can't edit your Target ROAS while promotion mode is active\" and then gives you the option to edit the ROAS tolerance instead.",
-      "category": "SEO",
-      "published": "2026-09-25T11:21:00Z",
       "coverage": 1,
       "impact": 4.0
     }
