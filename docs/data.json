@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T04:41:52Z",
+  "updated": "2026-10-12T17:28:13Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -16,10 +16,21 @@
     "Search Engine Roundtable",
     "Seer Interactive",
     "Semrush Blog",
+    "SparkToro",
     "Yoast",
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-12",
+      "family": "engine",
+      "platform": "Microsoft",
+      "title": "Bing & Copilot Experimenting With Microsoft-Decision-1",
+      "url": "https://www.seroundtable.com/bing-microsoft-decision-1-42270.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "a103c1d42b96"
+    },
     {
       "date": "2026-10-09",
       "family": "engine",
@@ -765,6 +776,42 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-12",
+      "company": "Krea",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$127M",
+      "title": "Fuse Group Joint Venture Secures $127M Construction Loan for Miami-Area Multifamily Property",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ocVhxSzRYNVlNSUJtV3lxRTBzZG9jcFBMTnlsODVsTEJRcTRiRGh1N3hvVVQydnh6U1ExZjdBNnNOQ3JZeEhLbF9CY3BOYzRqeGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2186f9d14cb2"
+    },
+    {
+      "date": "2026-10-12",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Introduces ProSuite to Unite Professional Creative Tools and AI Workflows",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWhaUTNqODZ4cXVralVXc1hlVTRDTFNpaHFrV1JPZDcxVkJ1MTIzbk56Nmw3NVdGVlhqeGJsME52dkJnXzdyM2VLdXFNRXR4ZHdLNDN3Vzh6U1ktX1BjMkc4Q2RlamhQSUI2YW9VX2k1T18zbi1ya0ZhRDdTOGdTZVBlTXpUSFBVNkRmTnJsWEhVekwwRFEzNlFYdm9pV2lPczNYdk0ySE1hM3pmNG5BWmtoeXc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4453516a496a"
+    },
+    {
+      "date": "2026-10-12",
+      "company": "airSlate",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "DocHub Launches the Visual Edit Feature to Change Any Document's Visual Look",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcTdmUUdlVy05NXN0UXRwdlN1TEZsSF9VeFZPWWw1NS1EU21CdlY5dUVKbGZacTNSNm1JSjFLY1FRN0NNbnluM0dYcGJkZXAtRVVZT3RtZUE0VmRzWjMyX3dGQWo0a1hEMnRlNWlkU0VJTU5xWmVGeFBWTUxYa0ptdDdJMHFfdXVUeXNraC0wcGZlWUVjUXRoa0NvUW5aWWptUV9JZkhhTWl5UFBmVWtBbmoyd1hzUmFJUjlTeXRBNjVSRks1SkcwQkN3T0JaYkVLT0gwS01jUDdibThWenRkMThkUHdqckkwblRReHBnbjRIdU9sVGZIaE9ZUWtJRnFfVDhtU2k5VVU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "de968c88cbaa"
+    },
+    {
       "date": "2026-10-11",
       "company": "Topaz Labs",
       "front": "GenAI Media",
@@ -1447,45 +1494,174 @@
       "source": "Google News",
       "curated": false,
       "id": "e64a2e468fe3"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "List of 41 Acquisitions by Adobe (Oct 2026)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjM2QUZzd1lyWmJaamJkcldUMVBhbUp5MXY4elJrTjdOWThTdlBmRGJvWHREZGZzajBtVW94RUkzTUFxUjhEVVBuTUI0UUszcmxzNE9jUldBVDJRUjBXamFVdGg3X2VoTWZZLVlNM2NoRnk4MkNpdDZpcnJuRDlMbG9PdzVmTGpmbGdLZThud0t4cTJTWXlBcDlVTTVrN1NJdWNF?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "44bfe5820970"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "The last thing creators add, the first thing viewers notice: Why Adobe is introducing music, speech, and sound effect generation to Firefly",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwZG94RDA5dVB1TVdDRmRhSVhRYUM5TF9EeE1lS2tfcEl1ejNFWDJHU0o4NXEzUlNIbDQtNzNYcWJCV2NvdnRCU0FlUDdrb1BiN3lBclZUa2hBemhUYzVBZFZqd0ZVVHNySTZ6ekFDQ3BDcDRyZ2lJdnhn0gF_QVVfeXFMUF9PVEhqbVFTYXlhTThoY29OWjV3ZFNRSjhsY1NfX3dqU1VPN2N2TU5fN1c2SG1JdnAxREpUWWtUdWFkU2Zycnh3aUkxT3JVR0RUa25vYm5mUEVsd1NzUG1XSlJFTW5CS0xOeVdDMEpzOWdOa0U5dGk2YjA2WnFCSQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c4ffc6d364e3"
-    },
-    {
-      "date": "2026-10-01",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 Billion",
-      "title": "ElevenLabs Hits $22 Billion Valuation in Employee Share Sale, Doubling in Eight Months",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LZFBJQVJibnBEd2QzQXhrSWF6WjBPcW1tcW1ydnNneXBObE5Jd2xrQnkwVG5aQXdKNVc0dDhJY09hUmQzWnZEU3FfZG15Y0VPVXpyWlVqZTAwRzkwOU0zY2c2d3hyMUlkRVpzTEJ2STE2OWRkSnc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "54259b58a1c6"
     }
   ],
   "items": [
+    {
+      "id": "d77d6fdc03be",
+      "title": "AI mentions ClickUp in 97.5% of answers. It recommends them 0 times.",
+      "url": "https://foundationinc.co/lab/vol-313",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Welcome back to What Matters This Week. Most AI visibility reports present a single number: how often the brand appears. ClickUp’s visibility number would make any team happy, but it hides something that decides the deals. In September 2026, the Foundation Labs team ran 21…",
+      "category": "SEO",
+      "published": "2026-10-12T15:31:44Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "44fc18cea8aa",
+      "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
+      "url": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
+      "source": "Search Engine Journal",
+      "summary": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-12T14:30:17Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d2e477dd6bd1",
+      "title": "Shopping is part of the product",
+      "url": "https://www.growth-memo.com/p/organic-growth-in-e-commerce-in-2027",
+      "source": "Growth Memo",
+      "summary": "AI might grow the e-commerce industry, but merchants need be excellent across the whole experience to leverage it.",
+      "category": "SEO",
+      "published": "2026-10-12T14:29:07Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "116d03e87a16",
+      "title": "Daily Search Forum Recap: October 12, 2026",
+      "url": "https://www.seroundtable.com/recap-10-12-2026-42274.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-12T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "01dbe4ef5f38",
+      "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
+      "url": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
+      "source": "Search Engine Journal",
+      "summary": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them. The post Your First 30 Days As A Growth Leader – The Challenge From Day One appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-12T12:00:07Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "015e9824d077",
+      "title": "Third-Party Google Rank Tracking Struggling Now",
+      "url": "https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be successfully blocking enough of the attempts of scrapers from trying to scrape data from its search results page over the past few weeks than it has in a long time. We reported this a few weeks ago, and I am surprised to see that many tools still struggle with…",
+      "category": "SEO",
+      "published": "2026-10-12T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7459c6483c73",
+      "title": "Google Ads Tests Using Google AI For Goals & Assets",
+      "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
+      "category": "SEO",
+      "published": "2026-10-12T11:41:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b18834cef10d",
+      "title": "Bing & Copilot Experimenting With Microsoft-Decision-1",
+      "url": "https://www.seroundtable.com/bing-microsoft-decision-1-42270.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft announced Microsoft-Decision-1 last week and it is already being experimented with in both Bing Search and Copilot. Microsoft-Decision-1 is a \"decision-scoring model delivers top performance in latency and quality on structured decision tasks to outperform both LLMs…",
+      "category": "GEO",
+      "published": "2026-10-12T11:31:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "ccb843a3a2af",
+      "title": "Google AI Overviews For Typos & No Search Results",
+      "url": "https://www.seroundtable.com/google-ai-overviews-no-results-42275.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Yes, Google often shows AI Overviews when Google Search cannot match specific web pages or when it thinks your query is a typo. In fact, Google AI Overviews can respond by saying, \"It looks like your message might have been a typo or random keyboard input.\"",
+      "category": "GEO",
+      "published": "2026-10-12T11:21:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "1928c1ff7a96",
+      "title": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
+      "source": "Search Engine Journal",
+      "summary": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-12T11:13:13Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2ccd5f5dcb01",
+      "title": "Google: Poor Image Quality Won't Stop Products From Showing In Search Or Ads",
+      "url": "https://www.seroundtable.com/google-merchant-center-poor-image-inclusion-42273.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated its Google Merchant Center low image quality help document to now say that poor image quality will not stop those products from showing in Google Search or Google Ads.",
+      "category": "SEO",
+      "published": "2026-10-12T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2e2756025d83",
+      "title": "How to build an AI visibility dashboard with Semrush",
+      "url": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
+      "source": "Semrush Blog",
+      "summary": "Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks.",
+      "category": "SEO",
+      "published": "2026-10-12T09:45:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "53f692430323",
+      "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
+      "source": "Search Engine Journal",
+      "summary": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic’s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-12T09:31:25Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4564da040883",
+      "title": "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)",
+      "url": "https://ahrefs.com/blog/query-fan-out-chatgpt/",
+      "source": "Ahrefs Blog",
+      "summary": "We wanted to see for ourselves how ChatGPT retrieves information—and what that means for AI visibility—so we analyzed 66.6 million free, logged-out GPT-5.6 Luna responses and their 15 million fan-out queries from August and September. Only 14.4% of the 66.6 … Read more ›",
+      "category": "GEO",
+      "published": "2026-10-12T08:55:12Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "72f95244aa6c",
+      "title": "What Pokemon Pokopia Taught Me About the Future of Marketing",
+      "url": "https://sparktoro.com/blog/what-pokemon-pokopia-taught-me-about-the-future-of-marketing/",
+      "source": "SparkToro",
+      "summary": "I have a marketing prediction: “Made entirely by humans” will become a premium signal. As AI tools make it easier than ever to produce more content, the work that exhibits human creativity and originality will become more valuable. I think we’ll start to see people seeking out…",
+      "category": "SEO",
+      "published": "2026-10-12T05:26:57Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "fad6cddaffec",
       "title": "Finding High-Value Converting Queries That Mainstream Tools Miss",
@@ -1551,17 +1727,6 @@
       "published": "2026-10-09T21:31:30Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "96728adaad01",
-      "title": "Daily Search Forum Recap: October 9, 2026",
-      "url": "https://www.seroundtable.com/recap-10-09-2026-42266.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google launched a new UGC fresh data program document that Reddit...",
-      "category": "SEO",
-      "published": "2026-10-09T14:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     },
     {
       "id": "cc98ca7457f1",
@@ -4081,160 +4246,6 @@
       "published": "2026-09-28T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "bf0fe8cc388a",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "category": "GEO",
-      "published": "2026-09-28T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "3f62cfb285dc",
-      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/",
-      "source": "Search Engine Journal",
-      "summary": "Google's September spam update may take up to two weeks, Search Console adds image-based search data, reports look at traffic from Search and AI Mode. The post Google Spam Update, Image Search Data In GSC – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-26T12:00:46Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "619b955b5555",
-      "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/",
-      "source": "Search Engine Journal",
-      "summary": "Strip the visual layer and a machine can still use a website. Strip the structure, as markdown does, and it can only read about it. The post The Text-Only Version Of Your Website Strips Out The Wrong Layer appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-25T19:00:09Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d2d497e5eee4",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "category": "GEO",
-      "published": "2026-09-25T19:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "6716422ec3c2",
-      "title": "Data: Your Edge for AEO/GEO",
-      "url": "https://neilpatel.com/blog/original-data-ai-citations/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Original research gives brands something valuable in an increasingly crowded search landscape: information that isn’t available everywhere else. That advantage may become even more important as AI search changes how people discover information. A recent Search…",
-      "category": "GEO",
-      "published": "2026-09-25T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "685b329c3685",
-      "title": "AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/",
-      "source": "Search Engine Journal",
-      "summary": "AI models are everywhere. The data you feed them isn't. Mallory Gray of Skydeo explains why audience signals, not mention counts, decide who buys. The post AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-25T14:30:43Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b52e852c276f",
-      "title": "How to Optimize for AI Search: A Guide for You and Your AI Agent",
-      "url": "https://ahrefs.com/blog/how-to-optimize-for-ai-search/",
-      "source": "Ahrefs Blog",
-      "summary": "It might sound like a completely new discipline. For the most part, it isn’t. Google says its AI search features still rely on its core search systems. Your content still needs to be crawlable, indexable, and useful. Microsoft says that … Read more ›",
-      "category": "SEO",
-      "published": "2026-09-25T13:48:53Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "28de4c7a6150",
-      "title": "How to make the most of your 7-day Semrush free trial",
-      "url": "https://www.semrush.com/blog/free-7-day-semrush-one-trial/",
-      "source": "Semrush Blog",
-      "summary": "Here are 6 ways to use Semrush during your free trial to improve your search + AI visibility.",
-      "category": "SEO",
-      "published": "2026-09-25T13:26:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "60451146909f",
-      "title": "Google Has Deployed A New AI Spam Detector Called SAFE via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/",
-      "source": "Search Engine Journal",
-      "summary": "Google's new system for catching AI content spam has already been deployed. This is why it may be a part of Google's Spam Update. The post Google Has Deployed A New AI Spam Detector Called SAFE appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-09-25T12:47:46Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "c54a410b6004",
-      "title": "Search News Buzz Video Recap: Google September 2026 Spam Update Is Here, Goodbye Discover Traffic, Multimodal Search Reporting & CrUX Ad Metrics In Page Experience",
-      "url": "https://www.seroundtable.com/video-09-25-2026-42164.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week, Google announced yet another spam update, the fourth of the year, the September 2026 Google spam update. Prior to that, we reported on more Google Search ranking volatility. Google Search Console released multimodal search filters...",
-      "category": "Algorithms",
-      "published": "2026-09-25T12:01:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "b712553f9799",
-      "title": "Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/",
-      "source": "Search Engine Journal",
-      "summary": "Google's AI Overview links can lead to websites or AI Mode, and Search Console measures those interactions differently. The post Google AI Overviews Have More Links, But Not All Reach The Web appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-25T12:00:57Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "0b6c0ce4a8d2",
-      "title": "OpenAI Has Quality Raters, AI Trainers, & They Cheated With AI",
-      "url": "https://www.seroundtable.com/openai-quality-raters-ai-trainers-42149.html",
-      "source": "Search Engine Roundtable",
-      "summary": "As you know, Google has thousands of quality raters they use to help test and improve the search results and AI results. OpenAI does the same thing, with AI trainers according to a report by 404 Media.",
-      "category": "SEO",
-      "published": "2026-09-25T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d938409544e6",
-      "title": "Google LSAs Showing Google Business Profile Number, Not Google Ads Number",
-      "url": "https://www.seroundtable.com/google-lsa-phone-number-42160.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to have made a change in which phone number they use for tracking calls, even when you tell Google to use the Google Ads number, it is still using the Google Business Profiles phone number. I am told this is a confirmed change and Google still has not changed it…",
-      "category": "SEO",
-      "published": "2026-09-25T11:41:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "d56cff0171b5",
-      "title": "Bing Testing Editable Labels On Images",
-      "url": "https://www.seroundtable.com/bing-images-editable-labels-42152.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is testing adding an editable icon in two formats on images within Bing Search that can be edited using Bing's AI image feature.",
-      "category": "SEO",
-      "published": "2026-09-25T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
