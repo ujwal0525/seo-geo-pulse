@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:28:13Z",
+  "updated": "2026-10-13T01:52:06Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -992,6 +992,18 @@
       "id": "51831373608d"
     },
     {
+      "date": "2026-10-08",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22B",
+      "title": "Anthropic Under Threat | Cognition vs Factory | ElevenLabs Doubles Its Valuation to $22B｜20VC",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vQWU1di14eG9WWEx1X19ON1pzVUtPRkd5RGZxbUJJc0xraDh0MGhYZFpsZHlyUDJUZFVvMDRaX2p6dXdrbnRJWmxQdXE0dFJwUzNwVlUyd3Vud3RBZHZZ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "79d12120cb5f"
+    },
+    {
       "date": "2026-10-07",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1482,21 +1494,75 @@
       "source": "Google News",
       "curated": false,
       "id": "f96b6214ce1d"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "FLUX 3 Image Launches: Specs, Pricing, Benchmarks and Model Comparisons",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02MXcxeG5RTjNkbnFNcDNBck1TeWMzNU1uT1RsREpfNW5BUXdZQnhIazVzVFh5UVRrdnNGbEVyVDZxVEZkcWlMMklPbDRLd1JDTlBtZmdWOTVZZUlhM25mU2xFeDdFeGVGQXJhRDlNTUI?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e64a2e468fe3"
     }
   ],
   "items": [
+    {
+      "id": "deb25df6b348",
+      "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
+      "source": "Search Engine Journal",
+      "summary": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-12T22:16:40Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1f56c3bd8e8a",
+      "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
+      "source": "Search Engine Journal",
+      "summary": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites. The post All In One SEO WordPress Plugin Vulnerable To Two Exploits appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-12T21:51:53Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "559be18e9351",
+      "title": "Ubersuggest & AnswerThePublic: Up Your SEO Game",
+      "url": "https://neilpatel.com/blog/ubersuggest-and-answer-the-public/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Search listening still gets you ahead in the SEO game. It just means something bigger now. Hear me out. Google averages 3.5 billion searches a day. About 20% of those have never been typed before. Every search is a window into what someone actually thinks, wants…",
+      "category": "SEO",
+      "published": "2026-10-12T19:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "6b1568fbd094",
+      "title": "ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
+      "source": "Search Engine Journal",
+      "summary": "Government health, research, and regulator sites climbed ChatGPT's U.S. citation ranks while explainers fell. The post ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-12T18:41:59Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "8faa4cf19481",
+      "title": "The Industry Mourns The Loss Of Nick Wilsdon - Loved By Industry",
+      "url": "https://www.seroundtable.com/rip-nick-wilsdon-42280.html",
+      "source": "Search Engine Roundtable",
+      "summary": "I am sad to report that Nick Wilsdon has passed away yesterday, October 11, 2026. Nick Wilsdon has been in the SEO industry for over two decades and was a close friend to many in the search marketing industry.",
+      "category": "SEO",
+      "published": "2026-10-12T18:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e55ef4c09ea6",
+      "title": "Claude Got Guidelines, Now What?",
+      "url": "https://ipullrank.com/claude-geo-guidelines",
+      "source": "iPullRank (Rank Report)",
+      "summary": "On October 8, Anthropic published its 2026 Usage Policy update, and most of the coverage will focus on weapons, surveillance, and elections. That makes sense, because those are the headline risks. But if you work in search, there is one bullet in the new Usage Policy that you…",
+      "category": "GEO",
+      "published": "2026-10-12T17:30:39Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "d77d6fdc03be",
       "title": "AI mentions ClickUp in 97.5% of answers. It recommends them 0 times.",
@@ -2308,8 +2374,8 @@
       "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "category": "GEO",
       "published": "2026-10-07T00:00:00Z",
-      "coverage": 2,
-      "impact": 9.0
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "94e63c8f5709",
@@ -4180,72 +4246,6 @@
       "published": "2026-09-28T09:45:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "b3cc9d597c8c",
-      "title": "The usefulness of attribution for AI Search",
-      "url": "https://www.growth-memo.com/p/the-collapse-of-attribution",
-      "source": "Growth Memo",
-      "summary": "Click-based attribution hasn’t been ideal for non-paid channels for a long time. AI puts a lid on it. (Featuring George Bonaci, VP Growth @ Ramp)",
-      "category": "GEO",
-      "published": "2026-09-28T09:42:25Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7d6a53ed3848",
-      "title": "10 SEO best practices for Google and AI search",
-      "url": "https://www.semrush.com/blog/seo-best-practices/",
-      "source": "Semrush Blog",
-      "summary": "SEO best practices that hold up in AI search, where Semrush found the average visitor is worth 4.4x an organic one.",
-      "category": "GEO",
-      "published": "2026-09-28T09:18:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "28cdfc0e0085",
-      "title": "From Discovery to Booking: UCP Lodging and the Agentic Web for Travel",
-      "url": "https://wordlift.io/blog/en/ucp-lodging-and-the-agentic-web/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "After meeting UCP creator Amit Handa at the W3C × GS1 workshop in Zurich, I wanted to understand what the protocol really means for travel. Using Alpina.travel as a live example, this article shows how entity memory, live availability and UCP Lodging can move AI from discovery…",
-      "category": "SEO",
-      "published": "2026-09-28T08:54:19Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "216d56bba26c",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "category": "SEO",
-      "published": "2026-09-28T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "fda646d0ea5b",
-      "title": "Google's 28th Birthday Doodle Takes You To Google AI Mode Quiz",
-      "url": "https://www.seroundtable.com/googles-28th-birthday-doodle-42171.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Today is Google's 28th birthday and Google has a special Google Doodle to celebrate. The Doodle takes you back in time to an early Google logo. Plus, when you click on the Doodle, you are taken into AI Mode where you can take \"a fun trivia quiz about Google's company lore…",
-      "category": "GEO",
-      "published": "2026-09-28T00:17:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "914f14710638",
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "category": "SEO",
-      "published": "2026-09-28T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
