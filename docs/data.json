@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T01:52:06Z",
+  "updated": "2026-10-13T11:29:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -776,6 +776,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-13",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "After Failed Shutterstock Merger And NYSE Delisting, Getty Plans Chapter 11 Bankruptcy",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2NVODdaUHBIVG5aYWFSdU00OVZ4VkoxRVJYTzZtWEtKYXkxU21QZzRxN0lENkdxWXhzMmU1bkFQTkpHeWFtU01TY3JCNlZlUE03Qks2RzNFWXk3MlJkZnd5X2dMUkFlTEdEbGhNWG04dVpqbkFWdGNrRmFsSEowUWJIZVhfeHRPZmVBaGd3Q2hUcUtfWUpDWmMtbV9ENklvcXJRRFhFX1lFZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "52eee16141e8"
+    },
+    {
       "date": "2026-10-12",
       "company": "Krea",
       "front": "GenAI Media",
@@ -930,6 +942,18 @@
       "source": "Google News",
       "curated": false,
       "id": "3e143b533fdc"
+    },
+    {
+      "date": "2026-10-09",
+      "company": "Framer",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Wiltshire agency launches website service combining SEO and design from the start",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjRKcm85N3RzcmlBNnNWOWlOVjJhUml2b2YxY05NcHFleEZpakN4U3JiRmJGRGR5U0VDMWU1Z1oyV0FlU240cUNqZjNnTFFKbDFpYXh6LXMzTTRBaE5uQWh5Tzg2QjVOaHFoSEtJR1VaR3hRQUR1QlJ1SGNTRHVnb0p4aXRpRVpQMnNPTHBjUEp2V1RhY0c2M2JMeGh0bkVmWVE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e50765cc61c6"
     },
     {
       "date": "2026-10-08",
@@ -1470,33 +1494,42 @@
       "source": "Google News",
       "curated": false,
       "id": "b2d73393f10c"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway introduces Praxis-1 world action model for robotics",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNME9VdncwOHBES21xREdFNVpXVWhjYzFaMXloR1JmUjlpVjl3ZlpSSzBhdkkwcWJja29RSU1OV0R0V2hFQUVrNHphOVd0aGxZeG4yYWNiYXBkQ3J1MUthUUk0T1NySWdXQm95bmo5aG43MERPV2ZRSlBvYlREeEFkakFyUnlxRU8waE1PTWNrcw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "36b6f303f39a"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0ZQeU51bVd3MkJLRHFzOTFuU000b1dnSW9HNGJzSjE2Y3BDa3pDMDZmaE1BT3lLVnpiNWE4MkZjRVIwMXR4d29Tc0U1STV5TlVtekhFTmxGWVRkcExva1pJOGNRc0xWY2x4MGhWdDFPR0ZPLWU3N0R5aDFSWk1OX2hVRVpDNUFUV21BTTYwMnFfSk4zZ2IwU0pFWEE4RE9BQ2ZHN3ZEUE1fUVNiSFhwbjJVN014Y1hmaTlial9hSW1XemdVQV9uRlQ3RQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f96b6214ce1d"
     }
   ],
   "items": [
+    {
+      "id": "dd25917b28a8",
+      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
+      "source": "Search Engine Journal",
+      "summary": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-13T11:23:58Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8ed7e287ee16",
+      "title": "AI Search for the Procurement Professional",
+      "url": "https://ipullrank.com/ai-search-for-procurement",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Somewhere in your inbox right now is a proposal for “GEO.” Or “AEO.” Or “LLMO,” “AIO,” or “AI SEO.” Five names, one thing, and nobody has sat you down and explained it in language that doesn’t assume you already work in marketing. That’s what this is. Here’s the bigger picture…",
+      "category": "GEO",
+      "published": "2026-10-13T11:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8ab30babc9a1",
+      "title": "Yoast SEO 28.7: more Abilities updates and our yearly code cleanup",
+      "url": "https://yoast.com/yoast-seo-oct-13-2026/",
+      "source": "Yoast",
+      "summary": "You can now use your AI tool to update titles, meta descriptions, and social previews. This release also includes our yearly cleanup of deprecated code. The post Yoast SEO 28.7: more Abilities updates and our yearly code cleanup appeared first on Yoast .",
+      "category": "SEO",
+      "published": "2026-10-13T07:35:10Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "deb25df6b348",
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
@@ -4213,39 +4246,6 @@
       "published": "2026-09-28T11:21:00Z",
       "coverage": 1,
       "impact": 8.0
-    },
-    {
-      "id": "c7e968ffe884",
-      "title": "Google Merchant Center API Help Document Vastly Updated",
-      "url": "https://www.seroundtable.com/google-merchant-center-api-help-doc-update-42137.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has completely revamped the Google Merchant Center API help document page. It was previously named \"API access to Merchant Center\" and was renamed to \"Google Merchant Center API.\" Plus, the content on the page has been completely rewritten and expanded.",
-      "category": "SEO",
-      "published": "2026-09-28T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0d1121af169a",
-      "title": "Google Search Profiles Follow Button Removed From Desktop Search Results",
-      "url": "https://www.seroundtable.com/google-search-profiles-follow-button-removed-42169.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to have removed the Follow button from the desktop search results page, but it is still on the mobile search results page. The follow button lets you quickly follow a Search profile for the individual or brand you searched for.",
-      "category": "SEO",
-      "published": "2026-09-28T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e4c0c68320cd",
-      "title": "Google Tests More Sitelinks Designs",
-      "url": "https://www.seroundtable.com/google-test-more-sitelinks-designs-42172.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google continues to test variations of designs and user experiences for Sitelinks within its search results. The new design spotted has the Sitelinks listed line by line, with a horizontal line across the left side of the mobile search result snippet.",
-      "category": "SEO",
-      "published": "2026-09-28T09:45:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
