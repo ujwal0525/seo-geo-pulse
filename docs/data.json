@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:58:49Z",
+  "updated": "2026-10-13T23:38:24Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -823,6 +823,18 @@
       "id": "7fb7e299c023"
     },
     {
+      "date": "2026-10-13",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Why is Getty Images filing for bankruptcy? Failed Shutterstock merger and AI pressure explained",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWTgzbkdiSUJ6MEZTTm90NVlOU3lJZmVvX0NZYVhJUl9ydjFtemYzZ1ZnT1ZOWk5qcUthUDhmdjc3VXJja2lZSVlpWW5DR3ZzVTR2cS16c1hCV1RRQS1Zc05qdm1oWDd1d3E1T0NLenlqSUROcTE4bjlMRmJGeTlQaVU4elM1OUpMTG1WOG5rekVoRURiWmlDNFJHWmhzb2gwbHFYZ3U2YlNacU5CYVBnZUpwSlNPbXlubjk3SWlxb1M3M1JMVVZqUVVLLWZXMEpBLV84NVZXOEZNSDNQQlRUdFpBeW1RMVZ3S3h2MTNB0gHzAUFVX3lxTE1fcWp4UHZJUmxkU2VLVlY0cmR3bjJORGFCZmgxSWZuQnRfUE1OelFZNnRrZFJwcDV0eXY1aDY3Qm9NUFE3dWZOWTh4WmFBdzZVTElncldDVXBIMFM4aXM4WXprV0JZVUdzN3pDeHhmWV9BMUh0SWVIbGI0QWlxcEFYRmVaQ2c5NXBNUnNUZDRJUkc1RXl3Y2luZXpBclc1c2UyRGN5bXBsRWNyeWhJOXJhdy1ZcFJZUll0dERhNm1Kb3AtUkRIcHlCZm5kU1F2cnNCQXpaZnlBRF9qOGZxVEtZZzJZOFp4SlBTY1ZEYlFCaW9ybw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "920fcd13db8d"
+    },
+    {
       "date": "2026-10-12",
       "company": "Krea",
       "front": "GenAI Media",
@@ -989,6 +1001,18 @@
       "source": "Google News",
       "curated": false,
       "id": "e50765cc61c6"
+    },
+    {
+      "date": "2026-10-09",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "SERHANT launches AI avatar; PLACE acquires mortgage tech firm",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2oxMTdTUWF1STdCRVBxYmdraFJMdDhaeDA1NDhaVUxUQXVKS0pERjlKeXFfc3MtalBPV2pXcGFDVTVHdmEyaDMzblFjZnpWS2JIa1BETWZFaTVmd2ZfdTFRYVFQQ2Zod182ZkRmTmFBM3daYXNOUHFuZm1mb2lDZ2pxalNGVWxvS081cEhlc3Fza0J3RGRVVVhNQlVTdlFGcjJZ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3a8687e00a4e"
     },
     {
       "date": "2026-10-08",
@@ -1481,33 +1505,31 @@
       "source": "Google News",
       "curated": false,
       "id": "9cd12ce95d41"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "FLUX 3 Image, an AI image generation tool, has been released. It boasts advanced features such as 'up to 4K generation,' 'subject positioning,' and 'partial editing,' and an open-source version is expected to be released in a few weeks.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0TVU5TjZpeUdIeEtJMkhZYjZBUXVvN0ZpWHlfRmFGSzEwNXprTnpSMmhsT2JXSE5vRm5NN1NIM3dXeTZWV2hjMV9fOEJ3bFNBcEpJU2JWUkw0Sl9Ma1NlVTlIVlh5Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2180cdb9b1c4"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Adobe and Topaz Labs: How the Acquisition Could Change AI Photo and Video Editing",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcFFWTjlSc2pCbEZROENXQzM3UFVsUTBJdWE0LTNMa1dKZlhzYVZabG1reWcwQW1rSFAzcUI3OGFYZ0o0azA2dGM5OXdWZG1tTTY5Y0w4b3U1ektFM2dqb29tYjBlLXMtQUhFeFhjaWNUREltUFNlRENiR1J4UHNxU0pBQ0tvcFZvV0IwWnlWei1ZZ0M4c2FqT0YzaUhDSjJndTc5T3JQSU9KRURpZlJ6SGtMdkxKNl9od1JpMmdNR1I3M0VpR2xmQzA0NUFYdkM0b1lFczNuZWs3ZWJ4NTBPedIB4AFBVV95cUxPcFFWTjlSc2pCbEZROENXQzM3UFVsUTBJdWE0LTNMa1dKZlhzYVZabG1reWcwQW1rSFAzcUI3OGFYZ0o0azA2dGM5OXdWZG1tTTY5Y0w4b3U1ektFM2dqb29tYjBlLXMtQUhFeFhjaWNUREltUFNlRENiR1J4UHNxU0pBQ0tvcFZvV0IwWnlWei1ZZ0M4c2FqT0YzaUhDSjJndTc5T3JQSU9KRURpZlJ6SGtMdkxKNl9od1JpMmdNR1I3M0VpR2xmQzA0NUFYdkM0b1lFczNuZWs3ZWJ4NTBPeQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "14657a55f8a5"
     }
   ],
   "items": [
+    {
+      "id": "e4f1265b2f96",
+      "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
+      "source": "Search Engine Journal",
+      "summary": "Experimental Core Web Vitals that count in-app page changes are now in the Chrome UX Report, with Search Console set to follow. The post Google Adds Experimental Soft Navigation Metrics To CrUX appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-13T21:31:39Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9275f36d165e",
+      "title": "Google Search On PDFs: Conversion, Links, HTML, Ranking, Limits, Crawling...",
+      "url": "https://www.seroundtable.com/google-search-on-pdfs-42291.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's Martin Splitt and John Mueller just posted a Search Off the Record podcast on the topic of PDFs, it is named PDFs in Search: Indexing, AI & Pitfalls. It goes over how PDFs are converted for crawling and indexing, how Google processes links, images, what are the file…",
+      "category": "SEO",
+      "published": "2026-10-13T19:27:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "faccdeabb0de",
       "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
@@ -1584,6 +1606,17 @@
       "published": "2026-10-13T12:00:05Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "ffc748cb8d88",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "category": "GEO",
+      "published": "2026-10-13T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "a91f7954e3ec",
@@ -4224,39 +4257,6 @@
       "published": "2026-09-28T20:30:29Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "82587e57fcd9",
-      "title": "Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/",
-      "source": "Search Engine Journal",
-      "summary": "A court brief quotes an OpenAI engineer saying users \"won't click\" links and cites Microsoft data on lower CTRs in Bing Chat than in search. The post Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-28T20:23:46Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5700786de3bb",
-      "title": "MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/",
-      "source": "Search Engine Journal",
-      "summary": "SEO and paid media managers can strengthen their promotion case by proving AI's net gains and building a reskilling plan for their teams. The post MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-28T19:00:01Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "cfe8e900401f",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "category": "SEO",
-      "published": "2026-09-28T19:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
