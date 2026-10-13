@@ -1,9 +1,10 @@
 {
-  "updated": "2026-10-13T11:29:05Z",
+  "updated": "2026-10-13T18:58:49Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Andrea Volpini (WordLift)",
+    "Bing Webmaster",
     "Dan Petrovic (DEJAN)",
     "Google (Search)",
     "Google Search Central",
@@ -21,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-13",
+      "family": "engine",
+      "platform": "Microsoft",
+      "title": "Introducing Topics Portfolio (Beta) in AI Performance",
+      "url": "https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/",
+      "source": "Bing Webmaster",
+      "curated": false,
+      "id": "0434fb3f11e3"
+    },
     {
       "date": "2026-10-12",
       "family": "engine",
@@ -788,6 +799,30 @@
       "id": "52eee16141e8"
     },
     {
+      "date": "2026-10-13",
+      "company": "Synthesia",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$10M",
+      "title": "Clueso raises $10M for AI agents that make corporate video",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tV2swdVhKVnB0S3g5enJEUlRmT0w3Z1BwS1BuN1paNzJWUThJamRTXzRUMWlVMDMyeWthN1kyRG9hMm9jRTk0VHhlR3g3V3dWZFB5eW1vMUtsbmR5UG1FdDJqeC1xSVhlRVhVdQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a550a0c6a194"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Getty Images is going private after failed Shutterstock merger",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQjNjNlpFZ1JNUHV2a3dGT0IzLUpRVF9tZ0pkRE04Q05Dc2pJZ3lJRnhtT1dTeXJVNHZCQ0FmTER4SUNPd2l4c0ROWmdmU3lkS0R3UWdjRk9nQWFJNDdiaG5scnFfd2U2SFdlZkRsRHAwUjRTMUtRZ04tWTR5ajdyT1lET1VhcDVNcGQtRXJjRnZTcGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7fb7e299c023"
+    },
+    {
       "date": "2026-10-12",
       "company": "Krea",
       "front": "GenAI Media",
@@ -1470,33 +1505,119 @@
       "source": "Google News",
       "curated": false,
       "id": "14657a55f8a5"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 Million",
-      "title": "Stability AI Raises $76 Million as It Expands Into Music Tools",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZVlsX0lJYzlVWUdPSUJEWmhHNktQX01BbkJFaC13TVFfUWNwb0FqcG1DV0tJTVplTFg4WWZOSUNTSG9HUThxcHNiYlBvTE9DT1EwR3Q5Nmg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9e659f04d18a"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs Launches Flux 3 Image: JSON Bounding Boxes Lock Unchanged Pixels Numerically",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOanZPZU9JS2RMYkFOVm1WRjlabG9scDdOVXlIczFjWk1VajBTUEVSU1VucXV6US0yaGhnaEN0VTNuUW0tVmV5Uzl3YkVGc0ZnNmw3REFveHJuYi1ON1FFRDBtQXJ5TG1aYkZHTWN1eU1QTl9ET05HODQ0U3Jkc05qOHBhTjBmX1NZQ2QwTll5MkpvcWE1SnpCNTV0czRGcjZMWlZ1cFVBOTFuREhFVFNJSjVoeVVOY294MTRCeWNtVTNPYjg1M0NQaUdMazFUZThaVjAyWG5adTktSHhGZ1huMXB3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b2d73393f10c"
     }
   ],
   "items": [
+    {
+      "id": "faccdeabb0de",
+      "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
+      "source": "Search Engine Journal",
+      "summary": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-13T17:18:44Z",
+      "coverage": 2,
+      "impact": 8.0
+    },
+    {
+      "id": "eefbf30f995f",
+      "title": "Topics Portfolio In Bing Webmaster Tools AI Reports",
+      "url": "https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Bing just announced a new addition to the AI performance reports in Bing Webmaster Tools named Topics Portfolio. Topics Portfolio shows you the \"presence is distributed across themes, how much demand each theme represents, how competitive each theme is and where your…",
+      "category": "SEO",
+      "published": "2026-10-13T15:59:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ff22beca0568",
+      "title": "It’s possible your migration issues may be due to site quality",
+      "url": "https://www.mariehaynes.com/its-possible-your-migration-issues-may-be-due-to-site-quality/",
+      "source": "Marie Haynes",
+      "summary": "There have been a number of reports recently of sites struggling to be properly indexed following a site migration. I have consulted with a few sites on this issue and have developed a theory. Please know that this theory is not something I can prove at this point. I am writing…",
+      "category": "SEO",
+      "published": "2026-10-13T15:31:03Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "66af0fae8a0d",
+      "title": "Introducing Topics Portfolio (Beta) in AI Performance",
+      "url": "https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/",
+      "source": "Bing Webmaster",
+      "summary": "Bing Webmaster Tools introduces Topics Portfolio, a beta view of sites’ presence across thematic AI Search clusters. It combines portfolio-level context with query-level opportunities for planning growth. Each topic shows Topic Size, Sites Cited, and Queries, indicating demand…",
+      "category": "GEO",
+      "published": "2026-10-13T15:16:06Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "6b4de7478fcf",
+      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
+      "url": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
+      "source": "Search Engine Journal",
+      "summary": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-13T14:00:21Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "68f90a2e1356",
+      "title": "Daily Search Forum Recap: October 13, 2026",
+      "url": "https://www.seroundtable.com/recap-10-13-2026-42284.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-13T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "40c4fd7b5d0d",
+      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
+      "url": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
+      "source": "Search Engine Journal",
+      "summary": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages. The post Lost In Translation: How Language Changes Which Brand AI Recommends appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-13T12:00:05Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a91f7954e3ec",
+      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move?",
+      "url": "https://www.seroundtable.com/google-search-old-domain-42279.html",
+      "source": "Search Engine Roundtable",
+      "summary": "I spotted a thread on Reddit that seemed off from an SEO perspective. A site owner said he switched to a new domain four months ago, Google indexed and served the new domain but then all of a sudden, Google started to show the old domain again four months after the migration.",
+      "category": "SEO",
+      "published": "2026-10-13T11:43:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d1b03867f1dc",
+      "title": "Google May Show Pharmaceutical & Drug Ads In AI Mode & AI Overviews",
+      "url": "https://www.seroundtable.com/google-ads-drugs-ai-mode-ai-overviews-42277.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google may show \"certain pharmaceutical products\" and pharmaceutical drugs within ads in AI Mode and AI Overviews. A Google spokesperson told Adweek it has \"recently expanded to include certain pharmaceutical products\" within these surfaces.",
+      "category": "GEO",
+      "published": "2026-10-13T11:41:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "a584a0969f28",
+      "title": "Google Discover To Transform Into Hyper-Personalized Concierge",
+      "url": "https://www.seroundtable.com/google-discover-hyper-personalized-concierge-experience-42276.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google posted a new job posting to hire a Principal, UX, Search Discover who will lead efforts to transform Google Discover into a \"proactive, hyper-personalized concierge experience.\"",
+      "category": "SEO",
+      "published": "2026-10-13T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "dd25917b28a8",
       "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
@@ -1507,6 +1628,50 @@
       "published": "2026-10-13T11:23:58Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "92db147f90b1",
+      "title": "Google Merchant Center Videos Stuck In Preview Processing",
+      "url": "https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html",
+      "source": "Search Engine Roundtable",
+      "summary": "There are reports of an error in Google Merchant Center with video uploads getting stuck in the \"preview processing\" status. This causes the videos to look static both in your product listings in Google Search and other surfaces.",
+      "category": "SEO",
+      "published": "2026-10-13T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "aed5f4c6c414",
+      "title": "Google Search Console Performance Report Date Picker Not Working",
+      "url": "https://www.seroundtable.com/google-search-console-performance-report-date-picker-broken-42286.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The date picker in the performance reports in Google Search Console seems to be currently broken. The end date seems to be stuck in 1969 and when I try to change it, it says \"Date can't be after 1969-12-31.\"",
+      "category": "SEO",
+      "published": "2026-10-13T11:16:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1172989cbc30",
+      "title": "New Google Local Dietary Attributes: Gluten-Free, Dairy-Free, Halal & Kosher",
+      "url": "https://www.seroundtable.com/google-business-profiles-dietary-attributes-42281.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is rolling out new dietary attributes for local restaurants within Google Business Profiles. Google added gluten-free, dairy-free, halal and kosher attributes, in addition to vegetarian and vegan attributes that were already there.",
+      "category": "SEO",
+      "published": "2026-10-13T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b430233b584b",
+      "title": "Google Ads Data Strength Best Practices Updated",
+      "url": "https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a…",
+      "category": "SEO",
+      "published": "2026-10-13T11:05:00Z",
+      "coverage": 1,
+      "impact": 3.0
     },
     {
       "id": "8ed7e287ee16",
@@ -1628,17 +1793,6 @@
       "published": "2026-10-12T14:29:07Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "116d03e87a16",
-      "title": "Daily Search Forum Recap: October 12, 2026",
-      "url": "https://www.seroundtable.com/recap-10-12-2026-42274.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-12T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "01dbe4ef5f38",
@@ -4103,149 +4257,6 @@
       "published": "2026-09-28T19:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "cf468ec39dd6",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "category": "SEO",
-      "published": "2026-09-28T19:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "10e5dedfed4e",
-      "title": "54% of Docker’s own AI citations come from docs. Where do yours come from?",
-      "url": "https://foundationinc.co/lab/vol-311",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "You’ve written new blog posts, updated old pages, and added FAQ blocks to the pricing page. You covered every place you assumed AI assistants would look for evidence about your product. Docker’s data says the answer isn’t better blog posts. It’s documentation, which stays their…",
-      "category": "GEO",
-      "published": "2026-09-28T18:30:51Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "baa0c202a7b7",
-      "title": "What is llms.txt & should you use it?",
-      "url": "https://www.semrush.com/blog/llms-txt/",
-      "source": "Semrush Blog",
-      "summary": "An llms.txt file is designed to help large language models (LLMs) better understand the content on your site.",
-      "category": "GEO",
-      "published": "2026-09-28T16:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0f4ccfa2b5fa",
-      "title": "Building Mini Personas to Write Content Your Target Audience Actually Wants",
-      "url": "https://neilpatel.com/blog/audience-first-content/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways You get the brief, and the target audience line reads something like “marketing professionals.” That’s it. So you guess at the tone, pick a reasonable angle, and hope it lands. Sound familiar? Most writers run into this gap between “know your audience” advice and…",
-      "category": "SEO",
-      "published": "2026-09-28T16:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "2bcc9d3fe5d0",
-      "title": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
-      "url": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
-      "source": "Search Engine Journal",
-      "summary": "CallRail's ChatGPT ads integration lets SMBs and agencies attribute calls, texts, and forms to campaigns, send conversion data to OpenAI, and compare performance across channels. The post CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies appeared first on…",
-      "category": "GEO",
-      "published": "2026-09-28T15:46:48Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "32e3a500bbc4",
-      "title": "The Generative AI Report Sucks – Let’s Make It Brilliant",
-      "url": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
-      "source": "Search Engine Journal",
-      "summary": "Google's Generative AI report shows visibility and nothing else. Layer commercial data and traffic dependency on top and you get real exposure. The post The Generative AI Report Sucks – Let’s Make It Brilliant appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-28T14:30:29Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "297259a593d4",
-      "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/",
-      "source": "Search Engine Journal",
-      "summary": "UCP has published a draft hotel booking specification, Google says it will adopt the open standard for AI Mode hotel booking over the coming months. The post Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-28T13:44:16Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "370206034ecd",
-      "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study via @sejournal, @MPentzek",
-      "url": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/",
-      "source": "Search Engine Journal",
-      "summary": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself. The post AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study appeared first on Search…",
-      "category": "SEO",
-      "published": "2026-09-28T12:00:01Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d3bcfd32830c",
-      "title": "Google September 2026 Spam Update Has Big WeekendÂImpact",
-      "url": "https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The first stage of the Google September 2026 Spam update seems to have been felt in a big way starting Friday, September 25th, with even more movement on Saturday, September 26th and then ending on Sunday, September 27th. There is more to come, since we are only five days into…",
-      "category": "Algorithms",
-      "published": "2026-09-28T11:51:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "36b148b10634",
-      "title": "Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/",
-      "source": "Search Engine Journal",
-      "summary": "WP Engine is gratified by the judge's antitrust ruling, but Automattic also scores seven victories. The post Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-28T11:46:33Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a20c33b2de81",
-      "title": "Google Web Search Service API Documentation Has Been Removed",
-      "url": "https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html",
-      "source": "Search Engine Roundtable",
-      "summary": "A couple of weeks ago, Google seemed to accidentally publish its Web Search Service API documentation, then pulled it down last week. Google doesn't offer a public Web Search Service API, so we really can't access it, but I assume it does have some partners with access, like…",
-      "category": "SEO",
-      "published": "2026-09-28T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ec7410329bce",
-      "title": "Several Google Merchant Center Policy Documents Updated",
-      "url": "https://www.seroundtable.com/google-merchant-center-policy-docs-updates-42167.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated several Google Merchant Center policy documents late last week. The documents include Products that enable dishonest behavior, Dangerous products, Counterfeit products, Sexual content, Editorial & professional requirements, the overarching Shopping ads…",
-      "category": "SEO",
-      "published": "2026-09-28T11:31:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "50e2531b686d",
-      "title": "Google Tests Replacing Show More Button On AI Overviews With Loading...",
-      "url": "https://www.seroundtable.com/google-ai-overviews-loading-button-42170.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing replacing the \"Show more\" button under the AI Overviews with a \"Loading...\" button. Also, earlier this year, Google tested \"Enter AI Mode\" for the button text but that obviously did not stick.",
-      "category": "GEO",
-      "published": "2026-09-28T11:21:00Z",
-      "coverage": 1,
-      "impact": 8.0
     }
   ]
 }
