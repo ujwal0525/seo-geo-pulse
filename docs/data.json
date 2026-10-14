@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T03:50:39Z",
+  "updated": "2026-10-14T09:21:02Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -787,6 +787,90 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-14",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Fish Audio releases Drama 3, a free voice model that beats ElevenLabs on pronunciation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmFtOVM4MlQ3RENjbXJHOGw1UGtpVjBldTdGdkMwOTZkc3l2RmZqMUFHQk5oZ05xenZDQklxaVNTTkRlV0pldU9vMzR5WDVoNFlkaDRqYjV2eFduYk51VTVGUGVJd3pCZVJOSlhIb3FyQzg2VXlZNUJJWnFuXy1hNGl3aFhDQTM1dHBQSElPYjhCWVJSUWFLakEzSEYtLXdDX3RzTEt2cWZyM1hfbU9Hc2RTZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "604476353413"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Getty Images Files For Chapter 11 After Shutterstock Merger Collapses",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlpsNFVBczA2eVF0NUhtU3JFcTdlVW9jNm5Jdk5rc0IyNnJPdUxoeEp4SUxTMmRjUjdVUndxYnFaZXNGN2RqNTRMWFpucWRiN3dyVk5EQnVyYnd0UDBtX05yY3BMR0lGY1lKNGFGU3BaUHdEUGFld1RScWt0d3ZON2YyeThGY2lNa0N1NGEyWHd6TUxO?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4e1353c84b9b"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$2M",
+      "title": "Affinity Labs raises $2M to turn creators into software founders",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFNMeGhVUmlTa2twdlRXdnE1MS1MdnAzNEFOWUtScklXM09iY1JGU05DZzA4bkg1UzFBS0hwVVBDdDNPcVk4cERWdFFUZTBJMEZwWDMzbHhrd19iNWhiR0FxVkZSVEpiUERzYUlVbkJNaDZhWFl2RHZPWlFtMlFDeF9rMXFMYjVicHRYcHpzcFpsR214NFVVYnhxa0NXZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "39861d298661"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$2M",
+      "title": "Affinity Labs Raises $2M for AI Creator Software",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1UwNTEwb1ZwN0FnMjlyLVdjdllmaUhIVjlwNFJnOWllcERMUF92T3QtTlJtNTRtcnRaNVlwQWozbEpLeEg5RzBiM2x5RXhzcFpnNFlWNW9YeURWWlQ4V1JKUkVtazg4ZjAwYzlmZUs1bkE5d3hZZ1cwbTNKdUFTVGsySEdDc0hHcmhJRXd1QW9BbTNuZlN0NmV0NU9UVFhWTndpRVVkZ19odGV4X1h6cHNxS1lmRV9w?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fc1d95377a88"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "5,814 Synopsys, Inc. $SNPS Shares Acquired by Affinity Capital Advisors LLC",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHpTaEQ1MUxlOC00dXl1SWtWbG5DQVhkNjVvWjJPeV9vaFl2VGpDNURWallROWxid0xnQWtMUVZxWnNEZ0JJcjBRSnlLTFFBM2Y4cTE4RHdtTldlUm9LZ0Roa3V3UG1nb2MycGc3SzdnaHZibERTMzlxa0N1MFBnaGY2bmdEMXNyS1dlejZPbHJyX0Q0UWFXNHJDNWJqWTBLMFdsZF9vVWRzbFpyUndqNE80UUlGVVZ2Q054Wll2OHJwQUJkUVlkb0ZGb3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "89dcb2913fab"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$2M",
+      "title": "Affinity Labs raises $2M to build AI-powered software brands with creators",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmV0RlVWNnZEajI5Njl6Qmx3alN4TE5JVjhsZ2RhVENvWDVaR2hNMm5pSDZ4UGc0UTlxUzh6MXNneFdNbEY1MjU4bEtsS0ctdW1YYWdDaGV3NmdXMTc2V0RaenlNbEgwTFZpd1Q1dHltVEpGY01VWm5sTnhCLUhzQkYtT2s4VUVadUlpVFpKaFBFajBDRjllRGRkejZRWVNfN1JN?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "199cf86fab43"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by Affinity Capital Advisors LLC",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmtxT1BiWHdiTm1scEpwTHFXYXNqLWhLTXl0eXA2c3M5RFplU29HUUllS2VQMHJlbThLanp0OTZ2cTBsdXZoamU4T2F4aGpsbzRVeGgzdE1nMjltaHcyMmlWT2dDV09oR1ZfZDREMVFPajRveGtmM2pVeWpDNzNoclQwV1luWC13UUlBeUlzREdsQzNxYTZtNi1kNm5hb0tBaWtCNkdkN3VHdlg2TVd4U0ZLM1l6OXVoejFxdk9fZk9HTFlYWkVIZ0laYXpSMXhOOE4zemVR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d20c63c0e798"
+    },
+    {
       "date": "2026-10-13",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -1421,93 +1505,31 @@
       "source": "Google News",
       "curated": false,
       "id": "505bf6b32517"
-    },
-    {
-      "date": "2026-10-03",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Vienna Tourist Board launches free Figma template inspired by Viennese Modernism",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JWDh2QVduaW9fYWc1d0pubTY3NFRqaFB5WWNPUTVfRWxBUFZyRzh2Uk4xOVpuc0pOSTk4MWhhVWpITllteXh6elZiREFGSl9yQ2lUMDcyRk1POHpkelJJNjFlYmpDR0U1Wi1ySVBSSWg4Z2dLTFQw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8d989726c495"
-    },
-    {
-      "date": "2026-10-03",
-      "company": "CorelDRAW",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "CorelDRAW Introduces Text-to-Vector AI Feature",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdTJUUzM1VWxIZWFLVk9aN1BQczFnZkkxajN0bnB2dXNZclFLOUdsSXdhWVNfaWNjUW51QmhQUjlzcnJ1TDRqZk1RRExKc2RGYlVPd3RRc0xBOElVemxnVGp2aVoycVRxOE9LRDRMRmQzMUpCVmNxMU9FRkd1RFJyaUUzaHpLaDRXNWtBS01jdzRzQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b4c82d1f60ae"
-    },
-    {
-      "date": "2026-10-03",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$4B · $42B",
-      "title": "Canva Revenue 2025: $4B ARR, $42B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHQVI2Z1JfcTVFaTFveUlJeXNfeWN5Y1RkNU93SVMwUlZoOXpQYTFvT2xsZmZkbzU4clU2eHZ5WExVX1NxMVh1cXdKV0M?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e6911f6fed32"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Descript",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "AI music maker Suno now generates spoken words",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "source": "The Verge",
-      "curated": false,
-      "id": "5a5fb244e89b"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "Ideogram",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0ZQeU51bVd3MkJLRHFzOTFuU000b1dnSW9HNGJzSjE2Y3BDa3pDMDZmaE1BT3lLVnpiNWE4MkZjRVIwMXR4d29Tc0U1STV5TlVtekhFTmxGWVRkcExva1pJOGNRc0xWY2x4MGhWdDFPR0ZPLWU3N0R5aDFSWk1OX2hVRVpDNUFUV21BTTYwMnFfSk4zZ2IwU0pFWEE4RE9BQ2ZHN3ZEUE1fUVNiSFhwbjJVN014Y1hmaTlial9hSW1XemdVQV9uRlQ3RQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "cb6f5ce7d041"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22B · $300M",
-      "title": "ElevenLabs Reaches $22B Valuation Following $300M Employee Tender",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzZjZnY5Vkd4UHVNNjg2ZkpnMmsyTlB0aVIxZjk5MzBCUUU1Vlk0Ym1MOEZseXc2aENUWkp4Z2dHTzZlcmVhREw2VUxJYUJOTlI4dWpaUkhFSkZ3dU00UWFYT3hfT3ZNbE9ZaGd5S1czeEF4Nm53S09HOGNQc1NFZWFmeUtHWmI2dGNaU3RLRVlGRUFJdHdhM1J3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1e6b2a90c8b8"
-    },
-    {
-      "date": "2026-10-02",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Microsoft Debuts Voice AI to Compete with ElevenLabs",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV09DMW1CTTN6MUhtZ0dTYzF0VkkwTzViQUZVV1V2amozWXBQU2UxZ3A4WklYWEJxRmYxNkFMWVh6TFVHdjBZbUJ2WWw3M21oZ2JoR05OM2YtM01YLVFaOTI3dmdDeHpuX0REb2hsNXVwVXU4SVdWZHFJa2ZxOE9MUERqS2dSMU5oLVFGcEln?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9cd12ce95d41"
     }
   ],
   "items": [
+    {
+      "id": "93b61cf47c5c",
+      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
+      "source": "Search Engine Journal",
+      "summary": "Google’s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions. The post Analysis: Google Is Poisoning Search Results For Rank Trackers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-14T09:17:05Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "120204aca981",
+      "title": "How To Help AI Shopping Agents Find Your Products via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
+      "source": "Search Engine Journal",
+      "summary": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-14T07:45:07Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "fecbdc06c83a",
       "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
@@ -4235,28 +4257,6 @@
       "published": "2026-09-29T01:11:42Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "884977ecb800",
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "source": "OpenAI",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "category": "SEO",
-      "published": "2026-09-29T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "d33d08bcd61e",
-      "title": "Anthropic Publishes Prompting Guidance For Claude Opus 5.5 via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/anthropic-claude-opus-5-5-prompting-guidance/591278/",
-      "source": "Search Engine Journal",
-      "summary": "Anthropic's Claude Opus 5.5 prompting guide asks developers to retest effort settings and reconsider chat prompt lines telling Claude to think carefully. The post Anthropic Publishes Prompting Guidance For Claude Opus 5.5 appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-28T20:48:12Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
