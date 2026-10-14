@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:41:56Z",
+  "updated": "2026-10-14T23:00:54Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -21,6 +21,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-14",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "8d8dd1634773"
+    },
     {
       "date": "2026-10-13",
       "family": "engine",
@@ -1508,6 +1518,17 @@
   ],
   "items": [
     {
+      "id": "088a8493483c",
+      "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
+      "source": "Search Engine Journal",
+      "summary": "Google's new Search Central video series tackles unusual technical SEO questions, starting with emoji, non-English characters, and keywords in your URLs. The post Google Launches A Video Series For Odd Technical SEO Questions appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-14T18:51:41Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "f1431f8dd370",
       "title": "How Websites Are Becoming a Key Trust Signal for Consumers",
       "url": "https://neilpatel.com/blog/website-credibility/",
@@ -1526,6 +1547,17 @@
       "summary": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on…",
       "category": "SEO",
       "published": "2026-10-14T15:00:33Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "0223a29f27ad",
+      "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores & Emojis",
+      "url": "https://www.seroundtable.com/google-search-urls-42305.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google posted its first video in a series of what they are calling The Non-Canonical Cabinet. In this video, Cherry Prommawin and Gary Illyes discussed how Google Search deals with URLs. They discuss URLs as a ranking signal, hyphens versus underscores, emojis and much more.",
+      "category": "SEO",
+      "published": "2026-10-14T14:57:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1583,6 +1615,28 @@
       "published": "2026-10-14T12:00:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "a0e0fec2c2b5",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "category": "GEO",
+      "published": "2026-10-14T12:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "24cc989c02db",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "category": "SEO",
+      "published": "2026-10-14T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "9ce7eeb83889",
@@ -4210,50 +4264,6 @@
       "summary": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix. The post Yes, You Can Change AI’s Opinion. Here’s How. appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-09-29T20:40:41Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "af80a1d3bf9e",
-      "title": "Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry",
-      "url": "https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/",
-      "source": "Search Engine Journal",
-      "summary": "Test whether honest expectations and money-back guarantees build trust in health marketing, then judge results beyond the first conversion. The post Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-29T19:00:11Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "cc4d7eff1b4d",
-      "title": "The LLM positioning lag: What it is and how to avoid it",
-      "url": "https://www.semrush.com/blog/llm-positioning-lag/",
-      "source": "Semrush Blog",
-      "summary": "See why LLMs get your brand positioning wrong and how to fix it.",
-      "category": "GEO",
-      "published": "2026-09-29T14:50:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "0f11b8948ed1",
-      "title": "Amazon Blocked Meta’s Muse, And Robots.txt Had Nothing To Say via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/amazon-blocked-metas-muse-and-robots-txt-had-nothing-to-say/590494/",
-      "source": "Search Engine Journal",
-      "summary": "Any website can write Amazon's block-page sentence into its own terms. Spotting an agent that looks like a shopper is the hard part. The post Amazon Blocked Meta’s Muse, And Robots.txt Had Nothing To Say appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-29T14:30:54Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "61cb4d9349ed",
-      "title": "Shopify Extends WebMCP Into Checkout For Browser Agents via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/shopify-extends-webmcp-into-checkout-for-browser-agents/591478/",
-      "source": "Search Engine Journal",
-      "summary": "Shopify has extended its WebMCP tools into checkout, letting browser agents update a shopper's checkout and place the order after the buyer confirms it. The post Shopify Extends WebMCP Into Checkout For Browser Agents appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-29T14:14:29Z",
       "coverage": 1,
       "impact": 4.0
     }
