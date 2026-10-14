@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:38:24Z",
+  "updated": "2026-10-14T03:50:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1509,6 +1509,28 @@
   ],
   "items": [
     {
+      "id": "fecbdc06c83a",
+      "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/",
+      "source": "Search Engine Journal",
+      "summary": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't. The post Bing Webmaster Tools Sorts AI Search Queries Into Topics appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-14T00:19:30Z",
+      "coverage": 2,
+      "impact": 7.0
+    },
+    {
+      "id": "7b20f81dfcef",
+      "title": "Gemini 4 Argon's personality: no hype, hard facts, fewer tables",
+      "url": "https://dejan.ai/blog/argon/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Release-day tests on Gemini 4 Argon: it punishes hype and still wants hard facts like prices, but tables, a favourite of every Flash model, fall from 93.6% to 31.5%.",
+      "category": "GEO",
+      "published": "2026-10-14T00:13:55Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "e4f1265b2f96",
       "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
@@ -1540,17 +1562,6 @@
       "published": "2026-10-13T17:18:44Z",
       "coverage": 2,
       "impact": 8.0
-    },
-    {
-      "id": "eefbf30f995f",
-      "title": "Topics Portfolio In Bing Webmaster Tools AI Reports",
-      "url": "https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing just announced a new addition to the AI performance reports in Bing Webmaster Tools named Topics Portfolio. Topics Portfolio shows you the \"presence is distributed across themes, how much demand each theme represents, how competitive each theme is and where your…",
-      "category": "SEO",
-      "published": "2026-10-13T15:59:00Z",
-      "coverage": 1,
-      "impact": 5.0
     },
     {
       "id": "ff22beca0568",
@@ -4246,17 +4257,6 @@
       "published": "2026-09-28T20:48:12Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "348eafe7c241",
-      "title": "SaaS Marketers - Promote your Claude & Codex connectors & win in AI search",
-      "url": "https://www.seerinteractive.com/insights/saas-marketers-promote-your-claude-or-codex-connectors",
-      "source": "Seer Interactive",
-      "summary": "Claude and I had a 12,000 word back and forth on how to use Cloudflare and GA4 data to answer a hard question. If you were a SaaS marketer what would you do with all that context to make better answers?",
-      "category": "GEO",
-      "published": "2026-09-28T20:30:29Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
