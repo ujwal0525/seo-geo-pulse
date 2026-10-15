@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:00:54Z",
+  "updated": "2026-10-15T03:32:02Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1758,6 +1758,17 @@
       "published": "2026-10-14T07:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "7d10f0ddfecf",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "category": "SEO",
+      "published": "2026-10-14T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "fecbdc06c83a",
@@ -4255,17 +4266,6 @@
       "published": "2026-09-30T01:17:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "c93e50edda1a",
-      "title": "Yes, You Can Change AI’s Opinion. Here’s How.",
-      "url": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
-      "source": "Search Engine Journal",
-      "summary": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix. The post Yes, You Can Change AI’s Opinion. Here’s How. appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-29T20:40:41Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
