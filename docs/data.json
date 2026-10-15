@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T08:56:25Z",
+  "updated": "2026-10-15T16:27:19Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -21,6 +21,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-15",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Universal Cart Launches In Google Search (U.S.)",
+      "url": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "314aa1d741ce"
+    },
     {
       "date": "2026-10-14",
       "family": "engine",
@@ -844,6 +854,66 @@
       "id": "fe3eec235907"
     },
     {
+      "date": "2026-10-15",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "New 5.6B-Parameter FLUX 3 Image Klein Debuts as Open-Weights Release",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWJQZUhVZ1hUaHJWczg4ZHMxZ0N6Q3lvYzlOVGdONGhNNXlkTzlyM1pCNnRCUzQ1Ml9uTTV1eFQzTHJWZjdodHFvSFpSbDZQOW80NkVjb2ZrTUlMZ3dLR2o3U21STTdKb0FSOHd0RGlha1lWaEZzcUpZNW1rTFBGVW1RdDI0bzZpM05wSkJtcDl3NDYy?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0f795d08c4b6"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs releases FLUX 3 Image Klein with free commercial use for small businesses",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XQ1lBbFlhMTRMNi1MaktQVzZvM3NhemFBUDBQY29wMEJrRnJUQVM1Ti00LWcwbjNaekRGWVFNNWlDdzFwcEJLOTlQbEFjeUd5dWktN19aSmE4Q1BEVzVqWGFzUWZ0bG15ZnBlQ2ZkSE9KUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6aa7fc39a0d8"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Getty Images Releases VisualGPS Report on the Growing Fan Demand for Authentic, Year-Round Sports Sponsorship Content",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeGRDS1BPMWc4VmtMV1Y1MG9OU2RCVDdSa3NnUGN0VGl4XzVzS3V2MzBMWm50TWRQWUpZbXdPXzZOSE5BakRzUVU0amJkQW9kZnFlNGRyNGhDZzBrT0tlVHlVSHh5dHp2UGNQX0xTZFNWMEk0Y21KcU1XOHFhb3VTQWVtTnJSRVcyLVhjV216NGpkQ1AwV2pydjdUTy1hVE1jMDZOaWZlS3BPYUxJbVJEdllWSXR5cnl6b3hNTmVSUXI3ZkdQX2poaVVBQ01LWUZFbHhqcVhIX3N2REJMVXBrRkR1X1ZwVFk?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6ea79d876055"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma Launches Specs To Guide AI With Design Rules",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTJuLTBfTDg1d2phNGxtQ0JzdElrZkRaNU8yV3hTZ0ZITFF6ODlmLTdiZHk2dS1JTXNrVEhQQVM5elBuaWxia2l2TlJsOEctZ3ZoZEpLZzB1WXV2SXp6U1NhVDZuRm1CZGtWQTE4bzhMMDQyeDdwbFVqeWpYbEc5aXNYVWduU1kxUUVQNXhB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fc13a20d7e52"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Figma Expands AI Platform With New Developer Tools and Sarvam Partnership",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTHMwS3h1eUEwSnd0R2NoU3pHT1JFSUFTelo0eHpyNUF0OEh6ZzJINWZvczVPZkdiYV8zaU40aFpwd19JTC13ci1kYy1yYWdfVl9SUVZvRVBZRUJhME52SEs5UzQyVXUtS0ZSTHV1cGlBMURoMVRWLWY4cjFpNnhZQlFJV3N4dDB4amtBRTZqcHRFODZpQlJHQXJ3aE1lQjFCQkNfSURMdG9lMllt?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b980c11595ba"
+    },
+    {
       "date": "2026-10-14",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -998,6 +1068,18 @@
       "source": "Google News",
       "curated": false,
       "id": "e1a211caff23"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Affinity Capital Advisors LLC Buys 13,051 Shares of The Boeing Company $BA",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTF6SnAzbG1qQ0FoNVBia254RmF0RFktc0ZzMm9pSXBTOXl4d3ZqVnhsNk1JUGtYbldOMFk1aTJ2eFJMcFVEckRKdFk0ZE9zZlE3UUtpdFJ5bHRObW02a2tpblpseURUbGxjSUZzY2cwc3NIdTU2M1N0d3lhcHpiZXBrMHJBWjZLaEttc2d3U1ZxaFhWRzZlWm5zX1hoWnV5bUZLejNwa2FfVVVPZTFIYW9iNWgyOWttR3NIQUVBckxHdlBqblc2YmF6blFYUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "773d641041bb"
     },
     {
       "date": "2026-10-13",
@@ -1442,81 +1524,196 @@
       "source": "Google News",
       "curated": false,
       "id": "7925a454db25"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "HME Launches Nitro Vision AI for Drive-Thru Operations",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjMweHNDQ3EzWXNuTHZ4U2gyVWZ6Tm0tUndPcExUVUF2NlVBX0VhM2sxZnlrTDlCMEF3Vy13b0xjWTh1bWlPMk5telJnY2FUMVJLT2RTR0UwNTVpVFlBWFE1OHQtZG16Um1aYzd0cXdUNkRJT2xuY1VjTThVSWw1dkstUzE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "114c23bd56bc"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$12.4b",
-      "title": "Singapore tech firms raise $12.4b in 9M 2026 on late-stage rounds",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUZlYzR0bmxzdC1QbDhFc2FCbk9ES0NsN01UQnd3anFoSjN4ZVI0VGdaWEc5bHByWFNRZ1RUbkVhOVBCNXVqcHFSclhlT3ZNS2ZyNHdfVVY1bGhZU0t3R0FpYlIwVWFDVndIX2F5cVZvNXpBRVl4YVVtMS1SUWtMMGRTa08xWW5FdXk2eQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fe4495f32bc3"
-    },
-    {
-      "date": "2026-10-06",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Adobe releases Photoshop 27.11",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdlYyYTR0dGthdndqdE10U1JBR3duSUdBV1pDUTZraFdTOGVFRmFOM0NjTnkwT2ZXSFhoOGRYM2Q2V1lxMUdyNHZveUhDNmxTSW5fZ3VvemRDc2RQZ1lsN3UtdlhhN2NsUUZRdE8weUFWbjQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "47d059da3e93"
-    },
-    {
-      "date": "2026-10-06",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Uber Advertising Launches Cross-Channel Incrementality Measurement, Powered by Affinity Solutions, to Prove Sponsored Listings Drive Brick-and-Mortar Sales",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2VUb0pPRU50T2wyNzRBWWM0VlVCUlRBVUM0SjktSjJqeWNHc085S0ZydlFpV3FHT0kwM2NhTTdIWkNRVTRJRVRMT3FydW5aV1BPbk5sWDZhbFBYVHp2a0hCQnVKYW1wYjN6OVdRdko1U0pmc25UaC00M1d1Y3JCYkVYVkI4T3M?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4d8848ad89af"
-    },
-    {
-      "date": "2026-10-06",
-      "company": "OneSpan",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "Bank of America buys OneSpan stake as OneSpan stock yields 2.90 percent",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmpZWmNEekJod2g1LXhWYmVrX3NEWWJWS1BMZVdEdC1KdmdlVWNITFI2TUl3T283c2lxYmh6QUhUTUdiQ1U1Vmk3MC1Md3lVXzlLN1V3N21sQ09PS3lCQkJPRkdNeDhqaTNpSmZaaXd3cF83MUE4S1dNQXNrblZ0WGU1SzlzMlZPNUtyYzNIOU1TYkVWME1RWlVyb3RNMWY3R01CYjhnMjdOVmdhYWU4cUdoVGhhNlRxaEY4Mm1Rd1RBVFdhNzI4WG9n?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "84465ac3da23"
-    },
-    {
-      "date": "2026-10-06",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$22 billion",
-      "title": "ElevenLabs reaches $22 billion valuation",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZk43TTkwbW5fTjZDb2xVd3Z3TzBDRjVaOTR6RGo3S0RLMlBwaVdXTE1vV3ZPV0ExUndzQWtfTHJxQndOTEg0ZHdhMXlsVHRtb3FkVVF5ZFQxTUlWZnJkT2hLMno5SVF1amlmbW1mbw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7f596665e5f0"
     }
   ],
   "items": [
+    {
+      "id": "97bef6f4602e",
+      "title": "400 publications are now partnering with us on our News AI pilot program.",
+      "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+      "source": "Google (Search)",
+      "summary": "People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+      "category": "SEO",
+      "published": "2026-10-15T16:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "bb05c2bb9d5b",
+      "title": "More ways to connect with the web from Search",
+      "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+      "source": "Google (Search)",
+      "summary": "TBD",
+      "category": "SEO",
+      "published": "2026-10-15T16:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d8da3810a156",
+      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
+      "source": "Search Engine Journal",
+      "summary": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-15T16:00:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "fe78684251a2",
+      "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
+      "source": "Search Engine Journal",
+      "summary": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 & 2030 appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-15T14:00:33Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "a0c8141d5e00",
+      "title": "Daily Search Forum Recap: October 15, 2026",
+      "url": "https://www.seroundtable.com/recap-10-15-2026-42309.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-15T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e780e135cdf5",
+      "title": "Universal Cart Launches In Google Search (U.S.)",
+      "url": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has launched its Universal Cart today in Google Search and Gemini within the United States. This is powered by the Universal Commerce Protocol (UCP) and it was launched right before the big holiday shopping season.",
+      "category": "GEO",
+      "published": "2026-10-15T13:40:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "cfdc749d35ab",
+      "title": "Three Ways to Spend Q4 Budget on AI Search (and Prove It Worked by February)",
+      "url": "https://ipullrank.com/q4-budget-ai-search-2027",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Every year the same thing happens. Money surfaces in October. Finance wants it committed by December. And it gets shoveled into whatever can absorb cash fast: a paid media bump, a rushed refresh of outdated content, another round of display retargeting. Most of it is gone by…",
+      "category": "GEO",
+      "published": "2026-10-15T13:36:17Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "b792a990c3cc",
+      "title": "An intelligent new shopping cart",
+      "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+      "source": "Google (Search)",
+      "summary": "Images of the global cart UI, over a collage of products",
+      "category": "SEO",
+      "published": "2026-10-15T13:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "fa14b8f7db46",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "category": "SEO",
+      "published": "2026-10-15T13:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b4aeabca9ac7",
+      "title": "How to do an SEO audit with Claude & the Semrush MCP",
+      "url": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/",
+      "source": "Semrush Blog",
+      "summary": "Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data.",
+      "category": "SEO",
+      "published": "2026-10-15T12:32:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "9ae01d59fb8d",
+      "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
+      "source": "Search Engine Journal",
+      "summary": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-10-15T12:00:21Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3469abab0984",
+      "title": "Google Automotive Model Feeds On Search Ads (Vehicle Top Ads)",
+      "url": "https://www.seroundtable.com/google-vehicle-top-ads-42301.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has a new Google Ads beta format named automotive model feeds on search ads, also known as Vehicle Top Ads (Beta). This is a new search ad format designed specifically for vehicle manufacturers to showcase vehicles with rich visuals and key details in the search results.",
+      "category": "SEO",
+      "published": "2026-10-15T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4d63ddc53b00",
+      "title": "Google Tests New Search Bar In Google App",
+      "url": "https://www.seroundtable.com/google-app-new-search-bar-42267.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a redesigned search bar within the Google mobile app. The new search bar is now has the + sign in it, and instead of saying \"Search,\" it says \"Ask Google.\" The search bar is also white, as opposed to gray and is thinner and higher up on the page.",
+      "category": "SEO",
+      "published": "2026-10-15T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "60e966aef729",
+      "title": "Google Ads API Version 26 Now Out Available",
+      "url": "https://www.seroundtable.com/google-ads-api-version-26-42307.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has released version 26 of the Google Ads API. This is a major release of the Google Ads API updates including SMS messaging, local services, hotel center accounts, lift measurements, EU political items, conversion features, and so much more.",
+      "category": "SEO",
+      "published": "2026-10-15T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ab5044a4e51a",
+      "title": "Google Ads Updates Sexual Content Policy With More Examples",
+      "url": "https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has updated the sexual content policies to \"provide additional examples and clearer information to advertisers,\" the company wrote. The main section that was updated was the \"Sexually suggestive elements and themes\" section.",
+      "category": "SEO",
+      "published": "2026-10-15T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9e351283698d",
+      "title": "Bing Tests Related Searches Based On Your Browsing",
+      "url": "https://www.seroundtable.com/bing-related-searches-based-on-your-browsing-42302.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Bing is testing showing \"Related searches based on your browsing\" similar to how Google is/was showing this a few months ago. In Bing's test, this is below the Microsoft Ads in the search results.",
+      "category": "SEO",
+      "published": "2026-10-15T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6d7b50edc6ed",
+      "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
+      "source": "Search Engine Journal",
+      "summary": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations. The post Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-15T10:32:28Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "088a8493483c",
       "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
@@ -1569,17 +1766,6 @@
       "summary": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
       "category": "Algorithms",
       "published": "2026-10-14T14:00:20Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f300650fcac6",
-      "title": "Daily Search Forum Recap: October 14, 2026",
-      "url": "https://www.seroundtable.com/recap-10-14-2026-42300.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has rolled out its latest Gemini model, Argon 4...",
-      "category": "GEO",
-      "published": "2026-10-14T14:00:00Z",
       "coverage": 1,
       "impact": 5.0
     },
@@ -1778,8 +1964,8 @@
       "summary": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't. The post Bing Webmaster Tools Sorts AI Search Queries Into Topics appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-14T00:19:30Z",
-      "coverage": 2,
-      "impact": 7.0
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "7b20f81dfcef",
@@ -1833,8 +2019,8 @@
       "summary": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-13T17:18:44Z",
-      "coverage": 2,
-      "impact": 8.0
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "ff22beca0568",
@@ -4090,182 +4276,6 @@
       "published": "2026-09-30T15:42:56Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "a0fb7172a105",
-      "title": "Claude Code for SEO: 35 Use Cases",
-      "url": "https://ahrefs.com/blog/claude-code-for-seo/",
-      "source": "Ahrefs Blog",
-      "summary": "35 practical ways to use Claude Code for SEO, from content briefs and Search Console analysis to internal linking and technical fixes, with real examples. Read more ›",
-      "category": "SEO",
-      "published": "2026-09-30T15:35:57Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "1b6a6ac12a68",
-      "title": "OpenAI ChatGPT Ads Gains Bulk Product Creation, Product Review Status & More",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42194.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI just sent out an email to advertisers about new ChatGPT Ads product updates that include several new features. The new features include bulk creation for product feed campaigns, product review status, report conversions beyond your campaign goal through the API, separate…",
-      "category": "GEO",
-      "published": "2026-09-30T15:33:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "153800a19c4e",
-      "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
-      "source": "Search Engine Journal",
-      "summary": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research. The post OpenAI Dots Run Read-Only Research When Nobody Is Asking appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-30T14:44:15Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3d927b046a72",
-      "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
-      "source": "Search Engine Journal",
-      "summary": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility. The post Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-30T14:30:05Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6848cdfeb165",
-      "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
-      "source": "Search Engine Journal",
-      "summary": "Google Analytics now supports app conversions in its performance and attribution reports. The post Google Analytics Adds App Conversions To Cross-Channel Reports appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-30T14:23:27Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "18c6b2f6b8c1",
-      "title": "The AI Search Metrics I Use To Track Client Pipelines",
-      "url": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
-      "source": "Search Engine Journal",
-      "summary": "See whether AI search reaches buyers and creates qualified opportunities with five measures covering brand presence, answer accuracy, and attribution. The post The AI Search Metrics I Use To Track Client Pipelines appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-30T12:00:13Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "7791e98a2045",
-      "title": "Google Maps Now Requires Sign In To Read All Reviews & More",
-      "url": "https://www.seroundtable.com/google-maps-account-reviews-42186.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Maps now requires you to sign in to a Google account to see all the reviews on a Google Business Profile listing. It is also required in order to sort the reviews, leave a review, and more. I assume this was done to help prevent AI, bots, and third parties from scraping…",
-      "category": "SEO",
-      "published": "2026-09-30T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "670d77c4d44d",
-      "title": "Google Paying ~100 Publishers 0.1% Of Ad Revenue In AI Contribution Pilot",
-      "url": "https://www.seroundtable.com/google-ai-contribution-pilot-01-percent-42188.html",
-      "source": "Search Engine Roundtable",
-      "summary": "As you know, Google has a small pilot named the AI contribution pilot, where they are paying some publishers for using their content in AI features like AI Overviews, AI Mode and Gemini. Well, according to The Information, it is about 100 publishers and those publishers are…",
-      "category": "GEO",
-      "published": "2026-09-30T11:41:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "9c105fbecc36",
-      "title": "Bing Tests Product Features Labels On Product Listings",
-      "url": "https://www.seroundtable.com/bing-product-features-labels-42161.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is testing adding product feature labels to product listings in the search results. This can add labels like \"great for...,\" \"effective,\" \"performs well,\" \"lightweight\", and so on.",
-      "category": "SEO",
-      "published": "2026-09-30T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "facac11eee89",
-      "title": "Bing Sponsored Ads With One-Line Consumer Review Extension",
-      "url": "https://www.seroundtable.com/bing-consumer-review-ads-42183.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Advertising now shows \"consumer review\" ad extensions in the Bing search results sponsored results section. These are one-line snippets of text, added under the sponsored result, that come a \"from consumer review.\"",
-      "category": "SEO",
-      "published": "2026-09-30T11:11:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "03c1d3dc2474",
-      "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
-      "url": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/",
-      "source": "Search Engine Journal",
-      "summary": "OuterBox launches OBxFrontier, a custom AI development service that maps client workflow problems and builds AI agents around their existing systems. The post OuterBox Launches OBxFrontier to Kill Busywork With Custom AI appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-09-30T11:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6a91381a4292",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "category": "SEO",
-      "published": "2026-09-30T10:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b5e5e43443d2",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "category": "SEO",
-      "published": "2026-09-30T10:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "8b2508b7a014",
-      "title": "AEO vs SEO: core differences & how to win visibility in both",
-      "url": "https://www.semrush.com/blog/aeo-vs-seo/",
-      "source": "Semrush Blog",
-      "summary": "Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both.",
-      "category": "GEO",
-      "published": "2026-09-30T08:36:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "4254280ca40b",
-      "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
-      "source": "Search Engine Journal",
-      "summary": "Tom Capper of STAT walks through the biggest AI search measurement challenges and a tactical solution for each one: October 14 at 2 p.m. ET. The post How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-30T07:45:08Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "57c2dc1c3317",
-      "title": "Google Working To Restore Google Analytics",
-      "url": "https://www.seroundtable.com/google-analytics-fix-42187.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has confirmed there are issues with Google Analytics loading the platform. Google updated its status report to say that it has \"restored for some users\" and Google expects \"a resolution for all users in the near future.\"",
-      "category": "SEO",
-      "published": "2026-09-30T01:17:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
