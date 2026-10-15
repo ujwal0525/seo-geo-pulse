@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:27:19Z",
+  "updated": "2026-10-15T22:55:41Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -30,6 +30,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "314aa1d741ce"
+    },
+    {
+      "date": "2026-10-15",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "beb93cc195a0"
     },
     {
       "date": "2026-10-14",
@@ -793,15 +803,6 @@
       "url": "https://en.wikipedia.org/wiki/Google_Gemini",
       "curated": true,
       "id": "be8f0058d023"
-    },
-    {
-      "date": "2026-02-05",
-      "family": "engine",
-      "platform": "Google",
-      "title": "February 2026 Discover core update",
-      "url": "https://ahrefs.com/google-algorithm-updates",
-      "curated": true,
-      "id": "fbce5e55f879"
     }
   ],
   "competitors": [
@@ -912,6 +913,90 @@
       "source": "Google News",
       "curated": false,
       "id": "b980c11595ba"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Krea",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Krea launched Krea 3 for fast and precise image editing",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlJpRzRRd0xJc2wzMklWOUZvMTlPY2h1NTRVdHhEa01OWUZSb3VQM3o4ZVZDeFpjQ1Y5X1lZdDZPdnpLSWtxc3UxdmN4emJrLUdEQ0lsVVlScnlVZjA4SHhsc3NBeWpoY1E2S1RRNm52YUxVQmxzOG0xQ0tCcTMxWE81NGxrSjd4YUd2MHdxYjQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4f9f32c8d6d4"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "German gov't set to unveil partnership with Nvidia for automation, robots: report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0dpc0lGM19PWXlSQVNNQ2VSR2kydi11NXJ2M1dlcGJvLTBoRlB5ZG1ma1EyTVF0c3pRN19JVGdfLUhYU256MC1USHRBU0FtY0xFX2VwUGtrTGJTczItQXQxSWFMTVprNVl0X1RjbW1aZ196ZWduWmJINGx3WWVDTzJtZ01rWmczckx3eWdpU2ZrMmp1ckF5ODFjUVpXT1hOS2tmZURlQVVXM3RmUzZxNmxTR1N0X1ZQUE5tYlN6SktEZ2lJdktEVkphdzF6aUJEOGxtYXRRTUZkUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6790251e9424"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs Releases FLUX 3 Image Klein With 5.6B Parameters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmRMUmVqbk9PTWVBeS1wNlpMbVVHWDVnTWIzX1BtaWUtOFh4ZEYxbWRJTjg1blpvRnp5RzgtZ0RzZ2VnLUVjYzhUdDE1YURCdUM1ZkdUak80aFdyOWhYNGZiSWlaWEhGZEJlQ1BPa0ZJanlQS0wxUXRHM2xSWDY1eFFaZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "bd06a9b51620"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Canva Teams Up with Meta’s Muse to Transform How Users Create Designs",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUVzeVVzcUVHNG5QSVp1RVh3WG1pVWRodUZnUktfQkh0NnNiQXNSMFVGX1RWWXZtMGE5ekxMaUJIaHo5SWhjWXRUSHJfY01LNXg0REtiT3dLejFIZ1dsRjhhY1Nfdnc2ek1hRFVLZlVWX1hyekdPSVlEX19INHI5QnNibFBzNW1RMVlQbmRUX0Z6eTBBR0I5UEUwLUY?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f7a9f4efb134"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma Introduces Specs and Expanded AI Agent Tools to Standardise Design Workflows",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzNHMEg2RWFOaTZmSEIwZ2FHZ2tNZm9tUVd4aGZYYVd5QWlYYnRDVFN4ZGR3Mkk2ZkFpVFZqc1k5dWhJMlo4SEVVWEsxaHNmaGlRSHZqR0l5TjVZb0JVb05fNlU3ZGtiU2gzM29GVWlNMHpoLXhvRDE5NnNxcWs4ckVELUdVUGJGM2NHb0MydU16NE43QV8zZi0tdkpxQ0c2bWJoMjRZalNNNGpxd3pFZ0RCdjFiWmVC?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b84c5228e705"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma Unveils Specs and New Tools to Keep AI Agents in Line With Brand Design Rules",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjRJNUJ5VFJQQnVKTjMwTUVsN0dWSHd3LUVSczRISnFtNnlhemc2eGtkQTBxc2lZSTBISDY3V0hDcUFyNTlLdDRTa3kwNXROZ19TcmNjM2cwbjZJUG5peDJoMTd5VlU2Sjl4MXFoQ1J0Q29wWG9yb080Z0kyZmk1eDJJaklSVVdHbzduVi1fOFBNT1ZmUFMtZlpSaGVPRlhmU25yLVFR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5f656553357d"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Framer",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Apple HomeView unveiled, new Apple TV and HomePod mini first impressions",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ua3lrU0trc0s2bldnaXQxQzBPRkQtdlhtVGVlLW5PdDZ4bHdaTzJKUXB3b19PX3RZUXdVSWdydUxzN3JfbWxlaWh4b2R2UVBOdXhPSHJMN0ZsUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d171207578b5"
     },
     {
       "date": "2026-10-14",
@@ -1440,93 +1525,64 @@
       "source": "Google News",
       "curated": false,
       "id": "7ce04b4b7e5a"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "OneSpan",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "OneSpan (OSPN) Unveils Enhanced Digital Agreements Platform to B",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW15TGFmZ1ZzS3dhQ2pYLVY0ZE51SkxQdEJsUHNabUhEampqLWx6ZnhPSEQtdW4tRWlqVGhZWmN3WWtzTU1ibDVjUWxVZ3gzbDZXdFctMU0wNW54cTF4bDBBT19NV1RWbHo1MGhiejlHOHpaT2xXR282OVAwbjBDd0pZU3hlR21XUHNJMXZmeV92eWtXeVpjbEZZX2FtNDdIbVdvZnZwNEhSS1NsaGVtYl9PclUtWXltUl9nb0dVUDFlSWR0N2pn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "50cec0d23952"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "UPDF",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Military Police Brigade Launches New Phase Of UNEB Operation",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnV0TUV1LUhmVHZUeUV6N3BrSzg4RUg3RjBHZHd0NE5UeW9Nc3ZtYVRLSFlsSG9Kal9RTE9WeHRteUMzd1BXVExQZG1aZFNOUnE2emNyUmxwcjRPTWxFemthS09zZ3pTeVE5WDZLX1BRSkp0ZHB1TVRtUk9mRm5Dc1dzSnd5SXNGeTIyU1IyQnNhSXRYQVc3ddIBngFBVV95cUxNZjZsOThwVmV3RUNKOVl4Tzlhc3k3Wko0aVpfOVBqTVRfZDNacUpOZjkzM0FoNEhRTWN5NWFPdTl2dkYtSnRJRjJXc3czbmR4Y0VkTlhsMnJRVU1zU1ZISjVSOEQzczZxbEN4ejBLRzFXb19uMkQwanAzNUl5UnJ5b2dXU05lQkRBQW13ZzBENDVoNTY2YVhMUTlwa0ZFdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "faf1b11a68b2"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "AI video startup Higgsfield launches tool to build custom AI influencers",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONG45eXJxMkRYNm1qZXNxZ3Frd01kcEJlUWZxWk9XNW5fWFRuVkJvdGFLa1VTbUxBTmlBc3N5SjRWQXJqZEtVLXZuMzNTWjkzZ3FmdDBfSUdMM3kxZkZDRktKaFVncHJOTU5RVS1XRFJvNmY2cUJ2dWR2SVVZRi1EODQzb1NvWXQ4bkFSTnppekpLRXI1VWZoLVRFTmFLUXk3NU9TbEFR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e0bcd0bfb863"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYks3dzNFejlIaXQyYXVBSlV6NWhHQTBxTGo2dlVJcXBDbHFCZVUweGhvS1h1Z2c3LTZERHJKX2ltenU1OXBUelV6OFp3azhRTEczMUdVaVd0UER3UHpMUG5LcjBDei1oVGVJVDhWS3I0eTRxak5xNE1kcmc0ck02ZnpET3ZDT0ZHUUltN28tMA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1665c6161e51"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity Group Launches in Nevis to Support International Gaming Businesses",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmZXRkdEak9OejlhYnRxckd3dXNkaUU2Ymw0dHZMSGVDN1FsVWc3d3BmVFRHSjVPZTF6eVdmdmM2SkMxbGZlUFF2aXd0T2lONXl6aW1OT2tCREJuYWhGNDZQVFZxdHJrMTRINk5CTUVvdUYtbWVoSVdNcndYUGpSbTFEemQzZl9WQjhxWEJfRjA1Ylp3T0hvSFhnSkFhenBnSFdjSmdQVy1UOHZzZDJOQTZ1bUw1UXpmUzR5R2xBNURmZmhaR2tr?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "930d9fb7964c"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Hughes Federal Credit Union introduces two new affinity debit cards benefiting Southern Arizona arts and education",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNemhzcm5QcDF4b01RTzB4cTlvWTVudFBLRzBURFR4SzBNcy0wM05sbHNmcnlCSTBMbkNfVlA1empWTHZqSnpQYkRFQ2RRX0VhdmlZalljUndLWlg2VXJuWGJhRFhzMl9mTlJIZl9lOVdkajJmMFdTbGl6bUw1TDg0Mnl6SDYzV3BnWmpUX19EM3BIYWZsSmVZUk1neGRTdUN4cy1EczRyR1lBUzdtNnFaLVZlZTAxbndrN2N0SjdrZERkTWxsUE9teEl3eHNZWi1lRHA2c2xvT29IRkZWUk5Fc0UtZlptTWxubmhJ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f71da162ba0a"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Karnataka Government and ElevenLabs sign AI partnership, with Priyank M Kharge highlighting plans for voice restoration, AI safety and citizen services. The Department of ITBT has signed an MoU with ElevenLabs to explore Voice AI applications in governa",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmdwZENXUGFCLXU1TGFZYk1odFNLRVdRSjg1TTRoZTlJSllVTFVzT1B4clQ2WjBvN0JCOFEzQlpnMGQ3eTRES29xcFY4Q1lYRWZhMnppNzkzdzN4NVZWUmR5NHFiNEYzT1U4cXdDRVVCd3djb1FyRjFBLVE5RVhDa3FtNGt5TWxpbWp3aW1EdGU1Y1dudndXUk9MMkZKR01yTnFQbTVGanVLdEotY0NUbXZYZE9MZzV4LUE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7925a454db25"
     }
   ],
   "items": [
+    {
+      "id": "d432e8da3b66",
+      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+      "source": "Search Engine Journal",
+      "summary": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags. The post ChatGPT Traffic Drop Appears To Be A Tracking Problem appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-15T21:48:30Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "9ba1422ca5de",
+      "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
+      "source": "Search Engine Journal",
+      "summary": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google’s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-15T20:43:38Z",
+      "coverage": 2,
+      "impact": 8.0
+    },
+    {
+      "id": "b41f51af802e",
+      "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
+      "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
+      "source": "Search Engine Journal",
+      "summary": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI. The post How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC appeared first on…",
+      "category": "SEO",
+      "published": "2026-10-15T19:00:58Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a72d1e4da6b0",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "category": "SEO",
+      "published": "2026-10-15T19:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fc9e8a09b703",
+      "title": "How Do We Move Forward if the SERP Is Generative?",
+      "url": "https://ipullrank.com/generative-serps",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Google has been moving the results page away from fixed modules for a couple of years, and a Google Research paper, Generative UI: LLMs are Effective UI Generators, spells out where that road may end: a model writes the entire page, including the HTML, CSS and JavaScript, from…",
+      "category": "GEO",
+      "published": "2026-10-15T18:52:03Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "97bef6f4602e",
       "title": "400 publications are now partnering with us on our News AI pilot program.",
@@ -1561,6 +1617,17 @@
       "impact": 8.0
     },
     {
+      "id": "08e53641e7c1",
+      "title": "Google Updates Links In AI Mode & AI Overviews Again, Won't Show Click Data",
+      "url": "https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google, for the umpteenth time, has updated how it shows links and carousel link cards in AI Mode and AI Overviews. Google always says this is to encourage searchers to click from the AI response to the publisher or creator, but it feels as if those efforts to drive clicks from…",
+      "category": "GEO",
+      "published": "2026-10-15T16:00:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
       "id": "fe78684251a2",
       "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
@@ -1581,17 +1648,6 @@
       "published": "2026-10-15T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "e780e135cdf5",
-      "title": "Universal Cart Launches In Google Search (U.S.)",
-      "url": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has launched its Universal Cart today in Google Search and Gemini within the United States. This is powered by the Universal Commerce Protocol (UCP) and it was launched right before the big holiday shopping season.",
-      "category": "GEO",
-      "published": "2026-10-15T13:40:00Z",
-      "coverage": 1,
-      "impact": 7.0
     },
     {
       "id": "cfdc749d35ab",
@@ -4221,61 +4277,6 @@
       "published": "2026-09-30T19:00:04Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "7e52c1077268",
-      "title": "Google AI Overviews Return For Many Large Brand Names",
-      "url": "https://www.seroundtable.com/google-ai-overviews-large-brand-names-42195.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be showing more and more AI Overviews these days and even for many large brand names. It don't have a ton of data but Google does seems to be showing more and AI Overviews for almost every large brand name except for Google's own name and news publications.",
-      "category": "GEO",
-      "published": "2026-09-30T16:12:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "487daa872e0c",
-      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
-      "url": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
-      "source": "Google (Search)",
-      "summary": "The illustration shows people around the world using Google Translate.",
-      "category": "SEO",
-      "published": "2026-09-30T16:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "d480b848b439",
-      "title": "AI Visibility at Scale: Learning From 9M Prompts and 400+ Enterprise Brands",
-      "url": "https://neilpatel.com/blog/ai-visibility-myths-data/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways At brightonSEO 2026, I presented AI search visibility research built from 9 million AI answers across 9 platforms and 400+ enterprise brands, the same dataset behind this piece. The feedback I got from conference attendees in the days that followed made one thing…",
-      "category": "GEO",
-      "published": "2026-09-30T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "00af2b8bab7e",
-      "title": "69% of Marketers Are Publishing More AI Content Than Last Year (New Research Report)",
-      "url": "https://ahrefs.com/blog/marketers-ai-content-creation/",
-      "source": "Ahrefs Blog",
-      "summary": "301 respondents shared what they’re using AI for, how it affects their productivity, their favorite tools, and more. AI use in content creation is almost ubiquitous, with 93% of respondents saying they utilize it Claude is the most-used model for … Read more ›",
-      "category": "SEO",
-      "published": "2026-09-30T15:56:21Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "e7dbc12a034e",
-      "title": "AI Visibility Data Paralysis: How to Get Unstuck",
-      "url": "https://ahrefs.com/blog/ai-visibility-workflow/",
-      "source": "Ahrefs Blog",
-      "summary": "Your brand might be missing from important conversations, losing recommendations to competitors, associated with the wrong topics, or described using outdated information. AI assistants may even struggle to access your content in the first place. Each of these problems needs ……",
-      "category": "GEO",
-      "published": "2026-09-30T15:42:56Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
