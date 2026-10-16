@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:48:34Z",
+  "updated": "2026-10-16T16:13:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-16",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
+      "url": "https://www.seroundtable.com/video-09-16-2026-42313.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "619e53a1fd41"
+    },
     {
       "date": "2026-10-15",
       "family": "model",
@@ -795,15 +805,6 @@
       "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
       "curated": true,
       "id": "50c32bc31ba8"
-    },
-    {
-      "date": "2026-02-12",
-      "family": "model",
-      "platform": "Gemini",
-      "title": "Gemini 3 Deep Think",
-      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
-      "curated": true,
-      "id": "be8f0058d023"
     }
   ],
   "competitors": [
@@ -878,6 +879,54 @@
       "source": "Google News",
       "curated": false,
       "id": "3cc80cd4c08d"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Krea",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "The beta version of the image generation and editing AI 'Krea 3' has been released, which is 10 times faster than GPT-Image-2 and costs one-third the price.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01TDZnUmlBN3ByLW0tbHBPTTV0OVNyRjhOOVhIM2tTS1hCWjRoNWFXeE5KempMZnZfYWdveFFGNy16dTlYMU1yeTZMOE83aHFDbGsyWVNsQkhXNXQzNnNFQWpybFo?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "797b3daf232f"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Unveils 4.0 Model With 30-Second Clips, Eyes Pro Film Market",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JdWdxZkJMc3FURzZac2hwOXRqenprSXRyUk00SHI3Z3AzVzZNYlVoNjdNT1pkLXgzYzJXMmVvcWJSMS1kVGNOb2Q2Vmx2eFRFODEySEh2SXoxVHlLUWdPNEN4WkNOdUhPREdVRGJHSFE5TUhxc1E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "032009da4eaf"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou shares rise 4% as Kling AI launches video model",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVIdWJmLV81R1RNSXRPX0hGU20zTXY3eG9PWnJYenM4MEdqSVVtUElIYUV1SW1zR3dKT1JDVnVPelZuVlQ2ajFWcF9sYXZQUS04WlByR0w1c0FZdlhuemwyVU45LVdfR1B5U0ZKWVpSV0Rjd3RVeHA5Sk42UC1yZjY3UWprVU9kUl82UA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f2a0f43a3430"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Launches Kling 4.0 Globally with Professional-Grade Output, Stable Motion and Multimodal Control",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGU1N0VjcmVtVDFCM0diMTdhbEJISUZ1cHNFdDdZSGt0R0ZEVVJGUEpwR2duV1Q4bVVNTTBMcElPRkxYZUtwTU5STGkzNnBjdDZSNzMydTVXNkxhZnZMWjd2RjJ6MDcwZWdxSkZWaUUxN2tSaTAyU1V4ZDVHM183NERzcjVXV2dibld2ZkNNeGVlcnQweUpnaXRGZlBsODJzdWRnaW9qM2t6VGFESkhfOENfOE5zdXNKVTNOVzliNUZVcTg5bFY2eEVXUWlQUERQQ3NlLW9GMkpHNHBVcmZLTXFINl9sZW5wUEtCTTdraVg4MnBoakpyRFR1TFctNU5vVUM1Q25jc3VHVzkyWEHSAY4CQVVfeXFMTXBlNTdFY3JlbVQxQjNHYjE3YWxCSElGdXBzRXQ3WUhrdEdGRFVSRlBKcEdnbldUOG1VTU0wTHBJT0ZMWGVLcE1OUkxpMzZwY3Q2UjczMnU1VzZMYWZ2TFo3dkYyejA3MGVncUpGVmlFMTdrUmkwMlNVeGQ1RzNfNzREc3I1V1dnYm5XdmZDTXhlZXJ0MHlKZ2l0RmZQbDgyc3VkZ2lvajNrelRhREpIXzhDXzhOc3VzSlUzTlc5YjVGVXE4OWxWNnhFV1FpUFBEUENzZS1vRjJKRzRwVXJmS01xSDZfbGVucFBLQk03a2lYODJwaGpKckRUdUxXLTVOb1VDNUNuY3N1R1c5MlhB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4fa220f84ce9"
     },
     {
       "date": "2026-10-15",
@@ -1478,57 +1527,152 @@
       "source": "Google News",
       "curated": false,
       "id": "e50765cc61c6"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "SERHANT launches AI avatar; PLACE acquires mortgage tech firm",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2oxMTdTUWF1STdCRVBxYmdraFJMdDhaeDA1NDhaVUxUQXVKS0pERjlKeXFfc3MtalBPV2pXcGFDVTVHdmEyaDMzblFjZnpWS2JIa1BETWZFaTVmd2ZfdTFRYVFQQ2Zod182ZkRmTmFBM3daYXNOUHFuZm1mb2lDZ2pxalNGVWxvS081cEhlc3Fza0J3RGRVVVhNQlVTdlFGcjJZ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3a8687e00a4e"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "HeyGen Voice Debuts at #1 on the Controlled Voice TTS Arena — Beating Qwen and ElevenLabs on Cloned Voices",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0walpING9yV2Vqb1ExbFVFT3c3YTJNZzNlYVozMzhmdnpvUF9ZeUpMNFZUMHRqemp5dElLV29yeklkc3AwaHpUeEM0Y2JhR2RwWkRrQ251QW9YRll5RlNZb0RNWVRNVWQ5RFlmdF84Q2ZydXRobktJSXBSNA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c57f251841cc"
-    },
-    {
-      "date": "2026-10-08",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Ryan Serhant Partners with HeyGen to Turn His Own Face and Voice Into a Daily Content Engine",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTcwNTZYWTZNTUNLcUJHUXRfejdCUmJXeF81bjNUMGRzaEhFNkVnWU1kVnBoTnQ5RUNDdVpnc3hvM3FNUi1JOGs2RnZtczZZemd1aFFJNkg2ZTNIeVlIS1NwcEZONmI0ZjZhYjZwVFlQOUQ2MHFRQVVSWkg2YVFPOG5aZmFMdlo2VVFpVWc4bHN5d19ZRkxXZGFFaHVvV0c5Y1lfam1INU80MFdhS1UycDBXTVpPMHJES3VCUXBJUktSQ1NzT3VHbUtEeU16cXQwTGlJTnpuVDhUblRlZEYtZWF3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "04cb43c04776"
-    },
-    {
-      "date": "2026-10-08",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Docusign Introduces PDF Editor to Simplify the Path from Document Preparation to Signature",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVBOcV9TZjJBQklXNnBZeXRLUkpEZU8zUjZUaWpDVU1Rcnk5aHdOTUJoaVY5RTBPclNuZmg1clpOSWctdm91T2d3Z2piWkhCOVhOUWRxSHJHLUEtVWtSQUx0LWFIOFd1UGJsYy1zRzcyOUt3TEhSdVZVSlU3SktNQy1OaERtRnFDQWNmRHoxb2JmSGZZbWNXTVMxRnlaSjRFWkVUanBXSWlQNHFxUExpbDNFTThhMExJbDB6WDliU2otUE1NQW5ZdkFTOS1nNDQyYjl4a1RpQ251emRzOGlz?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a323186441a4"
     }
   ],
   "items": [
+    {
+      "id": "72886fcc89a7",
+      "title": "Why AI Makes Content Ecosystems Essential",
+      "url": "https://neilpatel.com/blog/ai-content-systems/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways AI is changing more than how quickly marketers can create content. It is changing how marketing teams operate. McKinsey’s latest research argues that AI is moving organizations away from campaign-based marketing and toward continuous growth, supported by…",
+      "category": "SEO",
+      "published": "2026-10-16T16:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "d06402b902aa",
+      "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
+      "source": "Search Engine Journal",
+      "summary": "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It’s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-16T14:00:20Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "21e8ffff36cd",
+      "title": "Daily Search Forum Recap: October 16, 2026",
+      "url": "https://www.seroundtable.com/recap-10-16-2026-42318.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-16T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e552b9f3bf7a",
+      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
+      "url": "https://www.seroundtable.com/video-09-16-2026-42313.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several...",
+      "category": "GEO",
+      "published": "2026-10-16T12:01:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "977006ae9a77",
+      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
+      "source": "Search Engine Journal",
+      "summary": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-16T12:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "879afe85bfb4",
+      "title": "Google Search Ranking Volatility & Chatter Spike Today",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html",
+      "source": "Search Engine Roundtable",
+      "summary": "It has been a while since I reported on a Google Search ranking update. I blame the tools, but in all seriousness, I am seeing a spike in volatility and, now probably more importantly, a spike in chatter over the past 24 hours, related to Google Search ranking changes, referral…",
+      "category": "Algorithms",
+      "published": "2026-10-16T11:55:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "429e265f0018",
+      "title": "Google Ads To Allow Certification For Online Gambling Advertisers",
+      "url": "https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads will allow some advertisers to apply for certification for the category of online gambling. This started this month, October 2026, and will gradually be available to some advertisers in Google Ads.",
+      "category": "SEO",
+      "published": "2026-10-16T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d6cdf1790abd",
+      "title": "Bing Tests Read More Links In Search Result Snippets",
+      "url": "https://www.seroundtable.com/bing-read-more-links-42311.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is testing placing \"read more\" links within the Bing Search result snippets, like Google officially did a year or so ago. I am able to replicate this on some browsers, where Bing adds a \"Read more\" link at the end of the search result snippet that links to the same…",
+      "category": "SEO",
+      "published": "2026-10-16T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6b04aa20e87e",
+      "title": "Google Ads Lead Form Adds Lead Scoring For Lead Qualification",
+      "url": "https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google added the ability to add lead scoring by indicating answers that qualify a lead for your business to get higher-quality leads. You can add up to 12 answers per question and check off whether they qualify under the lead scoring section.",
+      "category": "SEO",
+      "published": "2026-10-16T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "dbadd770ad18",
+      "title": "Bing Search Testing Popular Links On Snippets",
+      "url": "https://www.seroundtable.com/bing-testing-popular-links-42304.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is testing adding the label \"Popular Links\" to the Bing search results sitelinks. This reminds me of the Google top pages test and variations of that.",
+      "category": "SEO",
+      "published": "2026-10-16T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "62fd228b99f6",
+      "title": "Google Ads API Releases Twice Per Month Going Forward",
+      "url": "https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule. Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month.",
+      "category": "SEO",
+      "published": "2026-10-16T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fa45f9d02d87",
+      "title": "Google Updated Indexing API Quota Details & More",
+      "url": "https://www.seroundtable.com/google-updates-indexing-api-quota-information-42316.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the indexing API documentation; this includes three different pages within the documentation. I think the big takeaway is that Google removed the old approval process and initial testing explanation, the sitemap recommendation, and, most importantly, the…",
+      "category": "SEO",
+      "published": "2026-10-16T10:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "23ed47f5cec0",
+      "title": "How to Automate Content Creation: A Follow-Along Guide",
+      "url": "https://ahrefs.com/blog/automated-content-creation/",
+      "source": "Ahrefs Blog",
+      "summary": "When people hear “automated content creation”, I imagine they picture something like this: Enter a keyword, click a button, and poof! An article is made. From there, they’ll generate 500 articles before the day ends and publish all of them. … Read more ›",
+      "category": "SEO",
+      "published": "2026-10-16T09:21:11Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "dd8df01f78f8",
       "title": "2027 SEO Planning Workbook",
@@ -1660,17 +1804,6 @@
       "published": "2026-10-15T14:00:33Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "a0c8141d5e00",
-      "title": "Daily Search Forum Recap: October 15, 2026",
-      "url": "https://www.seroundtable.com/recap-10-15-2026-42309.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-15T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "cfdc749d35ab",
@@ -1845,8 +1978,8 @@
       "summary": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on…",
       "category": "SEO",
       "published": "2026-10-14T15:00:33Z",
-      "coverage": 2,
-      "impact": 6.0
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "0223a29f27ad",
@@ -2122,17 +2255,6 @@
       "published": "2026-10-13T17:18:44Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "ff22beca0568",
-      "title": "It’s possible your migration issues may be due to site quality",
-      "url": "https://www.mariehaynes.com/its-possible-your-migration-issues-may-be-due-to-site-quality/",
-      "source": "Marie Haynes",
-      "summary": "There have been a number of reports recently of sites struggling to be properly indexed following a site migration. I have consulted with a few sites on this issue and have developed a theory. Please know that this theory is not something I can prove at this point. I am writing…",
-      "category": "SEO",
-      "published": "2026-10-13T15:31:03Z",
-      "coverage": 1,
-      "impact": 3.0
     },
     {
       "id": "66af0fae8a0d",
@@ -4157,127 +4279,6 @@
       "published": "2026-10-01T11:49:28Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "bdc63d97a193",
-      "title": "1 billion downloads: The people and stories behind Yoast SEO",
-      "url": "https://yoast.com/one-billion-downloads-user-stories/",
-      "source": "Yoast",
-      "summary": "1 billion downloads of Yoast SEO. That’s a milestone worth celebrating. But behind that number are the people who made it possible: the bloggers who wanted more people to find their content, the businesses working to grow online, the agencies helping their clients succeed, and…",
-      "category": "SEO",
-      "published": "2026-10-01T11:42:14Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "f314b03f8393",
-      "title": "Google AI Overviews Invade Team Rosters",
-      "url": "https://www.seroundtable.com/google-ai-overviews-team-rosters-42202.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be going after team rosters with the latest Google AI Overview to overtake website content for its own AI-generated version of that content. If you search for certain team rosters, Google will generate an AI answer, an AI Overview, with the answer.",
-      "category": "GEO",
-      "published": "2026-10-01T11:41:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "8b2f29e30744",
-      "title": "Microsoft Advertising Optimization Experiments Now Generally Available",
-      "url": "https://www.seroundtable.com/microsoft-advertising-optimization-experiments-42203.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Advertising announced that optimization experiments is now generally available for Search, Shopping, Audience, and Performance Max campaigns. An Optimization experiment measures the impact of a campaign change through a controlled A/B test, Microsoft's help center…",
-      "category": "SEO",
-      "published": "2026-10-01T11:31:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "406f1fefcbe5",
-      "title": "Google Tests Dropping I'm Feeling Lucky Button From Search Bar",
-      "url": "https://www.seroundtable.com/google-search-im-feeling-lucky-button-42190.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be testing dropping the historic I'm feeling lucky button for the main Google Search bar. It is totally gone for some searchers when you start to type your query, and in other cases, it is supplemented with AI buttons.",
-      "category": "SEO",
-      "published": "2026-10-01T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f218a25608c2",
-      "title": "Google Search Tests 3 Products In Grid That Expands To More",
-      "url": "https://www.seroundtable.com/google-search-more-products-test-42191.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing showing three products in the more products grid within Google Search. In some tests, the grid can expand to show four or five or so products across or downsize to only show three.",
-      "category": "SEO",
-      "published": "2026-10-01T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6e6efd7ccf61",
-      "title": "Google Ads: Have At Least One Asset Group To Avoid Invalid Final URL Error",
-      "url": "https://www.seroundtable.com/google-ads-asset-groupinvalid-final-url-42204.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads updated its destination not working policy document to \"provide additional examples for destination issues for advertisers,\" the company said. But Google also added a new line that says \"Make sure your campaign has at least one asset group configured. If an asset…",
-      "category": "SEO",
-      "published": "2026-10-01T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "98a2366d3ab2",
-      "title": "Identifying the Right KPIs in the Context of AI Search",
-      "url": "https://ipullrank.com/ai-search-kpi",
-      "source": "iPullRank (Rank Report)",
-      "summary": "KPIs are at the top of all of our clients’ minds these days. That’s what we’re hearing about on every call as we discuss their business goals. What do we measure now in this new age of AI Search and what are these measurements showing us? You’ve probably also been struggling…",
-      "category": "GEO",
-      "published": "2026-10-01T11:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ac9638c39630",
-      "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
-      "source": "Search Engine Journal",
-      "summary": "Join CTM on October 13 to learn how first-party customer data can earn AI citations, improve FAQ content, and reveal which clicks become leads. The post Where to Find the Exact Phrases That Get Your Content Cited in AI Search appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-01T10:15:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b1502875559c",
-      "title": "Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/",
-      "source": "Search Engine Journal",
-      "summary": "Cloudflare's Monetization Gateway charges AI agents per request in a closed beta, and Pay Per Use pays publishers for the AI uses that buyers report. The post Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-01T08:30:55Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "039bb878776f",
-      "title": "Ultimate SEO checklist: 43 tips to optimize your website",
-      "url": "https://www.semrush.com/blog/seo-checklist/",
-      "source": "Semrush Blog",
-      "summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results.",
-      "category": "SEO",
-      "published": "2026-10-01T08:25:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "2112ad9ba5a0",
-      "title": "Gemini 4 Argon - One Step Closer to 'Model as an Employee' Paradigm",
-      "url": "https://dejan.ai/blog/gemini4-maae/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Google's Gemini 4 Argon introduces a 1-million-token output limit to support long-horizon autonomous tasks, enterprise benchmarks, and complex code migrations.",
-      "category": "SEO",
-      "published": "2026-10-01T08:01:45Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
