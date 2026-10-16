@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T22:55:41Z",
+  "updated": "2026-10-16T03:28:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -9,6 +9,7 @@
     "Google Search Central",
     "Growth Memo",
     "Marie Haynes",
+    "Moz Blog",
     "Neil Patel",
     "OpenAI",
     "Ross Simmonds (Foundation)",
@@ -999,6 +1000,30 @@
       "id": "d171207578b5"
     },
     {
+      "date": "2026-10-15",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "David’s Bridal Launches Doggie Wedding Gowns During First-Ever Pet Wedding Runway Show",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWlhoMTJDSGJDczN2OTBibTdMZGIwNnpLWmFZY1NCTkNKQlVTTndTSFRIYzktelc1R3d5U3JIZDFwcms3OWVBZ0pKLW1NMlJyeklYaUpfbjNhWFhkM0M5enpzNFVqcUhnSGF1aGRMd1l5Q3Ja?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "602d9cd74929"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$200M",
+      "title": "Recursion raises $200M in oversubscribed offering, extends runway to 2029",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3dPTTdGdFdBdFdNVG5zUE1qWkFYSDdSM0p6OXNGcXZMRGJOdHhsV3UxUkg4QzFvcTZMTnQxQkRXU3V2enpkLUgzNm54aDQ2Zl82SDJQbl9XTEw5dEdGaUxPY2Z1M2txeDRGM2szTGtSQkpyQmRIV2Z5YjZaWHhod3FyOUtfcjluT3h2SEhrUFUtRzJyNzExd1MzSnpEY0pFZUg1MHEyYkw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e2d6acd2c963"
+    },
+    {
       "date": "2026-10-14",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1165,6 +1190,18 @@
       "source": "Google News",
       "curated": false,
       "id": "773d641041bb"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Press Release: Singapore Airlines introduces new amenities across cabins",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLTRtOW16WFNoV0tVSXNJNjFTN1J3aFh6T2xzT3lsNnYzME41SWdOQkMzcHAtVzNpZC1HYzJqZGRDV05LZ3NYYkhmMWlwMjBXX2RPdElEMEdxOC1rT2sybWdSS0hjU2QzVnZ0MlpTU1BKdUhWQ2dHRm1mNkJOaVY4d3hHZl9YSHA1OEQ0bGNYWHRQd1AxX1VSZThqQk9hZzN3aFRDVVFrb1k?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "12e455b8cfc9"
     },
     {
       "date": "2026-10-13",
@@ -1489,45 +1526,20 @@
       "source": "Google News",
       "curated": false,
       "id": "ccd0c344a890"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Higgsfield Launches Google Nano Banana 2.1, Output Up to 4K",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03dEVKSkZwRTI1YlktUDRBbnM0LUxjcTlILVRBTHNicnNmaWxyWXJjUWk0c2JuZ2NVaHA1T0JpMkZxcmp4cXBaeXpZOUVESHNDeDRqUWZ2MFE2ek41dk1ndWF0VkU0RkN3ZFlrM3Fpd1ZoQk9D?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6ecb34555994"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$50 billion",
-      "title": "Kimi's parent reportedly preparing for Hong Kong IPO at around $50 billion valuation! Kling AI is on its way too",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55dHEtbVExYUEyN0VnQXBsbWt0bVJoMGF3Y21vS3hFSEtWMlhzbUdMZlJyTEFqQWh6MzFiSVJ4dFZnaUZiand6ZlNJZE1lM3BlaXRhU21XbGpidUF2WmhMV0hQSFM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c7fc25020a14"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Readers sound off on ASPCA partnerships, public housing and Pope Leo on AI",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3RwV1RHY0RjVWRTSGZPekFMSTFZeUx6clJGV3dYMWRZMGJfalVzRU9RcG9lRmFjRzNkMHdEZDR3VEJCZHJUdlA1YjVVRmF3YnBXcDNSVGFhbThxdEZYVWVCMmtsTzJiUWQ1UGU0dkZxN05GUlVnY0hqVjF0NENjMnBKNERxOXFTMzlPM3dEajBQRlFnZE0wOFRsNUpuMUtLNGhsRTVIRHNkNDA5SC1paVBPdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7ce04b4b7e5a"
     }
   ],
   "items": [
+    {
+      "id": "66a3f3a6ca49",
+      "title": "Google Dataset Search Currently Not Returning Search Results",
+      "url": "https://www.seroundtable.com/google-dataset-search-broken-42315.html",
+      "source": "Search Engine Roundtable",
+      "summary": "For the past several hours, Google Dataset Search has not been able to return any search results or matches. Google Dataset Search returns a response that says \"Your search - [keyword phrase here] - did not match any datasets.\"",
+      "category": "SEO",
+      "published": "2026-10-16T01:37:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "d432e8da3b66",
       "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
@@ -1769,6 +1781,28 @@
       "published": "2026-10-15T10:32:28Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "9e41f21a0dab",
+      "title": "Operationalizing AI: Proven Workflows That Generate Measurable Revenue",
+      "url": "https://moz.com/blog/ai-workflows-generate-measurable-revenue",
+      "source": "Moz Blog",
+      "summary": "Most teams use AI. Almost none compound it. Eric Siu shows how Single Grain turns repeat work into skills, evals, and loops that improve every week.",
+      "category": "SEO",
+      "published": "2026-10-15T07:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "dd00c04c9b95",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "category": "SEO",
+      "published": "2026-10-15T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "088a8493483c",
@@ -4244,39 +4278,6 @@
       "published": "2026-10-01T07:00:15Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "45cfe46a56ef",
-      "title": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/liveramp-expands-openai-partnership-chatgpt-ads/591510/",
-      "source": "Search Engine Journal",
-      "summary": "LiveRamp expands its OpenAI partnership, bringing RampID first-party audiences to ChatGPT Ads as advertisers gain more targeting and bidding options. The post LiveRamp Expands OpenAI Deal With First-Party Data Targeting appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-01T03:05:53Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "3bba52758573",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "category": "GEO",
-      "published": "2026-10-01T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "fccd42a6ae71",
-      "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
-      "url": "https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/",
-      "source": "Search Engine Journal",
-      "summary": "How much SEO work can you move off the cloud and onto the user's machine? A Chrome extension experiment with Gemini Nano has answers. The post Using Local (AI) Compute To Reduce Reliance On Frontier Models appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-09-30T19:00:04Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
