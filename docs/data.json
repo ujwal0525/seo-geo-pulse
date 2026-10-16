@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:13:01Z",
+  "updated": "2026-10-16T22:36:49Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -929,6 +929,42 @@
       "id": "4fa220f84ce9"
     },
     {
+      "date": "2026-10-16",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Officially Launches Next-Generation Kling 4.0, Raising the Bar for Professional-Grade Video Models - Carroll County Mirror-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEhGdUhfLUF0RlE4VUp0VUZYenBEVXlnc2MxSzBhX0lNbWdCdUZQRFNjUkc1bElfbmp2SnRFVWMxQUUyYXNyVzlzV1B2UnZTT3dPLWxOcHE1c0Q5WWZmNUhPN0RnUzEzbTA5TThDZjdBa2ZFQTY3SXZ4MGN0dENIbmRZZnZ2MDAwLUx0ZHl0T29wbHNlWkcwR0JuZzVmbVQwTVQ0RzRJeVkybnVxVEIwdi01NmZENVk?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1316aed4bc57"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou launches Kling 4.0, a next-gen AI vide...",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnlMRlBMaGlzQTRnQzQ4YVJOTWQ5UnRvVFhobDB4WFM2MDg1bFRmQ2pCWVF4YlJHUTFNYXNoTS1yTmp3V1kxTVREVUZOYlNPaXpmOHpsR19ENkpqbU5hYVJscXdrak4xUWpYekx1TUwyV1JXS2hRZTlrbFhYYUlRQ3kxc0FleU5WRFlCZzBPRTFxUnVraUhSMlJIVXJwYXB1?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "78792ea7cb0a"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma Debuts Specs Editor to Keep AI Agents On-Brand at First Config India Event",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjZPOFQyXzJEZ1ZVMjQ3VzJZWTNFMnNNNGpTc1RMOHBQbFhVaElyRlFFR0FvbUlubW1xLWp6T3NzRkpGZWFBMk5Ka09jcFpyVFdtUzRKOHRyenFVYk1PNXlxcXVJOUVyZkp5S1EwamEza0Z4c0F1aUpqcUtISW8zWmtSczkyZl9RbUg0TjZzUVhtT2RnUVhzSkkyTGZaTkp5V0xKOC0xMzNoS25CV21UMHNIWGdxaGgwaEE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "78bbbbb51d68"
+    },
+    {
       "date": "2026-10-15",
       "company": "Figma",
       "front": "Creative",
@@ -1491,45 +1527,31 @@
       "source": "Google News",
       "curated": false,
       "id": "fcc4ea2b9faf"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Legaltech Rundown: Ironclad Launches AI Contract Agent, Hotshot Introduces AI Hallucination Course, and More",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXNhN0h3V0VCaF95Zkl6ZzF1YnlzVVItdGpXb19aaEZnOWU3Z21DdHlKaEhuS3ZENmtMLUF6Y182M2JXWWY3SEdCS3Q2WVBGMWVJMjRhb09nYmJZYVcxakZrR2t3NlNXQWhTS0Z6NU1qTlVhbnNuVGdKWktxTk9YOEw2eHBLLWh6Z05HMWRMblB5amVTZ1B6UlFweDFYb1p1dWd4dnlObDJnbVU1c0UyZV9nYXlqZ1A2V1BtbERBLXEzUlhNVWZBcmlvZldoUlEzVnZNaQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c95a5fc8c1c5"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Meta launches Vibes, an AI video feed to create short videos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVl5U3BJSk0wWHlCeU9aVG1yQmpIcm16SklCRzFDQ2NpcWloSV9KQzNCbG14UHB3QU5tNHZiTDh4dTNaMWhENEFqdXZuTXdBNzRkY3pBaW5nRWE4aDE4ekI0ZXBiMkM2WVRZVV9PejBPNTBCbS1KRE9lWXo4Q3NLR1hPbmZEYkRrM0lEb2RDMzViSWNG?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3e143b533fdc"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Wiltshire agency launches website service combining SEO and design from the start",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjRKcm85N3RzcmlBNnNWOWlOVjJhUml2b2YxY05NcHFleEZpakN4U3JiRmJGRGR5U0VDMWU1Z1oyV0FlU240cUNqZjNnTFFKbDFpYXh6LXMzTTRBaE5uQWh5Tzg2QjVOaHFoSEtJR1VaR3hRQUR1QlJ1SGNTRHVnb0p4aXRpRVpQMnNPTHBjUEp2V1RhY0c2M2JMeGh0bkVmWVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e50765cc61c6"
     }
   ],
   "items": [
+    {
+      "id": "9f1b6ed87c96",
+      "title": "Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+      "source": "Search Engine Journal",
+      "summary": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta’s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-16T21:38:49Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4d675f6a9d94",
+      "title": "Why The New York Times Puts Free Content First",
+      "url": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
+      "source": "Search Engine Journal",
+      "summary": "The New York Times gives prime homepage space to free articles and tells readers they’re free. Here’s why that works. The post Why The New York Times Puts Free Content First appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-16T19:00:23Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "72886fcc89a7",
       "title": "Why AI Makes Content Ecosystems Essential",
@@ -1694,6 +1716,17 @@
       "published": "2026-10-16T01:37:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "9db4940a53f8",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "category": "GEO",
+      "published": "2026-10-16T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "d432e8da3b66",
@@ -4246,39 +4279,6 @@
       "published": "2026-10-01T12:00:54Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "750cae7d7e58",
-      "title": "Google Local Service Ads Bug Serving Wrong Locations",
-      "url": "https://www.seroundtable.com/google-local-service-ads-bug-42208.html",
-      "source": "Search Engine Roundtable",
-      "summary": "There seems to be a bug with Google Local Service Ads showing ads from advertisers who are not targeting specific locations. With Local Service Ads, an advertiser can say they serve a specific city or location, but Google seems to be showing ads from advertisers who do not serve…",
-      "category": "SEO",
-      "published": "2026-10-01T12:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b45261d748c4",
-      "title": "October 2026 Google Webmaster Report",
-      "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is the big Google webmaster report for October 2026, where I recap the most important organic and webmaster-focused Google Search news for the past month. Clearly, the Google September 2026 spam update, which started off strong and is still rolling out, is the big ticker…",
-      "category": "Algorithms",
-      "published": "2026-10-01T11:51:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "0f1b3f0fc012",
-      "title": "Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/judge-acknowledges-publisher-harm-but-dismisses-google-antitrust-claims/591748/",
-      "source": "Search Engine Journal",
-      "summary": "Google antitrust ruling shows how publishers can allege real harm yet still fail in a federal court. The post Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-01T11:49:28Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
