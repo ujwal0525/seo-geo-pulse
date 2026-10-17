@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T18:13:33Z",
+  "updated": "2026-10-17T22:00:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1530,6 +1530,17 @@
     }
   ],
   "items": [
+    {
+      "id": "a893d07b918d",
+      "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
+      "source": "Search Engine Journal",
+      "summary": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google’s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-17T18:15:44Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "6dfd27f9c4d5",
       "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
@@ -4268,17 +4279,6 @@
       "published": "2026-10-01T13:00:47Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "872f7275cb75",
-      "title": "5 ways Search can help you perfect your at-home coffee routine",
-      "url": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
-      "source": "Google (Search)",
-      "summary": "Google AI-created image showing a latte in a cup, with latte art of a magnifying glass and Gemini spark",
-      "category": "GEO",
-      "published": "2026-10-01T13:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
