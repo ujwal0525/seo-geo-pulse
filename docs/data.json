@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:36:49Z",
+  "updated": "2026-10-17T03:18:27Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -965,6 +965,18 @@
       "id": "78bbbbb51d68"
     },
     {
+      "date": "2026-10-16",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "EY, in collaboration with Snowflake and Canva, announces launch of agentic sales orchestration platform to address enterprise AI fragmentation",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVnkyN3hHSTJ1eVBUVHlqZjVSWGZfbVdQeDBGa0YwN2dSYmx6elB6d210d1oybUFRTjl5a0NNSGxXeTd6XzFYRDdiR0MyQ2d5RGVqV1kzdG5OcEZBN3JHQ1FoaF8yeURHU1plU2d2WklIcGgtN205YUNYTWI2Q3FkTTg5YVBPTENycS0zdjdyV3lLRzYwM0UtMlJheWwwMFBRWEJCSEJEUnhnWjVXVXlPUTBhQ3dOaGVEMk54OHJwMzEzdE9RV0RHc0h2Z0JHY3BRczFyUEY4MUF5UFBla3BZWGxGUEpLVlppQ2cweUtQVE9uN185X1l6N0pZcFRxYzktWFVIazJLbHVZYk1SZF9F?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ed6eda9150e2"
+    },
+    {
       "date": "2026-10-15",
       "company": "Figma",
       "front": "Creative",
@@ -1179,6 +1191,18 @@
       "source": "Google News",
       "curated": false,
       "id": "e2d6acd2c963"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Affinity Workforce Solutions buys Sugarman Children’s Services",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQei12UVN2QnB3N0ZDZGtvWFlxZzJOaGpkRncteFZiUXliWUtOZ3NBWF9TX1hJQW9xQmh5WHlJaDFhWWgzVUtVeE5jN2JYWk9UY0RFd0E1bi0xcFlUMWtmc1JOVmxpU0lQeGdjQWt0amMydV9NM3Y0ZV9la0NQSWlZMzM3MnhxREFmcDdPcFQ5SFRvUDJrTU96WFRkdGNKR2E4Z1lhSEJjU0c1aVdEVTRNSTVTYnQ1Yk1f?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0e0ba18f6cb3"
     },
     {
       "date": "2026-10-14",
@@ -1503,30 +1527,6 @@
       "source": "Google News",
       "curated": false,
       "id": "319f85dbea62"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Legaltech Rundown: Docusign Launches PDF Editor, Spellbook Releases Contracting Tool, and More",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXNhN0h3V0VCaF95Zkl6ZzF1YnlzVVItdGpXb19aaEZnOWU3Z21DdHlKaEhuS3ZENmtMLUF6Y182M2JXWWY3SEdCS3Q2WVBGMWVJMjRhb09nYmJZYVcxakZrR2t3NlNXQWhTS0Z6NU1qTlVhbnNuVGdKWktxTk9YOEw2eHBLLWh6Z05HMWRMblB5amVTZ1B6UlFweDFYb1p1dWd4dnlObDJnbVU1c0UyZV9nYXlqZ1A2V1BtbERBLXEzUlhNVWZBcmlvZldoUlEzVnZNaQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "cefb77ef73ac"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Higgsfield Releases Video Editing Tool Katana, Powered by Claude Motion, Integrated with Claude via Higgsfield MCP",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QWW1vTnBoVE5ral9hUWVJZDlPNlhNdmliVGJRTXc2dnpoYVZ2ZFplcWJzNHRIaHN5QzF5STRWeVprT2dhMk9WTzVoTDFPLXlETS13aXBSQkdNUzUweVZ1M1JjQWx0NV9KNXFUMTY3QkN1aWJK?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fcc4ea2b9faf"
     }
   ],
   "items": [
@@ -1551,6 +1551,17 @@
       "published": "2026-10-16T19:00:23Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "65442e708214",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "category": "SEO",
+      "published": "2026-10-16T19:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "72886fcc89a7",
@@ -4268,17 +4279,6 @@
       "published": "2026-10-01T12:15:03Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "b272cbd8bf85",
-      "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO via @sejournal, @HelenPollitt1",
-      "url": "https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/",
-      "source": "Search Engine Journal",
-      "summary": "Understand the most common structured data mistakes that hurt AI visibility and how to avoid them The post What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-01T12:00:54Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
