@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T03:18:27Z",
+  "updated": "2026-10-17T08:19:04Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -809,6 +809,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-17",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B parameter open weights model",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE0tTXVtQ0xYSl9mVnQ0N1JQYW10M2ZxOXR6YzkzaHVseE1mQlNfdEUzajZXUnFfbllINldxam1pUXFIbS1pYUwtcjh3TnEyTzJ4Y2NkaTFaS3pyQ0I3VWhiTTJ6YlBQUzU5SVQ0QVcySGZlbTNPR29teFZUSmdDR045R0RKUk1VTlVrTFBKNERtX1JpSnM5WkhwSDV5OXBLS2hYV3dwYzA1LUFSM3RR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "bd6290bd692b"
+    },
+    {
+      "date": "2026-10-17",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou Technology (SEHK:1024) Launches Kling 4.0 On Questions Over Whether Shares Are A Bargain",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEJaRGxrS1dEZWUya1pGVGhkUkFRR0hXZlp6ekhQMEp4OC1tUEowbnNub2FwdFNyVGtmUHhZd09rSFhoVTZhWUY2Y1RkUGpicFZHYlpIbEJxekRkQUg0dlpYWEZqcVBPTmFRTHRCbk9SbXZHblVsOUo5UEZKREVVeE93ekxaREM1a0VlOWtDRmtrak1VLUZLRGJMLS1VelFoMzhxUUFB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "64c343d1547b"
+    },
+    {
       "date": "2026-10-16",
       "company": "Black Forest Labs",
       "front": "GenAI Media",
@@ -977,6 +1001,30 @@
       "id": "ed6eda9150e2"
     },
     {
+      "date": "2026-10-16",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Cody Wilson unveils AI-designed 3D-printed WASP pistol",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNldQaWYxY2VWSXo1UE5sNXBWc0ZRM3lIbnVNUDRHR29nRXBOMlBNTElPaVVGNUpObDhvQXZ0Z21lQUx4WDBpdlY4eXhkS0duVlZ4V3g0MVNPbEV3cTdzM3MxcENtaGxmaktDTTlfUmNONEN5bE84MG1FbVUzSFJxNXczX1F1NzRRSElV?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "810df5f009dc"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou Technology Launches Next-Generation Kling 4.0 Video Generation Model of Kling Ai",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXFyZlhiTzRpcU1WaTRadG5NMFBtbzZjX0FxQ05oMmkwRWx2YW45cEttd1Y2MzhVdUlTYmYtREszQ1E3SDRLQjBFcDdvZkZFX3U5ZGFSYXdtLVB5ZUJlSUNqMEJNb2w2QndpVVNESm1EZGxvaUVDRWs4a3Blc2k2OWdITmRnVUJDUTE1OVNPWDFWaWFqRExEeXBnLTFtb01zS3ViUWc2S2hpRDlkNGw1cUNqMVNXTXlkbDRQOExaUzdiX08xTFpFbzFteEhtXzB2Ny1aQzFhV0RmQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9dfd0037b182"
+    },
+    {
       "date": "2026-10-15",
       "company": "Figma",
       "front": "Creative",
@@ -1107,18 +1155,6 @@
       "source": "Google News",
       "curated": false,
       "id": "6790251e9424"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Black Forest Labs Releases FLUX 3 Image Klein With 5.6B Parameters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmRMUmVqbk9PTWVBeS1wNlpMbVVHWDVnTWIzX1BtaWUtOFh4ZEYxbWRJTjg1blpvRnp5RzgtZ0RzZ2VnLUVjYzhUdDE1YURCdUM1ZkdUak80aFdyOWhYNGZiSWlaWEhGZEJlQ1BPa0ZJanlQS0wxUXRHM2xSWDY1eFFaZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "bd06a9b51620"
     },
     {
       "date": "2026-10-15",
@@ -1491,42 +1527,6 @@
       "source": "Google News",
       "curated": false,
       "id": "a0cb7d55e26b"
-    },
-    {
-      "date": "2026-10-10",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Introduces ProSuite, Uniting Top Creative Tools for Designers",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNE9LNXQ3OHRpbWs0N0ZtNm1id0tkUHIwTUI2OE5UM3ZuQXRjRkhrbU9zSnZ1NmlSQkx4STloMlkxcmtHOGNkeHd0Y2Y2T3pjV1NneTczMkUxaWJId1YwZk9vSjVETWxjOWpkRTBfTFVjWGl0dWFQR09JTTh4UWVRTDlfTlg2YXNoZU54OWQwbmh6dTltYkFTa1p3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5d544e2e0182"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "HeyGen Launches HeyGen Voice, Debuting at #1 on Artificial Analysis' Leaderboard",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHJUdjBXN2Zla2dIYlpvbWZORm1PNzJ5cXgyeDlPSEpvUmI0VmFxMnFDd1FJYXV4RzJDTWJseTljOTRoTmRjR2cwcWgzeEZvRHVaeXlLYktyU2xJN2M0WEZIMmlKR0dscXN0TUo2ZS1XMVN1aXZIZGxyR29rdnVxV1lqRWVkN2Q3TGxla1JKaTJocnl2bjk4ODlhdUQyZ0FIRXVFU1FtV19FYzVqaU5lUXBXY09sTFlEbXBSUFl5X3ZKQXZDbzFyeWZ3VlFXZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4d94403e2b9e"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "$200 Million",
-      "title": "HeyGen Launches Top-Ranked Voice Model as ARR Surpasses $200 Million",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRldISWIwVUpqVHpOZHN1UUJiS0Rsbmt1bzZiYm85QlNmRm9kdjBHYUtSb3NpR094anQtMjQ5czQ4N1V6ajRDMEl6T1lxckpmQTNMNEtiZDAteUJ6ZkQzb3pDYWZPcDZGZ1BSem9pUXhVTEZCRE9EdEtZNGpoRklkVHVTQ25SY2dhdXVSMzNCZFhjY1VqdEhZLXcxSVQzUTlVa3FBWnREQWpHRFVfaTIwS2dMTVk5UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "319f85dbea62"
     }
   ],
   "items": [
@@ -1738,6 +1738,17 @@
       "published": "2026-10-16T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "4a2f3ca18eb9",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "category": "SEO",
+      "published": "2026-10-16T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "d432e8da3b66",
@@ -4268,17 +4279,6 @@
       "published": "2026-10-01T12:30:58Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "4ed2487a1ada",
-      "title": "Google Gemini Adds UTM Parameters For Referral Attribution via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/",
-      "source": "Search Engine Journal",
-      "summary": "Gemini's new UTM parameters give site owners clearer attribution for traffic coming from Google's AI platform. The post Google Gemini Adds UTM Parameters For Referral Attribution appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-01T12:15:03Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
