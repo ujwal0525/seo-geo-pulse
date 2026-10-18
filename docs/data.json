@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T03:22:46Z",
+  "updated": "2026-10-18T08:37:44Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1530,6 +1530,28 @@
     }
   ],
   "items": [
+    {
+      "id": "9640386eb342",
+      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+      "source": "Search Engine Journal",
+      "summary": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-18T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "e1c4a7dd4f2c",
+      "title": "DeepSeek Search Engine",
+      "url": "https://dejan.ai/blog/deepseek-search-engine/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "DeepSeek launched its own web search engine and API endpoints in October 2026, transitioning from third-party providers to an in-house crawling and indexing stack.",
+      "category": "SEO",
+      "published": "2026-10-18T04:22:59Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "a893d07b918d",
       "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
@@ -4257,28 +4279,6 @@
       "published": "2026-10-01T14:30:00Z",
       "coverage": 2,
       "impact": 9.0
-    },
-    {
-      "id": "cdc139085bab",
-      "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/",
-      "source": "Search Engine Journal",
-      "summary": "AI changed the buyer in 18 months. Most businesses still run on 12-month plans. Here's where the gap shows up and why it keeps widening. The post AI Changed Your Buyer Faster Than Your Business Can Adapt appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-01T14:00:52Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1d65e37fddac",
-      "title": "Nothing Is On Fire At Google via @sejournal, @pedrodias",
-      "url": "https://www.searchenginejournal.com/nothing-is-on-fire-at-google/591422/",
-      "source": "Search Engine Journal",
-      "summary": "Google has data, chips and cash to lead in AI. The real question is whether it will disrupt the Search business that pays for everything. The post Nothing Is On Fire At Google appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-01T13:00:47Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
