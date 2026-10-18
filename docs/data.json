@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T08:37:44Z",
+  "updated": "2026-10-18T15:29:42Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1049,6 +1049,18 @@
       "id": "9dfd0037b182"
     },
     {
+      "date": "2026-10-16",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c73462739049"
+    },
+    {
       "date": "2026-10-15",
       "company": "Figma",
       "front": "Creative",
@@ -1515,18 +1527,6 @@
       "source": "Google News",
       "curated": false,
       "id": "de968c88cbaa"
-    },
-    {
-      "date": "2026-10-11",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "378eeed4f323"
     }
   ],
   "items": [
