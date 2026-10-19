@@ -1,8 +1,9 @@
 {
-  "updated": "2026-10-19T03:34:37Z",
+  "updated": "2026-10-19T09:39:56Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
+    "Andrea Volpini (WordLift)",
     "Bing Webmaster",
     "Dan Petrovic (DEJAN)",
     "Google (Search)",
@@ -1530,6 +1531,17 @@
     }
   ],
   "items": [
+    {
+      "id": "98859553e456",
+      "title": "Entity linking and entity resolution APIs, compared",
+      "url": "https://wordlift.io/blog/en/entity-linking-apis-compared/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "resolve() vs Google, Dandelion, Entity-Fishing and Wikidata search on VoxEL, five languages: who links the most names right, and where we lose. The post Entity linking and entity resolution APIs, compared appeared first on WordLift Blog .",
+      "category": "SEO",
+      "published": "2026-10-19T09:04:26Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "9640386eb342",
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -4268,17 +4280,6 @@
       "published": "2026-10-01T14:57:42Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "cea38b95b670",
-      "title": "Phase Two Of The Google September 2026 Spam Update Hits On 9/30",
-      "url": "https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced the Google September 2026 spam update a week ago today on September 24th. We most likely saw the first wave of sites getting hit on September 25th, 26th and into the 27th. Then things cooled a bit but it all heated back up yesterday, September 30th. September…",
-      "category": "Algorithms",
-      "published": "2026-10-01T14:30:00Z",
-      "coverage": 2,
-      "impact": 9.0
     }
   ]
 }
