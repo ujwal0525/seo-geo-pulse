@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:16:39Z",
+  "updated": "2026-10-19T03:34:37Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -809,6 +809,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-19",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "$50 Million",
+      "title": "Kylie Jenner Debuts on the Victoria’s Secret Runway in its $50 Million Fantasy Bra",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJNcUdLVF9wMFNRaDRheG5lQnYtTW1GeUczLTdwWnplVy16aWtpaUhldk9waUlkVzMxVnQzcDZGQmVJTm13b0xLcnJZOVBRNVJTV1hlZG84NXRnaG5qaVYtNzgzbEJJcjJyN3hINkNTZG5tNU9ZNGlXS191eXpPRUxzZk9mWEJyVmpfbnoxZm4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "850a43b350c6"
+    },
+    {
       "date": "2026-10-17",
       "company": "Black Forest Labs",
       "front": "GenAI Media",
@@ -1515,18 +1527,6 @@
       "source": "Google News",
       "curated": false,
       "id": "4453516a496a"
-    },
-    {
-      "date": "2026-10-12",
-      "company": "airSlate",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "DocHub Launches the Visual Edit Feature to Change Any Document's Visual Look",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcTdmUUdlVy05NXN0UXRwdlN1TEZsSF9VeFZPWWw1NS1EU21CdlY5dUVKbGZacTNSNm1JSjFLY1FRN0NNbnluM0dYcGJkZXAtRVVZT3RtZUE0VmRzWjMyX3dGQWo0a1hEMnRlNWlkU0VJTU5xWmVGeFBWTUxYa0ptdDdJMHFfdXVUeXNraC0wcGZlWUVjUXRoa0NvUW5aWWptUV9JZkhhTWl5UFBmVWtBbmoyd1hzUmFJUjlTeXRBNjVSRks1SkcwQkN3T0JaYkVLT0gwS01jUDdibThWenRkMThkUHdqckkwblRReHBnbjRIdU9sVGZIaE9ZUWtJRnFfVDhtU2k5VVU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "de968c88cbaa"
     }
   ],
   "items": [
