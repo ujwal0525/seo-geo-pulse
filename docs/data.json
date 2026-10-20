@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T09:13:10Z",
+  "updated": "2026-10-20T16:28:13Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -10,7 +10,6 @@
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
-    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -21,6 +20,7 @@
     "Semrush Blog",
     "SparkToro",
     "Yoast",
+    "Zyppy Signal",
     "iPullRank (Rank Report)"
   ],
   "milestones": [
@@ -1534,6 +1534,149 @@
   ],
   "items": [
     {
+      "id": "9961a451b5a0",
+      "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
+      "source": "Search Engine Journal",
+      "summary": "Cloudflare says its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search. The post ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-20T15:00:36Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "76d4b56b62ad",
+      "title": "Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail",
+      "url": "https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/",
+      "source": "Search Engine Journal",
+      "summary": "Regain control of Google Ads with a curated article stack on lead quality, Local Services Ads migration, Smart Bidding goals, and proving PPC business value. The post Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-20T14:17:07Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "00755085f68b",
+      "title": "I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/",
+      "source": "Search Engine Journal",
+      "summary": "DeepSeek’s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs. The post I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-20T14:00:13Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "83afb685a722",
+      "title": "Daily Search Forum Recap: October 20, 2026",
+      "url": "https://www.seroundtable.com/recap-10-20-2026-42334.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-20T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9a583f844af4",
+      "title": "How To Create Links for SEO Google Can't Ignore",
+      "url": "https://signal.zyppy.com/p/links-google-cant-ignore",
+      "source": "Zyppy Signal",
+      "summary": "Links are critical to SEO, but Google actually ignores most of them. Here's how to ensure your links count.",
+      "category": "SEO",
+      "published": "2026-10-20T13:07:32Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "0ff558c009c8",
+      "title": "Google Removes AI Overviews Labels On Some AI Overviews",
+      "url": "https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be removing the AI Overviews label from some of the search results that are AI Overviews. The desktop version is missing the AI Overview label, while the mobile version has the AI Overview label.",
+      "category": "GEO",
+      "published": "2026-10-20T13:03:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "b59769708010",
+      "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
+      "source": "Search Engine Journal",
+      "summary": "Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you. The post What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-20T12:00:04Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b1e7d987de24",
+      "title": "Google Business Profiles Verification With Government ID",
+      "url": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a new way to verify your Google Business Profiles, the method is by uploading a photo of your government ID. This is in addition ot the phone/text, email, live video call or snail mail verification methods.",
+      "category": "SEO",
+      "published": "2026-10-20T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4e609083d825",
+      "title": "Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc",
+      "url": "https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for…",
+      "category": "SEO",
+      "published": "2026-10-20T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a49e96365a8d",
+      "title": "Google Search Internal Issues With Square Brackets [] Punctuations In URLs",
+      "url": "https://www.seroundtable.com/google-square-brackets-urls-42332.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search had some issues handling square brackets punctuation marks (i.e. [ ]) within URLs. John Mueller from Google responded to former Googler, Vanessa Fox, saying that he is \"seeing some of the issues internally that came up with these kinds of characters in the URL.\"",
+      "category": "SEO",
+      "published": "2026-10-20T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "85772c504cb6",
+      "title": "Bing Tests Not Showing Sitelinks",
+      "url": "https://www.seroundtable.com/bing-no-sitelinks-42327.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft seems to be testing not showing sitelinks under the main Bing search result snippets. I am honestly not sure if this is new but I was able to replicate Bing showing sitelinks for the first search result snippet in one browser and for the same query, it not showing the…",
+      "category": "SEO",
+      "published": "2026-10-20T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d625c8588e17",
+      "title": "Google Business Profiles Review Appeals Are Delayed Again",
+      "url": "https://www.seroundtable.com/google-business-profiles-review-appeals-delays-42331.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Business Profiles review appeals are delayed again. Dan Boguslavsky from the Google team posted about the delay last Friday saying, \"Due to high volume of review related appeals, processing times are currently extended.\"",
+      "category": "SEO",
+      "published": "2026-10-20T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e05100d08859",
+      "title": "Google Search Tests Removing Horizontal Rule Line Under Tabs",
+      "url": "https://www.seroundtable.com/google-search-horizontal-rule-line-removed-42333.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing removing the HR, thematic line break or horizontal rule line, that is found under the search tabs under the search box in the search results page.",
+      "category": "SEO",
+      "published": "2026-10-20T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "05cd45c837d9",
       "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
@@ -1651,17 +1794,6 @@
       "summary": "A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-19T14:00:20Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f6d8159aad96",
-      "title": "Daily Search Forum Recap: October 19, 2026",
-      "url": "https://www.seroundtable.com/recap-10-19-2026-42326.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-19T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -2968,7 +3100,7 @@
       "title": "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)",
       "url": "https://ahrefs.com/blog/query-fan-out-chatgpt/",
       "source": "Ahrefs Blog",
-      "summary": "We wanted to see for ourselves how ChatGPT retrieves information—and what that means for AI visibility—so we analyzed 66.6 million free, logged-out GPT-5.6 Luna responses and their 15 million fan-out queries from August and September. Only 14.4% of the 66.6 … Read more ›",
+      "summary": "We wanted to see for ourselves how ChatGPT retrieves information—and what that means for AI visibility—so we analyzed 66.6 million free, logged-out GPT-5.6 Luna responses and their 15 million fan-out queries from August and September. 14.4% of the 66.6 million … Read more ›",
       "category": "GEO",
       "published": "2026-10-12T08:55:12Z",
       "coverage": 1,
@@ -4148,138 +4280,6 @@
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "category": "GEO",
       "published": "2026-10-05T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "c46fd08f4cc6",
-      "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
-      "source": "Search Engine Journal",
-      "summary": "Google's recent changes provide strong clues about major changes from the next core algorithm update. The post What To Expect From Google’s Next Search Ranking Update appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-10-05T09:42:03Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "1fe829a4764a",
-      "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
-      "source": "Search Engine Journal",
-      "summary": "Google's Gary Illyes showed timing ranges for crawling, indexing, site moves, and core update recovery at Search Central Live Deep Dive Europe in Barcelona. The post Google Shows How Long Crawling, Indexing & Recovery Can Take appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-04T20:41:36Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "8050dec434b3",
-      "title": "Why we don't do prompt tracking.",
-      "url": "https://dejan.ai/blog/prompt-tracking/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Instead of infinite prompt variations, this measurement framework tracks canonical core entities across AI models to score brand visibility over time.",
-      "category": "GEO",
-      "published": "2026-10-04T04:28:29Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "88ce1d1cc157",
-      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
-      "source": "Search Engine Journal",
-      "summary": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits. The post Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-03T12:00:26Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d8f448698e04",
-      "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
-      "source": "Search Engine Journal",
-      "summary": "Shopify merchants: your agentic storefronts setting now shares products with Meta and unnamed startups. Leave it on, and watch what Shopify adds. The post Shopify Now Enrolls Your Store In Every New AI Shopping Channel appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-02T19:00:52Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3794d03fe09a",
-      "title": "Google changed their helpful content guidelines to emphasize good “Main Content”",
-      "url": "https://www.mariehaynes.com/main-content/",
-      "source": "Marie Haynes",
-      "summary": "Google recently made substantial updates to my favorite piece of search documentation: Creating helpful, reliable, people-first content. For years, this has been my favourite Google documentation because it reflects the exact principles Google is training its machine learning…",
-      "category": "SEO",
-      "published": "2026-10-02T17:02:58Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "386662008dcb",
-      "title": "Re-imagining AI Visibility KPIs in a Query Fan Out world",
-      "url": "https://www.seerinteractive.com/insights/ai-visibility-kpis",
-      "source": "Seer Interactive",
-      "summary": "Wil, take me right to the KPI for long term sustainable GEO visibility!!",
-      "category": "GEO",
-      "published": "2026-10-02T16:30:48Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "8e206c4d9ed6",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "category": "GEO",
-      "published": "2026-10-02T16:15:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "e05e2084e68a",
-      "title": "What’s Making AI Impact Difficult to Measure for Marketers?",
-      "url": "https://neilpatel.com/blog/ai-attribution-difficult-to-measure/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways AI search is becoming an increasingly important way for consumers to discover brands. But measuring its impact is proving much harder than measuring a traditional referral. A user might ask ChatGPT for a product recommendation, see a brand mentioned, and then…",
-      "category": "GEO",
-      "published": "2026-10-02T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "21ce56fda53d",
-      "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
-      "source": "Search Engine Journal",
-      "summary": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos. The post OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-02T15:49:43Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "9c6633b36140",
-      "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
-      "source": "Search Engine Journal",
-      "summary": "Google's people-first content guidance now warns site owners against fabricated author profiles, a form of deception its rater guidelines already described. The post Google Adds Fake Author Warning To Helpful Content Guidance appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-02T15:03:06Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "146395efa822",
-      "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
-      "url": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
-      "source": "Search Engine Journal",
-      "summary": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-02T14:30:46Z",
       "coverage": 1,
       "impact": 6.0
     }
