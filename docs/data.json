@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T03:45:04Z",
+  "updated": "2026-10-20T09:13:10Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -824,6 +824,18 @@
       "id": "ea9098cc1394"
     },
     {
+      "date": "2026-10-20",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$2 Million",
+      "title": "Affinity Labs Raises $2 Million Pre-Seed Led By Fuel Ventures To Scale Creator-Led Software Brands",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXl0emQ0WG1pWlVsSGpFb1JySzRITkxWODhoRF92Wmk5MzFDLXhiNUJnQk5GTUtVWjAzRlVMWGNHenA4dUhwQlhPb0RsQXVoeW9ueTBVQ09CNWpUSXN2Z2tiZmVNY1JUOEJzMjg4cldRZ0gxQ3ZIb2NDcXlIT2RuT1YxejN6SF9QdjdhcXE2d1ZtYWJGZk1xMTNleVN0NUh4eXhjdFg3bU4tOHZpdEdoRGFoWHR3bXd2?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "66b68aaea1cd"
+    },
+    {
       "date": "2026-10-19",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1518,21 +1530,31 @@
       "source": "Google News",
       "curated": false,
       "id": "6fb15d643ec3"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$2M",
-      "title": "Affinity Labs Raises $2M in Pre-Seed Funding",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYU5Kci1wOU1JRTVjRzB6aFRMdGRoYVBuSVdiNjlOZ3hWdVZvUlpPdDh2V2F4OEtTU1RhcDlORFd0eWRiQ3FTU0hVbVFBOGZHXzFqdG5KRVdUUHBsV2szOFBOQmlBTnF2TTY1aVRDMmhWVkxSYUZBMTNUZlNQNHhFVERleHY5YXc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6693eb2993da"
     }
   ],
   "items": [
+    {
+      "id": "05cd45c837d9",
+      "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
+      "source": "Search Engine Journal",
+      "summary": "Search's share of North American publisher pageviews fell to 12%, but a lower share alone doesn't show fewer search pageviews. The post Search Share Fell To 12% For North American Publishers: Chartbeat appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-20T08:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "658c6ed956c3",
+      "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/sej-webinar-recap-c252a32e4209/592892/",
+      "source": "Search Engine Journal",
+      "summary": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations & Clicks Come From appeared first on Search…",
+      "category": "GEO",
+      "published": "2026-10-20T07:45:18Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "e301d3373bf7",
       "title": "New Feature: Grounding Snippet Ablation",
@@ -4258,28 +4280,6 @@
       "summary": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-02T14:30:46Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "e2a427ea40e6",
-      "title": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
-      "url": "https://www.seroundtable.com/video-10-02-2026-42210.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week, we covered the first impact felt by the Google September 2026 spam update. And then on Wednesday and Thursday we had the second impact of this spam update. Remember the AI contribution report...",
-      "category": "SEO",
-      "published": "2026-10-02T12:01:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "17d70c057702",
-      "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
-      "source": "Search Engine Journal",
-      "summary": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility. The post When A Search Query Becomes A Standing Instruction appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-02T12:00:09Z",
       "coverage": 1,
       "impact": 6.0
     }
