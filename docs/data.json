@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:28:13Z",
+  "updated": "2026-10-20T22:58:29Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -836,6 +836,54 @@
       "id": "66b68aaea1cd"
     },
     {
+      "date": "2026-10-20",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGJTVkUwTU1QQlQwREFUR2REX1hCZTVEbFFWQktDdkotbFh0LV9fdVVmYWEzM2NzdThpc0k3MWhIY2NQZng3MURiSXh6Ty1UUzFrQ3YzZjZRUGdIeDlyTVRKTHZFNDN0ZTNMcEJwVmJUVUJXR3ZFNTNWYTNJT0gtUWExRXhIYU9jOWF1dG5JdU5TZXhPU09QSWFpS1pzNVFqQzctNXlkNTZZRkxTZ3pCOU9lU0Q2Rjg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5c6d138e3b72"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckVSVlRjeWFWQzBzRENsUy02WGotUjdjVHV6Z2thekplTnIxTGgzUHluSGtKUncyQmFpMFZ5ZFNqbTlfRFpISmFOd0E5SE1lVWJJdXhhWVQyZW15cUhRcDNoTFdVdm02S3RZd19EcHhXRVdvU3JoaWtkcERvWEZncngxSHVxQW1HQmp0aHRZa3JtNWUxSjlTQUZJWQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ae239addf819"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Getty Images partners with Lee Enterprises to distribute news content",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT283QWJnSldFNm1yOE5GM2VHcV9UQVZQLWhESlkyOTJneThoa19XMTlQUHdHZWVyNU1Jd0JwOWMtaURXOUQ1Y3cwSklzODBUaDhnbmN6S2NsSmtFaFF6SkJZZGNMYm8yclRPREJqcGxmbnhsQTU4RVNkSG5saDd6Nk5LZ0xBckVNSTNzWm1zVndSODdURHoyVmJnZXJES2Rxazh1bW5mWlFVclFNX2h4UXN1bTRQd1JHR2FFY3ZBRktWOTJv?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "28993626cce9"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Framer",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "EasyAgentIDX Launches IDX Platform With Developer API and AI Connections for Real Estate Websites",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR09UdFBfQW9vdUs2eWdaTXJLY29wamprckpueUphVVZXMEViUXdGY1pJZWlFVFZPRi1vS19HNmJDYVJxdkxjc2U5eEtqTEdfWWwyckZiQVk0T1VabVhXSzlQYW9xaW9OdEx1d3NlRGNQbTVZa19oMzVTMExNcUZfN0FDR1VFZ0ZpX1N6V3g5LVFvRnN5XzdiNk15NWlNdDcwYm03di01V2VrVXRlZGdER29KM1V2ZHJHRG13dmRsdHAxdGRtSVJiQlRRX1pzWlBqaC1zcDdVWkh2RFBveE5QYXFPQ0t1Nk5VNWlvOTFpcS1xUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0842b2f705be"
+    },
+    {
       "date": "2026-10-19",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1482,57 +1530,42 @@
       "source": "Google News",
       "curated": false,
       "id": "d20c63c0e798"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "'Pika Smart Campaign' Launched in Kagera to Promote Electric Cooking",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVljdmFnb1JBNXJFUnlVYVo1b19MV09wWkdsZmpRUVZMVUExSnlUeTJLOFZjZkhzY2hXSW94RmNISHQyY2YzRVJMWXF6eDRYNkJqV3ZldFRPRlBkaWJETG01cl9WYXZnby1WM0NXY2MtSG95YUlLaEZOcm4wVkxmMnNYTHVwa0dydmFkNmhDLXpaRzNtc09waDM2NlNQYzRBM2ZqRXBINU1OdkNXdUlVQTFQanJjdkpaUFhZNWNCNldSdjhId2NBbGFHNjhxS1VTalU5TG5YeU4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "da370149a7f0"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Video of Kelly Clarkson’s Art of Play store interaction released",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHF3dDk1MWdPSVlnQTZYWGZzUnEtV043Q3dfR0xsTGZ1N3J0STN0NEZyeThBWWkySXlkSWFLbUhpcEphN1pDUGZPQjJRTDZZM1c4RVo1SEE2Skl0R2ZkTmlhY2NmOURhZnd1TDJscDZPN1kxLXVQd1NxdFJlUXFHWWVjYmtBSGJIdDBoSDdzUWcxYTMtTlpndFJ2WkJlYjBzbmxHNVhGdkt5Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1cfe6e06f123"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "The New ‘Sense and Sensibility’ Introduces a Different Marianne Dashwood, and a Breakout Star in Esmé Creed-Miles",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5vcXFxVTc0eGxNbG8tVXZtT3pGMkVyX0JBNjlMOHM2czhnTlFHN1FlOW9xUlBRYVpSdFBGYW8zYUc1RFFSSUUya0hFV1Q1QnNSVVM2MmF3bzJaU3VZeXJnNElzaFd0X2VBY2FWeG5MVHQwVDhVQkpQTTVNNUJNQUprOW5fWnRjZFRBSlNnUFMwWVc5cFZiMFFYTThTZnpJaTRnbDViWnp0SFVXU2JIZnIyZm8ya0gz?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "07cf2f8b2d26"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Real Madrid boss Jose Mourinho launches savage attack on Barcelona over Negreira case while praising Italy for Calciopoli",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlQ1NHYxSW5qekFOOW5WZlRyZUNyTVVZYkdycFVORmZaYnYxRm12eXhtcmNodV93QjBiOWRjNUtyYzViYVN6bHV4WW5jMzk1b3Z2OWNGODduaFlGY2VWVnAzdGMtZTBVQmpFU3Nrd2JHSjZPQmJFNDlIRmhpc3Z4dDNnbl9lYnZJUHU0S2JIOXVoZDQxUHhFeDd5eEM4VW14cHlwelFzd3k?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6fb15d643ec3"
     }
   ],
   "items": [
+    {
+      "id": "2471188f9d32",
+      "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI sent out emails to advertisers, including me, telling me they have automatically enabled creative enhancements for my ChatGPT Ads. The email says this is starting on October 30, 2026 and I can opt out of creative enhancements or change your settings at any time in Ads…",
+      "category": "GEO",
+      "published": "2026-10-20T19:35:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "c40912ba1b58",
+      "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
+      "source": "Search Engine Journal",
+      "summary": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-20T19:00:30Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c18de8302776",
+      "title": "Google Ads Expands Financial Services Verification To US & Canada",
+      "url": "https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this.",
+      "category": "SEO",
+      "published": "2026-10-20T15:20:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "9961a451b5a0",
       "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
@@ -1677,6 +1710,17 @@
       "impact": 4.0
     },
     {
+      "id": "b3fcb2e42d32",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "OpenAI",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "category": "GEO",
+      "published": "2026-10-20T10:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "05cd45c837d9",
       "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
@@ -1708,6 +1752,17 @@
       "published": "2026-10-20T00:48:56Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "dbaa90254253",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "category": "SEO",
+      "published": "2026-10-20T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "84084d44174c",
@@ -4225,61 +4280,6 @@
       "summary": "Google spoke at the three-day Google Search Central Live Deep Dive event in Europe about why it has rolled out so many spam updates in 2026, according to John Campbell's recap at We Are Roast. He said that Google has been doing more spam updates because there is so much more new…",
       "category": "Algorithms",
       "published": "2026-10-05T11:45:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "943540a1dfdf",
-      "title": "Google Ads To Automated Promotions For Search & PMax Campaigns Soon",
-      "url": "https://www.seroundtable.com/google-ads-automated-promotions-october-12-42223.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads sent an email notifying some advertisers that it will automatically identify and extract high-quality promotions from your website and apply them directly to your campaigns starting on October 12, 2026. This is called automated promotions and only applies to Search…",
-      "category": "SEO",
-      "published": "2026-10-05T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fc97be395f53",
-      "title": "Google Ads With Doubled About This Ad Button",
-      "url": "https://www.seroundtable.com/google-ads-double-dots-42222.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to have a bug of sorts where sometimes it can show the three dots about this ad or search result button twice, instead of just once. I can replicate this for some queries but not all.",
-      "category": "SEO",
-      "published": "2026-10-05T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1c5ab7982564",
-      "title": "Google Search Data On Crawling, Indexing & Serving Timelines",
-      "url": "https://www.seroundtable.com/google-crawling-indexing-serving-data-42225.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Gary Illyes from Google reportedly presented new data from Google Search on how long Google for crawling, indexing and serving on average. This is broken down by process, withing crawling, indexing and serving and shows the typical timeframe versus the slowest timeframe.",
-      "category": "SEO",
-      "published": "2026-10-05T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3f7c6f9d7b37",
-      "title": "Google Ads AI Campaign Localization Tool (Beta)",
-      "url": "https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has a new AI campaign localization tool for Search campaigns (beta), at least according to a new help document I found late last week. \"You can use the AI campaign localization tool to quickly localize entire Search campaigns for new languages and regions using…",
-      "category": "SEO",
-      "published": "2026-10-05T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3cbec84de8bf",
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "category": "GEO",
-      "published": "2026-10-05T10:00:00Z",
       "coverage": 1,
       "impact": 6.0
     }
