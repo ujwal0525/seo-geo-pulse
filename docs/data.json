@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T23:23:15Z",
+  "updated": "2026-10-20T03:45:04Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -812,6 +812,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-20",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Campaign",
+      "detail": "",
+      "title": "Universal Aviation rebrands as Affinity Aviation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHJLdHhGM19ZbTlGR3V3T210TFRWUjZocWd1Njh4SldHZV9YaFp0MVpvMFlnRXRFM1ZITnE3TVBuMDFnNWNZcGhZVl9WTkx5OFBGZjM4ajdjcXZiRzkwRnZ5WG1SbDEwT2l3bk9OTWVtRU5hNU9tWWEwNF9ZTHVjdy1EeEs1a0prcTh5NlpRSzgybkQ4Z2RRa3JnSURFVE04SmZIR09R?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ea9098cc1394"
+    },
+    {
       "date": "2026-10-19",
       "company": "Runway",
       "front": "GenAI Media",
@@ -846,18 +858,6 @@
       "source": "Google News",
       "curated": false,
       "id": "3ff2961f7594"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Universal Aviation rebrands as Affinity Aviation",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFA0dTNCNTg5eTRIOGRhNXdnOEFuNUk1aEZydHJNaDR5eFFPbm1hZ1ljcjd4dVlQaGJXMG42aHhEaGM3aktwaHExcnc3NEgwWW1sSG9aM0FFajJVRmRaUk1PNmZPSkRBUUxGeGVmVUllWS1wcUNWT3N2M3pDbmEyTy14VVRLWkNVYm9ZMXBBYXRnNmxaMFE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "51f0ec4a0dd3"
     },
     {
       "date": "2026-10-19",
@@ -906,6 +906,18 @@
       "source": "Google News",
       "curated": false,
       "id": "65e98e6eccff"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "\"Canva\" Launches Official Template Collection to Celebrate the 35th Anniversary of \"Puyo Puyo\"! Spice up your gaming tournaments and school life with \"Puyo Puyo\"!",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGa0pCNEhlMFVZQS1Nck1wbXU1QlNMTnpNMmIxbjUxQVZoVC1jVllHVDMxRUpGdEpMSUFEMTJUSS1MNmxYSWRzUDZOQ091eUlnMFdNRDlCZ2tYRFFDYldHajBUZnNKZ25BeFVRbHpydTNvejQ2aE1vdnlB0gF_QVVfeXFMTW1qeGh5ZUFMRms1YVNjQVlCVEstTTNFSXJZdi1KbG9TSjdnMFA1TGZPNU9Pa0ZsekVRRHFNd3lock85M2MyX0k2OFhJeFl0dFJFcXFKNHpvY3FjN1d2WUkyeDhsQW1Mc2dTcGJmaGIxeTBSUkx2N0pGcmtrSTdyMA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "67f38e3cd82f"
     },
     {
       "date": "2026-10-17",
@@ -1518,21 +1530,20 @@
       "source": "Google News",
       "curated": false,
       "id": "6693eb2993da"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$2M",
-      "title": "Affinity Labs raises $2M to build 'Bending Spoons for creator-led apps'",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE9sSHJQbm1yZWFGNHBrT3VkRDdsU1oxRHl3QWtRNWJrWk0zdWMzYTZFNXNNX2V1RDdGdVlJZ3ZpWE4yRlpqejVYbmFqWUtaSkRVMWZzUEE0c3JJVXFESS1LZTFsdFA1d0lGZmF6LTBlNFRlMEdKbkhoNlJ2SU1jS2F1M1A0M3FURW0xOHNtSHV2a3ZmTm9DSWV4bEliU0k?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e1a211caff23"
     }
   ],
   "items": [
+    {
+      "id": "e301d3373bf7",
+      "title": "New Feature: Grounding Snippet Ablation",
+      "url": "https://dejan.ai/blog/ablation/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "The new Ablation tab in DEJAN's Content Optimizer measures how many rank places each sentence of an AI-cited source is worth.",
+      "category": "GEO",
+      "published": "2026-10-20T00:48:56Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "84084d44174c",
       "title": "SEO Templates, Guides and Checklists to Streamline Your Strategy",
@@ -4269,17 +4280,6 @@
       "summary": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility. The post When A Search Query Becomes A Standing Instruction appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-02T12:00:09Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "65b8e61316d9",
-      "title": "Google Loyalty Customer Match Expands To AI Mode & More Regions",
-      "url": "https://www.seroundtable.com/google-loyalty-customer-match-expands-42216.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google made several changes to the about merchant loyalty program within the Google Merchant Center help documentation. The key changes are that Loyalty Customer Match expanded to AI Mode and Gemini and to more regions, but there are even more changes noted in the help…",
-      "category": "GEO",
-      "published": "2026-10-02T11:51:00Z",
       "coverage": 1,
       "impact": 6.0
     }
