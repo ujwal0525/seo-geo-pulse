@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T09:10:37Z",
+  "updated": "2026-10-21T16:45:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -8,8 +8,8 @@
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
-    "Google Search Central",
     "Growth Memo",
+    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -812,6 +812,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-21",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma Launches Specs To Help AI Agents Follow Design Rules",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYm1iWDlRWC1rZGpuTnVlSHlHZm5OZVR6VGVHSVpqMzMtTjV0QUgtd3JJdnJ0SVVwVzlwcnliX2pjZElHQWRsRDNuekNnUzFOTkxwR0M2RjZUdC0zLWQ0c3Q5cHZYQW5NMS1qallzNmduSjM5Y3RxQUN0SnEyR1dMODFmYVZhWGR0?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0de6d0863438"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "DossDocs Launches New MyPortal Early Disclosures with Built-In Docusign® eSignature and Lower Upfront Doc Costs",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNTdHRGNrMEpYOC1RTy1LVy1pYWIydEZHeU93OERmVE1qNFBqbXJraFlYV2N5cW8tQVZBdEJmaHNoLTY4b1RvZGY0VW5wTmQ1azlqTG1KalV4V19QWjFacm9uTFJkUXdxNy1NRlZPYWVlZmIyWFptWWJEWXh3MUFCV0dJZDVKQ0haRTlaSk1fMXRYOEdjMEwyNHRiR0RCekU5ZUZvOGw3ZmRCakkxTWZLbkdqR0R1aWhzOUcwdkpIREYzdGVrMDREM093ZVVjdVZGOGFUYUlDSndYb3Z3TFlMVTgtYWlnTGlHWkszYlZibnRmSHZRV1B3ZmRsMnRxZ0RP?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "cf532f003ebd"
+    },
+    {
       "date": "2026-10-20",
       "company": "Affinity",
       "front": "Creative",
@@ -1014,6 +1038,18 @@
       "source": "Google News",
       "curated": false,
       "id": "5633037ec3a7"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou Launches Kling 4.0 AI-Generated Video Model",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyZXM1ZVpmaVo3LTdmQ3owVUl1ZUwwR01oR2RxM3lmUy03X2Yzc3NEZWJtTU1KR1lHZkIwTzhLbms5aURjUEJiWWNHM2UwUlZHcURmeA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3fa13509c680"
     },
     {
       "date": "2026-10-17",
@@ -1494,45 +1530,251 @@
       "source": "Google News",
       "curated": false,
       "id": "560f813fd65c"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Fish Audio releases Drama 3, a free voice model that beats ElevenLabs on pronunciation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmFtOVM4MlQ3RENjbXJHOGw1UGtpVjBldTdGdkMwOTZkc3l2RmZqMUFHQk5oZ05xenZDQklxaVNTTkRlV0pldU9vMzR5WDVoNFlkaDRqYjV2eFduYk51VTVGUGVJd3pCZVJOSlhIb3FyQzg2VXlZNUJJWnFuXy1hNGl3aFhDQTM1dHBQSElPYjhCWVJSUWFLakEzSEYtLXdDX3RzTEt2cWZyM1hfbU9Hc2RTZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "604476353413"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Getty Images Files For Chapter 11 After Shutterstock Merger Collapses",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlpsNFVBczA2eVF0NUhtU3JFcTdlVW9jNm5Jdk5rc0IyNnJPdUxoeEp4SUxTMmRjUjdVUndxYnFaZXNGN2RqNTRMWFpucWRiN3dyVk5EQnVyYnd0UDBtX05yY3BMR0lGY1lKNGFGU3BaUHdEUGFld1RScWt0d3ZON2YyeThGY2lNa0N1NGEyWHd6TUxO?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4e1353c84b9b"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$2M",
-      "title": "Affinity Labs raises $2M to turn creators into software founders",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFNMeGhVUmlTa2twdlRXdnE1MS1MdnAzNEFOWUtScklXM09iY1JGU05DZzA4bkg1UzFBS0hwVVBDdDNPcVk4cERWdFFUZTBJMEZwWDMzbHhrd19iNWhiR0FxVkZSVEpiUERzYUlVbkJNaDZhWFl2RHZPWlFtMlFDeF9rMXFMYjVicHRYcHpzcFpsR214NFVVYnhxa0NXZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "39861d298661"
     }
   ],
   "items": [
+    {
+      "id": "2ce23afcfc1e",
+      "title": "How to Use Facebook Groups for Marketing",
+      "url": "https://neilpatel.com/blog/an-eye-opening-guide-create-grow-facebook-group/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Marketers rely on good strategy to reach their target audiences, and one of those strategies is harnessing the power of Facebook Groups. With more than 3 billion monthly active users, 1.8 billion of whom participate in Facebook Groups, these online communities are…",
+      "category": "SEO",
+      "published": "2026-10-21T16:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "0a74807b58d4",
+      "title": "How Feature Upvote fixed Google’s wrong AI Overview answer",
+      "url": "https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/",
+      "source": "Semrush Blog",
+      "summary": "Fixing incorrect brand facts in AI search took Feature Upvote days. Here‘s how it got Google‘s AI Overview to say yes to its API.",
+      "category": "GEO",
+      "published": "2026-10-21T15:43:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "d925ee46efc0",
+      "title": "GEO is a distraction",
+      "url": "https://www.mariehaynes.com/geo-is-a-distraction/",
+      "source": "Marie Haynes",
+      "summary": "AI is absolutely rewriting how the internet works, but optimizing for LLM visibility misses where the actual ROI exists as the web morphs from a place to find information to the agentic web. Have you measured how many of your website's visitors come from LLM tools like ChatGPT?…",
+      "category": "GEO",
+      "published": "2026-10-21T15:25:24Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "94b8f9290812",
+      "title": "Wiretapping The SERP: Reverse Engineering Network Data",
+      "url": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
+      "source": "Search Engine Journal",
+      "summary": "A beginner’s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT. The post Wiretapping The SERP: Reverse Engineering Network Data appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-21T14:00:14Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "b7348ac6159b",
+      "title": "Daily Search Forum Recap: October 21, 2026",
+      "url": "https://www.seroundtable.com/recap-10-21-2026-42348.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search ranking volatility and chatter seem to have spiked big time in the past 24 hours. Google updated its URL best practices…",
+      "category": "Algorithms",
+      "published": "2026-10-21T14:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "4304bb437668",
+      "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
+      "source": "Search Engine Journal",
+      "summary": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Security Flaws Affect Websites, Including WordPress appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-21T13:46:10Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fb20829c94d3",
+      "title": "Google Updates Control What You Share With Google Search With Existing Options",
+      "url": "https://www.seroundtable.com/google-updates-control-what-you-share-42350.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google updated its Control what you share with Google Search help document to add \"include existing options such as the robots meta tag, data-nosnippet, X-Robots-Tag, and the Search generative AI control,\" Google said. In addition to Google updating its URL structure best…",
+      "category": "SEO",
+      "published": "2026-10-21T13:14:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "74fcf21eca7a",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "category": "GEO",
+      "published": "2026-10-21T13:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "66f5550f26c5",
+      "title": "Google Images & Discover Previews Don’t Support JPEG XL via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-images-discover-previews-dont-support-jpeg-xl/593816/",
+      "source": "Search Engine Journal",
+      "summary": "Chrome and Firefox now display JPEG XL, but Google says it isn't currently supported in Google Images or Discover previews. The post Google Images & Discover Previews Don’t Support JPEG XL appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-21T13:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "896491730dde",
+      "title": "AI Overviews have nearly doubled across five commercial search modifiers",
+      "url": "https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/",
+      "source": "Semrush Blog",
+      "summary": "AI Overviews now appear on 88% of the commercial keywords we tracked, up from 46%. See how coverage changed for reviews, pricing, comparisons, and more.",
+      "category": "GEO",
+      "published": "2026-10-21T12:32:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "cf202ec3158b",
+      "title": "Google Crawls Raw And Encoded Bracket URLs Separately via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-crawls-raw-and-encoded-bracket-urls-separately/593765/",
+      "source": "Search Engine Journal",
+      "summary": "Google's John Mueller says raw and percent-encoded brackets are different URLs and recommends using one form across links, canonical tags, and sitemaps. The post Google Crawls Raw And Encoded Bracket URLs Separately appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-21T12:06:29Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "93d374412652",
+      "title": "China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes via @sejournal, @MPentzek",
+      "url": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
+      "source": "Search Engine Journal",
+      "summary": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manipulation. The post China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes appeared first…",
+      "category": "GEO",
+      "published": "2026-10-21T12:00:37Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "61f4d0141ff3",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "category": "GEO",
+      "published": "2026-10-21T12:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "fc649e46c935",
+      "title": "Google Search Ranking Volatility & Chatter Heats Up October 20 & 21",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-42347.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search rankings seem to be getting super volatile again, this is alongside the search industry chatter that has been spiking to unusual levels over the past 24 hours. As a reminder, the third-party tracking tools may still be struggling to track the volatility, but when I…",
+      "category": "Algorithms",
+      "published": "2026-10-21T11:51:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "419347773a7d",
+      "title": "Google Ads New: Save & Test Asset Group Changes",
+      "url": "https://www.seroundtable.com/google-ads-save-test-asset-group-changes-42336.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is possibly rolling out a new asset group A/B test toggle named \"Save and test asset group changes.\" This lets you measure the impact of changing headlines, descriptions, images and videos.",
+      "category": "SEO",
+      "published": "2026-10-21T11:41:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "81e7fc3d1859",
+      "title": "Google Ads Updates Smart Bidding Learning Doc With 7-Day Limit & Best Practices",
+      "url": "https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has updated the old \"Duration of the learning period for campaigns and what affects it\" to be renamed to \"About Smart Bidding learning.\" This is a major help document rewrite, not just a headline change. It mentions a new seven-day limit, a different explanation of…",
+      "category": "SEO",
+      "published": "2026-10-21T11:31:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "62c07f0502b9",
+      "title": "Google Merchant Center Specifies Fast Shipping Days By Country",
+      "url": "https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated its about fast shipping in Merchant Center help document to detail the days Google expects for you to qualify for fast shipping in Merchant Center. This is specific for listings in the AU, CA, IN, JP, GB, US.",
+      "category": "SEO",
+      "published": "2026-10-21T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b4a5d94f2f26",
+      "title": "Google Updated Its URL Structure Best Practices For Hyphens In URLs",
+      "url": "https://www.seroundtable.com/google-hyphens-in-urls-doc-42346.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has made a minor change to its URL structure best practices for Google Search help document. Specifically, the \"Use hyphens to separate words\" section. The overall meaning of the section really did not change but Google did update it, so I wanted to point out the update.",
+      "category": "SEO",
+      "published": "2026-10-21T11:11:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "733a4f09862d",
+      "title": "Details Emerge About Google Discover’s SDF Freshness Algorithm via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/",
+      "source": "Search Engine Journal",
+      "summary": "New details on Google Discover's SDF gives publishers insights into planning the right mix of content that will rank better. The post Details Emerge About Google Discover’s SDF Freshness Algorithm appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-10-21T10:38:54Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "d3f519557f32",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "category": "SEO",
+      "published": "2026-10-21T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "edef63b51aed",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "source": "OpenAI",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "category": "GEO",
+      "published": "2026-10-21T07:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "1de8e62ff715",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "category": "SEO",
+      "published": "2026-10-21T04:50:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "2471188f9d32",
       "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
@@ -1596,17 +1838,6 @@
       "summary": "DeepSeek’s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs. The post I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-20T14:00:13Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "83afb685a722",
-      "title": "Daily Search Forum Recap: October 20, 2026",
-      "url": "https://www.seroundtable.com/recap-10-20-2026-42334.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-20T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -4051,237 +4282,6 @@
       "published": "2026-10-06T11:51:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "34387dd646b8",
-      "title": "Google Search Generative AI Control Page Adds Top-Level Domain Details",
-      "url": "https://www.seroundtable.com/google-search-generative-ai-control-add-42236.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has added information to the Search generative AI control page in Search Console about when a child property overrides the parent setting for AI controls.",
-      "category": "SEO",
-      "published": "2026-10-06T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ac4293fd9ddd",
-      "title": "Google Ads Call Extensions Includes Advertiser Name",
-      "url": "https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is testing displaying the advertiser's name within the click to call phone number call asset on the sponsored listings. Normally, Google will just show the phone number but in this test, Google is also adding the advertiser's name.",
-      "category": "SEO",
-      "published": "2026-10-06T11:31:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c553be75a7b6",
-      "title": "Google Search Console Performance Report Multi-Select Country Filters",
-      "url": "https://www.seroundtable.com/google-search-console-performance-report-country-filters-42241.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google now lets you check off multiple countries within the Google Search Console country filter in the performance reports. This lets you group countries together, to see how your search performance is doing for multiple countries at once, instead of one country at a time.",
-      "category": "SEO",
-      "published": "2026-10-06T11:25:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "172b61a1aece",
-      "title": "Google On Large Product Aggregator Websites",
-      "url": "https://www.seroundtable.com/google-seo-large-product-aggregator-42232.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller was asked why Google continues to crawl tons of pages on a large website but indexes only four of them, and why the home page isn't indexed. John categorized the site as a \"large product aggregator.\"",
-      "category": "SEO",
-      "published": "2026-10-06T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "63a026a2e08a",
-      "title": "Google Warns Against Deceptive Authorship Information Within Content",
-      "url": "https://www.seroundtable.com/google-warns-against-deceptive-authorship-information-42238.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Around the same time Google updated its helpful content search documentation with defining main content and the new EOT/SA sections, Google also posted a warning to \"avoid using deceptive authorship information.\"",
-      "category": "Algorithms",
-      "published": "2026-10-06T11:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f975d981a17e",
-      "title": "OpenAI Tests New Product Labels On ChatGPT Results",
-      "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI is testing new labels appended to the ChatGPT product results. These labels can add information about the product it is displaying, such as \"best all-rounder,\" \"best for beginners,\" \"best cushioning,\" and so on.",
-      "category": "GEO",
-      "published": "2026-10-06T10:02:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9964af802e9c",
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "category": "SEO",
-      "published": "2026-10-06T10:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "18f19b44a9f1",
-      "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
-      "source": "Search Engine Journal",
-      "summary": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains The “Couldn’t Fetch” Sitemap Errors appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-06T09:52:43Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3c40419ed0bd",
-      "title": "Google AI Overviews now appear for most major brands",
-      "url": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
-      "source": "Semrush Blog",
-      "summary": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why.",
-      "category": "GEO",
-      "published": "2026-10-06T09:06:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "f807a3d4197a",
-      "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
-      "source": "Search Engine Journal",
-      "summary": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it. The post OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-06T01:07:32Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ec104afbfaa7",
-      "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
-      "url": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
-      "source": "Google Search Central",
-      "summary": "Over the years, the Search Central YouTube channel has published hundreds of videos across various series, from Search for Beginners and Ask Googlebot to Search Console Training and Search Off the Record. While our series structure works well for deep dives and episodic updates…",
-      "category": "SEO",
-      "published": "2026-10-06T00:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c954b038886b",
-      "title": "Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-      "source": "Search Engine Journal",
-      "summary": "Google's John Mueller says AI training crawlers usually don't offer sitemap submission and suggests default sitemap names or RSS feeds to help them find sites. The post Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-05T22:47:18Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9ba38805580a",
-      "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
-      "source": "Search Engine Journal",
-      "summary": "Google is fighting back against SERP tracking. The explosion of AI agents may cause it to clamp down harder. The post Google Is Fighting SERP Tracking. AI Agents May Make It Worse appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-05T21:03:08Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "316bb51517a0",
-      "title": "How to plan 2027 when traffic is down and AI won't attribute",
-      "url": "https://www.growth-memo.com/p/how-to-plan-2027-when-traffic-is",
-      "source": "Growth Memo",
-      "summary": "Traffic is down, attribution is broken, and the final budget meeting is in 3 weeks. Here's what to bring.",
-      "category": "SEO",
-      "published": "2026-10-05T20:31:05Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "7f73170d262e",
-      "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
-      "source": "Search Engine Journal",
-      "summary": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking bot access. The post AI Cites Your Brand: How to Choose Your Next Move appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-05T16:16:34Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "9c833e9a652b",
-      "title": "AI Is Reshaping PR Budgets",
-      "url": "https://neilpatel.com/blog/ai-is-reshaping-pr-budgets/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways For years, public relations and SEO have operated in neighboring but often separate parts of the marketing organization. AI search is beginning to change that relationship. As AI systems become a larger part of how people discover companies, products, and services…",
-      "category": "GEO",
-      "published": "2026-10-05T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "78ad53815846",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "category": "SEO",
-      "published": "2026-10-05T15:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "cbff57d31d6e",
-      "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
-      "url": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
-      "source": "Search Engine Journal",
-      "summary": "Trace misleading sale badges and outdated product images to Google's hidden data layer, with checks that go beyond your current feed. The post Google’s Hidden Data Layer: What Is It And What To Do About It appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-05T14:30:56Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4f5e9dfda616",
-      "title": "Local SEO: What is it & how to do it",
-      "url": "https://www.semrush.com/blog/what-is-local-seo/",
-      "source": "Semrush Blog",
-      "summary": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses.",
-      "category": "SEO",
-      "published": "2026-10-05T12:51:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "785c023287db",
-      "title": "How To Build A Content Distribution System That Compounds",
-      "url": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
-      "source": "Search Engine Journal",
-      "summary": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations. The post How To Build A Content Distribution System That Compounds appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-05T12:00:27Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "ae5fa2e81953",
-      "title": "Wheels up: Trends and tips for 2026 holiday travel",
-      "url": "https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/",
-      "source": "Google (Search)",
-      "summary": "Illustration of family traveling",
-      "category": "SEO",
-      "published": "2026-10-05T12:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
