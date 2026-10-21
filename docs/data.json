@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:45:01Z",
+  "updated": "2026-10-21T23:03:30Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -836,6 +836,18 @@
       "id": "cf532f003ebd"
     },
     {
+      "date": "2026-10-21",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Getty Images files for bankruptcy, launches restructuring plan",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3JwQThlMllfYWdxT1FKQmx1UkQtOERaejlHQjVqT0NjRHhVV2JjWWdXaGxWWEduQUNrMGtST3Vhejl4QUlCMldnZ1g3eEZ6YXB1bjZDTGZDM3RVT210UDcwc3d2ZXhFQXlBYXd0dV9xeUJTazRrbk1VeGNfV25oeTZmNGtHS1E0cnRIUS1R?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fd910ea1b76c"
+    },
+    {
       "date": "2026-10-20",
       "company": "Affinity",
       "front": "Creative",
@@ -1518,21 +1530,97 @@
       "source": "Google News",
       "curated": false,
       "id": "0e0ba18f6cb3"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma Wants a Rulebook for AI Agents as Code Output Outruns Releases",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0tFWjZnb3Fab0Z0WGZKOXVZeUgyYTVfUEtGamZETEtZTGwzNDdOZEFrVHdLcUFiNmhJQXVnWVZ6aV9lbjVRaVZDa0lPdThHMURPSjc3anFJam1QaG1FT2xEcnVJMVpwM3FHYTZmUU9tRENEZEZIcDBaUE10QTdpbUNReHVHdjBX?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "560f813fd65c"
     }
   ],
   "items": [
+    {
+      "id": "dcc6a8fe2ecc",
+      "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
+      "source": "Search Engine Journal",
+      "summary": "Hackers installed backdoors on WordPress sites using UpdraftPlus, putting over 3 million active installations at risk. The post UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-21T22:03:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2ed22a61b2f1",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "category": "SEO",
+      "published": "2026-10-21T21:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "814f7a4bdb04",
+      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
+      "source": "Search Engine Journal",
+      "summary": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped. The post Google Reminds Sites To Serve A 503 During PHP Patch Downtime appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-21T20:19:40Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f36678271f8f",
+      "title": "Semrush Starter vs. Pro+: Which plan is right for you?",
+      "url": "https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/",
+      "source": "Semrush Blog",
+      "summary": "Compare limits and features between Semrush Starter and Pro+ plans. Choose what’s best for you based on tracking limits, historical data and domain comparisons, and key features.",
+      "category": "SEO",
+      "published": "2026-10-21T19:33:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "df99929868bc",
+      "title": "Semrush vs. Moz: Which is better in 2026?",
+      "url": "https://www.semrush.com/blog/semrush-vs-moz/",
+      "source": "Semrush Blog",
+      "summary": "Compare Semrush to Moz by key differences in keyword databases, AI visibility research, pricing, tracking frequency, and SEO features to choose the right platform for your team.",
+      "category": "SEO",
+      "published": "2026-10-21T19:15:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "7e27f1860283",
+      "title": "Rank Tracking Broke In September – The Future Is Measured By Brand & Revenue via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
+      "source": "Search Engine Journal",
+      "summary": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting. The post Rank Tracking Broke In September – The Future Is Measured By Brand & Revenue appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-21T19:00:57Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "e0a4e35d4f92",
+      "title": "Google On robots.txt Rules For AI Crawlers, Emojis, International URLs & More",
+      "url": "https://www.seroundtable.com/google-video-robots-txt-rules-42355.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Gary Illyes and Chery Prommawin released their second video in the Non-Canonical Cabinet series; this one is named What can you actually put in a robots.txt? Here they discuss what is, and is not, supported by robots.txt files. And while Google may support features or…",
+      "category": "SEO",
+      "published": "2026-10-21T17:25:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4ab93569e260",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "category": "SEO",
+      "published": "2026-10-21T17:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "2ce23afcfc1e",
       "title": "How to Use Facebook Groups for Marketing",
@@ -1554,6 +1642,17 @@
       "published": "2026-10-21T15:43:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "7b4caa555802",
+      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell",
+      "url": "https://www.seroundtable.com/google-php2shell-42353.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The World Wide Web is rushing now to fix and patch its servers for the critical PHP exploit known as PHP2Shell. Most are able to patch these without downtime but many sites are going offline until the patch is implemented, just to be super safe. Google's John Mueller offered…",
+      "category": "SEO",
+      "published": "2026-10-21T15:35:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "d925ee46efc0",
@@ -1772,6 +1871,17 @@
       "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
       "category": "SEO",
       "published": "2026-10-21T04:50:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b2deaf97c98c",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "source": "OpenAI",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "category": "SEO",
+      "published": "2026-10-21T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
     },
@@ -4172,116 +4282,6 @@
       "published": "2026-10-06T16:00:29Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "60ef2af305e7",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "category": "SEO",
-      "published": "2026-10-06T16:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "dbbe0c3e5daf",
-      "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
-      "source": "Search Engine Journal",
-      "summary": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view. The post Google Search Console Lets You Filter By Multiple Countries appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-06T15:53:04Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ffae8a5a19e5",
-      "title": "AI Search ROI Is Messy. Here’s How to Measure It Anyway",
-      "url": "https://ahrefs.com/blog/ai-search-roi/",
-      "source": "Ahrefs Blog",
-      "summary": "Forrester found 94% of business buyers now use AI search when buying, rating it above vendor websites, product experts, and sales reps. B2C isn’t far behind: NielsenIQ puts it at 42% of consumers researching products with AI. That’s why bigger … Read more ›",
-      "category": "GEO",
-      "published": "2026-10-06T15:51:29Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "e621f6a68e1b",
-      "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ via @sejournal, @marie_haynes",
-      "url": "https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/",
-      "source": "Search Engine Journal",
-      "summary": "Why don't SEOs talk more about Google's helpful content documentation? Its latest update shows exactly what the ranking systems are being trained to reward. The post Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ appeared first on Search Engine…",
-      "category": "SEO",
-      "published": "2026-10-06T14:30:10Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "df6e9a940d0b",
-      "title": "4 ATS vendors own 27% of the AI sources. Here’s how AI picks the rest.",
-      "url": "https://foundationinc.co/lab/vol-312",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Ask Google’s AI Overview to compare Greenhouse with Ashby, and it’ll tell you Greenhouse’s reporting may need a separate BI tool. The source is Ashby’s own comparison page. When AI compares your product with a competitor, it builds the answer from whatever evidence exists, and…",
-      "category": "SEO",
-      "published": "2026-10-06T13:14:43Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "4a32729fabb4",
-      "title": "How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam",
-      "url": "https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/",
-      "source": "Search Engine Journal",
-      "summary": "Keep Google and Meta from exhausting your ecommerce budget on existing demand by funding prospecting and rebuilding customer exclusions before Q4. The post How To Structure A Full-Funnel Ecommerce Account For Q4 appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-06T12:00:36Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "342677ae7ead",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "source": "OpenAI",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "category": "GEO",
-      "published": "2026-10-06T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "47b9255d8fa0",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "category": "SEO",
-      "published": "2026-10-06T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "c13ec312278f",
-      "title": "Final Phase Of Google September 2026 Spam Update Rollout Oct 4-6?",
-      "url": "https://www.seroundtable.com/google-september-2026-spam-update-phase-3-42239.html",
-      "source": "Search Engine Roundtable",
-      "summary": "I believe we are seeing the final phase of the Google September 2026 Spam update rolling out between October 4th and October 6th, today. The update should be done any day now, so there may be another spike in volatility, but I suspect this is it - we are pretty much done with…",
-      "category": "Algorithms",
-      "published": "2026-10-06T11:55:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "728e84dca966",
-      "title": "Updated Google Maps Policy: What Merchants Can't Post In Listings Or Posts",
-      "url": "https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the Google Maps and Business Profiles Prohibited & restricted content policy's advertising and solicitation section to list what merchants and business owners cannot post on their listings and posts.",
-      "category": "GEO",
-      "published": "2026-10-06T11:51:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
