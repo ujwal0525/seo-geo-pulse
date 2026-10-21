@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:36:21Z",
+  "updated": "2026-10-21T09:10:37Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -896,6 +896,18 @@
       "id": "1c6099d56209"
     },
     {
+      "date": "2026-10-20",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Unveils Faster, More Accurate Speech-to-Speech Models",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1VTNUlpUGZMSEZDcGVzUUNKSUlEbTROcEpYeEpEMWVHdWpYWXk0cERsTVYxRWR3QU9qVzAyX1pJdkFwc2QxeGlCUVJDdnpqUzNjc2MyZGhVcGJIZEZ1RHJvcjM3Z3o2TzdyZ2ZBU1V3dklEZ3ZYTC1qYTZNUHJqUWFtY250TkpzdGstTE9aNU9GSnBGeFdfd0w0REpJdE81MmxjdXl2aw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0e75c9fc7d2b"
+    },
+    {
       "date": "2026-10-19",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1472,6 +1484,18 @@
       "id": "0e0ba18f6cb3"
     },
     {
+      "date": "2026-10-15",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma Wants a Rulebook for AI Agents as Code Output Outruns Releases",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0tFWjZnb3Fab0Z0WGZKOXVZeUgyYTVfUEtGamZETEtZTGwzNDdOZEFrVHdLcUFiNmhJQXVnWVZ6aV9lbjVRaVZDa0lPdThHMURPSjc3anFJam1QaG1FT2xEcnVJMVpwM3FHYTZmUU9tRENEZEZIcDBaUE10QTdpbUNReHVHdjBX?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "560f813fd65c"
+    },
+    {
       "date": "2026-10-14",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1506,30 +1530,6 @@
       "source": "Google News",
       "curated": false,
       "id": "39861d298661"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$2M",
-      "title": "Affinity Labs Raises $2M for AI Creator Software",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1UwNTEwb1ZwN0FnMjlyLVdjdllmaUhIVjlwNFJnOWllcERMUF92T3QtTlJtNTRtcnRaNVlwQWozbEpLeEg5RzBiM2x5RXhzcFpnNFlWNW9YeURWWlQ4V1JKUkVtazg4ZjAwYzlmZUs1bkE5d3hZZ1cwbTNKdUFTVGsySEdDc0hHcmhJRXd1QW9BbTNuZlN0NmV0NU9UVFhWTndpRVVkZ19odGV4X1h6cHNxS1lmRV9w?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fc1d95377a88"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "5,814 Synopsys, Inc. $SNPS Shares Acquired by Affinity Capital Advisors LLC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHpTaEQ1MUxlOC00dXl1SWtWbG5DQVhkNjVvWjJPeV9vaFl2VGpDNURWallROWxid0xnQWtMUVZxWnNEZ0JJcjBRSnlLTFFBM2Y4cTE4RHdtTldlUm9LZ0Roa3V3UG1nb2MycGc3SzdnaHZibERTMzlxa0N1MFBnaGY2bmdEMXNyS1dlejZPbHJyX0Q0UWFXNHJDNWJqWTBLMFdsZF9vVWRzbFpyUndqNE80UUlGVVZ2Q054Wll2OHJwQUJkUVlkb0ZGb3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "89dcb2913fab"
     }
   ],
   "items": [
