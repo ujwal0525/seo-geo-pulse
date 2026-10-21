@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:58:29Z",
+  "updated": "2026-10-21T03:36:21Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -884,6 +884,18 @@
       "id": "0842b2f705be"
     },
     {
+      "date": "2026-10-20",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Dutch Bros just launched its first-ever plushies and 100% of profits go to charity — how to buy",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1c6099d56209"
+    },
+    {
       "date": "2026-10-19",
       "company": "Runway",
       "front": "GenAI Media",
@@ -978,6 +990,18 @@
       "source": "Google News",
       "curated": false,
       "id": "67f38e3cd82f"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Nvidia Germany AI Partnership Puts Industrial Ambition Against Foreign Dependence",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMC1QMGgzdEVSS3RzeVZvaHdWRTBsV1Y3NkZSQnpibHVrcFVwUDB4QjgxOHhVakdVSGdyOWlYdkJPMlRJdElZREhqX1hKYnY1NHJtaThFeWFlTzcwSE1YZVlLRk1IUnIzNWJzOTJNamNVV01xLUU1X19HMmEyZUJranB1T1c3MHJ1ZjhyblByY1lQaERKVmtYWGRoX1k3UHpwNWdhNHg2SWctdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5633037ec3a7"
     },
     {
       "date": "2026-10-17",
@@ -1506,30 +1530,6 @@
       "source": "Google News",
       "curated": false,
       "id": "89dcb2913fab"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$2M",
-      "title": "Affinity Labs raises $2M to build AI-powered software brands with creators",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmV0RlVWNnZEajI5Njl6Qmx3alN4TE5JVjhsZ2RhVENvWDVaR2hNMm5pSDZ4UGc0UTlxUzh6MXNneFdNbEY1MjU4bEtsS0ctdW1YYWdDaGV3NmdXMTc2V0RaenlNbEgwTFZpd1Q1dHltVEpGY01VWm5sTnhCLUhzQkYtT2s4VUVadUlpVFpKaFBFajBDRjllRGRkejZRWVNfN1JN?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "199cf86fab43"
-    },
-    {
-      "date": "2026-10-14",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by Affinity Capital Advisors LLC",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmtxT1BiWHdiTm1scEpwTHFXYXNqLWhLTXl0eXA2c3M5RFplU29HUUllS2VQMHJlbThLanp0OTZ2cTBsdXZoamU4T2F4aGpsbzRVeGgzdE1nMjltaHcyMmlWT2dDV09oR1ZfZDREMVFPajRveGtmM2pVeWpDNzNoclQwV1luWC13UUlBeUlzREdsQzNxYTZtNi1kNm5hb0tBaWtCNkdkN3VHdlg2TVd4U0ZLM1l6OXVoejFxdk9fZk9HTFlYWkVIZ0laYXpSMXhOOE4zemVR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d20c63c0e798"
     }
   ],
   "items": [
@@ -1741,6 +1741,28 @@
       "published": "2026-10-20T07:45:18Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "a84b6a7bee5c",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "category": "GEO",
+      "published": "2026-10-20T07:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "ef1b00bc00ee",
+      "title": "From Prompts to Priorities: A Practical AI Visibility Workflow",
+      "url": "https://moz.com/blog/practical-ai-visibility-workflow",
+      "source": "Moz Blog",
+      "summary": "Move beyond basic prompt metrics and transform AI visibility data into business priorities. Learn how to evaluate LLM recommendations, track influential citations, and identify key growth opportunities.",
+      "category": "GEO",
+      "published": "2026-10-20T07:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
     },
     {
       "id": "e301d3373bf7",
@@ -4260,28 +4282,6 @@
       "published": "2026-10-05T12:00:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "251100e3b3dd",
-      "title": "Dark Mode Coming To Google Search Console",
-      "url": "https://www.seroundtable.com/google-search-console-dark-mode-42224.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google will soon support dark mode in Google Search Console. Ariel Kroszynski, a Senior Software Engineer at Google, announced this at the Google Search Central Live Deep Dive Europe 2026 in Barcelona last week.",
-      "category": "SEO",
-      "published": "2026-10-05T11:51:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "c6064d15bb9e",
-      "title": "Google Search Spam Updates Use AI To Find AI Spam & More",
-      "url": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google spoke at the three-day Google Search Central Live Deep Dive event in Europe about why it has rolled out so many spam updates in 2026, according to John Campbell's recap at We Are Roast. He said that Google has been doing more spam updates because there is so much more new…",
-      "category": "Algorithms",
-      "published": "2026-10-05T11:45:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
