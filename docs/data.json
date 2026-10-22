@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:45:34Z",
+  "updated": "2026-10-22T23:00:37Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -861,6 +861,66 @@
       "id": "ac8b629e255f"
     },
     {
+      "date": "2026-10-22",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "curated": false,
+      "id": "1cd9014b7907"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Unveils New AI Research Lab to Transform Design Creativity",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNalAtdEtWUFV6eWphQlJyU0tyUmVNZ0R1U2szRlZKNkdUOEQ1UFZQTFB0dXZhWVkyRkJDQW12MXpoVG15Ml9GRUNvU3lFdHdwN0dneXBzSnlvbjI2cVZldTNoSEdYNEVaR2NibVRiZ09wM2t3ZFFRSVhlZ0FFWVJ2S0JtS0hQejBBWGFyQkRkMXQ5R3NiWlRz?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9165f8dd8c4f"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Releases Its First AI Model for Images",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTNkZFNwTzVmaVcyWXlUY0owUDYyWF9HQWQ2NEswdFVNeGJIc3I3bDlKQ2JOUWpWbm9IaHc5NHNFVUJQZEs0bWZWVzYycTJTT2dBYVRsN0Myczc1TlBJX19jdHB6ZVhTeno0M0tRWjRfVUZOUlBJX2N4N3dwa3ltUkR6RU42QnM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3293d8b23eb8"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Debuts Craft Image Model Built by Its In-House Research Lab",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2otSlpRYkpQbGYxa1RGTlpWRE9WN0tCWFlWc3dJWktHT2IxYThDeUJMQnMzblliYVpXSDJTeWpyWkVEYU1zUVFuel94clFKdkY2dkd4VUhuX0NhTWUtS0w1YzdzLVBMVnloN01TVXBBa1hZRWZITnFjNXVydXkxMkJtRUNZQ3N0ZjUxNWlZdEc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e151d8997c3b"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva releases its own Canva Craft image generation model — TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1R4eTN4OFQ2aUtINDhRTTZrN080M1R4SDFEbkZwcDJLTk9uYzBMZlU3bE41RW5tSF9XaWxNbzZaM3BhVS1rSFN0eTctRVVHUERiNG5oUW5Mb0tOUUdrTDdvSXRYVlV2MVpubk54a1N0V0VKcVd2MHNOLVk5OFpuTzIzLUJKODNIanVMSnZrUlNpNEtJLVVFTEJ5ZV9KMjNQdUVMTUY2ejc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6270e9218699"
+    },
+    {
       "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
@@ -1471,69 +1531,86 @@
       "source": "Google News",
       "curated": false,
       "id": "fc13a20d7e52"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Figma Expands AI Platform With New Developer Tools and Sarvam Partnership",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTHMwS3h1eUEwSnd0R2NoU3pHT1JFSUFTelo0eHpyNUF0OEh6ZzJINWZvczVPZkdiYV8zaU40aFpwd19JTC13ci1kYy1yYWdfVl9SUVZvRVBZRUJhME52SEs5UzQyVXUtS0ZSTHV1cGlBMURoMVRWLWY4cjFpNnhZQlFJV3N4dDB4amtBRTZqcHRFODZpQlJHQXJ3aE1lQjFCQkNfSURMdG9lMllt?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b980c11595ba"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Krea",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Krea launched Krea 3 for fast and precise image editing",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlJpRzRRd0xJc2wzMklWOUZvMTlPY2h1NTRVdHhEa01OWUZSb3VQM3o4ZVZDeFpjQ1Y5X1lZdDZPdnpLSWtxc3UxdmN4emJrLUdEQ0lsVVlScnlVZjA4SHhsc3NBeWpoY1E2S1RRNm52YUxVQmxzOG0xQ0tCcTMxWE81NGxrSjd4YUd2MHdxYjQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4f9f32c8d6d4"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "German gov't set to unveil partnership with Nvidia for automation, robots: report",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0dpc0lGM19PWXlSQVNNQ2VSR2kydi11NXJ2M1dlcGJvLTBoRlB5ZG1ma1EyTVF0c3pRN19JVGdfLUhYU256MC1USHRBU0FtY0xFX2VwUGtrTGJTczItQXQxSWFMTVprNVl0X1RjbW1aZ196ZWduWmJINGx3WWVDTzJtZ01rWmczckx3eWdpU2ZrMmp1ckF5ODFjUVpXT1hOS2tmZURlQVVXM3RmUzZxNmxTR1N0X1ZQUE5tYlN6SktEZ2lJdktEVkphdzF6aUJEOGxtYXRRTUZkUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6790251e9424"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Canva Teams Up with Meta’s Muse to Transform How Users Create Designs",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUVzeVVzcUVHNG5QSVp1RVh3WG1pVWRodUZnUktfQkh0NnNiQXNSMFVGX1RWWXZtMGE5ekxMaUJIaHo5SWhjWXRUSHJfY01LNXg0REtiT3dLejFIZ1dsRjhhY1Nfdnc2ek1hRFVLZlVWX1hyekdPSVlEX19INHI5QnNibFBzNW1RMVlQbmRUX0Z6eTBBR0I5UEUwLUY?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f7a9f4efb134"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma Introduces Specs and Expanded AI Agent Tools to Standardise Design Workflows",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzNHMEg2RWFOaTZmSEIwZ2FHZ2tNZm9tUVd4aGZYYVd5QWlYYnRDVFN4ZGR3Mkk2ZkFpVFZqc1k5dWhJMlo4SEVVWEsxaHNmaGlRSHZqR0l5TjVZb0JVb05fNlU3ZGtiU2gzM29GVWlNMHpoLXhvRDE5NnNxcWs4ckVELUdVUGJGM2NHb0MydU16NE43QV8zZi0tdkpxQ0c2bWJoMjRZalNNNGpxd3pFZ0RCdjFiWmVC?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b84c5228e705"
     }
   ],
   "items": [
+    {
+      "id": "b7b4a2a881f4",
+      "title": "Is AI Visibility a Marketing BoonDoggle?",
+      "url": "https://sparktoro.com/blog/is-ai-visibility-a-marketing-boondoggle/",
+      "source": "SparkToro",
+      "summary": "Should every marketer be putting 80% of their effort into AI visibility? Should we be throwing billions at tracking AI recommendations? Should companies restructure their budgets around appearing in AI tools? Probably not. Three new studies came out in the last week showing us…",
+      "category": "SEO",
+      "published": "2026-10-22T22:27:41Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "fd341b9dcb45",
+      "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO via @sejournal, @rollerblader",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
+      "source": "Search Engine Journal",
+      "summary": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-22T19:00:47Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "27825e300358",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "category": "SEO",
+      "published": "2026-10-22T19:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0e8522429cc8",
+      "title": "Same Prompt, Different Data Structure: ChatGPT's Search Data Keeps Changing",
+      "url": "https://www.seerinteractive.com/insights/chatgpt-data-structure",
+      "source": "Seer Interactive",
+      "summary": "TL;DR I ran the same ChatGPT prompt multiple times and saw the search data change across weeks, days, and even minutes Between Sept. 3 and Sept. 16, ChatGPT's underlying pipe-language data dropped from 4 lines to 0, while unique retrieved URLs went up (from 14 to 40) Two…",
+      "category": "GEO",
+      "published": "2026-10-22T19:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "619405faf352",
+      "title": "AI Search Is Not a Distraction, It’s a Branding Channel",
+      "url": "https://ipullrank.com/ai-search-is-a-branding-channel",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Three studies dropped in the same week, and they all arrived at the same verdict. Marie Haynes looked at 12 months of GA4 data across 100 sites and found that ChatGPT sent 0.62% of the traffic Google organic did. SEO Works found that organic delivered 39 times the traffic of AI…",
+      "category": "GEO",
+      "published": "2026-10-22T18:00:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fe1b3fbf7933",
+      "title": "Affiliate Marketing: What It Is & How to Start in 2026",
+      "url": "https://ahrefs.com/blog/affiliate-marketing/",
+      "source": "Ahrefs Blog",
+      "summary": "You recommend products you genuinely rate. When someone buys through your link, you get a commission. You don’t have to make the product, hold stock, handle shipping, or deal with refunds. In this guide, I’ll show you how to think … Read more ›",
+      "category": "SEO",
+      "published": "2026-10-22T17:06:30Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "1d9f9f7df795",
+      "title": "OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+      "source": "Search Engine Journal",
+      "summary": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-22T16:58:09Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "b4afa3c86a8a",
       "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
@@ -4204,83 +4281,6 @@
       "summary": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses. The post AI Search Is Changing Your Website’s Job, Here’s How To Adapt appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-07T13:30:50Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e17856f6d788",
-      "title": "Yoast SEO vs All in One SEO: which WordPress plugin is right for you?",
-      "url": "https://yoast.com/yoast-vs-all-in-one-seo/",
-      "source": "Yoast",
-      "summary": "If you’re weighing Yoast SEO vs All in One SEO, you’re asking the right question. Your SEO plugin touches almost every page you publish. It shapes how search engines read your site and how AI platforms understand it too. Both plugins have been part of WordPress for a long time…",
-      "category": "SEO",
-      "published": "2026-10-07T12:17:58Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "fbbe8632d318",
-      "title": "How to track your AI citations and sources with Semrush",
-      "url": "https://www.semrush.com/blog/track-ai-citation-sources-semrush/",
-      "source": "Semrush Blog",
-      "summary": "Find the sources that are cited when your brand is missing from AI answers and take action with content or outreach to get more mentions.",
-      "category": "GEO",
-      "published": "2026-10-07T12:01:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "ca0b47def5e6",
-      "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
-      "url": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
-      "source": "Search Engine Journal",
-      "summary": "Learn how to justify SEO budgets in the AI era by aligning investments with revenue generation, risk reduction, infrastructure, and business value. The post The Business Case For SEO Is Changing; Budget Justifications Should Too appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-07T12:00:32Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "ad4e14640e35",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "category": "GEO",
-      "published": "2026-10-07T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "20db0a3f5cfb",
-      "title": "Google Drops Review Snippets For Healthcare Web Pages",
-      "url": "https://www.seroundtable.com/google-drops-healthcare-review-snippets-42248.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to no longer be showing review rich reviews in Google Search when review schema or structured data is added to healthcare web pages.",
-      "category": "SEO",
-      "published": "2026-10-07T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c9e391633ecc",
-      "title": "Google AI Overviews Add To Calendar Feature",
-      "url": "https://www.seroundtable.com/google-ai-overviews-add-to-calendar-42233.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing allowing AI Overviews to add items to your calendar with an add to calendar link on event dates. I can't replicate this and the truth is, every time i refresh the queries I am testing on, I get a slightly different AI Overview, so who knows.",
-      "category": "GEO",
-      "published": "2026-10-07T11:41:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "39e97f316a50",
-      "title": "Google Ads Updated Billing Menu With More Links",
-      "url": "https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is testing a new billing menu bar or tab that adds more options and links to the billing section. It looks like Google added double the amount of links in the menu.",
-      "category": "SEO",
-      "published": "2026-10-07T11:31:00Z",
       "coverage": 1,
       "impact": 4.0
     }
