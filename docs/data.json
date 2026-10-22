@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T03:36:23Z",
+  "updated": "2026-10-22T09:13:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -824,6 +824,30 @@
       "id": "79c5363cdd24"
     },
     {
+      "date": "2026-10-22",
+      "company": "Synthesia",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Hays : Synthesia partners with Hays to support measurable skills development through Roleplay Sessions",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZmFtUHJNRnRQY1hJaVlIaDdHc0tMTjdnQWhQNF9jUmFObUtHRDZ3MGZzbzQyZTZXek5yTHo1WkZWb25uUmlCTDZRbUhfcVJyMHVvbXpwSVJULTctbnQyQl9CT1VPeElJb0UwaEl4RFJmbFBiUV9RQ2E4UGtaaThNUElFSUtuNTMxSEZleFBFUElqaTVwUkVNUVkzT3ZmMFNyMmtGcmlHWFg5UEFfR1NEQk9mTVZPS1A5bDFfSmRzclQ0VTQxcjZkbjExcm1FSWllZVVidGRaNHg3UklJaE11R0daaTdpdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d04dff071eb4"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Getty Images files for bankruptcy, launches restructuring plan",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3JwQThlMllfYWdxT1FKQmx1UkQtOERaejlHQjVqT0NjRHhVV2JjWWdXaGxWWEduQUNrMGtST3Vhejl4QUlCMldnZ1g3eEZ6YXB1bjZDTGZDM3RVT210UDcwc3d2ZXhFQXlBYXd0dV9xeUJTazRrbk1VeGNfV25oeTZmNGtHS1E0cnRIUS1R?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d1ac54cc6e2b"
+    },
+    {
       "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
@@ -849,18 +873,6 @@
     },
     {
       "date": "2026-10-21",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Getty Images files for bankruptcy, launches restructuring plan",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3JwQThlMllfYWdxT1FKQmx1UkQtOERaejlHQjVqT0NjRHhVV2JjWWdXaGxWWEduQUNrMGtST3Vhejl4QUlCMldnZ1g3eEZ6YXB1bjZDTGZDM3RVT210UDcwc3d2ZXhFQXlBYXd0dV9xeUJTazRrbk1VeGNfV25oeTZmNGtHS1E0cnRIUS1R?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fd910ea1b76c"
-    },
-    {
-      "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
       "move": "Partnership",
@@ -870,6 +882,18 @@
       "source": "Google News",
       "curated": false,
       "id": "5221ecbc3aaf"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Getty Images: Have Launched Solicitation Process for Formal Approval of Prepackaged Reorganization Plan >GETY",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWRKUUpxOTgtSlRpQm9xOVFVYkhfWXFFWktBN0s2R2ViMi11Q3VERm5lQldvb2MwSUdvQ1NJLUNxdFYxa0NrSm9yUlVPYl9YUVZRSU1KdUFXc1QwOHJrYmtSREF6aXEzX0dVaTR0aTFBTkVEd2w4Z0JEaDQxM1dKaXhnUmo1aDlwVHJzNno1VlIwMC15akJfRzV1OVZ0bGtVdkJjcWR4ZGlPdlF3MkFwMXRoUlA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "562cb34a2dda"
     },
     {
       "date": "2026-10-20",
@@ -1506,33 +1530,20 @@
       "source": "Google News",
       "curated": false,
       "id": "5f656553357d"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Apple HomeView unveiled, new Apple TV and HomePod mini first impressions",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ua3lrU0trc0s2bldnaXQxQzBPRkQtdlhtVGVlLW5PdDZ4bHdaTzJKUXB3b19PX3RZUXdVSWdydUxzN3JfbWxlaWh4b2R2UVBOdXhPSHJMN0ZsUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d171207578b5"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "David’s Bridal Launches Doggie Wedding Gowns During First-Ever Pet Wedding Runway Show",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWlhoMTJDSGJDczN2OTBibTdMZGIwNnpLWmFZY1NCTkNKQlVTTndTSFRIYzktelc1R3d5U3JIZDFwcms3OWVBZ0pKLW1NMlJyeklYaUpfbjNhWFhkM0M5enpzNFVqcUhnSGF1aGRMd1l5Q3Ja?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "602d9cd74929"
     }
   ],
   "items": [
+    {
+      "id": "d3a9a67cb805",
+      "title": "LLM SEO: What It Is, How It Works and Why It Matters",
+      "url": "https://foundationinc.co/lab/llm-seo/",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Imagine you run SEO or content for a B2B software company, and your CEO asks ChatGPT for the best tools in your category. Three competitors show up… and your brand isn’t one of them. Now you need to know why those brands are being surfaced and what your team can do to change the…",
+      "category": "GEO",
+      "published": "2026-10-22T07:00:58Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "dcc6a8fe2ecc",
       "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
@@ -4271,17 +4282,6 @@
       "published": "2026-10-06T17:00:45Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "662d334b1493",
-      "title": "Google Email Shares Number Of Preferred Source Subscribers",
-      "url": "https://www.seroundtable.com/google-preferred-source-subscribers-email-42244.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search Console is sending out emails informing site owners how many people are subscribing or following them as a preferred source on Google. It says \"people are choosing domain as a preferred source\" and then lists the number of \"Preferred source selections.\"",
-      "category": "SEO",
-      "published": "2026-10-06T16:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
