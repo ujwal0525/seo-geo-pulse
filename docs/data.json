@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:13:07Z",
+  "updated": "2026-10-22T16:45:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -24,6 +24,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-22",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "c2e7f4ff24f2"
+    },
     {
       "date": "2026-10-19",
       "family": "model",
@@ -799,15 +809,6 @@
       "url": "https://en.wikipedia.org/wiki/GPT-5.6",
       "curated": true,
       "id": "1f991f66a725"
-    },
-    {
-      "date": "2026-02-19",
-      "family": "model",
-      "platform": "Gemini",
-      "title": "Gemini 3.1 Pro",
-      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
-      "curated": true,
-      "id": "484b0f561d2e"
     }
   ],
   "competitors": [
@@ -846,6 +847,18 @@
       "source": "Google News",
       "curated": false,
       "id": "d1ac54cc6e2b"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Catholic association launches online courses to equip faithful for mental health ministry",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDJYeERuVXVXc0xmSVVDODNqN2c4QXdnT0pYWEQxc21ydTVwT3ZyZnNyQ05ucXRtaVE1cFdrUExPdF9GSkFaU3FXNVIwN3p4S1dCa2xmUjF2TmdBcl8wYlZYQTFBNzNlRnNCOWg2V0g0cGRyUGhZS2RvNWdjc0gyNE42LWIwWlo2YmhuenRObjhCSXduRnAtZ21jTTd5M05STnRUQjIwdXFxV0FWMnlRektBbVdqZ1FOLWs0ZllpM1c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ac8b629e255f"
     },
     {
       "date": "2026-10-21",
@@ -1518,21 +1531,196 @@
       "source": "Google News",
       "curated": false,
       "id": "b84c5228e705"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma Unveils Specs and New Tools to Keep AI Agents in Line With Brand Design Rules",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjRJNUJ5VFJQQnVKTjMwTUVsN0dWSHd3LUVSczRISnFtNnlhemc2eGtkQTBxc2lZSTBISDY3V0hDcUFyNTlLdDRTa3kwNXROZ19TcmNjM2cwbjZJUG5peDJoMTd5VlU2Sjl4MXFoQ1J0Q29wWG9yb080Z0kyZmk1eDJJaklSVVdHbzduVi1fOFBNT1ZmUFMtZlpSaGVPRlhmU25yLVFR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5f656553357d"
     }
   ],
   "items": [
+    {
+      "id": "b4afa3c86a8a",
+      "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
+      "source": "Search Engine Journal",
+      "summary": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The post Pichai Says AI Agents Will Click Through Pages And Use Protocols appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-22T15:36:05Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "687376bc9426",
+      "title": "Google Business Home - New Google Business Profiles Home",
+      "url": "https://www.seroundtable.com/google-business-home-42363.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has launched a new \"home\" for Google Business Profiles named Google Business Home. It is a beta, but I just received an email with access to the new Google Business Home. Google wrote, \"This beta experience brings together your Business Profile, Merchant Center, YouTube…",
+      "category": "SEO",
+      "published": "2026-10-22T14:42:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "f29d55693b05",
+      "title": "Getting Indexed No Longer Means Getting Visited via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/getting-indexed-no-longer-means-getting-visited/593412/",
+      "source": "Search Engine Journal",
+      "summary": "Being indexed used to buy a visit. In the answer layer, it buys eligibility, and nothing promises anyone arrives at your site. The post Getting Indexed No Longer Means Getting Visited appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-22T14:00:47Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8fb49a2a446c",
+      "title": "Daily Search Forum Recap: October 22, 2026",
+      "url": "https://www.seroundtable.com/recap-10-22-2026-42360.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-22T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4d6539a8fc4e",
+      "title": "Growth Intelligence Brief #26",
+      "url": "https://www.growth-memo.com/p/growth-intelligence-brief-26",
+      "source": "Growth Memo",
+      "summary": "Amazon and Best Buy hit record lows, YouTube adds 322 points, Genius falls 13 weeks straight, Wikipedia and Merriam-Webster slide, Google's spam update barely shows any impact.",
+      "category": "Algorithms",
+      "published": "2026-10-22T12:19:33Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ac2616d53eff",
+      "title": "Why Reddit Belongs In Your PR Strategy via @sejournal, @brentcsutoras",
+      "url": "https://www.searchenginejournal.com/why-reddit-belongs-in-your-pr-strategy/593602/",
+      "source": "Search Engine Journal",
+      "summary": "Reddit conversations can become news stories. Brands that listen and respond gain a chance to address problems before coverage follows. The post Why Reddit Belongs In Your PR Strategy appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-22T12:00:11Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a1f1d8ceeef1",
+      "title": "Google Search Tests Layout Change For Local Knowledge Panel",
+      "url": "https://www.seroundtable.com/google-local-panel-layout-42356.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing moving things around in the local knowledge panels in Search by swapping the position of the company name, ratings, description and action button with the business photos. It is a subtle change and it matches the current mobile design on Google Search more but…",
+      "category": "SEO",
+      "published": "2026-10-22T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c705019ee978",
+      "title": "Google Ads New Translation Tool",
+      "url": "https://www.seroundtable.com/google-ads-translation-tool-42351.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is now rolling out the Translation tool within the advertiser console. This allows advertisers to \"Translate your campaigns to reach global customers and boost your conversions,\" Google wrote.",
+      "category": "SEO",
+      "published": "2026-10-22T11:41:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "c9fcf221a7ee",
+      "title": "Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals & Percentage Multipliers",
+      "url": "https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is rolling out three updates to customer lifecycle goals to help advertisers before the holidays. These three updates include (1) expanding high value mode to Shopping Campaigns, (2) expanding customer retention goals and (3) new percentage multipliers.",
+      "category": "SEO",
+      "published": "2026-10-22T11:30:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "7be9d8247b06",
+      "title": "3 New Studies Suggest AI Visibility & Search Not Worth Investing In",
+      "url": "https://www.seroundtable.com/ai-search-studies-42359.html",
+      "source": "Search Engine Roundtable",
+      "summary": "There are three new studies out over the past week that suggest that spending time, money and resources on AI visibility and AI search may not be worth it. In short, the studies all show that AI Search or AI services send a tiny fraction of traffic (and conversions) when…",
+      "category": "GEO",
+      "published": "2026-10-22T11:21:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "979794f90ade",
+      "title": "Google Ads Sponsored Products Expand To Include Product Attributes",
+      "url": "https://www.seroundtable.com/google-ads-product-attributes-42354.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color.",
+      "category": "SEO",
+      "published": "2026-10-22T11:11:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "9f985cb2d1cb",
+      "title": "Google Pauses Ads For Russian Advertisers & Serving Ads To Russians",
+      "url": "https://www.seroundtable.com/google-ads-russia-ukraine-42357.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Back in 2022, Google paused showing ads to users in Russia. That still seems to be active, but Google just posted a new message in the Google Ads and Merchant Center help documentation that it has \"also paused ads on Google properties and networks globally for advertisers based…",
+      "category": "SEO",
+      "published": "2026-10-22T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b0cbba5ec8c7",
+      "title": "Google’s Illyes: Robots.txt Covers Crawling, Not AI Training via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
+      "source": "Search Engine Journal",
+      "summary": "Google's new robots.txt video says the standard covers crawling, not how content gets used, and recommends percent-encoding non-English robots.txt paths. The post Google’s Illyes: Robots.txt Covers Crawling, Not AI Training appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-22T10:58:04Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4acba7ad282b",
+      "title": "SEO at scale: How to manage SEO on a large website",
+      "url": "https://www.semrush.com/blog/seo-at-scale/",
+      "source": "Semrush Blog",
+      "summary": "SEO at scale starts with revenue, not traffic. A page type with 3,000 visits that drives sales can be worth more than one with 40,000 that doesn‘t.",
+      "category": "SEO",
+      "published": "2026-10-22T10:11:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "109fea86a8af",
+      "title": "Headless Content Marketing: A New (Old) Strategy for Search",
+      "url": "https://ahrefs.com/blog/headless-content-marketing/",
+      "source": "Ahrefs Blog",
+      "summary": "Today, your content pages are grist for the AI mill, their contents scraped from the page, blended together with competing pages, and shown to the user—if you’re lucky—in a context and format controlled entirely by a third party. Forgotten is … Read more ›",
+      "category": "SEO",
+      "published": "2026-10-22T09:29:20Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "d8afa1193060",
+      "title": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/",
+      "source": "Search Engine Journal",
+      "summary": "Google CEO Sundar Pichai says the future of Search is an agentic layer that unifies Google's Search and AI experiences. The post Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-22T09:17:18Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "dbe07e71b4d2",
+      "title": "AI Share of Voice: What It Is, How to Measure It, and What It Actually Tells You",
+      "url": "https://ahrefs.com/blog/ai-share-of-voice/",
+      "source": "Ahrefs Blog",
+      "summary": "Sigh. Yet another metric marketers have to be raked over the coals for. Jokes aside, AI share of voice can be useful. It tells you how visible your brand is in AI responses compared with your competitors. But the number … Read more ›",
+      "category": "SEO",
+      "published": "2026-10-22T09:14:51Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "d3a9a67cb805",
       "title": "LLM SEO: What It Is, How It Works and Why It Matters",
@@ -1543,6 +1731,28 @@
       "published": "2026-10-22T07:00:58Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "63c31ca523f9",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "category": "SEO",
+      "published": "2026-10-22T06:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ba6fa07d677a",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "category": "GEO",
+      "published": "2026-10-22T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "dcc6a8fe2ecc",
@@ -1686,17 +1896,6 @@
       "published": "2026-10-21T14:00:14Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "b7348ac6159b",
-      "title": "Daily Search Forum Recap: October 21, 2026",
-      "url": "https://www.seroundtable.com/recap-10-21-2026-42348.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search ranking volatility and chatter seem to have spiked big time in the past 24 hours. Google updated its URL best practices…",
-      "category": "Algorithms",
-      "published": "2026-10-21T14:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     },
     {
       "id": "4304bb437668",
@@ -2007,17 +2206,6 @@
       "impact": 4.0
     },
     {
-      "id": "b1e7d987de24",
-      "title": "Google Business Profiles Verification With Government ID",
-      "url": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a new way to verify your Google Business Profiles, the method is by uploading a photo of your government ID. This is in addition ot the phone/text, email, live video call or snail mail verification methods.",
-      "category": "SEO",
-      "published": "2026-10-20T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
       "id": "4e609083d825",
       "title": "Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc",
       "url": "https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html",
@@ -2047,17 +2235,6 @@
       "summary": "Microsoft seems to be testing not showing sitelinks under the main Bing search result snippets. I am honestly not sure if this is new but I was able to replicate Bing showing sitelinks for the first search result snippet in one browser and for the same query, it not showing the…",
       "category": "SEO",
       "published": "2026-10-20T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d625c8588e17",
-      "title": "Google Business Profiles Review Appeals Are Delayed Again",
-      "url": "https://www.seroundtable.com/google-business-profiles-review-appeals-delays-42331.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Business Profiles review appeals are delayed again. Dan Boguslavsky from the Google team posted about the delay last Friday saying, \"Due to high volume of review related appeals, processing times are currently extended.\"",
-      "category": "SEO",
-      "published": "2026-10-20T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -4106,182 +4283,6 @@
       "published": "2026-10-07T11:31:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "546b98d3c82e",
-      "title": "Google Merchant Center New UCP Integration Hub",
-      "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account.",
-      "category": "SEO",
-      "published": "2026-10-07T11:21:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "e84fbb6f3844",
-      "title": "Google Local Panel Gains WhatsApp Button",
-      "url": "https://www.seroundtable.com/google-local-panel-whatsapp-button-42230.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is now showing WhatsApp buttons, in place of chat or in addition to the other action buttons, in the local panel results within Google Search. Next to the call, directions. website, share buttons can be a WhatsApp button to let searchers chat with the store or company…",
-      "category": "SEO",
-      "published": "2026-10-07T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f14bf55140d8",
-      "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
-      "source": "Search Engine Journal",
-      "summary": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions. The post WordPress Releases Canonical MCP Adapter Plugin appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-07T10:48:53Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5f0561e18b1f",
-      "title": "This Is My 50,000 Published Story On Search",
-      "url": "https://www.seroundtable.com/barry-schwartz-50000-stories-42234.html",
-      "source": "Search Engine Roundtable",
-      "summary": "50,000 is a big number, so I figured I'd document it here by letting you all know that this \"story\" is my 50,000th published story for the search industry. Yes, I've written 50,000 stories on search and on the search industry over the past almost 23 years.",
-      "category": "SEO",
-      "published": "2026-10-07T10:04:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "feb58811c324",
-      "title": "Multi-location SEO: How to build a scalable strategy",
-      "url": "https://www.semrush.com/blog/multi-location-seo/",
-      "source": "Semrush Blog",
-      "summary": "Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings.",
-      "category": "SEO",
-      "published": "2026-10-07T09:39:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "b0c170108b20",
-      "title": "The September 2026 SEO Update by Yoast recap",
-      "url": "https://yoast.com/the-september-2026-seo-update-by-yoast-recap/",
-      "source": "Yoast",
-      "summary": "Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google’s latest content updates, the impact of AI on search visibility, and how to adapt to the evolving digital landscape. Watch the full…",
-      "category": "SEO",
-      "published": "2026-10-07T09:37:26Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "04e9dc3828b5",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "source": "OpenAI",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "category": "GEO",
-      "published": "2026-10-07T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "4fba5a157214",
-      "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
-      "url": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
-      "source": "Search Engine Journal",
-      "summary": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business. The post Google’s Search Antitrust Ruling: What Advertisers Should Check Next appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-07T05:00:12Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0ca1450969b5",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "category": "GEO",
-      "published": "2026-10-07T00:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "94e63c8f5709",
-      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
-      "source": "Search Engine Journal",
-      "summary": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error. The post WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-06T20:05:17Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "24be04bdddd1",
-      "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
-      "url": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/",
-      "source": "Search Engine Journal",
-      "summary": "Here's how one technical SEO splits audit work: deterministic checks for facts, a local LLM to explain them, and a human to judge. The post Using AI To Assist With SEO Work, Not Replace The Worker appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-06T19:00:47Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0bbc884f4d42",
-      "title": "Google Search Crawl Rate Doc Adds Retry-After HTTP & More",
-      "url": "https://www.seroundtable.com/google-crawl-rate-documentation-update-42247.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has just pushed some updates to the reduce the Google crawl rate documentation. Most of the changes are just organizational to the content on the page but under the \"Urgently reduce crawler traffic (for emergencies)\" section, Google added new information on how to use…",
-      "category": "SEO",
-      "published": "2026-10-06T18:59:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "09eca034d916",
-      "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
-      "source": "Search Engine Journal",
-      "summary": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results. The post OpenAI To Test Visual Ads In ChatGPT Image Generation appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-06T17:21:56Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "eca6e50713b4",
-      "title": "Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
-      "source": "Search Engine Journal",
-      "summary": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon. The post Google Opens Search Profiles In India & Canada, Brazil Next appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-06T17:12:37Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "63241b070b7a",
-      "title": "Nano Banana 2.1 In Google AI Mode In Search",
-      "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google released Nano Banana 2.1 today, and it is already working within AI Mode in Google Search. Nano Banana 2.1 is Google's latest image generation and editing model.",
-      "category": "GEO",
-      "published": "2026-10-06T17:10:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "7fe049df2201",
-      "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
-      "url": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
-      "source": "Search Engine Journal",
-      "summary": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post Data Shows Which Negative Search Results Can Actually Be Removed appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-06T17:00:45Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
