@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T23:03:30Z",
+  "updated": "2026-10-22T03:36:23Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -812,6 +812,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-22",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Pika's Best of Guam 2026 winners to be unveiled Friday",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmpIT0lzdV9qYU5SS1ZTYi1BUkNKbklpWWNlTkhkZ2tFdjM0SF9ZMzRjd1J6T3dLWng3QXN0amZ0TGtRemo5aEpCR25RYklUZFYtcHBqdHhySlJocXFteDg4YUZkVHhQNGxVYmZjZzV5WV82cGpPVGJVZVA0czJOR293UlJxZTBXdVd2WHBfUXhzZHIydW9YQnZRdnk0YnJKNl9YcFVIMGh6TjhEYzBHS1FyQ2I2VEZLQVdFSk1FUmR5NmlpYkYxa3JTUFg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "79c5363cdd24"
+    },
+    {
       "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
@@ -846,6 +858,18 @@
       "source": "Google News",
       "curated": false,
       "id": "fd910ea1b76c"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Figma Adds 20 New MCP Partners With Expanded Canvas Tools",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TQnlwdGpvZG1xY3ZmWXhmcW94cGVPeFl2OWF0cjR6V1haQVZlTVB0bFhsOEFPSVl2ek9JMy1rNl9RZFhsRWxjZXZOVVhUNUsxc0pPbFVVam0?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5221ecbc3aaf"
     },
     {
       "date": "2026-10-20",
@@ -1506,30 +1530,6 @@
       "source": "Google News",
       "curated": false,
       "id": "602d9cd74929"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$200M",
-      "title": "Recursion raises $200M in oversubscribed offering, extends runway to 2029",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3dPTTdGdFdBdFdNVG5zUE1qWkFYSDdSM0p6OXNGcXZMRGJOdHhsV3UxUkg4QzFvcTZMTnQxQkRXU3V2enpkLUgzNm54aDQ2Zl82SDJQbl9XTEw5dEdGaUxPY2Z1M2txeDRGM2szTGtSQkpyQmRIV2Z5YjZaWHhod3FyOUtfcjluT3h2SEhrUFUtRzJyNzExd1MzSnpEY0pFZUg1MHEyYkw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e2d6acd2c963"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Affinity Workforce Solutions buys Sugarman Children’s Services",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQei12UVN2QnB3N0ZDZGtvWFlxZzJOaGpkRncteFZiUXliWUtOZ3NBWF9TX1hJQW9xQmh5WHlJaDFhWWgzVUtVeE5jN2JYWk9UY0RFd0E1bi0xcFlUMWtmc1JOVmxpU0lQeGdjQWt0amMydV9NM3Y0ZV9la0NQSWlZMzM3MnhxREFmcDdPcFQ5SFRvUDJrTU96WFRkdGNKR2E4Z1lhSEJjU0c1aVdEVTRNSTVTYnQ1Yk1f?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0e0ba18f6cb3"
     }
   ],
   "items": [
@@ -1880,6 +1880,17 @@
       "url": "https://openai.com/index/empowering-cyber-defenders",
       "source": "OpenAI",
       "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "category": "SEO",
+      "published": "2026-10-21T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "9201054eeb4c",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "source": "OpenAI",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
       "category": "SEO",
       "published": "2026-10-21T00:00:00Z",
       "coverage": 1,
@@ -4271,17 +4282,6 @@
       "published": "2026-10-06T16:15:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "b5405b00d2ed",
-      "title": "How to Measure AI Search Visibility When Attribution Falls Short",
-      "url": "https://ahrefs.com/blog/how-to-measure-ai-search-visibility/",
-      "source": "Ahrefs Blog",
-      "summary": "That puts AI ahead of YouTube as a source of signups, and second only to Google. If we’d relied on our referral traffic alone, we’d have badly undersold it. Most AI influence happens out of sight. A buyer can read … Read more ›",
-      "category": "GEO",
-      "published": "2026-10-06T16:00:29Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
