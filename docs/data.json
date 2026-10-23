@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:09:48Z",
+  "updated": "2026-10-23T16:36:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -24,6 +24,36 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-23",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",
+      "url": "https://www.seroundtable.com/video-10-23-2026-42362.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "6f240b4e66a4"
+    },
+    {
+      "date": "2026-10-23",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google AI Overview Citation Cards With AI-Generated Summary Snippets",
+      "url": "https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "fa9ea4e0d9ca"
+    },
+    {
+      "date": "2026-10-23",
+      "family": "model",
+      "platform": "Gemini",
+      "title": "Google Universal Cart In Search Is Live, Yep",
+      "url": "https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "f624d7177d2c"
+    },
     {
       "date": "2026-10-22",
       "family": "model",
@@ -782,33 +812,6 @@
       "url": "https://en.wikipedia.org/wiki/GPT-5.6",
       "curated": true,
       "id": "002cdbd183ae"
-    },
-    {
-      "date": "2026-03-27",
-      "family": "engine",
-      "platform": "Google",
-      "title": "March 2026 core update",
-      "url": "https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/",
-      "curated": true,
-      "id": "26dcaeede1f7"
-    },
-    {
-      "date": "2026-03-24",
-      "family": "engine",
-      "platform": "Google",
-      "title": "March 2026 spam update",
-      "url": "https://ahrefs.com/google-algorithm-updates",
-      "curated": true,
-      "id": "f44236f48e34"
-    },
-    {
-      "date": "2026-03-06",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "GPT-5.4",
-      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
-      "curated": true,
-      "id": "1f991f66a725"
     }
   ],
   "competitors": [
@@ -847,6 +850,54 @@
       "source": "Google News",
       "curated": false,
       "id": "3615a50f57ee"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "YouCam Integrates Newly Released Kling 4.0 API to Turn Photos into 30-Second Stories with Dialogue and Sound",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjBDU05MaVBMM2w0QmxfUEJNOUtlZXVQbzREcmVEYzFiUnFFTy1WNGlxS0xaZUM1MXpDZmRnUWFBdTd0TzF0YjgyaFRybHh1Tkt6UzYyazNIM3M3Z2k4cG1QWXAwY3JaSjFxcy0yQW5acW8wSmt6UEFWVnVNX21SVkp6TzNtTTVkZ0dZS2VIR3VlUkd5ZmVzN1VMYzlaMnIxTms4ZQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "988e73255f08"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "SelfyzAI Among First to Integrate Kling 4.0 API: New Model Available in Workspace",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDE1Nm13TVBhdjdWZW1MQjctNUpWWGVmWkxlUEZmakcyaXlsS21CYzJ2TnAwVGN4TDhPWEtCRDlTSkJNdVNLeU4wdFBwYnZaRlhVVkwxMVYyXzdFZmwtY1VsUE9RVUJkOHdQdk5oTkw0bWppRjlWMFk1Q2lwTXZpTjFyWm1IQVlGaXAxQnR2YldPeXlWQXRoV243eExXbmVsUUVMRWRwSWQ1STY5c0VIU1duWQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fa266d2d9267"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Releases AI Image Generator That Wasn’t Trained on Photographs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1laZmtRTjVQQ1VNWGRpazZmNXp5cjNoX3ZZRmNWR3BDa2doaFdIbUFOOXFiVTc4OFA0X2JzLVFJQjhNMDZ3ZG45cXh6YmRaOUxBWUhralRuOURYOVVCUGlYcnRJOFJaRDVJMi1aTTJ0dUJBMmFYb05fZzJKTXBXRXh3WGFlR0haRUx5UnVXUGhfVUZGa0JaMDkzLVBsOXVmSGFN?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a467f59b5414"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Launches Craft, Its First Image Generation Model Built for Design",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzY4TWdXaGFXMldpNTlSWHJLZHctNmFOci1xZVVZQXdLQzUweG1fb0JBTkJncExKTjBzRVI4aU1BYmh5OVFONl9FN1pzbDdrcUJ1UnpzeFFuUnBac0hjNU0yOF9IZlU3LUtsVjVCdlZ0eHBkQ0dWLXZBNUxWUk9ySkp3VTNWc2tqU2dnMEd4YXp3MzRiUk11Zk40UmozRHNxVjZCRXZxWWc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c12ff436d895"
     },
     {
       "date": "2026-10-22",
@@ -981,6 +1032,42 @@
       "id": "bf3c315b0824"
     },
     {
+      "date": "2026-10-22",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "The Pokémon Lucky Bag “Pika Pika Box 2027” is now available at the Pokémon Center Online! It will be sold via a lottery for a limited time starting October 27.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GUjdGZlRnY0g4Y0RyRnQ0Y010SkxJc3laWU1hNVVRU2NVRkQ1SC12allyR2hvbHhFWThDcEtRYllMQ29FeF9YQkt2Zk5jVHhWTngtZVlYVkpYVFhJTzZzX2JLbWRTSFBYTGhTREwyYm5IX2otLWN6X2RB0gF6QVVfeXFMTkZSN0ZmVGdjSDhjRHJGdDRjTXRKTElzeVpZTWE1VVFTY1VGRDVILXZqWXJHaG9seEVZOENwS1FiWUxDb0V4X1hCS3ZmTmNUeFZOeC1lWVhWSlhUWElPNnNfYkttZFNIUFhMaFNETDJibkhfai0tY3pfZEE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e10f412b048f"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "AI That Talks and Thinks: ElevenLabs Introduces Two New Voice Models",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Yc01NMDl3ZFN1cHJUNzFpU09lODdhZnN4R09kZEZ5OGR6Sjk4WFhFSHlwNWdDaEtxZ2FWaThQcEZYZEZCb3hXcjY3cDBFbWlpR0tWMnpJckdHZWV1TVRUSFp3WUpsaEt3aUhMdW1Tcw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "04f987d724c7"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Hashed Launches Nitro by Hashed Cohort 2, Shifts to Rolling Admissions, Global Expansion Support",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZV2xMcnhyekFzY1F5SXBNZVRzV0t3dEdhLVdMSWpIeVBDN2hSelFaYUt3N0JyMFl0T3hwUmpvVng5NUs3T05WaFdXT2k3UHpVaDhrSw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e599b521d22d"
+    },
+    {
       "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
@@ -1027,6 +1114,30 @@
       "source": "Google News",
       "curated": false,
       "id": "562cb34a2dda"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches Real-Time Voice AI Models With Up to 98.8% Speech Reasoning Accuracy",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzg4bktGOVFxUjA2UGUzY2VoN3VwREFkQzRkM25VN2NLbGxGZmFWQUR1VjJuWU9wckk1eVVZX1pfTmFZQ2NlVU02bXZMS0FHbnhsR1JhZWpTaVE2Q0xISjNrcWNCTEZzajNYVm83S0FVNllKaTMzUkF4dUdJNEFBM2dLdWFYaUpYOGpwSDV6aDM4NnFvZVhrQVRMVkJjaEZPZ0pSdVJPZFlfNXdYQXJ1ZUVnb0Z0WHBVTWcwem5rTUN6QQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1673018c0eec"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches 2 AI voice models with 90+ language support",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamh0UzVuMmxsNmdOeDBvQXhycm5TOGRERHRNUXo4NjVyaERzbTQ2QkhLbTA0ZUtObUdnRGF0eDJlS0RhSXlaTTVOZHBpMThoM21mZUJHOU9PZ00tMTBFWFZqdWV6VmZzcE9jYjhpdGYtMnlpOEZfRTVOVXA1MUFiYWVpeEFPcE9MeDFhM1R3UzZEYXhnVGlXeUxfcUdIWEtQNGxEWmdfUnFhRm0xb0E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "362104dbb109"
     },
     {
       "date": "2026-10-20",
@@ -1257,6 +1368,30 @@
       "id": "5d5ea7c5b1e7"
     },
     {
+      "date": "2026-10-19",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Unveils 'Architect' Alpha for Fixing AI Agents With Plain Language",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44MU1SRnktOGp5R2RoTXJsRVJfcnM3eThVcFhUMEl4eHA1SWFNOXFURXZJbHpMdGlOZGVKVjZGc2d0Tnl4eVprb1NGek16SVc0QXVjc3F4MDg3QzdxNDFXcXVaeWRuUXQzN0xUYWpvX0ptaVQ2NFE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3e8e33bc7367"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs releases alpha of ElevenAgents Architect to build agents through voice conversations",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0RvcHZOdW9ha2ppZ1J2YVJ5eGRVZlpkM1VILVJxRkI5bDRjOW5DNHNnUmw3RXk5VE1vOU5ldEdpd2ltOWg4ZHI0dzQzVFdyMkhuT0Jhb1Ixem1jWXNGdEFzRjVEeF9talV1VkFLY19NRVJDMGl3MzQ3VVYzc3k3MkRyLTkyMjJqajY4Nng5TnhsQndLVTl1Q180RFNTdkFfVkdEQjM3NzZadzBjVVgxRmtFN1RlRnlvT1BNY2kxb3RLUWlRNGpsSXlXeE9IeERDYTdPblRsTkE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7ab7fa011a18"
+    },
+    {
       "date": "2026-10-17",
       "company": "Black Forest Labs",
       "front": "GenAI Media",
@@ -1399,141 +1534,174 @@
       "source": "Google News",
       "curated": false,
       "id": "032009da4eaf"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kuaishou shares rise 4% as Kling AI launches video model",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVIdWJmLV81R1RNSXRPX0hGU20zTXY3eG9PWnJYenM4MEdqSVVtUElIYUV1SW1zR3dKT1JDVnVPelZuVlQ2ajFWcF9sYXZQUS04WlByR0w1c0FZdlhuemwyVU45LVdfR1B5U0ZKWVpSV0Rjd3RVeHA5Sk42UC1yZjY3UWprVU9kUl82UA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f2a0f43a3430"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kling AI Launches Kling 4.0 Globally with Professional-Grade Output, Stable Motion and Multimodal Control",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGU1N0VjcmVtVDFCM0diMTdhbEJISUZ1cHNFdDdZSGt0R0ZEVVJGUEpwR2duV1Q4bVVNTTBMcElPRkxYZUtwTU5STGkzNnBjdDZSNzMydTVXNkxhZnZMWjd2RjJ6MDcwZWdxSkZWaUUxN2tSaTAyU1V4ZDVHM183NERzcjVXV2dibld2ZkNNeGVlcnQweUpnaXRGZlBsODJzdWRnaW9qM2t6VGFESkhfOENfOE5zdXNKVTNOVzliNUZVcTg5bFY2eEVXUWlQUERQQ3NlLW9GMkpHNHBVcmZLTXFINl9sZW5wUEtCTTdraVg4MnBoakpyRFR1TFctNU5vVUM1Q25jc3VHVzkyWEHSAY4CQVVfeXFMTXBlNTdFY3JlbVQxQjNHYjE3YWxCSElGdXBzRXQ3WUhrdEdGRFVSRlBKcEdnbldUOG1VTU0wTHBJT0ZMWGVLcE1OUkxpMzZwY3Q2UjczMnU1VzZMYWZ2TFo3dkYyejA3MGVncUpGVmlFMTdrUmkwMlNVeGQ1RzNfNzREc3I1V1dnYm5XdmZDTXhlZXJ0MHlKZ2l0RmZQbDgyc3VkZ2lvajNrelRhREpIXzhDXzhOc3VzSlUzTlc5YjVGVXE4OWxWNnhFV1FpUFBEUENzZS1vRjJKRzRwVXJmS01xSDZfbGVucFBLQk03a2lYODJwaGpKckRUdUxXLTVOb1VDNUNuY3N1R1c5MlhB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4fa220f84ce9"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kling AI Officially Launches Next-Generation Kling 4.0, Raising the Bar for Professional-Grade Video Models - Carroll County Mirror-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEhGdUhfLUF0RlE4VUp0VUZYenBEVXlnc2MxSzBhX0lNbWdCdUZQRFNjUkc1bElfbmp2SnRFVWMxQUUyYXNyVzlzV1B2UnZTT3dPLWxOcHE1c0Q5WWZmNUhPN0RnUzEzbTA5TThDZjdBa2ZFQTY3SXZ4MGN0dENIbmRZZnZ2MDAwLUx0ZHl0T29wbHNlWkcwR0JuZzVmbVQwTVQ0RzRJeVkybnVxVEIwdi01NmZENVk?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1316aed4bc57"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kuaishou launches Kling 4.0, a next-gen AI vide...",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnlMRlBMaGlzQTRnQzQ4YVJOTWQ5UnRvVFhobDB4WFM2MDg1bFRmQ2pCWVF4YlJHUTFNYXNoTS1yTmp3V1kxTVREVUZOYlNPaXpmOHpsR19ENkpqbU5hYVJscXdrak4xUWpYekx1TUwyV1JXS2hRZTlrbFhYYUlRQ3kxc0FleU5WRFlCZzBPRTFxUnVraUhSMlJIVXJwYXB1?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "78792ea7cb0a"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma Debuts Specs Editor to Keep AI Agents On-Brand at First Config India Event",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjZPOFQyXzJEZ1ZVMjQ3VzJZWTNFMnNNNGpTc1RMOHBQbFhVaElyRlFFR0FvbUlubW1xLWp6T3NzRkpGZWFBMk5Ka09jcFpyVFdtUzRKOHRyenFVYk1PNXlxcXVJOUVyZkp5S1EwamEza0Z4c0F1aUpqcUtISW8zWmtSczkyZl9RbUg0TjZzUVhtT2RnUVhzSkkyTGZaTkp5V0xKOC0xMzNoS25CV21UMHNIWGdxaGgwaEE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "78bbbbb51d68"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "EY, in collaboration with Snowflake and Canva, announces launch of agentic sales orchestration platform to address enterprise AI fragmentation",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVnkyN3hHSTJ1eVBUVHlqZjVSWGZfbVdQeDBGa0YwN2dSYmx6elB6d210d1oybUFRTjl5a0NNSGxXeTd6XzFYRDdiR0MyQ2d5RGVqV1kzdG5OcEZBN3JHQ1FoaF8yeURHU1plU2d2WklIcGgtN205YUNYTWI2Q3FkTTg5YVBPTENycS0zdjdyV3lLRzYwM0UtMlJheWwwMFBRWEJCSEJEUnhnWjVXVXlPUTBhQ3dOaGVEMk54OHJwMzEzdE9RV0RHc0h2Z0JHY3BRczFyUEY4MUF5UFBla3BZWGxGUEpLVlppQ2cweUtQVE9uN185X1l6N0pZcFRxYzktWFVIazJLbHVZYk1SZF9F?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ed6eda9150e2"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Cody Wilson unveils AI-designed 3D-printed WASP pistol",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNldQaWYxY2VWSXo1UE5sNXBWc0ZRM3lIbnVNUDRHR29nRXBOMlBNTElPaVVGNUpObDhvQXZ0Z21lQUx4WDBpdlY4eXhkS0duVlZ4V3g0MVNPbEV3cTdzM3MxcENtaGxmaktDTTlfUmNONEN5bE84MG1FbVUzSFJxNXczX1F1NzRRSElV?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "810df5f009dc"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kuaishou Technology Launches Next-Generation Kling 4.0 Video Generation Model of Kling Ai",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXFyZlhiTzRpcU1WaTRadG5NMFBtbzZjX0FxQ05oMmkwRWx2YW45cEttd1Y2MzhVdUlTYmYtREszQ1E3SDRLQjBFcDdvZkZFX3U5ZGFSYXdtLVB5ZUJlSUNqMEJNb2w2QndpVVNESm1EZGxvaUVDRWs4a3Blc2k2OWdITmRnVUJDUTE1OVNPWDFWaWFqRExEeXBnLTFtb01zS3ViUWc2S2hpRDlkNGw1cUNqMVNXTXlkbDRQOExaUzdiX08xTFpFbzFteEhtXzB2Ny1aQzFhV0RmQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9dfd0037b182"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdnNVc0ZmNReHFXX29JSWhkOWhaY1I4ZF92Zjg3WUQyNFJkWjN6UG12LU9JY0dQU3pRaTkxQk9lTHZVOU1pQ3BRc2tBZUx1NWZVWVFYMVBZSXZnTkZYcWhtNUpObGROcm03dUk1NnpYemU1MWdVeHNnLU5WR0tnRW1ZUDFBMm9CdlRPUkVfU0JMbGQxUHZJOFltZmpkSklqVVdVNHZKT3kyd2JfbFByaDE2ek1ma1VQMmNwdDFZeEpVcmk4Qmc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c73462739049"
-    },
-    {
-      "date": "2026-10-16",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kling AI releases Kling 4.0; Kuaishou shares rose more than 6% during intraday trading.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnN5LVdEQUVWa3ZqMy1tNkI2bHpCRlRUaUJrQmpyakk4YkRZQ0FURWdtYWNBVDlMeXkwSEdrcWVnenVvdzB0SG51TUVpekFZdm93dWx5cTE5MFVWOU1OVVNMdmdyMEhsaEdld2wxVWc2cGdhYmlWaUVfMWVnaXJWTDZjRElNQkhibnNHWEQwMnRqY3h1MlRhd1ROWlRUZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "151a778f8e94"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma Launches AI Agent Platform Features, Code Layers Beta",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNenIxekpfd3ZYRVpkdkd0NjFjZ25Pc0YzQXVvMVN2cmNvMExRSjlwVDc5aXdCbzZ1R3phX3Nqd2pDdkZJb1RaX2RMQU5lQXozUzlHMm5UU1JaMlVuZkF6b2IxNl8xUUR5RE1GX0hfUE9lQ19mNUVIU0g4cmJyTllyZzd0azNJMXNfNWRqV2ZURWJlb2xOUnc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "629ab94e5d04"
     }
   ],
   "items": [
+    {
+      "id": "298c8de07d18",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "category": "GEO",
+      "published": "2026-10-23T17:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "b4ea8460b020",
+      "title": "The 4 Ps of Marketing: Product, Price, Place, and Promotion",
+      "url": "https://neilpatel.com/blog/4-ps-of-marketing/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways The 4 Ps of marketing (product, price, place, and promotion) have been around for decades, and they still drive decisions around every successful product launch. Also known as the “marketing mix,” they help you think through how to bring a product to market and…",
+      "category": "SEO",
+      "published": "2026-10-23T16:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "10b68ceec243",
+      "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
+      "source": "Search Engine Journal",
+      "summary": "Make junior hiring an explicit part of your 2027 SEO budget, with defined learning roles and a scorecard that tracks unfilled seats. The post The Junior Hiring Gap Your 2027 Marketing Budget Should Name appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-23T14:00:53Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "105ea28bb74c",
+      "title": "Daily Search Forum Recap: October 23, 2026",
+      "url": "https://www.seroundtable.com/recap-10-23-2026-42368.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-23T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c6ea96ad42a1",
+      "title": "Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",
+      "url": "https://www.seroundtable.com/video-10-23-2026-42362.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This week, yes, we saw even more Google search ranking volatility chatter but still no official core update. Google shared how to handle Google Search if you need to take down your site for the PHP exploit fix. There are three new...",
+      "category": "Algorithms",
+      "published": "2026-10-23T12:01:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "bc67840caf3e",
+      "title": "How Rank Trackers Say They Handle Suspect Google Results via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/rank-trackers-suspect-google-results/594049/",
+      "source": "Search Engine Journal",
+      "summary": "Rank trackers describe how they check suspect Google results, what customers see during checks, and what they say about reprocessing and past results. The post How Rank Trackers Say They Handle Suspect Google Results appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-23T12:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "bdb53ba62893",
+      "title": "Google AI Overview Citation Cards With AI-Generated Summary Snippets",
+      "url": "https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be testing or rolling out AI-generated summaries within AI Overviews citation cards. So the cards on the right (or bottom) of the AI Overviews within Google Search can now show AI summary snippets/descriptions.",
+      "category": "GEO",
+      "published": "2026-10-23T11:51:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "ebf181d5a881",
+      "title": "JPEG XL Image Format Not Supported By Google Images & Google Discover",
+      "url": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
+      "source": "Search Engine Roundtable",
+      "summary": "John Mueller at Google recently confirmed that Google Image Search and Google Discover don't yet support the JPEG XL image format. He said this on Bluesky recently, \"FWIW if you're hoping to get images shown in Google Images & as previews in Discover, etc - JPEG-XL is currently…",
+      "category": "SEO",
+      "published": "2026-10-23T11:41:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "1256919ee720",
+      "title": "Google Business Profiles Tests New Advanced Performance Reports",
+      "url": "https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a completely revamped performance report section within Google Business Profiles that includes metrics on engagement, reviews, search trends, audience and more. It also includes top recommendations and a more broken-out reviews detail view.",
+      "category": "SEO",
+      "published": "2026-10-23T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "540cc87ce2b9",
+      "title": "Google Universal Cart In Search Is Live, Yep",
+      "url": "https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Last week, we reported that Google was launching its Universal Cart in the United States after demoing it at Google I/O in May. And yes, a few days after Google announced it, it was rolling out. I think most people started to see it show up in Google Search and Gemini starting…",
+      "category": "GEO",
+      "published": "2026-10-23T11:21:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "923de88d4726",
+      "title": "Google AdSense Videos Placement & Sticky Requirements Removed",
+      "url": "https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google updated its AdSense Video inventory restrictions policy to remove the placement requirement and the scroll-to-sticky requirements yesterday, October 22nd. Google removed this line from the policy, \"For In-stream or Accompanying Content placements that transition to a…",
+      "category": "SEO",
+      "published": "2026-10-23T11:15:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "856f01f9d287",
+      "title": "Google Ads Tests Scrolling Marquee Style For Ratings/Reviews & Underlines",
+      "url": "https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is testing a scrolling marquee on some of the sponsored results within Google Search. Google will load in the reviews/ratings, number of visits and a visit site link in one of these tests. In the other test, Google underlines the domain name in the ad snippet.",
+      "category": "SEO",
+      "published": "2026-10-23T11:11:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a58548365979",
+      "title": "Google Ads Asset Optimization Sourced Videos On/Off Toggle",
+      "url": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically.",
+      "category": "SEO",
+      "published": "2026-10-23T11:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ed6c7991dc04",
+      "title": "AI search strategy: 4 layers of brand visibility",
+      "url": "https://www.semrush.com/blog/ai-search-strategy/",
+      "source": "Semrush Blog",
+      "summary": "An AI search strategy starts with diagnosis. Rewriting content won‘t help if AI can‘t reach your site or keeps describing your brand wrong.",
+      "category": "GEO",
+      "published": "2026-10-23T10:58:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "54f35fa3745f",
+      "title": "Google Search expands agentic capabilities with information agents and Universal Cart",
+      "url": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
+      "source": "Semrush Blog",
+      "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online.",
+      "category": "SEO",
+      "published": "2026-10-23T10:35:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "e2fecef192d2",
       "title": "YouTube AI Search: What Gets B2B Videos Cited (Data)",
@@ -1624,10 +1792,10 @@
     },
     {
       "id": "1d9f9f7df795",
-      "title": "OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads via @sejournal, @brookeosmundson",
+      "title": "Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
       "source": "Search Engine Journal",
-      "summary": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads appeared first on Search Engine Journal .",
+      "summary": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement appeared first on Search Engine…",
       "category": "GEO",
       "published": "2026-10-22T16:58:09Z",
       "coverage": 1,
@@ -1645,17 +1813,6 @@
       "impact": 4.0
     },
     {
-      "id": "687376bc9426",
-      "title": "Google Business Home - New Google Business Profiles Home",
-      "url": "https://www.seroundtable.com/google-business-home-42363.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has launched a new \"home\" for Google Business Profiles named Google Business Home. It is a beta, but I just received an email with access to the new Google Business Home. Google wrote, \"This beta experience brings together your Business Profile, Merchant Center, YouTube…",
-      "category": "SEO",
-      "published": "2026-10-22T14:42:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
       "id": "f29d55693b05",
       "title": "Getting Indexed No Longer Means Getting Visited via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/getting-indexed-no-longer-means-getting-visited/593412/",
@@ -1663,17 +1820,6 @@
       "summary": "Being indexed used to buy a visit. In the answer layer, it buys eligibility, and nothing promises anyone arrives at your site. The post Getting Indexed No Longer Means Getting Visited appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-22T14:00:47Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8fb49a2a446c",
-      "title": "Daily Search Forum Recap: October 22, 2026",
-      "url": "https://www.seroundtable.com/recap-10-22-2026-42360.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-22T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -4140,149 +4286,6 @@
       "published": "2026-10-08T12:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "f6d3626eb7c8",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "category": "SEO",
-      "published": "2026-10-08T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "68d85cfe649a",
-      "title": "Google Search Issuing More Google Manual Action Penalties?",
-      "url": "https://www.seroundtable.com/google-search-manual-action-spike-42258.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google may be issuing more manual action penalties over the past few weeks than it has over the weeks before that. The increase in manual actions seems to have started several weeks ago, but more so recently, according to some SEOs.",
-      "category": "Algorithms",
-      "published": "2026-10-08T11:51:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "e93de04d0222",
-      "title": "Google Local Service Ads Expands How Leads Work Information",
-      "url": "https://www.seroundtable.com/google-local-service-ads-how-leads-work-42259.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the how leads work help documentation within Local Service Ads with a lot more detail. The changes are meaningful, including what counts as a billable phone lead and how Google handles lead quality/credits.",
-      "category": "SEO",
-      "published": "2026-10-08T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "52bcd44a4bc8",
-      "title": "Google Merchant Center May Disapprove Products That Change Frequently",
-      "url": "https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google updated its help document in Merchant Center to say that if a product changes more than once per day, it may be \"disapproved instead of updated if we detect a mismatch.\"",
-      "category": "SEO",
-      "published": "2026-10-08T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e2dcc2a7d947",
-      "title": "Google Ads AI Max Columns: Brand Inclusion, Commission, Locations Of Interest & Optimized Targeting",
-      "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting.",
-      "category": "SEO",
-      "published": "2026-10-08T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "562d7fb7a44a",
-      "title": "Google Ads Self-Services Conversion Lift Measurement",
-      "url": "https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000…",
-      "category": "SEO",
-      "published": "2026-10-08T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "cf8d51f88404",
-      "title": "Does AI Admit When it Can’t Diagnose an SEO Problem?",
-      "url": "https://ipullrank.com/warrant-seo-benchmark-study",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Nearly every marketer has probably lived through a similar situation in which traffic drops, but there are multiple plausible reasons why. It could be a crawling issue, broken tracking, or other possible options, but you’re just not sure which. So, you start digging for a piece…",
-      "category": "Algorithms",
-      "published": "2026-10-08T11:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "d6b1ab92891c",
-      "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
-      "source": "Search Engine Journal",
-      "summary": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility. The post Link Building Strategies for 2027: What to Keep and Cut appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-08T07:45:34Z",
-      "coverage": 2,
-      "impact": 5.0
-    },
-    {
-      "id": "be1b14ec6900",
-      "title": "Chrome Decisions API: the prompts, limits, engines and code reviews behind DecisionModel",
-      "url": "https://dejan.ai/blog/chrome-decisions-api-decisionmodel/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Chrome's DecisionModel API landed on 6 to 8 October 2026. The exact prompts, limits, engine status and review findings, plus a comparison with Google's MediaPipe DecisionMaker and local tests of EmbeddingGemma 1, EmbeddingGemma 2 and Laya.",
-      "category": "GEO",
-      "published": "2026-10-08T06:43:46Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "077dea1e8a7a",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "category": "GEO",
-      "published": "2026-10-08T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "2958c1444aeb",
-      "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
-      "source": "Search Engine Journal",
-      "summary": "Google opened its SynthID Detector to everyone, allowing users to check images, video, and audio for watermarks from Google and partner AI tools. The post Google Opens Its SynthID Watermark Detector To The Public appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-07T19:38:35Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b2f88c2d60d9",
-      "title": "Competitive Analysis for Paid Media: How To Find the Broken Stage",
-      "url": "https://www.seerinteractive.com/insights/competitive-analysis-for-paid-media-find-the-broken-stage",
-      "source": "Seer Interactive",
-      "summary": "TL;DR Competitive research can show which stage of your funnel is broken (Be Seen, Be Believed, or Be Chosen) and which channel to fix it in.",
-      "category": "SEO",
-      "published": "2026-10-07T19:01:13Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "f795ecad4f30",
-      "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
-      "url": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/",
-      "source": "Search Engine Journal",
-      "summary": "Consolidate redundant PPC campaigns to give Smart Bidding stronger signals without erasing the business distinctions that keep your account profitable. The post Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-07T19:00:23Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
