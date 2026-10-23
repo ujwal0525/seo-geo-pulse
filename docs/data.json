@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T03:41:11Z",
+  "updated": "2026-10-23T09:09:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -813,6 +813,42 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-23",
+      "company": "Leonardo AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches its 1st image generation model",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3gwTURZRkFOYXk2T0N4R2xwU0tZWGtvMGktWlktNXBDZDZRZFl2Y1Z5RVBoWmU1T0REMFdqV01MakNtS0s4NEhobWdNQTVZU0N2Mm02aldHVE53MHU3TDFKNXFQWnlpTW9OVnhweFM3ZVFLN05sM2VKV3B6UVBGaGZQVDZCZW5CRm5hSjF5TVhsc0RJcVdmbXNaLW1BZlVjTC1vM0hZVXd4ODlwbERyT1V6TFNxcTc3bHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1225e976d3a2"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches Craft image model with 2K output and API",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUJmX1ZycnNXNVpLOGFQdExZeHZQUVZ1dXJXS3JyUUhiaGZyU1U4UDVlZWFEZFRtZ25tMFA4QjZoZ0FERzRhZy1IZzV6aDhVRDJhNFd5YTJYREhSLWVwXzFmNlZpSjNfWkNLajFIOHg5VF9xeFVuWkpydzgyTDBpaWg1NjRJdGZjSWx0ejRqRFU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "40204d56ce54"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva unveils native image generator Canva Craft for Magic Studio",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDdHQThXc0MyRXNQSHNZLXlmU1M0OXRQLWdnUnV2eU1GMkVJcm1SemQ5OTNGOU1OejV4S3JxXy1sdzhhR1VDWlh4TXZHaEFEN0JWQXF2OVFacDZXUjk3QXVjV2NabU5DVlJBbnQtcVZmQVlMOFBfV0xEOVVFc0xHUlcydGFla0JRU0RjR3NLNzhib0VaZzVRLUktUGJvVEVhaVE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3615a50f57ee"
+    },
+    {
       "date": "2026-10-22",
       "company": "Pika",
       "front": "GenAI Media",
@@ -931,6 +967,18 @@
       "source": "Google News",
       "curated": false,
       "id": "77469cce0e46"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Canva adds 60 free AI and digital literacy resources through Common Sense Media partnership",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjQzbnJOQlYzVTJKU0FqalYwTjZCeS1JbndEcmNXMlZ5LVVrR05OYmFiQ2JucWlYeFN1bUwxaEJrNVVlSEZ0QlhIRkg3eUNzc3UtMEUxdWwwSXcwTTNodFVyb3lJTGh3VDJFU0IxTEMwbmh2Zy05aG1raWNBeHFnN3A2OW1RN0N4LWpaQ2lzUmY4cnRyLVoydC1yRnNBYV9peE9aWEZkcFRRSlo1dGlRR1pQUVoyRmZBS3ZtTXpQU0VBMG43RTUzSndtbTk?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "bf3c315b0824"
     },
     {
       "date": "2026-10-21",
@@ -1483,54 +1531,6 @@
       "source": "Google News",
       "curated": false,
       "id": "629ab94e5d04"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma unveils Specs editor for AI agent operating rules — TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMl9uUWVjN0p1WVRxaWZFb3B6c0RmR3Uwak5kMGl0SVNTZS00d2hRQTBhVVQ4a1VVZ1lMSS1ybEg3bG9oaHlSbDFVb1dmQVEyX0N3eGd0RkJQNzZ5VlpxY0dUVzZTMHJQbFRqdEVteFdRVl9TUnZoOW1COXpobDIxQ2NWZVNjLU9lZmYwV3hPOFJObVM4Nlp5d0s3V1JlcVJCcmswQW5kb2k4Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "48f413f255dd"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma unveils AI-powered tools to bring code, design and agents onto a single canvas",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5fdklLVUhrRDZvODc3ZE44YmN3ZVhqcU14TXdyR19GNFhOVmVmZ1FPZ3pTendhRGJvMUh4d2szVTBPRmgxdUtjcWU4MUx1dGtueUl3aWhqRHVzdm9oMDhqRVhGa1lodnVEbXRpbzM0dFA5b1JiNkx3Z0FGWGV6NVpwSVlyckh0VzJ4WWJxMmtRWUVzQmxhS2FSQzFSbE9MRTNzX1MzQVU0OVktNnhLU2plYzg2cDRTMGfSAboBQVVfeXFMT1lOX3ZJS1VIa0Q2bzg3N2ROOGJjd2VYanFNeE13ckdfRjRYTlZlZmdRT2d6U3p3YURibzFIeHdrM1UwT0ZoMXVLY3FlODFMdXRrbnlJd2loakR1c3ZvaDA4akVYRmtZaHZ1RG10aW8zNHRQOW9SYjZMd2dBRlhlejVacElZcnJIdFcyeFlicTJrUVlFc0JsYUthUkMxUmxPTEUzc19TM0FVNDlZLTZ4S1NqZWM4NnA0UzBn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5a13dca7f119"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Is DocuSign (DOCU) Undervalued Following Its Expanded Salesforce Partnership?",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGJ3V2xYNzdjRlRvWDZFaXRQVkpscHBWOU11LVFabE55VExKVkZJOENYYzNQc2RrcVR6Z2hSU3YwcTV3ckE1clpRQ25ibWpmRjRlY05DYUlkczgzQnZMOFpwRFpnRzl1OXdoV0lmaUtaUjl1MEpfeG9jOF9RdTk5SnlzM0RXZE9aS1dScWxqMWRiTVR3cVVkcWdMMXU0N1ZyWTZicWRCWm1GNTZ6MVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fe3eec235907"
-    },
-    {
-      "date": "2026-10-15",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "New 5.6B-Parameter FLUX 3 Image Klein Debuts as Open-Weights Release",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWJQZUhVZ1hUaHJWczg4ZHMxZ0N6Q3lvYzlOVGdONGhNNXlkTzlyM1pCNnRCUzQ1Ml9uTTV1eFQzTHJWZjdodHFvSFpSbDZQOW80NkVjb2ZrTUlMZ3dLR2o3U21STTdKb0FSOHd0RGlha1lWaEZzcUpZNW1rTFBGVW1RdDI0bzZpM05wSkJtcDl3NDYy?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0f795d08c4b6"
     }
   ],
   "items": [
@@ -1544,6 +1544,17 @@
       "published": "2026-10-23T02:46:28Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "15c1f8ef7a58",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "category": "SEO",
+      "published": "2026-10-23T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "b7b4a2a881f4",
@@ -1819,6 +1830,17 @@
       "published": "2026-10-22T07:00:58Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "f2bf9561fdca",
+      "title": "Moz & Profound Partner to Connect SEO and AI Visibility",
+      "url": "https://moz.com/blog/moz-and-profound-data-partnership",
+      "source": "Moz Blog",
+      "summary": "Moz partners with Profound to deliver industry-leading SEO metrics and citation data directly inside Profound’s AI marketing platform.",
+      "category": "GEO",
+      "published": "2026-10-22T07:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "63c31ca523f9",
@@ -4261,28 +4283,6 @@
       "published": "2026-10-07T19:00:23Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "118ccba34ef3",
-      "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
-      "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
-      "source": "Search Engine Journal",
-      "summary": "Is another major Google update coming? The documentation changes, spam update pace, and Google's own statements all point the same way. The post Prediction: The Next Massive Google Update Is Around The Corner appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-10-07T17:30:46Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "93e67de1d426",
-      "title": "Email Marketing in the AI Era: Personalization, Automation & Deliverability",
-      "url": "https://neilpatel.com/blog/email-marketing-ai-personalization/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Have you noticed your team is sending more emails than ever, but the results don’t feel any different? Most marketers are pointing AI at email marketing’s wrong problem. The real opportunity is understanding customer intent, automating decisions, and personalizing…",
-      "category": "SEO",
-      "published": "2026-10-07T16:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
