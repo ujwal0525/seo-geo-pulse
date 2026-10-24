@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T22:56:37Z",
+  "updated": "2026-10-24T03:35:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1031,6 +1031,18 @@
       "id": "dcae85d0c7e8"
     },
     {
+      "date": "2026-10-23",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$1 Billion",
+      "title": "Higgsfield Adds TCV And NVIDIA To Series B As AI Media Platform Surpasses $1 Billion Annualized Revenue",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUwxNXhYOXJPQWlfUW9WNkxBc3FnYmctUUNiWU1ENVRSSFJYeVc0TEFjbGRUUmxhSFhYNXZuSWVWRjhGOW1fX0RoUzduQ3FGLVUxVFZpMGxlZE9rZVhsbjljV2t3ekU5akFEREoyVHlLYWF5ZU5DaUdRSXc5cTdqcjZsRHpDWVZDb1NpeXBTQjluYUt4V0lBQ19xRjF2WkdSSG45elhoZ3Nmd2VXWHRxZHdQR0xpVC05WUkzcDZMcw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fa84a23defef"
+    },
+    {
       "date": "2026-10-22",
       "company": "Pika",
       "front": "GenAI Media",
@@ -1223,6 +1235,18 @@
       "id": "638526101621"
     },
     {
+      "date": "2026-10-22",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Getty Images files Chapter 11 after failed merger: Shutterstock stock is valued at USD 168.5 million",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTGlldnQ2TVpnTXYyMXFBRFh2WWtUV0h6NjBkMnViUUxDc1JqenhDSm4yNzVqWk5uQ3N5MnFVYjVLdEtjcVh6TzNRQTdyUjlTMzZURklnODRlUGxSTjdLOTAyZ0dJVzE3YTV6emg0dlE5V0QyVUFsZ3AzeGpGdE9iSmtoU3pIQkNuLXBuTkc0Smx2RDlHU0pfUE9LVXhlc2NtQnNROHVfZnJ3QmlRWWJBMGhSTDZkeUNKeDZnUXIteWR1UjYtRDFwRlFBMk1tYTZqblRqMXEwQjN3a0hhNXo4VEFUOHcycnlrMGUyaEJ4ZXg2Tmdu?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "61275db7bc8b"
+    },
+    {
       "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
@@ -1293,6 +1317,30 @@
       "source": "Google News",
       "curated": false,
       "id": "362104dbb109"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Nvidia unveils Israel-developed AI agent protection architecture - Globes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkJJSTBZQmRQMkFLYTdNRGptM2w3UFhMUW9VRzVVNTlpT1Z0Z2ppODZ4Zzh1TG1uZ0hIVUFqZHlJR1ZrX0VWUEY2cEZXUVZyZnViTzJwTktLdXV6dGo5WFdudjhJdVEyanBmVkJ1QU1UQkRuTVlXa3M1LXpmQ244TWhnaDh4dzlDZk1mem5EWmYyUVlNWm13WGVULW1DNmZNeTRQY3ZYUlFzS0QxN1Rr?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c3ab1da4e3d0"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$3.7 Billion",
+      "title": "Getty Images Finally Files for Bankruptcy After Failed $3.7 Billion Shutterstock Merger",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2JnckNVMVpmcGtaclJSSWNKOVFBeTJ3MzlpdGpPVGRYNDVEY0lkd2xlSmNUUzNXeTdJb0l1WFVHaGlOdGlzbS1UYl9vWldRS2JrSmk2VGM3a1hwaUsyUEIwMGZYM0FGbFVFN1B0Yy1ZR2VrNmJndFkwQmtEMnRSRl9wRXAtNkl5Q0RwbXp0Y0VmSW9RSWU4YmEzbVhDR09MX1RNZXM0OHp5b2ZESHZxUTM5NHE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "70f7eeb78d50"
     },
     {
       "date": "2026-10-20",
@@ -1485,54 +1533,6 @@
       "source": "Google News",
       "curated": false,
       "id": "65e98e6eccff"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "\"Canva\" Launches Official Template Collection to Celebrate the 35th Anniversary of \"Puyo Puyo\"! Spice up your gaming tournaments and school life with \"Puyo Puyo\"!",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGa0pCNEhlMFVZQS1Nck1wbXU1QlNMTnpNMmIxbjUxQVZoVC1jVllHVDMxRUpGdEpMSUFEMTJUSS1MNmxYSWRzUDZOQ091eUlnMFdNRDlCZ2tYRFFDYldHajBUZnNKZ25BeFVRbHpydTNvejQ2aE1vdnlB0gF_QVVfeXFMTW1qeGh5ZUFMRms1YVNjQVlCVEstTTNFSXJZdi1KbG9TSjdnMFA1TGZPNU9Pa0ZsekVRRHFNd3lock85M2MyX0k2OFhJeFl0dFJFcXFKNHpvY3FjN1d2WUkyeDhsQW1Mc2dTcGJmaGIxeTBSUkx2N0pGcmtrSTdyMA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "67f38e3cd82f"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Nvidia Germany AI Partnership Puts Industrial Ambition Against Foreign Dependence",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMC1QMGgzdEVSS3RzeVZvaHdWRTBsV1Y3NkZSQnpibHVrcFVwUDB4QjgxOHhVakdVSGdyOWlYdkJPMlRJdElZREhqX1hKYnY1NHJtaThFeWFlTzcwSE1YZVlLRk1IUnIzNWJzOTJNamNVV01xLUU1X19HMmEyZUJranB1T1c3MHJ1ZjhyblByY1lQaERKVmtYWGRoX1k3UHpwNWdhNHg2SWctdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5633037ec3a7"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kuaishou Launches Kling 4.0 AI-Generated Video Model",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyZXM1ZVpmaVo3LTdmQ3owVUl1ZUwwR01oR2RxM3lmUy03X2Yzc3NEZWJtTU1KR1lHZkIwTzhLbms5aURjUEJiWWNHM2UwUlZHcURmeA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3fa13509c680"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity Aviation unveiled as new global brand for Universal Aviation",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3B2REIzWTZaOVhhTnJzTXF3RnZiN2JBUVdXQWNWcGNpZUdFUDlKYnVCWXhkNmJxbENLa2JGV2gyN2NaZW5BLW1lYkVFYUdVOE5CdW1BWEZYNUJweGVsdzFjd040bkU0cG9BaHNoVHNYZGlPNWxjRkdhenQ5MUM5Qmo0X1ZoSlo1ZzdNbkVOVk51ZlNVbHdSbERiWTlfYV9kMk8wZzBfMVZqZTVtallQUXVZa29qeGVjSXVVVFFnTlA3emlu?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5d5ea7c5b1e7"
     }
   ],
   "items": [
