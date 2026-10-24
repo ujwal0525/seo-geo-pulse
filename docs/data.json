@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T03:35:07Z",
+  "updated": "2026-10-24T08:42:41Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1043,6 +1043,18 @@
       "id": "fa84a23defef"
     },
     {
+      "date": "2026-10-23",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$1 billion",
+      "title": "Nvidia and TCV extend Higgsfield's Series B as the AI video startup reports $1 billion in annualized revenue",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTZFaWJrNW5XZWtfOUdvSlB5dTVHbDZPb25FS01IcnBycjY3czZwWVdHQ2w1ODY5ZG5YRHdBOUZwS2hEa25kc0JYdXJkQWl5cjZUaHF5SmpDa1dfMUUtS29rN01GWnJZREZYaDFxM1I0aEJwd2lVeFhmZlQzNnFBWkN0czRGak5kWVNmMzZueGNqUDJSWVJpTENVcTVydXRLWnhVMGZ4N1RibWF0b1h4RmdLd1hzTWthVWZiZF9adG53VV92b2VUZzc3S2dDaVluOXhLYkVXZ2tHZGVsUktwQlR3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "642cb83ca439"
+    },
+    {
       "date": "2026-10-22",
       "company": "Pika",
       "front": "GenAI Media",
@@ -1521,18 +1533,6 @@
       "source": "Google News",
       "curated": false,
       "id": "ece35b9524a1"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "fal launches FLUX 3 Max, claiming 22× faster AI video generation than Seedance 2.5",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFVLS0pGdHQxVUxCRkhNcDlnbElEcU1SU2FpYzhqU29HMnZZOTAwR25hUVRXTm12VDFocHd2a2VDUUU1RnVXSHBSMUUzb1RwdW1fSHRPcENmR2o0eWVxd2JYd0hOWmduZkFka3dPc0hDcFZadENMZUQ1Qk1HTVVTeDBOM2lMWENoaWQ3MERIcm84WE01VEt1STNjU3NmbGNYby1Rb09Cc3FTNzlIbVdQSlBOaElSQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "65e98e6eccff"
     }
   ],
   "items": [
@@ -2165,10 +2165,10 @@
     },
     {
       "id": "4304bb437668",
-      "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
+      "title": "Critical PHP Core Vulnerabilities Affect Websites, Including WordPress via @sejournal, @vahandev",
       "url": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
       "source": "Search Engine Journal",
-      "summary": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Security Flaws Affect Websites, Including WordPress appeared first on Search Engine Journal .",
+      "summary": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Vulnerabilities Affect Websites, Including WordPress appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-21T13:46:10Z",
       "coverage": 1,
