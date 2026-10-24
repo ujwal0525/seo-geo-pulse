@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:42:41Z",
+  "updated": "2026-10-24T15:30:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -815,6 +815,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-24",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Releases Its First AI Model for Images",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTNkZFNwTzVmaVcyWXlUY0owUDYyWF9HQWQ2NEswdFVNeGJIc3I3bDlKQ2JOUWpWbm9IaHc5NHNFVUJQZEs0bWZWVzYycTJTT2dBYVRsN0Myczc1TlBJX19jdHB6ZVhTeno0M0tRWjRfVUZOUlBJX2N4N3dwa3ltUkR6RU42QnM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "30e693f98390"
+    },
+    {
       "date": "2026-10-23",
       "company": "Leonardo AI",
       "front": "GenAI Media",
@@ -1120,18 +1132,6 @@
       "front": "Creative",
       "move": "Launch",
       "detail": "",
-      "title": "Canva Releases Its First AI Model for Images",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTNkZFNwTzVmaVcyWXlUY0owUDYyWF9HQWQ2NEswdFVNeGJIc3I3bDlKQ2JOUWpWbm9IaHc5NHNFVUJQZEs0bWZWVzYycTJTT2dBYVRsN0Myczc1TlBJX19jdHB6ZVhTeno0M0tRWjRfVUZOUlBJX2N4N3dwa3ltUkR6RU42QnM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3293d8b23eb8"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
       "title": "Canva Debuts Craft Image Model Built by Its In-House Research Lab",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2otSlpRYkpQbGYxa1RGTlpWRE9WN0tCWFlWc3dJWktHT2IxYThDeUJMQnMzblliYVpXSDJTeWpyWkVEYU1zUVFuel94clFKdkY2dkd4VUhuX0NhTWUtS0w1YzdzLVBMVnloN01TVXBBa1hZRWZITnFjNXVydXkxMkJtRUNZQ3N0ZjUxNWlZdEc?oc=5",
       "source": "Google News",
@@ -1257,6 +1257,18 @@
       "source": "Google News",
       "curated": false,
       "id": "61275db7bc8b"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Leonardo AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva unveils its first in-house image-generation AI model Canva Craft",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVi1wS3Jicm43TVJVb2xreWdhR0VTd3JiaWtMVU5CWXBiNjNyc1hzVDhCSjlabjh3VURLNUMtZnUwci1hQ0MyLU0tb1lXck14Y1JMNHpSbnBmMFIwNmpxdnZuZUxBblJiUS1SejctYXpBNVRNcUxMZlVsQ3F4OVFWYkdfRGFob014d1FIdWRtcmNzWW8xd2xYcFFwMTRHcU1uSkllTVRQRHdHWGZweC0wLVFxRUctanc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "12f0827880e6"
     },
     {
       "date": "2026-10-21",
@@ -1521,21 +1533,20 @@
       "source": "Google News",
       "curated": false,
       "id": "fbfdfd180c9e"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "FLUX 3 Max Launches 79% Below Google’s Veo 3.1 Video Price",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemExMGEwMEQyQVlvMWZDNXhhZG9sY0l6dmhqaWVlZnVGai1iMklROUkxM010a1VGbDV1eUlEVTNvWklfc2ZLVHpUMkxmck1FcXdDV0pwek1KQjkyMG9hRWhVZjZDU3hoOW1xeVJrR2ttM0pzM3RBTF9UM3daYkpWOHdaVEN5MU5OYnNZUg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ece35b9524a1"
     }
   ],
   "items": [
+    {
+      "id": "2ab3ab131754",
+      "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
+      "source": "Search Engine Journal",
+      "summary": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-24T12:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "c953335464d3",
       "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
@@ -4274,17 +4285,6 @@
       "published": "2026-10-08T12:58:07Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "ab3b3f49c02e",
-      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
-      "url": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
-      "source": "Search Engine Journal",
-      "summary": "Avoid costly site changes during a Google spam update by separating early ranking volatility from lasting losses and setting clear milestones for leadership. The post Why Google Search Updates Cannot Be Judged During Early Rollout appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-10-08T12:00:19Z",
-      "coverage": 1,
-      "impact": 8.0
     }
   ]
 }
