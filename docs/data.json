@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:46:30Z",
+  "updated": "2026-10-25T22:21:01Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -827,6 +827,18 @@
       "id": "a6a32ac8ce88"
     },
     {
+      "date": "2026-10-25",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Dutch Bros launches collectible plushies: How to buy Nitro, Mocha, and Joe",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1db4e98d2999"
+    },
+    {
       "date": "2026-10-24",
       "company": "Canva",
       "front": "Creative",
@@ -1473,18 +1485,6 @@
       "source": "Google News",
       "curated": false,
       "id": "0e75c9fc7d2b"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Dutch Bros launches collectible plushies: How to buy Nitro, Mocha, and Joe",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "40abc314fd54"
     },
     {
       "date": "2026-10-19",
