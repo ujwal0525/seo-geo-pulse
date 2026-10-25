@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:40:33Z",
+  "updated": "2026-10-25T18:46:30Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1536,6 +1536,17 @@
     }
   ],
   "items": [
+    {
+      "id": "b1d68213f920",
+      "title": "Google Search Ranking Volatility Gets Heated October 24th",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This past Saturday, October 24th, we saw some significant ranking volatility captured by many of the third-party Google tracking tools. There was also some heavy chatter within the SEO industry about ranking movement and Google traffic changes over the past couple of days. The…",
+      "category": "Algorithms",
+      "published": "2026-10-25T14:07:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "2ab3ab131754",
       "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
@@ -4274,17 +4285,6 @@
       "published": "2026-10-08T13:49:33Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "c5e12cb9192b",
-      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
-      "source": "Search Engine Journal",
-      "summary": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three earlier spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-10-08T12:58:07Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
