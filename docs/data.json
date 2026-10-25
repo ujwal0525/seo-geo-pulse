@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T08:59:47Z",
+  "updated": "2026-10-25T15:40:33Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -815,6 +815,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-25",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$400 million",
+      "title": "Higgsfield extends $400 million funding round with investments from Nvidia, TCV",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWxzT0ptcTdTYk12RjExaVRWaVVhN3dFaWRrYVBnWW13QklkMFJEblZOSkRKaTUzLVllUlpGN3ZZaXFHVE5ZRWZtVi1zM1duZEg1a2xZd2NVTG9lZGZ0X0xUM1dnTWY2VjcwaTVQUmtVUEJ1UjlDYWsxUEdSQXF6TGFYX3hXTTZMV0RuUEhKUFZPcnZfM3N3dWdoMkZrYWMwOWllUmNmMzZsLWxmbFdqeQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a6a32ac8ce88"
+    },
+    {
       "date": "2026-10-24",
       "company": "Canva",
       "front": "Creative",
@@ -1521,18 +1533,6 @@
       "source": "Google News",
       "curated": false,
       "id": "72d877ce52f9"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "fal Launches FLUX 3 Max, Delivering #1-Tier Image-to-Video Quality at Industry-Leading Speeds",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQktXa3ZQV3NqWW1UREItelczWFBnWTg1QUdlX3phaktYblpJeDhRYjRCMVpXS2F1RUNnVW41cFBjYm9JTnhyYzdIMm9LTVBvN2FTYmZNTHBKOUJYQkVwYUxvVFBBVlJuLVRHXzdDN3ZxWFphWDNpeDVHM2w4NVBSWGFZLTNHMFdpV1VGd3B4R1FuMmg4LU9nczlBSjk0Tk94UE14bktIaWxjYm9Vd1kySm45RVU2ZnhkOVhHYkx1LVlaYlctMlhTX3RiUk5TNGRGWEh3d3AxWk1HUzBoTlpOdA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fbfdfd180c9e"
     }
   ],
   "items": [
