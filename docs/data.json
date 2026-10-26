@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T18:21:37Z",
+  "updated": "2026-10-26T23:37:23Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -32,6 +32,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "b328b851e9a4"
+    },
+    {
+      "date": "2026-10-26",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "7daa5d5e2102"
     },
     {
       "date": "2026-10-23",
@@ -803,15 +813,6 @@
       "url": "",
       "curated": true,
       "id": "4bf7d8a6b9e1"
-    },
-    {
-      "date": "2026-05-19",
-      "family": "model",
-      "platform": "Gemini",
-      "title": "Gemini 3.5 Flash",
-      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
-      "curated": true,
-      "id": "022579c37993"
     }
   ],
   "competitors": [
@@ -888,6 +889,54 @@
       "id": "d61e1e993b3f"
     },
     {
+      "date": "2026-10-26",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Runway News | Introducing Runway App Studio",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUx5MHY0bGFvMDh2UDFXQnlJcHJkci1lY1YtcnlrekZRMjZEQlFlbGNwTVJTSEVKYjFJZ24zSmd0MnF0aHg4V1lxMU52VzY2WTF3aEJuYkJUMk1FZmRiZnRJQmZpbW91UUpjWll5d1h3WldXS09NNFlDbjFoQmdFX3R1dzFRV0ZvYmIzOVUxMjZVT3VQMU5XUGctWkwtc0VnVktNdGpLM0ZCYmdfeGV4bURR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ab84855f86eb"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Introducing Code2Video-AA, our independent implementation of HeyGen’s Code2Video Bench",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHg1VXRzMGcxTzRTU3R0STZvRFIwQ0p6THRXZzBvSXVxLTRNU01hYkt3V3cyNU1vYWFZM01ORnFONndfVnQxYU1PNFltQUs0U01zV1hCbUwyY3E2STNqdVpaX1lkbEZkNldyU0lPMU42RkI2bXJQaUstNHJGV1QyWk9qM3Y2U284RFR4cmR0cjlRUlh3ellvMw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7de96cd303e6"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kensington Palace Releases New Photo of Prince William and Kate Middleton's Kids",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTctdDhhejB5Q1ktWWRlR0hQZS1pOEQwbXRocHJObHlWTXYyYzNwM3F1WHdaZUtkU3hITkJfeTRmZjhzX0dQbW1CMDEzbl83MS1SdG52Y0tZRHFLTU5waHRGRzJkTWVwSGwwdlZGY20zd09OcE1rYjlXOVJoRDhicDd0TWYyekpIeHZGa1pGZG45MUVrODh5YXptR1VxWFFaaXRFMQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b1e4753d2b6c"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "DocuSign Launches Integrated Agreement Management for SAP Sales and HR Solutions",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnhRT0VtUG42el83V3RoVDRBWFBOcUxCQzF2QXFlOWtGZVFWVmZyVllHY0VucDdZRFBTaW85MjNrTU9KcUZIdFFmYzgybzlVNkF5cFJhYzZLWll3UV9HbndwNkhNRTk0RjY0a1hQS0MtYlRtRDNNTlhRdldTYzhDWUdJZTJENE85NV8wLW43a0lodzM5LThHR1NPbWFVZnRIam5fYWlkWkZBbHhC?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "89ca35b36ac0"
+    },
+    {
       "date": "2026-10-25",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -958,6 +1007,18 @@
       "source": "Google News",
       "curated": false,
       "id": "f7934a4144fe"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Puma’s Fast-RB Nitro Elite 2 launches globally next week",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2toSzB1NDF4T25sSkxTRWpDbEtFU0JpVHA0bVE0VjdfdW5yX3F4cGE1Z0ppRVg1Z2pjY2lWLUlEejZjZE1xd0E0U2hOTFg3TEV6QXhVc3pXakR3V3J5TGZsY21SNE10RG1TekNqdlVaTEU0eGV4R1czZ0VHalpYbE13U2lSTFBhbmwyeHN0NFE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0b2724d6172e"
     },
     {
       "date": "2026-10-23",
@@ -1474,69 +1535,64 @@
       "source": "Google News",
       "curated": false,
       "id": "1673018c0eec"
-    },
-    {
-      "date": "2026-10-21",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs launches 2 AI voice models with 90+ language support",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamh0UzVuMmxsNmdOeDBvQXhycm5TOGRERHRNUXo4NjVyaERzbTQ2QkhLbTA0ZUtObUdnRGF0eDJlS0RhSXlaTTVOZHBpMThoM21mZUJHOU9PZ00tMTBFWFZqdWV6VmZzcE9jYjhpdGYtMnlpOEZfRTVOVXA1MUFiYWVpeEFPcE9MeDFhM1R3UzZEYXhnVGlXeUxfcUdIWEtQNGxEWmdfUnFhRm0xb0E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "362104dbb109"
-    },
-    {
-      "date": "2026-10-21",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Nvidia unveils Israel-developed AI agent protection architecture - Globes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkJJSTBZQmRQMkFLYTdNRGptM2w3UFhMUW9VRzVVNTlpT1Z0Z2ppODZ4Zzh1TG1uZ0hIVUFqZHlJR1ZrX0VWUEY2cEZXUVZyZnViTzJwTktLdXV6dGo5WFdudjhJdVEyanBmVkJ1QU1UQkRuTVlXa3M1LXpmQ244TWhnaDh4dzlDZk1mem5EWmYyUVlNWm13WGVULW1DNmZNeTRQY3ZYUlFzS0QxN1Rr?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c3ab1da4e3d0"
-    },
-    {
-      "date": "2026-10-21",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "$3.7 Billion",
-      "title": "Getty Images Finally Files for Bankruptcy After Failed $3.7 Billion Shutterstock Merger",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2JnckNVMVpmcGtaclJSSWNKOVFBeTJ3MzlpdGpPVGRYNDVEY0lkd2xlSmNUUzNXeTdJb0l1WFVHaGlOdGlzbS1UYl9vWldRS2JrSmk2VGM3a1hwaUsyUEIwMGZYM0FGbFVFN1B0Yy1ZR2VrNmJndFkwQmtEMnRSRl9wRXAtNkl5Q0RwbXp0Y0VmSW9RSWU4YmEzbVhDR09MX1RNZXM0OHp5b2ZESHZxUTM5NHE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "70f7eeb78d50"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Universal Aviation rebrands as Affinity Aviation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHJLdHhGM19ZbTlGR3V3T210TFRWUjZocWd1Njh4SldHZV9YaFp0MVpvMFlnRXRFM1ZITnE3TVBuMDFnNWNZcGhZVl9WTkx5OFBGZjM4ajdjcXZiRzkwRnZ5WG1SbDEwT2l3bk9OTWVtRU5hNU9tWWEwNF9ZTHVjdy1EeEs1a0prcTh5NlpRSzgybkQ4Z2RRa3JnSURFVE04SmZIR09R?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ea9098cc1394"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$2 Million",
-      "title": "Affinity Labs Raises $2 Million Pre-Seed Led By Fuel Ventures To Scale Creator-Led Software Brands",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXl0emQ0WG1pWlVsSGpFb1JySzRITkxWODhoRF92Wmk5MzFDLXhiNUJnQk5GTUtVWjAzRlVMWGNHenA4dUhwQlhPb0RsQXVoeW9ueTBVQ09CNWpUSXN2Z2tiZmVNY1JUOEJzMjg4cldRZ0gxQ3ZIb2NDcXlIT2RuT1YxejN6SF9QdjdhcXE2d1ZtYWJGZk1xMTNleVN0NUh4eXhjdFg3bU4tOHZpdEdoRGFoWHR3bXd2?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "66b68aaea1cd"
     }
   ],
   "items": [
+    {
+      "id": "250e5d8f3024",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "category": "GEO",
+      "published": "2026-10-26T22:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "0ce8426eac5a",
+      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
+      "source": "Search Engine Journal",
+      "summary": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-26T21:24:39Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b76d7959d61c",
+      "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
+      "source": "Search Engine Journal",
+      "summary": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Adds Indexing Advice For Shareable Pages To Spam Guide appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-26T20:57:22Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a98bd41a1407",
+      "title": "Google Warns Tools On User-Generated Spam Guidance & More",
+      "url": "https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated its Prevent user-generated spam on your site and platform help document to specify \"tools that let users publish shared pages, generated content, or web apps.\" The update explicitly includes platforms and tools that let users create shared pages, generated…",
+      "category": "SEO",
+      "published": "2026-10-26T19:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a41fca800763",
+      "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
+      "source": "Search Engine Journal",
+      "summary": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI. The post Generative UI Could Turn Google Into Your Booking.com appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-26T19:00:54Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "424c51681584",
       "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
@@ -1560,6 +1616,17 @@
       "impact": 4.0
     },
     {
+      "id": "f16aefe89a6e",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "category": "SEO",
+      "published": "2026-10-26T14:30:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "f1a01ddd95d5",
       "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
       "url": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
@@ -1580,6 +1647,17 @@
       "published": "2026-10-26T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "1a1d4bf2fc11",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "category": "GEO",
+      "published": "2026-10-26T13:45:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "5a1a42ac0223",
@@ -1605,10 +1683,10 @@
     },
     {
       "id": "28f8bf6df7cd",
-      "title": "Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions via @sejournal, @MattGSouthern",
+      "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
       "source": "Search Engine Journal",
-      "summary": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions appeared first on Search Engine Journal .",
+      "summary": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-26T12:24:23Z",
       "coverage": 1,
@@ -1734,6 +1812,28 @@
       "published": "2026-10-26T07:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "8f2f08b6e197",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "category": "SEO",
+      "published": "2026-10-26T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "1758535ac6be",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "category": "GEO",
+      "published": "2026-10-26T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "b1d68213f920",
@@ -2579,6 +2679,17 @@
       "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
       "category": "SEO",
       "published": "2026-10-21T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "90683225ef1c",
+      "title": "Press Release: SEO Week Becomes Relevance, the Premier AI Search Conference, Returning April 6–8, 2027, in New York City",
+      "url": "https://ipullrank.com/seo-week-becomes-relevance",
+      "source": "iPullRank (Rank Report)",
+      "summary": "iPullRank renamed its annual conference for the marketers and leaders who now own AI Search inside their companies. Founding Member tickets open today. NEW YORK, October 20, 2026 – iPullRank today announced that SEO Week is now Relevance. Relevance 2027 (formerly SEO Week), the…",
+      "category": "GEO",
+      "published": "2026-10-20T20:03:53Z",
       "coverage": 1,
       "impact": 5.0
     },
@@ -4176,116 +4287,6 @@
       "published": "2026-10-12T09:45:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "53f692430323",
-      "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
-      "source": "Search Engine Journal",
-      "summary": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic’s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-12T09:31:25Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4564da040883",
-      "title": "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)",
-      "url": "https://ahrefs.com/blog/query-fan-out-chatgpt/",
-      "source": "Ahrefs Blog",
-      "summary": "We wanted to see for ourselves how ChatGPT retrieves information—and what that means for AI visibility—so we analyzed 66.6 million free, logged-out GPT-5.6 Luna responses and their 15 million fan-out queries from August and September. 14.4% of the 66.6 million … Read more ›",
-      "category": "GEO",
-      "published": "2026-10-12T08:55:12Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "72f95244aa6c",
-      "title": "What Pokemon Pokopia Taught Me About the Future of Marketing",
-      "url": "https://sparktoro.com/blog/what-pokemon-pokopia-taught-me-about-the-future-of-marketing/",
-      "source": "SparkToro",
-      "summary": "I have a marketing prediction: “Made entirely by humans” will become a premium signal. As AI tools make it easier than ever to produce more content, the work that exhibits human creativity and originality will become more valuable. I think we’ll start to see people seeking out…",
-      "category": "SEO",
-      "published": "2026-10-12T05:26:57Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "fad6cddaffec",
-      "title": "Finding High-Value Converting Queries That Mainstream Tools Miss",
-      "url": "https://dejan.ai/blog/stealthy-queries/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "How to uncover high-converting, commercial search queries that show zero volume in mainstream SEO tools while keeping your sites invisible to competitors.",
-      "category": "SEO",
-      "published": "2026-10-12T02:28:53Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "37f47e4079d1",
-      "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
-      "source": "Search Engine Journal",
-      "summary": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The post Google Is Hiring To Generate AI Content For Discover appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-11T23:31:25Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d7e70a27c441",
-      "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
-      "source": "Search Engine Journal",
-      "summary": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions. The post Anthropic Says Claude Bypassed Site Limits During Internal Tests appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-11T22:07:32Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6fa52a76f849",
-      "title": "Google Search Console Performance Report Extremely Delayed",
-      "url": "https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The search performance reports in Google Search Console is now over 64 hours delayed, which is incredibly unusual for this report. Generally, we see this report updated within a few hours but over the past few days, post-spam update, the report has been lagging.",
-      "category": "SEO",
-      "published": "2026-10-11T11:15:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "85d7c2685a0b",
-      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
-      "source": "Search Engine Journal",
-      "summary": "Google's spam update finishes, a talk recap puts site moves in months, Search Console combines countries, and new guidance targets fake author profiles. The post Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-10T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "3719825dcc38",
-      "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
-      "source": "Search Engine Journal",
-      "summary": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it. The post Google Explains How To Use HTML Sitemaps For SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-09T21:31:30Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "cc98ca7457f1",
-      "title": "Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads & So Much More",
-      "url": "https://www.seroundtable.com/video-10-09-2026-42263.html",
-      "source": "Search Engine Roundtable",
-      "summary": "was a super busy week, so there is a lot more content in this recap compared to most. We start off with the Google September 2026 spam update completing, it had its third and final phase earlier in the week. Google may be issuing more manual action search penalties...",
-      "category": "Algorithms",
-      "published": "2026-10-09T12:01:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
