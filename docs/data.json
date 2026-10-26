@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:21:01Z",
+  "updated": "2026-10-26T03:34:36Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -839,6 +839,30 @@
       "id": "1db4e98d2999"
     },
     {
+      "date": "2026-10-25",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Electricity suppliers in first merger - Globes",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKLUl3eVZmNDFwVV9NZmJwVXNOMFlrTTZ4ZVJNMTNQRDZYSnltZG0tT3lPVDBhSWpwdDVPOHpBWjU3ZWxJS1RYdXVTLVpEUll0UUNWT0NyZUpWYllEaUxlNU1CTFVmaXc5bDlXQ2lIdWZ4bEVlckxTQ3kxdlVVdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d16ec8b14302"
+    },
+    {
+      "date": "2026-10-25",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Getty Images files Chapter 11 after failed merger: what it means for Shutterstock stock - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbjZJZUY1TjFmb2ppUmxGanZIeEFkc3NVQm5xaHNoSWlKY2lZNUhtTTljRWRvYjZzckI3SEdpNVhHLS1lbnpJaGlNTklac0NEOU9TcTlkQTF6cWtZUm9HN3NKVHdnejBqQXBTbThURGpPYXBvQlFVdlhNZVlLMGxlVlRUUy11dzVkR1pQSzl0WUcxVDJQNGZCbmdVUDd2ajR0Q3g4Qk5aZUpIN0hza0UwNTJyQzBjVWlwV2xieHZFU3U1Szk1QW53SzJQTUp5eERhd2Y0bWVfenh6R29Fc2M1TDd6MA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "585e1ac8135c"
+    },
+    {
       "date": "2026-10-24",
       "company": "Canva",
       "front": "Creative",
@@ -849,6 +873,18 @@
       "source": "Google News",
       "curated": false,
       "id": "30e693f98390"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "PUMA FAST-RB NITRO Elite 2 Launches at €350",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Tb1hsMHdhbVYwdXdDVUxsOHJNTVE5OEZiZFpGckgxODg3dXZoZHg3a0hHRGtEWkpPYWhEU1g0amJadUdlVjkyN3pDMVZtb3dQNlh1ajh2U3hCTjQyN0tsNnFlUXlvZGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f7934a4144fe"
     },
     {
       "date": "2026-10-23",
@@ -1295,6 +1331,18 @@
       "id": "12f0827880e6"
     },
     {
+      "date": "2026-10-22",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Getty Images Files for Bankruptcy After AI Undercuts Licensing and Shutterstock Merger Fails",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjFGU0liV3UxUlhUdnJ4ak9wMkQzdi0ySV85bWdXQzRTdXBsZkd1a2paTmZFQlZ0OHI4a1VyOUhCdUoyNWhJSUZiYTdlUFpBQlA1bGwxdF9GaVV0dFFoRGswLVVCYXJ1QXRDZnI1dnRuZDVIVHZpZVlIcFRrTVhNMGlBU1B6MVRPNnVYQzNwZG92UjA3NFJj?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "40c03c6abde7"
+    },
+    {
       "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
@@ -1485,54 +1533,6 @@
       "source": "Google News",
       "curated": false,
       "id": "0e75c9fc7d2b"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "$50 Million",
-      "title": "Kylie Jenner Debuts on the Victoria’s Secret Runway in its $50 Million Fantasy Bra",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJNcUdLVF9wMFNRaDRheG5lQnYtTW1GeUczLTdwWnplVy16aWtpaUhldk9waUlkVzMxVnQzcDZGQmVJTm13b0xLcnJZOVBRNVJTV1hlZG84NXRnaG5qaVYtNzgzbEJJcjJyN3hINkNTZG5tNU9ZNGlXS191eXpPRUxzZk9mWEJyVmpfbnoxZm4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "850a43b350c6"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Stability AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$76 Million",
-      "title": "Latham & Watkins Advises AMD in Stability AI’s US$76 Million Fundraise",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR250N2VhVGJqRl9iRk1uS0lqT3lMTlkyTGdtazJ4dERHWXdhNDFDdkFONFU5QjlWYVFlVnMzRnQ2M1o3aDQ4VGFUaDV4V2JtLXVIZjVyLVE2ZDRfa3VCU0tOV0JrQmRXR1pGbFpRZlFzNnlxYWtibWY1VEdyMkt2bExPWkw0TmcwRC1NdVJxSnhXSGgxX1E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "234029693d28"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Higgsfield Turns Any Product Page Into a Finished Ad Campaign",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzJKN1Fqd0NnVE53SU5uOFBQb3hib2JYX3hhd3RmemFIUy1JYzRDempkZjFUSmlRMTB6dE1jYTRETmotUWhNcFNaUUthWmYtdVFvQ01JRXotTEhnMjFIcG8xd01TVFZoaWxNbUhyNGFzaGNCSGNDdmJXZmNHS0Ewc2tkUF9xWlRHWGtUNGs4eC1RWkd1c2pJU3BMR2gtU3BQVERvdHV6c1ZfY3poQlJ3aENaX0VBR1Qx?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3ff2961f7594"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Fal Debuts FLUX 3 Max Video Model Post-Trained With Black Forest Labs",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTI0WjJ1Mkh1dXY1RkZTTmVSRkhjM3hOVVp2TEJTeVRyekVVSVNiWUt0ODQzREVjWEFMYlJoZ0lCTHk4bGFHRlJCVHdheVFhSW5EVnpVRW8tRFFsNkJlTGxpelpGUm1iQV81OHF3YWhfZHctd0xVNFhFY2wzazEzdEZ2TUhlT3dlNUcxQ3hMWG9zYVBVQ3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "72d877ce52f9"
     }
   ],
   "items": [
