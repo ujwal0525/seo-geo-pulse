@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T09:48:58Z",
+  "updated": "2026-10-26T18:21:37Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-26",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP",
+      "url": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "b328b851e9a4"
+    },
     {
       "date": "2026-10-23",
       "family": "model",
@@ -802,15 +812,6 @@
       "url": "https://en.wikipedia.org/wiki/Google_Gemini",
       "curated": true,
       "id": "022579c37993"
-    },
-    {
-      "date": "2026-04-23",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "GPT-5.5",
-      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
-      "curated": true,
-      "id": "002cdbd183ae"
     }
   ],
   "competitors": [
@@ -875,6 +876,18 @@
       "id": "be2db06f00c5"
     },
     {
+      "date": "2026-10-26",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Dutch Bros launches collectible plushies: How to buy Nitro, Mocha, and Joe",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d61e1e993b3f"
+    },
+    {
       "date": "2026-10-25",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -885,18 +898,6 @@
       "source": "Google News",
       "curated": false,
       "id": "a6a32ac8ce88"
-    },
-    {
-      "date": "2026-10-25",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Dutch Bros launches collectible plushies: How to buy Nitro, Mocha, and Joe",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1db4e98d2999"
     },
     {
       "date": "2026-10-25",
@@ -921,6 +922,18 @@
       "source": "Google News",
       "curated": false,
       "id": "585e1ac8135c"
+    },
+    {
+      "date": "2026-10-25",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Acer Unveils 2026 Predator and Nitro Gaming Monitor Lineup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHVSWExuY19FRWZ0ekM2Zmk4YjB1bGZLb2Q2QjhEVTk3MTJ2eWRKVXN4LW1xY0FRSGlNR0VqbGZuOTltc3ZkdmdXLU4xN1B4bmxRWTJJSE9ja1pyZ2w2ZGFpNEVIcFhhX2ZlMXpCOVh1bjMtUlpnODVpcG9pakpQOE5XSHg1RHlSbVRTWg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2f2b08e4baba"
     },
     {
       "date": "2026-10-24",
@@ -1521,21 +1534,174 @@
       "source": "Google News",
       "curated": false,
       "id": "66b68aaea1cd"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGJTVkUwTU1QQlQwREFUR2REX1hCZTVEbFFWQktDdkotbFh0LV9fdVVmYWEzM2NzdThpc0k3MWhIY2NQZng3MURiSXh6Ty1UUzFrQ3YzZjZRUGdIeDlyTVRKTHZFNDN0ZTNMcEJwVmJUVUJXR3ZFNTNWYTNJT0gtUWExRXhIYU9jOWF1dG5JdU5TZXhPU09QSWFpS1pzNVFqQzctNXlkNTZZRkxTZ3pCOU9lU0Q2Rjg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5c6d138e3b72"
     }
   ],
   "items": [
+    {
+      "id": "424c51681584",
+      "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
+      "url": "https://neilpatel.com/blog/ubersuggest-inside-claude/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways You already use Claude to write, think, and plan. You draft the content brief, outline the client report, work through a strategy question out loud. But the moment you need a real number: search volume, a competitor’s ranking keywords, what’s actually broken on a…",
+      "category": "SEO",
+      "published": "2026-10-26T16:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "cfba109eda66",
+      "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
+      "url": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
+      "source": "Search Engine Journal",
+      "summary": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-26T15:30:04Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f1a01ddd95d5",
+      "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
+      "source": "Search Engine Journal",
+      "summary": "Referral reports show who sent the visit, not who shaped the decision. Why GEO’s real job is what a model learns, not what it retrieves. The post Google Gets The Thank-You appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-26T14:00:54Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "6acf8628c449",
+      "title": "Daily Search Forum Recap: October 26, 2026",
+      "url": "https://www.seroundtable.com/recap-10-26-2026-42374.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-26T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5a1a42ac0223",
+      "title": "Meta Delays The Terms That Let It Crawl Business Sites via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
+      "source": "Search Engine Journal",
+      "summary": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Delays The Terms That Let It Crawl Business Sites appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-26T13:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7ae39cad4a52",
+      "title": "Organic traffic is down, but it’s not all AI",
+      "url": "https://www.growth-memo.com/p/organic-traffic-is-down-but-its-not",
+      "source": "Growth Memo",
+      "summary": "Three years of US and France data show uneven organic losses, growing paid search, and AI referrals that remain a small share of visits.",
+      "category": "GEO",
+      "published": "2026-10-26T12:48:37Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "28f8bf6df7cd",
+      "title": "Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
+      "source": "Search Engine Journal",
+      "summary": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-26T12:24:23Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b88f4d8e4f43",
+      "title": "At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities via @sejournal, @brentcsutoras",
+      "url": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
+      "source": "Search Engine Journal",
+      "summary": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back. The post At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-26T12:00:17Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "576183d83735",
+      "title": "Over 80% Of Google Searches Have AI Overviews & Growing",
+      "url": "https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html",
+      "source": "Search Engine Roundtable",
+      "summary": "AI Overviews now show up for over 80% of Google Searches, that is up from 50% in June of last year and about 15% from the year before that. This is from recent data from Semrush, SE Ranking, and seoClarity.",
+      "category": "GEO",
+      "published": "2026-10-26T11:51:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "439bd7772626",
+      "title": "Google Ads AI-Generated Review Summaries Help Doc",
+      "url": "https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has published a new help document named About Review summaries that explains that \"review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads.\" We have seen AI-generated summaries for sponsored results in Google…",
+      "category": "GEO",
+      "published": "2026-10-26T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "28b233984409",
+      "title": "Google My Business: A guide to Google Business Profile",
+      "url": "https://www.semrush.com/blog/google-my-business/",
+      "source": "Semrush Blog",
+      "summary": "Google Business Profile (formerly Google My Business) is a free business listing that supports reviews, Q&As, posts, and more.",
+      "category": "SEO",
+      "published": "2026-10-26T11:37:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "22d4a8917cd8",
+      "title": "ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP",
+      "url": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI seems to be rolling out a new ad format for some ChatGPT Ad units that have a Learn more link, that is dotted and underlined, and also with an arrow going upwards. And in some cases, ChatGPT Ads seem to be served with Amazon DSP.",
+      "category": "GEO",
+      "published": "2026-10-26T11:31:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "cbccf55681c2",
+      "title": "Google Discover Tests Disabling Clicks In Sources Section",
+      "url": "https://www.seroundtable.com/google-discover-disabling-clicks-42369.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is reportedly testing disabling the ability to click on the sources button in the Google Discover card of articles. Normally, when you click on the sources, it will open up a new screen with all the source articles and links to them.",
+      "category": "SEO",
+      "published": "2026-10-26T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b215bea85a68",
+      "title": "Google Ads 1-Click AI Max Experiment Recommendation",
+      "url": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads updated its frequently asked questions page for AI Max search campaigns with a section on 1-click AI Max experiments. Google wrote in the document, \"If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page.\"",
+      "category": "SEO",
+      "published": "2026-10-26T11:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "64d59b55a8fb",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "category": "GEO",
+      "published": "2026-10-26T10:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "2b0cbe6c66b0",
       "title": "Google’s AI Cites YouTube 17x More Than ChatGPT. Here’s What Gets Videos Cited.",
@@ -1555,6 +1721,17 @@
       "summary": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-26T07:45:18Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "eb7708c5f537",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "category": "SEO",
+      "published": "2026-10-26T07:00:00Z",
       "coverage": 1,
       "impact": 5.0
     },
@@ -1621,17 +1798,6 @@
       "summary": "Make junior hiring an explicit part of your 2027 SEO budget, with defined learning roles and a scorecard that tracks unfilled seats. The post The Junior Hiring Gap Your 2027 Marketing Budget Should Name appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-23T14:00:53Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "105ea28bb74c",
-      "title": "Daily Search Forum Recap: October 23, 2026",
-      "url": "https://www.seroundtable.com/recap-10-23-2026-42368.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-23T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -4120,171 +4286,6 @@
       "published": "2026-10-09T12:01:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "e1fdc446e7db",
-      "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
-      "source": "Search Engine Journal",
-      "summary": "Recent tracking data found AI Overviews on most brand-name searches it checked. The post AI Overviews Have Spread To Most Big-Brand Searches appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-09T12:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "2c66f90561f1",
-      "title": "Google Ads Enables Text Customization Asset Previews",
-      "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns. Google added these details to the About text customization in Search campaigns help page under a new section named \"Text customization asset previews.\"",
-      "category": "SEO",
-      "published": "2026-10-09T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "72dfaacd32d7",
-      "title": "Bing Testing Local Pack Without Borders",
-      "url": "https://www.seroundtable.com/bing-local-pack-without-borders-42257.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is testing showing the local pack results without borders. Normally, the local pack has a small outline border around the results, but for some reason, Microsoft is testing not placing the outline around the local results.",
-      "category": "SEO",
-      "published": "2026-10-09T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e61b36583688",
-      "title": "Google Updates Reader Revenue Manager Home Page",
-      "url": "https://www.seroundtable.com/google-updates-reader-revenue-manager-42261.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has made major updates to the Reader Revenue Manager homepage. It was a large redesign of the page, it also now lists AI Mode, AI Overviews, and Gemini, added a matrix to the page and moved things around as well.",
-      "category": "GEO",
-      "published": "2026-10-09T11:31:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "27877109e0e3",
-      "title": "Bing Tests Faded Stylish Line Separators",
-      "url": "https://www.seroundtable.com/bing-faded-line-separators-42192.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is getting fancy and stylish with its line separators in Bing Search. Bing is testing fading the line separators at the end of the lines.",
-      "category": "SEO",
-      "published": "2026-10-09T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "88ce6003ecfe",
-      "title": "Bing Tests Removing Favicons From Search Result Snippets",
-      "url": "https://www.seroundtable.com/bing-no-favicons-snippets-42262.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is testing dropping favicons from Bing search result snippets. This makes the search results page look much less graphical.",
-      "category": "SEO",
-      "published": "2026-10-09T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c02e373d0353",
-      "title": "4 types of keywords in SEO (+ examples)",
-      "url": "https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/",
-      "source": "Semrush Blog",
-      "summary": "Learn the four types of keywords in SEO and how to optimize your content to rank for each type of keyword.",
-      "category": "SEO",
-      "published": "2026-10-09T09:10:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "6e2a562d9632",
-      "title": "Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
-      "source": "Search Engine Journal",
-      "summary": "Anthropic's updated usage policy names seeding search and AI answer sources with misleading content, and drops automated publishing from its high-risk list. The post Claude’s New Rules Target Fake Sources Built To Sway AI Answers appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-09T08:00:16Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "edd58468d564",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "category": "SEO",
-      "published": "2026-10-09T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "90995f7dbc9c",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "category": "GEO",
-      "published": "2026-10-09T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "120044aa9055",
-      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
-      "source": "Search Engine Journal",
-      "summary": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful…",
-      "category": "SEO",
-      "published": "2026-10-09T05:06:52Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "c08a35658e75",
-      "title": "AI Citation Tracking: What It Is, Why It Matters, and Which Tools to Use",
-      "url": "https://foundationinc.co/lab/ai-citation-tracking",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Your CEO asks whether the company shows up when buyers ask ChatGPT or Gemini for a vendor. Rankings show where your pages appear in search results, and analytics show visits from AI tools. However, neither tells you which pages an AI answer cited, or how often. That’s why you…",
-      "category": "GEO",
-      "published": "2026-10-08T20:52:01Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "7ef37deade33",
-      "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
-      "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
-      "source": "Search Engine Journal",
-      "summary": "Understand how to address both ad platform and organizational AI concerns for paid media advertisers in regulated industries The post AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-08T19:00:44Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "112b5f00879d",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "category": "GEO",
-      "published": "2026-10-08T16:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "69865b1ba89d",
-      "title": "Google Reveals The UGC Fresh Data Program",
-      "url": "https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has announced its UGC Fresh Data Program, which Google says \"is an initiative designed to help platforms display fresh, high quality, and authentic user-generated content (UGC) across various features on Search.\" Basically, it seems like an API UCG sites like Reddit can…",
-      "category": "SEO",
-      "published": "2026-10-08T15:15:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
