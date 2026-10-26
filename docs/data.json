@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T03:34:36Z",
+  "updated": "2026-10-26T09:48:58Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -815,6 +815,66 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-26",
+      "company": "Krea",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Krea launches Krea 3 image editor for commercial teams",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlFZbHJSUXktZkFWdU1UMURtSWkyU3o1Y0sybzJvTFNSV1RQRE9PLWZKY0xiRVJVOGtySEdUcFhpUlZlbjllODBxaUN0U0EwSGs5NU9wOHZPdFdteF8xRFJHNFJicFVVMzBKOTE4SkR2UzBERFFBb0t6NVpYcEVzUk5tS19CT3hsMS1HeU9yREJrRkU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c8703ef9bc59"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches 'Instant Soundtrack' That Analyzes Video to Generate Music and Sound Effects in One Go",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZnAzOHpYeG8yNnlqTjZmcFdzNXBCbTNnbDdPX29lWjM4andhcm82S21UVHRIOWZKd0NBR1dRNHlwTTEwQ1VOQlFoUm5nRmtsbUVJX2FidkJsdFNBR296NHlNdjVvMWtZYUc1Zl9DVk5aWnZXTWc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8f09fd64edfd"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches AI that creates music and sound effects to match videos",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50UkJMYlVzZnhTNHgzQ1RwenNGZjZMMnhDNFA5SGNhSlU4Q3VrenBLN3JlQnVacnJMekZGdXpBbTZoQUpCQzB6YkQ5MkQ3X1NKZ1E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "23e0a1455067"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs debuts AI tool that auto-scores videos with music and effects - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hemxpNUpyN2JuUmkycnV1TEVlekIwQXZxSmZXcHV5elBLSTZTS09acGZydVlOWWhJWnlGbHVzbl9jNVR1MHNUcUgzSXR2amdpSEdFLWVVU2FGZ1JzQjRNbmZOTHM2NjlFMVRCc0k3Yllva1RDVlFyYTl30gGOAUFVX3lxTFBMMERoXzROVGVZMHdUYmI3YzN1M1YtUkpRVXB6SEJtMGE5UmdHREdlRUE5MFdEU2hFdWVwbU5IWFFYTUh1eEc2b1J4UmJFdnloR3NLS2FDTnpYLThESkxKS2xwZ0VHYU5YOVROdlBEVTgzZlE1RWZSNnhveTQ5N1Z0REhwVWJESEhnQmJucHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8ac101546038"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches a home-grown AI image generation model",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHhyV2ZuNU15UTdVYWtuZG5PZGNaWFg3Sk42X2Y3Uk53LVNPQ1c2RmVRRV81M244S3phV3U1N3VUeVNMenVfSEh0aTRtQkZ3MWJDN3djblRDcjgyZjJuOHhHQ0J6Y1A3RWhqVWhSZ0Q3dmpXcDlMVkpkVzhDV3FXUERCdEpQeEU2NmNsUDVKYTdjVVBkZUhsemNqY0w2bVljdlN0ZVRXckttWFQzNlF2M3NRRjZCQ3YzemdXaGNJZXhhb2R6U1dDYnlB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "be2db06f00c5"
+    },
+    {
       "date": "2026-10-25",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1017,18 +1077,6 @@
       "source": "Google News",
       "curated": false,
       "id": "ac804c2e53bd"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches its in-house image generation model",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1BiTWIwOF9tZnI5TDVwdVV5WG9wd2NiSGk0dDRxLWpLX1FZd0pGQmJzdzU2UFhyWE52WEVoR3FYWkVNWlB4d0ZTYkkxTk1JVXpJZkZXRnl2TDBmbUlhR0MwYXJqMVFXQmVhUHVYOW9MOUxIcVY0M2p1TnFBOXF5eFdMSWRzRE1lSnfSAYoBQVVfeXFMUG9QYk1iMDhfbWZyOUw1cHVVeVhvcHdjYkhpNHQ0cS1qS19RWXdKRkJic3c1NlBYclhOdlhFaEdxWFpFTVpQeHdGU2JJMU5NSVV6SWZGV0Z5dkwwZm1JYUdDMGFyajFRV0JlYVB1WDlvTDlMSHFWNDNqdU5xQTlxeXhXTElkc0RNZUp3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "385f64e27b44"
     },
     {
       "date": "2026-10-23",
@@ -1343,6 +1391,18 @@
       "id": "40c03c6abde7"
     },
     {
+      "date": "2026-10-22",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva releases its first image-generation model",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0NVYjRIbkEtMFNOTlNWY1hkWnN1ZUw0dTVvZ1VNS3h3MVRjMVhHTU9LM1ZaY3FHd1pYY0hKZzYzOG5XdnZqaDJadjkyLVVnUHpOd2dZSnRHNC1QOFBiSEZFVEl3WWpTUnZud3JMYVJCR3JuUXNjaFFrZ0xEeDVmMUplNA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a2893135f016"
+    },
+    {
       "date": "2026-10-21",
       "company": "Figma",
       "front": "Creative",
@@ -1473,69 +1533,31 @@
       "source": "Google News",
       "curated": false,
       "id": "5c6d138e3b72"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckVSVlRjeWFWQzBzRENsUy02WGotUjdjVHV6Z2thekplTnIxTGgzUHluSGtKUncyQmFpMFZ5ZFNqbTlfRFpISmFOd0E5SE1lVWJJdXhhWVQyZW15cUhRcDNoTFdVdm02S3RZd19EcHhXRVdvU3JoaWtkcERvWEZncngxSHVxQW1HQmp0aHRZa3JtNWUxSjlTQUZJWQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ae239addf819"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Getty Images partners with Lee Enterprises to distribute news content",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT283QWJnSldFNm1yOE5GM2VHcV9UQVZQLWhESlkyOTJneThoa19XMTlQUHdHZWVyNU1Jd0JwOWMtaURXOUQ1Y3cwSklzODBUaDhnbmN6S2NsSmtFaFF6SkJZZGNMYm8yclRPREJqcGxmbnhsQTU4RVNkSG5saDd6Nk5LZ0xBckVNSTNzWm1zVndSODdURHoyVmJnZXJES2Rxazh1bW5mWlFVclFNX2h4UXN1bTRQd1JHR2FFY3ZBRktWOTJv?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "28993626cce9"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "EasyAgentIDX Launches IDX Platform With Developer API and AI Connections for Real Estate Websites",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR09UdFBfQW9vdUs2eWdaTXJLY29wamprckpueUphVVZXMEViUXdGY1pJZWlFVFZPRi1vS19HNmJDYVJxdkxjc2U5eEtqTEdfWWwyckZiQVk0T1VabVhXSzlQYW9xaW9OdEx1d3NlRGNQbTVZa19oMzVTMExNcUZfN0FDR1VFZ0ZpX1N6V3g5LVFvRnN5XzdiNk15NWlNdDcwYm03di01V2VrVXRlZGdER29KM1V2ZHJHRG13dmRsdHAxdGRtSVJiQlRRX1pzWlBqaC1zcDdVWkh2RFBveE5QYXFPQ0t1Nk5VNWlvOTFpcS1xUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0842b2f705be"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Dutch Bros just launched its first-ever plushies and 100% of profits go to charity — how to buy",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1c6099d56209"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Unveils Faster, More Accurate Speech-to-Speech Models",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1VTNUlpUGZMSEZDcGVzUUNKSUlEbTROcEpYeEpEMWVHdWpYWXk0cERsTVYxRWR3QU9qVzAyX1pJdkFwc2QxeGlCUVJDdnpqUzNjc2MyZGhVcGJIZEZ1RHJvcjM3Z3o2TzdyZ2ZBU1V3dklEZ3ZYTC1qYTZNUHJqUWFtY250TkpzdGstTE9aNU9GSnBGeFdfd0w0REpJdE81MmxjdXl2aw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0e75c9fc7d2b"
     }
   ],
   "items": [
+    {
+      "id": "2b0cbe6c66b0",
+      "title": "Google’s AI Cites YouTube 17x More Than ChatGPT. Here’s What Gets Videos Cited.",
+      "url": "https://foundationinc.co/lab/vol-315",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Welcome back to What Matters This Week. This week, we dug into 83,835 YouTube citations to find out which videos AI answers actually pull from. A lot of the top-cited ones come from channels you’ve never heard of. Google’s AI Cites YouTube 17x More Than ChatGPT. Channel Size…",
+      "category": "GEO",
+      "published": "2026-10-26T08:00:15Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "cd376d0dbb12",
+      "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
+      "source": "Search Engine Journal",
+      "summary": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-26T07:45:18Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "b1d68213f920",
       "title": "Google Search Ranking Volatility Gets Heated October 24th",
@@ -4263,28 +4285,6 @@
       "published": "2026-10-08T15:15:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "aecc656e5d62",
-      "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/",
-      "source": "Search Engine Journal",
-      "summary": "Google DeepMind proved one model can theoretically rank without a separate index. If it ships, visibility stops being a position and becomes inclusion or absence. The post Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It appeared first…",
-      "category": "SEO",
-      "published": "2026-10-08T14:30:43Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fc10600c29eb",
-      "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
-      "url": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
-      "source": "Search Engine Journal",
-      "summary": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact. The post How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-08T13:49:33Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
