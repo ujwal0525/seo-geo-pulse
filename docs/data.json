@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:45:07Z",
+  "updated": "2026-10-27T17:36:17Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -853,6 +853,42 @@
       "id": "86a9459ee443"
     },
     {
+      "date": "2026-10-27",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Press Release: Air India unveils new guest amenities",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmJzX3R0R2tacVdTTUZGZkw5M1lBMkpGVjN4X3FycHl0WlpZWWUxTlR0WDNlcUh4TUZETTQ2MkVUbUh1ZlhzcXo3Vm1HM2pZdVptbVhHNlBLcUpJQlpSM19VazZXMkYySzM5dDJUVVpyUG1Lb0FvOS1RNEdnQ0Q5THhB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "27a19261e604"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Acer Unveils its Newest Predator and Nitro Monitors",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXdFVmaFhvdDByMEUwaktpd0hyaDFHOUpWMXM1eXRTTlZXM0N4cjhRSXduWjgwbHh1bnNPbkhFM2t6ZzhMempwWGZoX0ZoWFAwMmc3TjBCSGlDWDlfS08wVG1SZE1xay1KWkJGZ0F3YXM1Y0FNT3MyaVdzYVlZUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "23820568d99e"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Acer unveils new Predator, Nitro gaming monitors",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGdBWHFOWEI1TzFLd1B4djQycEJMcDEwZU9iSVdYTTB1Yk5ZcVFOMXh2UXdibHlvWEU2dk5ZdGhFc3UtYkJCN0RFQUVpQWVpeXdTR2pIN2xXZ2VhRXFWclVtQnJ6M2VyakVVZEdGXzg0c3AxU0NfQ0FWSmFNU2J5TFpBSQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "103d9b79528b"
+    },
+    {
       "date": "2026-10-26",
       "company": "Krea",
       "front": "GenAI Media",
@@ -1103,6 +1139,18 @@
       "source": "Google News",
       "curated": false,
       "id": "e6613a48df94"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Releases Its First In-House Image Model Craft",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeERlQTJnNWV5VEdtRzk0cmJGd200SmhSN2RsLTdXdXBZZXlXZFZtc3loZ0lJSWNjYlMxUUMwNDBQaWp3eGJGbTdXZUZoTG1pd0l2b3VmR0pNZ1VIMldybzdkeVdUZEd2WlR2akZRSEQ2czF3eUwwWUdpQUpZZ1ZiVg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4b386830fb21"
     },
     {
       "date": "2026-10-25",
@@ -1487,57 +1535,152 @@
       "source": "Google News",
       "curated": false,
       "id": "79c5363cdd24"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Synthesia",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Hays : Synthesia partners with Hays to support measurable skills development through Roleplay Sessions",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZmFtUHJNRnRQY1hJaVlIaDdHc0tMTjdnQWhQNF9jUmFObUtHRDZ3MGZzbzQyZTZXek5yTHo1WkZWb25uUmlCTDZRbUhfcVJyMHVvbXpwSVJULTctbnQyQl9CT1VPeElJb0UwaEl4RFJmbFBiUV9RQ2E4UGtaaThNUElFSUtuNTMxSEZleFBFUElqaTVwUkVNUVkzT3ZmMFNyMmtGcmlHWFg5UEFfR1NEQk9mTVZPS1A5bDFfSmRzclQ0VTQxcjZkbjExcm1FSWllZVVidGRaNHg3UklJaE11R0daaTdpdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d04dff071eb4"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Getty Images files for bankruptcy, launches restructuring plan",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3JwQThlMllfYWdxT1FKQmx1UkQtOERaejlHQjVqT0NjRHhVV2JjWWdXaGxWWEduQUNrMGtST3Vhejl4QUlCMldnZ1g3eEZ6YXB1bjZDTGZDM3RVT210UDcwc3d2ZXhFQXlBYXd0dV9xeUJTazRrbk1VeGNfV25oeTZmNGtHS1E0cnRIUS1R?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d1ac54cc6e2b"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Catholic association launches online courses to equip faithful for mental health ministry",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDJYeERuVXVXc0xmSVVDODNqN2c4QXdnT0pYWEQxc21ydTVwT3ZyZnNyQ05ucXRtaVE1cFdrUExPdF9GSkFaU3FXNVIwN3p4S1dCa2xmUjF2TmdBcl8wYlZYQTFBNzNlRnNCOWg2V0g0cGRyUGhZS2RvNWdjc0gyNE42LWIwWlo2YmhuenRObjhCSXduRnAtZ21jTTd5M05STnRUQjIwdXFxV0FWMnlRektBbVdqZ1FOLWs0ZllpM1c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ac8b629e255f"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Unveils New AI Research Lab to Transform Design Creativity",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNalAtdEtWUFV6eWphQlJyU0tyUmVNZ0R1U2szRlZKNkdUOEQ1UFZQTFB0dXZhWVkyRkJDQW12MXpoVG15Ml9GRUNvU3lFdHdwN0dneXBzSnlvbjI2cVZldTNoSEdYNEVaR2NibVRiZ09wM2t3ZFFRSVhlZ0FFWVJ2S0JtS0hQejBBWGFyQkRkMXQ5R3NiWlRz?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9165f8dd8c4f"
     }
   ],
   "items": [
+    {
+      "id": "54646dc1b7e6",
+      "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
+      "source": "Search Engine Journal",
+      "summary": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-27T17:11:52Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "e4fd7bb51e73",
+      "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
+      "source": "Search Engine Journal",
+      "summary": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Moves AI Agent Knowledge Base Into Merchant Admin appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-27T15:39:22Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "97d3f45b4224",
+      "title": "ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/",
+      "source": "Search Engine Journal",
+      "summary": "Looking things up now makes up about as large a share of consumer ChatGPT messages as writing, though the increase is smaller than earlier data. The post ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-27T14:13:30Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "720db33a2285",
+      "title": "How I Decide Where The Next $100,000 Of Marketing Budget Should Go",
+      "url": "https://www.searchenginejournal.com/how-i-decide-where-the-next-100000-of-marketing-budget-should-go/593211/",
+      "source": "Search Engine Journal",
+      "summary": "Allocate your next marketing budget increase by weighing retention and conversion fixes against more paid search, then fund the bottleneck with evidence. The post How I Decide Where The Next $100,000 Of Marketing Budget Should Go appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-27T14:00:18Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e4f966b0dc69",
+      "title": "Daily Search Forum Recap: October 27, 2026",
+      "url": "https://www.seroundtable.com/recap-10-27-2026-42380.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-27T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "117b40775ed1",
+      "title": "Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First",
+      "url": "https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/",
+      "source": "Search Engine Journal",
+      "summary": "Jonathan Berthold explains why bottom-of-funnel content is the lowest-lift experiment and how to sell leadership on a test you can't promise will win. The post Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-27T12:00:41Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "aae3751ef5da",
+      "title": "Unconfirmed Google Search Ranking Update: Volatility & Chatter Spike",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-42379.html",
+      "source": "Search Engine Roundtable",
+      "summary": "I know I just reported on an unconfirmed Google Search ranking update from this past Saturday, October 24th. But I am now seeing a larger spike in volatility, along with an increase in SEO community chatter around another unconfirmed update over the past 24 hours.",
+      "category": "Algorithms",
+      "published": "2026-10-27T11:51:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "5da827908eec",
+      "title": "Google Downplays The Importance Of Fresh Index Reporting",
+      "url": "https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller kind of downplayed the importance of the freshness of the Google Search Console page indexing report. He said on Reddit, in response to my coverage of the report's recent slowness, that \"it can feel like it's important to focus on it, but honestly, save…",
+      "category": "SEO",
+      "published": "2026-10-27T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3bd3ed0239a1",
+      "title": "Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not",
+      "url": "https://www.seroundtable.com/google-local-service-ad-confusion-42328.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google advertisers are struggling to agree on whether a specific local ad unit in Google Search is a Local Service Ad or another type of local Google ad.",
+      "category": "SEO",
+      "published": "2026-10-27T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "14aa12908a22",
+      "title": "Google Ads Tests Dotted Underlined Links In Sponsored Results",
+      "url": "https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing placing dotted underlined links in the sponsored results ad descriptions. When you click on them, you go to the ad destination's URL, like you would if you clicked on the title of the ad.",
+      "category": "SEO",
+      "published": "2026-10-27T11:21:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "4755a8d1b0a1",
+      "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
+      "source": "Search Engine Journal",
+      "summary": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness. The post Google Responds To Concern Over Search Console Indexing Reports appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-27T11:17:59Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a37c6a1684f2",
+      "title": "Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy",
+      "url": "https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads said it will update its Child Sexual Abuse and Exploitation (CSAE) ads policy this coming January. Google said this is being done as part of a \"redesign of the policy, and to improve protections, clarity and transparency.\"",
+      "category": "SEO",
+      "published": "2026-10-27T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "46bec9f2d622",
+      "title": "7 free SEO tools to boost visibility & traffic",
+      "url": "https://www.semrush.com/blog/free-seo-tools/",
+      "source": "Semrush Blog",
+      "summary": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest.",
+      "category": "SEO",
+      "published": "2026-10-27T09:05:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "adc118ad2a0f",
       "title": "Image SEO: How to optimize alt and title text",
@@ -1548,6 +1691,28 @@
       "published": "2026-10-27T08:34:54Z",
       "coverage": 1,
       "impact": 1.0
+    },
+    {
+      "id": "6bbdade74098",
+      "title": "Poisoned SERPs: An update on Google ranking data in Semrush",
+      "url": "https://www.semrush.com/blog/poisoned-serps/",
+      "source": "Semrush Blog",
+      "summary": "Learn how Semrush is addressing “poisoned” Google Search results, validating ranking data, and investing in visibility for users.",
+      "category": "SEO",
+      "published": "2026-10-27T08:17:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a3a879144b29",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "category": "GEO",
+      "published": "2026-10-27T07:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "250e5d8f3024",
@@ -1573,10 +1738,10 @@
     },
     {
       "id": "b76d7959d61c",
-      "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
+      "title": "Google Updates Spam Guide For Shared Pages, Generated Content & Apps via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
       "source": "Search Engine Journal",
-      "summary": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Adds Indexing Advice For Shareable Pages To Spam Guide appeared first on Search Engine Journal .",
+      "summary": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Updates Spam Guide For Shared Pages, Generated Content & Apps appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-26T20:57:22Z",
       "coverage": 1,
@@ -1647,17 +1812,6 @@
       "published": "2026-10-26T14:00:54Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "6acf8628c449",
-      "title": "Daily Search Forum Recap: October 26, 2026",
-      "url": "https://www.seroundtable.com/recap-10-26-2026-42374.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-26T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "1a1d4bf2fc11",
@@ -2065,6 +2219,17 @@
       "published": "2026-10-23T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "c6099fc8919f",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "source": "OpenAI",
+      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "category": "GEO",
+      "published": "2026-10-23T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "b7b4a2a881f4",
@@ -4120,171 +4285,6 @@
       "summary": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-12T22:16:40Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1f56c3bd8e8a",
-      "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
-      "source": "Search Engine Journal",
-      "summary": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites. The post All In One SEO WordPress Plugin Vulnerable To Two Exploits appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-12T21:51:53Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "559be18e9351",
-      "title": "Ubersuggest & AnswerThePublic: Up Your SEO Game",
-      "url": "https://neilpatel.com/blog/ubersuggest-and-answer-the-public/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Search listening still gets you ahead in the SEO game. It just means something bigger now. Hear me out. Google averages 3.5 billion searches a day. About 20% of those have never been typed before. Every search is a window into what someone actually thinks, wants…",
-      "category": "SEO",
-      "published": "2026-10-12T19:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "6b1568fbd094",
-      "title": "ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
-      "source": "Search Engine Journal",
-      "summary": "Government health, research, and regulator sites climbed ChatGPT's U.S. citation ranks while explainers fell. The post ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-12T18:41:59Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "8faa4cf19481",
-      "title": "The Industry Mourns The Loss Of Nick Wilsdon - Loved By Industry",
-      "url": "https://www.seroundtable.com/rip-nick-wilsdon-42280.html",
-      "source": "Search Engine Roundtable",
-      "summary": "I am sad to report that Nick Wilsdon has passed away yesterday, October 11, 2026. Nick Wilsdon has been in the SEO industry for over two decades and was a close friend to many in the search marketing industry.",
-      "category": "SEO",
-      "published": "2026-10-12T18:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e55ef4c09ea6",
-      "title": "Claude Got Guidelines, Now What?",
-      "url": "https://ipullrank.com/claude-geo-guidelines",
-      "source": "iPullRank (Rank Report)",
-      "summary": "On October 8, Anthropic published its 2026 Usage Policy update, and most of the coverage will focus on weapons, surveillance, and elections. That makes sense, because those are the headline risks. But if you work in search, there is one bullet in the new Usage Policy that you…",
-      "category": "GEO",
-      "published": "2026-10-12T17:30:39Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "d77d6fdc03be",
-      "title": "AI mentions ClickUp in 97.5% of answers. It recommends them 0 times.",
-      "url": "https://foundationinc.co/lab/vol-313",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Welcome back to What Matters This Week. Most AI visibility reports present a single number: how often the brand appears. ClickUp’s visibility number would make any team happy, but it hides something that decides the deals. In September 2026, the Foundation Labs team ran 21…",
-      "category": "SEO",
-      "published": "2026-10-12T15:31:44Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "44fc18cea8aa",
-      "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
-      "url": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
-      "source": "Search Engine Journal",
-      "summary": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-12T14:30:17Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d2e477dd6bd1",
-      "title": "Shopping is part of the product",
-      "url": "https://www.growth-memo.com/p/organic-growth-in-e-commerce-in-2027",
-      "source": "Growth Memo",
-      "summary": "AI might grow the e-commerce industry, but merchants need be excellent across the whole experience to leverage it.",
-      "category": "SEO",
-      "published": "2026-10-12T14:29:07Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "01dbe4ef5f38",
-      "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
-      "url": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
-      "source": "Search Engine Journal",
-      "summary": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them. The post Your First 30 Days As A Growth Leader – The Challenge From Day One appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-12T12:00:07Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "015e9824d077",
-      "title": "Third-Party Google Rank Tracking Struggling Now",
-      "url": "https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be successfully blocking enough of the attempts of scrapers from trying to scrape data from its search results page over the past few weeks than it has in a long time. We reported this a few weeks ago, and I am surprised to see that many tools still struggle with…",
-      "category": "SEO",
-      "published": "2026-10-12T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7459c6483c73",
-      "title": "Google Ads Tests Using Google AI For Goals & Assets",
-      "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
-      "category": "SEO",
-      "published": "2026-10-12T11:41:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b18834cef10d",
-      "title": "Bing & Copilot Experimenting With Microsoft-Decision-1",
-      "url": "https://www.seroundtable.com/bing-microsoft-decision-1-42270.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft announced Microsoft-Decision-1 last week and it is already being experimented with in both Bing Search and Copilot. Microsoft-Decision-1 is a \"decision-scoring model delivers top performance in latency and quality on structured decision tasks to outperform both LLMs…",
-      "category": "GEO",
-      "published": "2026-10-12T11:31:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "ccb843a3a2af",
-      "title": "Google AI Overviews For Typos & No Search Results",
-      "url": "https://www.seroundtable.com/google-ai-overviews-no-results-42275.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Yes, Google often shows AI Overviews when Google Search cannot match specific web pages or when it thinks your query is a typo. In fact, Google AI Overviews can respond by saying, \"It looks like your message might have been a typo or random keyboard input.\"",
-      "category": "GEO",
-      "published": "2026-10-12T11:21:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "1928c1ff7a96",
-      "title": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
-      "source": "Search Engine Journal",
-      "summary": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-12T11:13:13Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2ccd5f5dcb01",
-      "title": "Google: Poor Image Quality Won't Stop Products From Showing In Search Or Ads",
-      "url": "https://www.seroundtable.com/google-merchant-center-poor-image-inclusion-42273.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated its Google Merchant Center low image quality help document to now say that poor image quality will not stop those products from showing in Google Search or Google Ads.",
-      "category": "SEO",
-      "published": "2026-10-12T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
     }
