@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T03:59:36Z",
+  "updated": "2026-10-27T09:45:07Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -817,6 +817,42 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-27",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches first in-house AI image model, Craft",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3UVA4czVUcWJxbmpYd19oUno0N2hUR0s5blFHVGVkeG14UVByM3VJa3NFX0g2eThYVjNWUjJMQ0FGbGFCUlNxWVptU1ZCMWl4aGd5OHQxZlNtSzZwaXpJZURpdTFOVnhSOHBTd1BlNk9OdVpMX0E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ecaec644ef72"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches Craft AI Image Generator",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FZktiei1kbkc5cjJ4bjVRdDUtbFNrYTVVeG9SbEkybk8ySUNtdVBsOExRNU1pSjg1c3NPTDhIWEhFMHpoc2FZNWRLN25hbWYzUXFRT0R0U3BZREFYSFhGZGdFay1xdVc4S3Y4cmdkaENhN011djRxWDNR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ad82b6221e37"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "airSlate",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Apoorva Launches BillWare, a Unified Invoicing and Payments Platform",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNElPa1Q3VW5GdzE0akk1NVpTSHN6SG5rZzBJUnRNZmFGLWlOM0Q5cTM4RzVweWhfdFgyMW80WXY3TDNack9hY0x4QzR4Q0JBRkxKWTNYcjRsV1VxT3JKNzNVRlRJVDBMQ1ZLMjFvc01lY0w2ZHJnb0RUV3Nld2ZubTNPeVphUi1zbDY5by1FbVFlSTJ3QlpleFdhYmdTR2xoUTBIUXZUV09VX2RZTGxUcExCWFhTSm0xSlF6Tw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "86a9459ee443"
+    },
+    {
       "date": "2026-10-26",
       "company": "Krea",
       "front": "GenAI Media",
@@ -1033,6 +1069,42 @@
       "id": "1dc6fd9acfb0"
     },
     {
+      "date": "2026-10-26",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Press Release: Primeclass unveils new lounge concept at Ankara ESB",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEtrS3k1akV1S0dKMnRsODNfT19MSkFob3J4a0dRRTBvX1I2WkxnUzFMcjA3UmtjRUxTOHYzV2xNREtpZ3N2dnA1T09iVVdHT09NN0x2T0JYZ0F5QUk4U0JIOVA2Y0RRNlRLWVlhUjgybVg4RWdiNHp5VkZXWjJfd3ozUHVvaEVmTGdsYWpvWG5abnFnXzhhNWJGY3R4UGY2dWc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a01759c26f06"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Creamfields unveils new 20,000-capacity Runway 2.0 stage for 2027",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWFjaXZBcGs4ODdnVEJUWVNSMjNoOWxyaFlFVWZjWWpraFM4NnotaVMxTjQwdnNjeDFtdzRteDhSdmZ5dVo2dl95UlNSOVNuY290eFFLWmRvbGFOUGM3UWFadWN6ME0yN3QxVFpHZnhhZFBFTGtIV2J2RUhMQk90LThqWGFNT1VYS0E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "27a8be2475a6"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Skydance Offers Some Employee Buyouts Following Warner Merger",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWctWEpVWE11bXEzc3l5WGNGQk1TWkRSWG5qcEJNcktKSTV6NjZZMzhrZnkzbVNfRHE3ejJtVnY4R25oU0V1a0hPYWV5UmlWOV94SGhwODIzMHVJaWlsYXhKalBzeVlkc3FPZVY4QjBZMUZfM25uYmp2S3RnTU83b3pvVXhqMXE0eTBmYVhZV19HdUFJTjhncWQxeDVPVk9VOTZTeGpkb20wZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e6613a48df94"
+    },
+    {
       "date": "2026-10-25",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1127,6 +1199,42 @@
       "source": "Google News",
       "curated": false,
       "id": "a74ab4803750"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$2.25M",
+      "title": "Story3 Capital Partners buys $2.25M in Rent the Runway shares",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeU5YcjRUV2xsbHNMSlN5THpncEVxYnlXQ3NyenNUX2ZmVUxSNXVFY0N4S0R1TmNGWFRSX0NPTWRMVlJJOXdZUWtYZWQ5Yl9SRkVJcHBJNHJMTG9RZmlJUVFWWk5OVUtaLThiQ0FrSU9zZWlKVFJhQ2tqdGVuR1J3OWhzX1ZYQ041RTVBRXFtSEZ5aV9JeGxLWng2ZXhOVEFaWFRDQkdyNnRxX1R6Q1ZzaUt1Y0VJZDBJb2RiVkRWblN6UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "adf78c769a29"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$2.25M",
+      "title": "Nexus Capital Management, a Rent the Runway director, buys $2.25M in stock",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdVRGYTc4Mko0VUVtamxocl9KdjZURG1tdWxZQ0g1UlRHdEZVc01Vdlo1eW5DME5iQkR6ckloeGFjZmtjVWZQMHZjb0hTVzBiZDY2SC1JcDJsb0F3R0tDNTVHV2JwS0tUd2JxTnI3R09Xd1ZUOFE2bk9uNUlZU3FabEJHTUU5TU9jdTVFb25BUDRrWW9EOFFSNldHWFd2VndPeDhuYVMtZVcyWHRaVEU4TnVHWkIxQ2hpc3NGY0lReHpTUXFRNVpQTndZOFU0VWxm?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e1851c215ef2"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$1.6M",
+      "title": "CHS US Investments, a 10% owner, buys $1.6M in Rent the Runway (RENT) By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWJfc3hadWlhSUJSVVgtX2ZPNVlsYlo5SXp4SkJDam1TT1hrMkNwaXE3NVdDZGxNeFp2QUduY2IyY2M1WGhyZ1R2aklSbnJpVC1sRGhzSjBiaENJOHZFbENUZUZqdzhvUVpscDdIdFhNRG9hWWlIb25UaVo4RmhPdG04cGVzTlcxR3lUWmlMVmk4NjU2Ty1NUmlCRnBOVVpaM1pBUEg5VVhtMG5Iem8zSnpUT3RjQjNNMkFLT1VsN3BQakVmbUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "35e4c7583d9f"
     },
     {
       "date": "2026-10-23",
@@ -1266,18 +1374,6 @@
       "front": "Creative",
       "move": "Launch",
       "detail": "",
-      "title": "Canva launches Craft AI image generator worldwide with public API",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnVkSmhZWlBuOEVIZ2gtRVlGeW1aMkE3VDZqM0dqOTFmQW50akRVOHd3Z3RieVJ0bkdaZEtPNVotZWMwYUxmU1NFLVZBM1QzNWN5WjBIeG5qcHRvM0FGOThLendrbDFUWHRJX0ZGallzZHFjOFBIVlUyc3d4dGR6UzNycjBTeGxrTkN4VEx6blhfeUVFMi1HMnNxZUZKb2tOcUxJOE1sVXJkd3RLZ3hRTXB3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c63b86156f62"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
       "title": "Canva Launches Its Own AI Image Generator to Take on Google and OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWtWT2k2c2UxY1RCbnZoTUpTcFNQeU1wV1IwMDFmSnFqOVVPOTl2NDZYc2FWeERsU0dneXlOcE01ekkyaklhNVJBUTBkVHZwV3FocDl4TVpVQjRYdmJrUlAwa0FHZzJhNkNGOXpiYUZ6YkJGWnB6d250bHA4UU1tdFdqY0VFNDNwaU5VdTJ5bmpSVndpcDljdFBrTGw3ekRsaDdBUFBKSUU1UdIBrwFBVV95cUxPMEJpNFBLbEFIQkpZM2RhY0NZVEFuTjAzZHFDM1hhc1JjMWI2NVM3VF9Lczl1SEdOUEUtaG1CdGdZaHZ5X05UVlBQR3M2aHoxOEJjM1BWTDEzWF90OEZKdG5HRENtZ2doeUJwZVY5OTVORnYzTTJYWTVXQ2UyRjZnb0dXV0ZmeUZpNWtrN2UxVUtVS3p6NzBLaHk1emx3cHJUYk51T05JeWdQUjF3NGp3?oc=5",
       "source": "Google News",
@@ -1369,6 +1465,18 @@
       "id": "fc8ed5476729"
     },
     {
+      "date": "2026-10-23",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Craft Image Generator Now Available Globally With Support for 55 Languages, 30 Aspect Ratios",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2VBYld3VkI0QmQyTVVmbG1RN2lTNUE0UERHUl90YU16RE1qSzNIVEJiclY4R2RGckpPWk5tYnlEU3R3bXRiYjZKRktIVEE1UWZXZjh5d3pSQnJoRi1mcjYwWWRwZnVGcDBTS19ia2xWb2xxWjJhbG9RSUdJR3dMaC0wRVZiME0zM1g1TjF1WUxOS2VUVVJxdXlPZFAzZERzV205RWV2UGlpWUJhTEpEY1hkNS1xYlZPQWNCNjU0UGROUkxxREQ2RzJn0gHPAUFVX3lxTFBnTFIxMGlwZk03clhhd0hOWTJhYlEzZTd1T0xzNlhUTTlidXVtTjdqUXdzcDZ6d1RGVTc0MDN3eFp1a213Y2FjUUpjRVpSQS1famxiY2ZSdlVGQ2FiMzlzNmcwcmFpZ0JkcXNxdXluakFtQ1QzMTZheTVLU29YM25lenRnYkVzSDFwZHBlc3htQVBWY2lDMUNORU1lbi1rZ0hBQVJMbFlUdnR0WWQxd2dMaXBZRjhqZVBNT2RjUWNiUFR2SVJncFRGaVJ1XzRJUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1144b6fdd151"
+    },
+    {
       "date": "2026-10-22",
       "company": "Pika",
       "front": "GenAI Media",
@@ -1427,117 +1535,20 @@
       "source": "Google News",
       "curated": false,
       "id": "9165f8dd8c4f"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Debuts Craft Image Model Built by Its In-House Research Lab",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2otSlpRYkpQbGYxa1RGTlpWRE9WN0tCWFlWc3dJWktHT2IxYThDeUJMQnMzblliYVpXSDJTeWpyWkVEYU1zUVFuel94clFKdkY2dkd4VUhuX0NhTWUtS0w1YzdzLVBMVnloN01TVXBBa1hZRWZITnFjNXVydXkxMkJtRUNZQ3N0ZjUxNWlZdEc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e151d8997c3b"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva releases its own Canva Craft image generation model — TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1R4eTN4OFQ2aUtINDhRTTZrN080M1R4SDFEbkZwcDJLTk9uYzBMZlU3bE41RW5tSF9XaWxNbzZaM3BhVS1rSFN0eTctRVVHUERiNG5oUW5Mb0tOUUdrTDdvSXRYVlV2MVpubk54a1N0V0VKcVd2MHNOLVk5OFpuTzIzLUJKODNIanVMSnZrUlNpNEtJLVVFTEJ5ZV9KMjNQdUVMTUY2ejc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6270e9218699"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Affinity Aviation forges UK partnership with AeronautX",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGJ4QWtXWkg3SEFUTzlOWjNhclF4cS00YnhyazNCQklBaFJnVjNrVF9xdWg1RXpkQ25tS053ZVV1c3FPWHpYTElDdGE3RW1kR0NBSVdIdVZOTFM0RDZtOWZIZTY4cnIzTVdqSlJHM21LM0NpWncySWlvUUwxY1l3LWNkdXhCcVdkRjN6eg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "77469cce0e46"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Canva adds 60 free AI and digital literacy resources through Common Sense Media partnership",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjQzbnJOQlYzVTJKU0FqalYwTjZCeS1JbndEcmNXMlZ5LVVrR05OYmFiQ2JucWlYeFN1bUwxaEJrNVVlSEZ0QlhIRkg3eUNzc3UtMEUxdWwwSXcwTTNodFVyb3lJTGh3VDJFU0IxTEMwbmh2Zy05aG1raWNBeHFnN3A2OW1RN0N4LWpaQ2lzUmY4cnRyLVoydC1yRnNBYV9peE9aWEZkcFRRSlo1dGlRR1pQUVoyRmZBS3ZtTXpQU0VBMG43RTUzSndtbTk?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "bf3c315b0824"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "The Pokémon Lucky Bag “Pika Pika Box 2027” is now available at the Pokémon Center Online! It will be sold via a lottery for a limited time starting October 27.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GUjdGZlRnY0g4Y0RyRnQ0Y010SkxJc3laWU1hNVVRU2NVRkQ1SC12allyR2hvbHhFWThDcEtRYllMQ29FeF9YQkt2Zk5jVHhWTngtZVlYVkpYVFhJTzZzX2JLbWRTSFBYTGhTREwyYm5IX2otLWN6X2RB0gF6QVVfeXFMTkZSN0ZmVGdjSDhjRHJGdDRjTXRKTElzeVpZTWE1VVFTY1VGRDVILXZqWXJHaG9seEVZOENwS1FiWUxDb0V4X1hCS3ZmTmNUeFZOeC1lWVhWSlhUWElPNnNfYkttZFNIUFhMaFNETDJibkhfai0tY3pfZEE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e10f412b048f"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "AI That Talks and Thinks: ElevenLabs Introduces Two New Voice Models",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Yc01NMDl3ZFN1cHJUNzFpU09lODdhZnN4R09kZEZ5OGR6Sjk4WFhFSHlwNWdDaEtxZ2FWaThQcEZYZEZCb3hXcjY3cDBFbWlpR0tWMnpJckdHZWV1TVRUSFp3WUpsaEt3aUhMdW1Tcw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "04f987d724c7"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Hashed Launches Nitro by Hashed Cohort 2, Shifts to Rolling Admissions, Global Expansion Support",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZV2xMcnhyekFzY1F5SXBNZVRzV0t3dEdhLVdMSWpIeVBDN2hSelFaYUt3N0JyMFl0T3hwUmpvVng5NUs3T05WaFdXT2k3UHpVaDhrSw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e599b521d22d"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Launches Its First AI Image Model, Canva Craft",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbC1NbUxzSjhHU2FpQXYwaXZ6RkRaaXR1Mm02VkxEZUtUX0JxVjIzQm56bnB4d0Vab0p6YzRNejJfN2RZVmVxTnJOQkdGSVp2cHdhemJzZGJwMkpod0VIUmROWG42VGhFQUhWOV9hMVQ4Y0JyRG9oRWFxYnljeE1VWkI0cWRrcEZMUlFv?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "762bbdf40d1c"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches image generation model to cut costs and expand AI design tools",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0lzZDNxOHBscVVsSDZkelp2Z0NQc3Z4TURVMVFic0xPQTVFWUtmTndoLTh1RGFRaHVKVERFVnIxQWxHbVdVU3NxNWxtVmNLa3pnVU1wOWFVMFZkaE02b1ZqOTBqNkx4NGRZNkVDWDVKb2h1V2FiTE5OODl3TFBfbzR3Y1ZnZkFWa2ZSMTczUFBRZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "638526101621"
     }
   ],
   "items": [
+    {
+      "id": "adc118ad2a0f",
+      "title": "Image SEO: How to optimize alt and title text",
+      "url": "https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/",
+      "source": "Yoast",
+      "summary": "Adding images to your posts and product pages makes your content more engaging. Good images support your message and improve your chances of appearing in image search, visual search, and AI-powered results. However, you need to describe those images properly. Alt text helps…",
+      "category": "SEO",
+      "published": "2026-10-27T08:34:54Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
     {
       "id": "250e5d8f3024",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -4276,17 +4287,6 @@
       "published": "2026-10-12T11:11:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "2e2756025d83",
-      "title": "How to build an AI visibility dashboard with Semrush",
-      "url": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks.",
-      "category": "SEO",
-      "published": "2026-10-12T09:45:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
