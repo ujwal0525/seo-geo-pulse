@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:36:17Z",
+  "updated": "2026-10-27T23:34:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -889,6 +889,42 @@
       "id": "103d9b79528b"
     },
     {
+      "date": "2026-10-27",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$10B",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "curated": false,
+      "id": "997e85a0a5c4"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Affinity Aviation Group Partners with Training Provider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmIwRi1NTjhJNm83dGVuOGpfcGRHOFdET21IWlpoazQtZHFvYWQ1aUNxS2phbWpfQklZY3dtb01mQ1FMbmdBU2Uta0VpTTNlTFRjS0lheVcxTjhlRDVETWdDcy1tZXNWdmV0WGhKa1JZNG9VR2FSRGtLYXg0VDF0MU9pcmFNNWhiQ0VZbWVaZWNWaEJHR01jazM2Q01aMVhSV3FmczYzTXhkN1d0Rkppa3VUZjViUXpHTHlv?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "89aa1c52235d"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Dutch Bros just launched its first-ever plushies and 100% of profits go to charity — how to buy",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2155b40e7d3e"
+    },
+    {
       "date": "2026-10-26",
       "company": "Krea",
       "front": "GenAI Media",
@@ -1499,45 +1535,53 @@
       "source": "Google News",
       "curated": false,
       "id": "811705de8adc"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Craft AI model: Image generator supports 2K resolution and 30+ aspect ratios",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGQxcEhSdHljbXpJTUZjTDZ6ZG1KWF9TS3d3MFhpeEJ4SHp4cU1oRTNOUEJ6OV9kS2Ntd2ZscnJxbnBFaGthdGJnbG44VnBTZHpSd1paSEcxcmwtbVU2V01uaWZWM2FBTE10eDZ5cWh0NkpnYkx2enk0c2NCdEczVjBEdGlDVDgzUW5GZlpfSVd5dWROcGc3YmFGQ2xNWWM1TWJ4Vm8tMUFGTUxOS1YtN0NMVHFUcVY3Qm9VMTNEUG5sQlJ3eXE3UDBQeWcwUDNw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fc8ed5476729"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Craft Image Generator Now Available Globally With Support for 55 Languages, 30 Aspect Ratios",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2VBYld3VkI0QmQyTVVmbG1RN2lTNUE0UERHUl90YU16RE1qSzNIVEJiclY4R2RGckpPWk5tYnlEU3R3bXRiYjZKRktIVEE1UWZXZjh5d3pSQnJoRi1mcjYwWWRwZnVGcDBTS19ia2xWb2xxWjJhbG9RSUdJR3dMaC0wRVZiME0zM1g1TjF1WUxOS2VUVVJxdXlPZFAzZERzV205RWV2UGlpWUJhTEpEY1hkNS1xYlZPQWNCNjU0UGROUkxxREQ2RzJn0gHPAUFVX3lxTFBnTFIxMGlwZk03clhhd0hOWTJhYlEzZTd1T0xzNlhUTTlidXVtTjdqUXdzcDZ6d1RGVTc0MDN3eFp1a213Y2FjUUpjRVpSQS1famxiY2ZSdlVGQ2FiMzlzNmcwcmFpZ0JkcXNxdXluakFtQ1QzMTZheTVLU29YM25lenRnYkVzSDFwZHBlc3htQVBWY2lDMUNORU1lbi1rZ0hBQVJMbFlUdnR0WWQxd2dMaXBZRjhqZVBNT2RjUWNiUFR2SVJncFRGaVJ1XzRJUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1144b6fdd151"
-    },
-    {
-      "date": "2026-10-22",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Pika's Best of Guam 2026 winners to be unveiled Friday",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmpIT0lzdV9qYU5SS1ZTYi1BUkNKbklpWWNlTkhkZ2tFdjM0SF9ZMzRjd1J6T3dLWng3QXN0amZ0TGtRemo5aEpCR25RYklUZFYtcHBqdHhySlJocXFteDg4YUZkVHhQNGxVYmZjZzV5WV82cGpPVGJVZVA0czJOR293UlJxZTBXdVd2WHBfUXhzZHIydW9YQnZRdnk0YnJKNl9YcFVIMGh6TjhEYzBHS1FyQ2I2VEZLQVdFSk1FUmR5NmlpYkYxa3JTUFg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "79c5363cdd24"
     }
   ],
   "items": [
+    {
+      "id": "71c92905e4ce",
+      "title": "How Enterprise Brands Should Structure AEO Teams in 2027",
+      "url": "https://foundationinc.co/lab/enterprise-aeo-ownership-model",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "As enterprise marketing teams set their 2027 budgets, many have an AI search mandate without the operating practices to deliver it. A Brandlight and Censuswide survey of 503 US CMOs at companies with more than $500 million in annual revenue, conducted in October 2025, found that…",
+      "category": "GEO",
+      "published": "2026-10-27T21:15:29Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "ecbc9411295d",
+      "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
+      "source": "Search Engine Journal",
+      "summary": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google: Disabled Discover Clicks Were A Bug In An Experiment appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-27T20:06:27Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2eb722288f96",
+      "title": "Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say",
+      "url": "https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search has just updated its favicon documentation to now specify that Googlebot must be able to follow redirects from the homepage to the page where the favicon is specified. The document also explicitly says that these URLs must not be blocked by robots.txt or other…",
+      "category": "SEO",
+      "published": "2026-10-27T19:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "309f7bb0dde7",
+      "title": "Why We Should Fear The Shadow Web We’re Building For AI via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/why-we-should-fear-the-shadow-web-were-building-for-ai/593930/",
+      "source": "Search Engine Journal",
+      "summary": "Why would an AI search provider keep trusting information a brand hides from its own website? The parallels with cloaking are too close to ignore. The post Why We Should Fear The Shadow Web We’re Building For AI appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-27T19:00:25Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "54646dc1b7e6",
       "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
@@ -1713,6 +1757,17 @@
       "published": "2026-10-27T07:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "8cb333260a17",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "category": "SEO",
+      "published": "2026-10-27T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "250e5d8f3024",
@@ -3563,6 +3618,28 @@
       "impact": 5.0
     },
     {
+      "id": "1d7d75b47c31",
+      "title": "How Grupo Boticário uses AI to strengthen human connections",
+      "url": "https://openai.com/index/grupo-boticario",
+      "source": "OpenAI",
+      "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
+      "category": "SEO",
+      "published": "2026-10-16T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "827221925d8d",
+      "title": "How Localiza reorganized work around generative AI",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "source": "OpenAI",
+      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+      "category": "GEO",
+      "published": "2026-10-16T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "d432e8da3b66",
       "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
@@ -4208,83 +4285,6 @@
       "summary": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-13T11:23:58Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "92db147f90b1",
-      "title": "Google Merchant Center Videos Stuck In Preview Processing",
-      "url": "https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html",
-      "source": "Search Engine Roundtable",
-      "summary": "There are reports of an error in Google Merchant Center with video uploads getting stuck in the \"preview processing\" status. This causes the videos to look static both in your product listings in Google Search and other surfaces.",
-      "category": "SEO",
-      "published": "2026-10-13T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "aed5f4c6c414",
-      "title": "Google Search Console Performance Report Date Picker Not Working",
-      "url": "https://www.seroundtable.com/google-search-console-performance-report-date-picker-broken-42286.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The date picker in the performance reports in Google Search Console seems to be currently broken. The end date seems to be stuck in 1969 and when I try to change it, it says \"Date can't be after 1969-12-31.\"",
-      "category": "SEO",
-      "published": "2026-10-13T11:16:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1172989cbc30",
-      "title": "New Google Local Dietary Attributes: Gluten-Free, Dairy-Free, Halal & Kosher",
-      "url": "https://www.seroundtable.com/google-business-profiles-dietary-attributes-42281.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is rolling out new dietary attributes for local restaurants within Google Business Profiles. Google added gluten-free, dairy-free, halal and kosher attributes, in addition to vegetarian and vegan attributes that were already there.",
-      "category": "SEO",
-      "published": "2026-10-13T11:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b430233b584b",
-      "title": "Google Ads Data Strength Best Practices Updated",
-      "url": "https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a…",
-      "category": "SEO",
-      "published": "2026-10-13T11:05:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "8ed7e287ee16",
-      "title": "AI Search for the Procurement Professional",
-      "url": "https://ipullrank.com/ai-search-for-procurement",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Somewhere in your inbox right now is a proposal for “GEO.” Or “AEO.” Or “LLMO,” “AIO,” or “AI SEO.” Five names, one thing, and nobody has sat you down and explained it in language that doesn’t assume you already work in marketing. That’s what this is. Here’s the bigger picture…",
-      "category": "GEO",
-      "published": "2026-10-13T11:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8ab30babc9a1",
-      "title": "Yoast SEO 28.7: more Abilities updates and our yearly code cleanup",
-      "url": "https://yoast.com/yoast-seo-oct-13-2026/",
-      "source": "Yoast",
-      "summary": "You can now use your AI tool to update titles, meta descriptions, and social previews. This release also includes our yearly cleanup of deprecated code. The post Yoast SEO 28.7: more Abilities updates and our yearly code cleanup appeared first on Yoast .",
-      "category": "SEO",
-      "published": "2026-10-13T07:35:10Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "deb25df6b348",
-      "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
-      "source": "Search Engine Journal",
-      "summary": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-12T22:16:40Z",
       "coverage": 1,
       "impact": 4.0
     }
