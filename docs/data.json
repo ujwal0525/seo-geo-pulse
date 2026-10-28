@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T14:55:04Z",
+  "updated": "2026-10-28T20:49:24Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -864,6 +864,42 @@
       "id": "9b58bb0c0c76"
     },
     {
+      "date": "2026-10-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch",
+      "curated": false,
+      "id": "37c12feb829d"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield Launches Cinema Studio 4.0 with Enhanced AI Film Production Tools",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1hJbjFCb25ZUDFEem5JYWJhVHdUOHVZUVNXNzlmQkJOUlZydGNVdzRmVHMyWkhDelJkUDcweWY4Vm9wU0hsNkhhYjVSbWNXUjF1THJXNHhidjJoVV9VWm9PRGFwVkNQUWpDeDd3YjFNeGlWOThPOWQtY1FBdTVRa3daYVdMaUZZcGFvMTE2QlVhWGFOeDdDWVJmMkUyNmozemFIRWduYUd3MjJPV0tv?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6fe976992bac"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Princess Diana exhibition launches at Reagan Library on Nov. 7",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHJMZi1NT3NGYjJtTF94RzB5d2tXNmFKX25uakJob1k0RG1YU2l4VUpFRDd1aHJaUDR2YmdnR1JZTjBHQlhmRlVFelVpM3lkN09IUTZVaXpJTEY0aDRyZ2Qxbk9TWGJqU3NmZ2NqczN6bmtpcEdrNDVoWUJ0VUNEbzI3UGV6UmxOcm5pallmZmY3cjJhWTQ0SkxNZHRHQ01Z?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5a20c14bc2fb"
+    },
+    {
       "date": "2026-10-27",
       "company": "Canva",
       "front": "Creative",
@@ -982,6 +1018,30 @@
       "source": "Google News",
       "curated": false,
       "id": "e4bdbbab1787"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Calgary Public Library unveils plans for eight new locations by 2040",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQazJvV0dTWmsxTGJWbGdaTUJXWGk3alNpYnd1cDJIQnk0MEthV3ZYaG1HT1VJWUZ6YnBmN21teFNZamtZZ2hvc2NsN0tmZFhiRlExOURQSW8zSmo3UUdLa2gxNV9VRnlYZjQ3c2x5NWR6QVRJ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "dbaa6849cf5f"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Canva partners with EBANX and Capitec Pay to unlock cardless subscriptions for South Africans",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUkdyUmVwUnZoamlOUkdHMHFIMDI1SjNNMkdDZDdqQk9PT0Q5czFvNkFXMmdJMXY4bktYRFBkaXNfSXlHMmU4VUcyQXZmZ0FkWm1FeVgwcHhvOFN0ajFvOHNZU3g3RmtELWdSZWcyWUJaUXRKallHSzg0RjBKTGVWdlJBN3RndG1heC1tSVRMdmVNN3Q5UWJVdDlpbjhJZ0pRTUY2cjdpckNhVlpTMkhYOFQxa19iLTNpVkpLNmpKSzI2bm5SVC0teDZaZlduQWJhcWpRaFZVSnhNN0JaRGVUVzhsX0ZCVW4wOEd4VG44VEpaNDFobmJKcEpnZ3poaUgzREtZMnVKcGnSAY4CQVVfeXFMUHU4MnFoeUZvTTZza2FxN19NSkhTUmlaak43aU8xMmZUSHhjeGRGQlhEM2FOVHdVR3BiSW1BTEhSekdEOFJHTnNPZHVUd0NYV0ViRnp5S2VabGVCemJwckUyWDRLMk54d0lUUmlBSGtjNndZRW9YSzhUc2FLTHlHV0tCN1lpRUUxOXo5b1lZRjVJRVBPd1ZVSm1mN2tyb0ZGTkZHS1ZXYWJUUlBtblhiSHFSdnl4YUN1UEFOclFOSG1Zc2lXNmhQXzlVMEU5eFA5SmliamZULTlySGM0NXR5ckU4TDlrQVdHZkpDOXM3Zm5SVHEzYXVTd0wxT2dwbU5TZGIxbkFfS1ZwWDVEdE1R?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6c63bfc5bb2e"
     },
     {
       "date": "2026-10-26",
@@ -1155,18 +1215,6 @@
       "date": "2026-10-26",
       "company": "Canva",
       "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Canva partners with EBANX and Capitec Pay to unlock cardless subscriptions for South Africans",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOHBiQzVDT0RheXBLTXVqSlFjMGc2Tk1QZW1SU1VUckNJaTU5a3BLVXg5bFJiWGQxa3BQY0JXenMtdF9HbkJYeUpIRU5ld2l5WjFJeGE3ZGJXdWtyVmdJSTBVLXFUNjdhZ3ItcWpZY0ZSeE9ZWndGYXdtMnpIbEs4ME52aC1fazFBMlBWdHdneXNDR1hvWHY3bm5sQms1RmgxdnJWalNpM1RGRU51S1ZsZGU5MGd1bXJXb2llREhtckRjb0JTWHNpVTFyTDFBNEZHTnhrNlIyczhQX3U1UXR1Qml0ZDVZYlJ1RzdvbnFzN3RnN1VhVV83YU0xUTRwOWpmRnZ4bnkwVXnSAY4CQVVfeXFMT0dPVTFwYTRXVDZzMHJRdlR1X1hyX2hSQzlneHFsLTB3bHdDckVUOHY0VFhlOVRFUmRxS1pFTi1IdUlVbTl3WmsybnlmRDhvQ3pyTzYtX1k0OHdfNFlHWVd4b3BKQkZlZ1hwdlN3QjBLSWUxVTJYc3lvMHYxTmZyNGdObHo1UVFMOXd6elk4YzlsbW9RRU9LVnJFZVNDc0VjYnVETEhlQWphNlhKVzZwOHBDX2RzUkZ0LWVreUY4SU1wQlBaX295OVBvNTV1bmhtZnZ6SXJhZkFZTEJ2dWNtUm9YNEFIN0djbWpCMmJXYUJLX3dzX3dMMGV0N2FxdG53N1BBdU94VEphdkdiSC1R?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "eff3a99929dc"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
       "move": "Launch",
       "detail": "",
       "title": "Canva Craft AI Image Generator Launches with 2K Resolution",
@@ -1246,6 +1294,18 @@
       "source": "Google News",
       "curated": false,
       "id": "18fb5e729631"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Unveils Canva Craft, a Generative AI for All Creatives",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHlSMlF3VzdfNFhrVGNGWVhiQ0lRR1pRS2dlbENib2I4MzV5V2d0RnRkcm1JcHl4d2xyY1ZZSGZiSnM2T1NvQXlpRVpHT0pULVB6eWxyWUhCemNDOEc2bzd0M2duN21HZEJPODRrOWxFaGxodzFLUEpOZzc0ZHhKbGthaXZ3TkVmY3NOV3Z0WHV1NjlyelFYeA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e9471d51d187"
     },
     {
       "date": "2026-10-25",
@@ -1474,69 +1534,97 @@
       "source": "Google News",
       "curated": false,
       "id": "72990f206506"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Craft — its first image generation model, trained on human-designed templates",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUN4NktMQlpqNllWYVRpNFVaSlVBWjNKTkRsZHF1d1BDY3hhak9kWk1Bb3ppbTl5NXkwenBud3ByOE42ank5TmxCT3Q4SDNsMXBaYzhIMGV0b1BPY05XNkFEN0FDMVI0SGV4M2FKdmtKM09hN2hLY1FCSEtiX1lMT3RYSHZDQzlMNzNvYThjMXdldGRQdXA5VW5qQnRnN0FfdF90a0pKNWhiRUxqWEh1Ym1SN2RiZVI5YzZJ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b71a3605af7c"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Launches Advanced AI Model Craft for Enhanced Image Generation",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXJleEdOelREdEs5U0t2SW94cEt2UzBNbmxvYjNfV0dqOXdaN09FVWNiVUxGQ1JzVHgza1dFbk8zVGpna2dkSS0zeGFsS1E4cnM3OFpfcDNEc2NKTEh6V0pSM0M2aWw2T00xYmN1cDM1bmlaNFRZellZRmhwWjRzZlp6aVktUXgybkxoLVM3XzcybEkwdEVYQWMtYS0?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5a25a5abb7cc"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva has launched its own AI model for creating images",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3pGRDROYjJxSTdYeU9XZHlad0k1aDEtNWZ2VTl3Q3dhYXc3QUZRazJhNWgyaFR5bVNRcnpNNW1jVkUzQVR2QXNqQk44QzhLS09XejBWWWJIX251S3pnU05heFBLbllVQXd2WU85d3piQTlhRTA2NFJqMTVONHgya2QwNU1mM2I4U3UtLUx1N2ZlUdIBlwFBVV95cUxPYUR4SjBGRW1MRzE0V0p3RmFCdlQ3b2RkU3hhYTZpUjJvd052UGNlX0lUSGt3VXRQaUlJVVg3Nkd2QWttbGc5R3hNdng3dHlDYVQtQW1BNmo2SzdrMm1WYVktcjl3VFk2VVdGek5PRXRXTGQ4eWpLYUVKOHBNVUxJcEFXWDFWbjJYaExjTE5pQi11VUtwclZB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4a0a10f2e31a"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Launches Its Own AI Image Generator to Take on Google and OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWtWT2k2c2UxY1RCbnZoTUpTcFNQeU1wV1IwMDFmSnFqOVVPOTl2NDZYc2FWeERsU0dneXlOcE01ekkyaklhNVJBUTBkVHZwV3FocDl4TVpVQjRYdmJrUlAwa0FHZzJhNkNGOXpiYUZ6YkJGWnB6d250bHA4UU1tdFdqY0VFNDNwaU5VdTJ5bmpSVndpcDljdFBrTGw3ekRsaDdBUFBKSUU1UdIBrwFBVV95cUxPMEJpNFBLbEFIQkpZM2RhY0NZVEFuTjAzZHFDM1hhc1JjMWI2NVM3VF9Lczl1SEdOUEUtaG1CdGdZaHZ5X05UVlBQR3M2aHoxOEJjM1BWTDEzWF90OEZKdG5HRENtZ2doeUJwZVY5OTVORnYzTTJYWTVXQ2UyRjZnb0dXV0ZmeUZpNWtrN2UxVUtVS3p6NzBLaHk1emx3cHJUYk51T05JeWdQUjF3NGp3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "95278597261f"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva introduces its first state-of-the-art image generation model: Canva Craft",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR0xjTm0zcllESW1qNU1Qd1luQk90and4M09PRGdlZFRISF9LcS01aGdZVUtKeGJRZWtpYUxyR2N2bGd4NHFENTdybFFIMDh6Z0ZMNktueThsdnhXVlNqbWFMeU1WeWFNMVVaX0NyM2tnWHFlRmZ6LUlHLW13MU95dUpCbnJGMG5zU3dBSW0wWTNWZkt5VFRwYnBVNTEwVkhKNXB1VXo3V0RxU1NuWEJyajhjcm5LTWJvc2R4VXR5VGlZU0F3VWpRQVdRaW9HYi11cXc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8047dd8e6d48"
     }
   ],
   "items": [
+    {
+      "id": "1f6b023391d0",
+      "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
+      "source": "Search Engine Journal",
+      "summary": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post AI-Cited Pages More Often Got Straight To The Answer appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-28T20:42:47Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "060858c757a7",
+      "title": "Google Ad Revenue Up 10.5% With Revenue Up 25%",
+      "url": "https://www.seroundtable.com/google-earnings-q326-42403.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google reported its earnings today, its Q3 2026 earnings report showed search ad revenues up by 10.5% at $82 billion and overall revenue was up 25% at $127.6 billion. As you know, I specifically like to dig in as best as I can on the search ad revenue side to see how Google Ads…",
+      "category": "SEO",
+      "published": "2026-10-28T20:10:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "829b0d0f1f91",
+      "title": "Google Ads API Version 26.1 Now Out Available",
+      "url": "https://www.seroundtable.com/google-ads-api-version-261-42409.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has just released a minor update to its Google Ads API, this is version 26.1. This update touches on assets, campaigns, local services, recommendations, reporting, and targeting.",
+      "category": "SEO",
+      "published": "2026-10-28T19:08:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "903f92f963e9",
+      "title": "Agentic Commerce May Break Your Measurement Before It Breaks Your Strategy.",
+      "url": "https://www.seerinteractive.com/insights/agent-owned-checkouts",
+      "source": "Seer Interactive",
+      "summary": "TL;DR AI agents can complete a purchase without ever loading your site, so GA4 may never record the sale while your order system does.",
+      "category": "SEO",
+      "published": "2026-10-28T19:01:08Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "4709a7cf6225",
+      "title": "Bitly’s New Data Says SEOs Are Half Right About Short Links via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
+      "source": "Search Engine Journal",
+      "summary": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal. The post Bitly’s New Data Says SEOs Are Half Right About Short Links appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-28T19:00:59Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a520b9d3ebed",
+      "title": "Build and manage Connected Apps in one place",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+      "source": "Google (Search)",
+      "summary": "A split-screen graphic showing a Google search interface connecting to Gemini to confirm a dinner reservation.",
+      "category": "GEO",
+      "published": "2026-10-28T17:00:00Z",
+      "coverage": 2,
+      "impact": 8.0
+    },
+    {
+      "id": "f39b11f1e625",
+      "title": "How to Teach Content Strategy to Stakeholders Who Don’t Speak Marketing",
+      "url": "https://neilpatel.com/blog/teach-content-strategy-to-stakeholders/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Most content strategies don’t fail on their merits. They stall out because content strategy buy-in never arrives from the person who funds the work, approves it, or executes part of it. That might be a client-side VP, your own executive team, a sales director, or a…",
+      "category": "SEO",
+      "published": "2026-10-28T16:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "f6f6e3ed4bd6",
+      "title": "Google Explains Why 404 Errors Aren't Scary 👻",
+      "url": "https://www.seroundtable.com/google-404-errors-42405.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is out with a new video in The Non-Canonical Cabinet series, this one is on 404 pages and why they are not scary. I like how they also timed the video with a Halloween theme.",
+      "category": "SEO",
+      "published": "2026-10-28T15:16:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "67d436a2b181",
       "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
@@ -1547,6 +1635,28 @@
       "published": "2026-10-28T14:00:59Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "5eaa332d2a83",
+      "title": "Daily Search Forum Recap: October 28, 2026",
+      "url": "https://www.seroundtable.com/recap-10-28-2026-42398.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-28T14:00:00Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "75e2017ed4c5",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "category": "GEO",
+      "published": "2026-10-28T13:15:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "d5a1a7dbe721",
@@ -1670,6 +1780,17 @@
       "impact": 5.0
     },
     {
+      "id": "0dc3cf0b7c98",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "category": "SEO",
+      "published": "2026-10-28T10:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "2fc8e689e413",
       "title": "Legora is building the agentic operating system for legal work",
       "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
@@ -1770,10 +1891,10 @@
     },
     {
       "id": "97d3f45b4224",
-      "title": "ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information via @sejournal, @MattGSouthern",
+      "title": "Looking Things Up Now Rivals Writing In ChatGPT, OpenAI Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/",
       "source": "Search Engine Journal",
-      "summary": "Looking things up now makes up about as large a share of consumer ChatGPT messages as writing, though the increase is smaller than earlier data. The post ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information appeared first on Search Engine Journal .",
+      "summary": "Looking things up now makes up about as large a share of consumer ChatGPT messages as writing, though the increase is smaller than earlier data. The post Looking Things Up Now Rivals Writing In ChatGPT, OpenAI Data Shows appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-27T14:13:30Z",
       "coverage": 1,
@@ -1787,17 +1908,6 @@
       "summary": "Allocate your next marketing budget increase by weighing retention and conversion fixes against more paid search, then fund the bottleneck with evidence. The post How I Decide Where The Next $100,000 Of Marketing Budget Should Go appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-27T14:00:18Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e4f966b0dc69",
-      "title": "Daily Search Forum Recap: October 27, 2026",
-      "url": "https://www.seroundtable.com/recap-10-27-2026-42380.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-27T14:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -3991,17 +4101,6 @@
       "impact": 4.0
     },
     {
-      "id": "60e966aef729",
-      "title": "Google Ads API Version 26 Now Out Available",
-      "url": "https://www.seroundtable.com/google-ads-api-version-26-42307.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has released version 26 of the Google Ads API. This is a major release of the Google Ads API updates including SMS messaging, local services, hotel center accounts, lift measurements, EU political items, conversion features, and so much more.",
-      "category": "SEO",
-      "published": "2026-10-15T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
       "id": "ab5044a4e51a",
       "title": "Google Ads Updates Sexual Content Policy With More Examples",
       "url": "https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html",
@@ -4185,105 +4284,6 @@
       "summary": "Google is testing placing the left vertical sidebar you see in AI Mode results on the main Google web search results page. This places the small super G Google logo on the left, with the chat history lines, a way to start a chat with AI Mode and the settings icon all on the left…",
       "category": "GEO",
       "published": "2026-10-14T11:41:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "dd50a262b953",
-      "title": "Bing Tests Large Single Sponsored Ad Unit At Top Of Search Results",
-      "url": "https://www.seroundtable.com/bing-large-single-sponsored-ad-42283.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing is testing placing a large single ad unit at the top of the Bing Search results page. The sponsored ad has a gray background, with an image and call to action button, and of course, the url, title and ad description.",
-      "category": "SEO",
-      "published": "2026-10-14T11:31:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "b71aec06b678",
-      "title": "OpenAI ChatGPT Ads Account Manager Representatives",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI has humans who are reaching out to advertisers to help them manage their ChatGPT Ads. These ad representatives are called ChatGPT Ads Account Managers and I guess are real humans who help agencies manage ads for their customers?",
-      "category": "GEO",
-      "published": "2026-10-14T11:21:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "01c24b83f24f",
-      "title": "Google Ads Policies Adds Prediction Markets Section",
-      "url": "https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before, but now it has been added to the main policy document.",
-      "category": "SEO",
-      "published": "2026-10-14T11:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "fec09aff98f8",
-      "title": "OpenAI Drops UTM Parameters From ChatGPT Results (GPT-6)",
-      "url": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI seems to have removed or replaced the UTM parameters it placed on links within the ChatGPT results. This makes it harder to know if a click came from ChatGPT versus some other platform. This seems to have started with the release of GPT''6, which was a week ago.",
-      "category": "GEO",
-      "published": "2026-10-14T11:05:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "20a9300f4bdd",
-      "title": "We Tested an AI for Signs of Inner Experience. Nobody's Home.",
-      "url": "https://dejan.ai/blog/qualia/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Eight behavioural tests on Gemini found no evidence of AI consciousness, though results reveal how the model categorises and judges its own self-concept.",
-      "category": "GEO",
-      "published": "2026-10-14T11:02:23Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "aff7177ce740",
-      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
-      "source": "Search Engine Journal",
-      "summary": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly. The post Google Explains How They Rank PDFs And What It Means For SEO/GEO appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-14T09:50:10Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "93b61cf47c5c",
-      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
-      "source": "Search Engine Journal",
-      "summary": "Google’s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions. The post Analysis: Google Is Poisoning Search Results For Rank Trackers appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-14T09:17:05Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "120204aca981",
-      "title": "How To Help AI Shopping Agents Find Your Products [Webinar] via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
-      "source": "Search Engine Journal",
-      "summary": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products [Webinar] appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-14T07:45:07Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "e181547094b0",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "category": "GEO",
-      "published": "2026-10-14T07:00:00Z",
       "coverage": 1,
       "impact": 6.0
     }
