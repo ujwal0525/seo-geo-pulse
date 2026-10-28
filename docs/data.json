@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:34:05Z",
+  "updated": "2026-10-28T04:24:02Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -817,6 +817,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-28",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "BuckeyeThon’s Runway Rally introduces Champion Kids and celebrates 25 years of fundraising Wednesday",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMlhUcmlXN1BjY2RKeHV5TUN0VUJENWNRZW9lX1hRRHNmamlHeVpKbFIzdnpDcmF0eF9NWGhoUXd0OWNMQXliNU1EcDZYeTRJd0I5OUFGTEVpR2pkZlBnQ3J2S0xpUVVfZ3pseUpQTDdScTJsaUFiSWw1OGdHTU8tOU1ZRDNtS0xwMFFVenZncFMySGJjNktTM1NLSkhsZko1Nmk5bkVCUHNma2N6bmxZNkpoZnYtQ2J5XzJjT08wTFNqUGJKYlhjajItdWI3cV9U?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ccfc27e991c7"
+    },
+    {
       "date": "2026-10-27",
       "company": "Canva",
       "front": "Creative",
@@ -925,6 +937,18 @@
       "id": "2155b40e7d3e"
     },
     {
+      "date": "2026-10-27",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Dutch Bros launches collectible plushies: How to buy Nitro, Mocha, and Joe",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e4bdbbab1787"
+    },
+    {
       "date": "2026-10-26",
       "company": "Krea",
       "front": "GenAI Media",
@@ -983,18 +1007,6 @@
       "source": "Google News",
       "curated": false,
       "id": "be2db06f00c5"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Dutch Bros launches collectible plushies: How to buy Nitro, Mocha, and Joe",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d61e1e993b3f"
     },
     {
       "date": "2026-10-26",
@@ -1187,6 +1199,18 @@
       "source": "Google News",
       "curated": false,
       "id": "4b386830fb21"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "DocuSign Launches PDF Editor to Streamline Contract Management",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1EybGV0dWkzNU0takMtRFRZZ3I0aFdycU5NbW5VREcyOTNqeGIxX09CVmIzSUh1WlVnWnN6YnhjSHlqbXd6ZTN6aXFtZGwzZ2RSZE5JTTFyRnBPUVRHXzJYRU84MklCZVFHWWl4TzVVUWZ5R1VmdXhGMVFYSExqTWtYZXQzckxKcTRJVVNzRE9wNlQ1?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "18fb5e729631"
     },
     {
       "date": "2026-10-25",
@@ -1511,30 +1535,6 @@
       "source": "Google News",
       "curated": false,
       "id": "fa84a23defef"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$1 billion",
-      "title": "Nvidia and TCV extend Higgsfield's Series B as the AI video startup reports $1 billion in annualized revenue",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTZFaWJrNW5XZWtfOUdvSlB5dTVHbDZPb25FS01IcnBycjY3czZwWVdHQ2w1ODY5ZG5YRHdBOUZwS2hEa25kc0JYdXJkQWl5cjZUaHF5SmpDa1dfMUUtS29rN01GWnJZREZYaDFxM1I0aEJwd2lVeFhmZlQzNnFBWkN0czRGak5kWVNmMzZueGNqUDJSWVJpTENVcTVydXRLWnhVMGZ4N1RibWF0b1h4RmdLd1hzTWthVWZiZF9adG53VV92b2VUZzc3S2dDaVluOXhLYkVXZ2tHZGVsUktwQlR3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "642cb83ca439"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Craft, its first in-house image model, with API access",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZeE9tS1d6Y25IbEp1R0NpT2NJN3AtZnQ2LVRWVk5yRUFZbU5feS1fOWsxWHAtQXFSTk40cjMtN2xpTGtseS16R25IeXlZeFQ2RVlHN0VpWllXcVZKNzVPRXZibnFLZFh3Y05aRTVSQWo0cV9lak5GQjJvUDc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "811705de8adc"
     }
   ],
   "items": [
