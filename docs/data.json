@@ -1,10 +1,9 @@
 {
-  "updated": "2026-10-28T04:24:02Z",
+  "updated": "2026-10-28T14:55:04Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Andrea Volpini (WordLift)",
-    "Bing Webmaster",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
@@ -829,6 +828,42 @@
       "id": "ccfc27e991c7"
     },
     {
+      "date": "2026-10-28",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$4.75M",
+      "title": "Coulair opens $4.75M debt raise for runway-free heavy-lift aircraft",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0NubTJ4OFJXV3lsZ3duN3pGci1OM3pMZzItbHlKVGdUNXgyNjgzUF9yR2lpRlhjQlkyQl9NeGpKLTVmbnVwaFBoTTV3THlPTFdlMks2SU5vQ2RTYnBhbW5ycWRMNUZzSldNbFVyc3FXb1otYTc1LUlsNDhHcHNHTTZwRXEwT19QNS1GdVpMa0xWSnNoVlVYVk13R0p5SWhPVlE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "260d6be783fa"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Debuts Live Speech Translation API",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRjktcElqRlpMTjBwN0UxNTFHcW1WbGFHTndpS0dUWjFUQVFiOTVvbmZ5NkxoWGRwQk9Sbkhhako2cEdneTZoN1dDWGkwQlZvV1ZsLU4ydEY0aWxSajJfaHdkcTFtcXNiX0E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "da4012737ee6"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "ElevenLabs and adELA collaborate so that people with ALS who have voice problems can preserve it thanks to AI",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUWR6eFVXZkhDbF9meFp0OTJaaUU5WEY3cDd0S3dNRWFZUDZxYVJaLVdBeW9YbF9LX0Y4aDZnOUh0V3dMbm84cFN3Qy1pVTk4RHZlMUZpd2FlcjFHXzNoV201RkpXVDg0VFpmN2RsUWVCQTktaXJXMzUwcElzQUpGa0xTT1hfV2R1TUF5VzZnR3JGU1BYYmZmVDJkSkI3dnlvUUFueHRUYjVMdmxic3MtcFZlWTZOb1ZrRHlRbWFTYm1HUnJ3RWcydFZCRXNUTWFQUFo5V3RkQlJMdWRja2fSAeMBQVVfeXFMT0dOZThuM2YyT29wb1VZMGRtNnByVU9lUXl1NHJ5M3ctRC1vVVVyWUdMY1ZkMmlMQXBCSUhwcEN3a3ZGdjlJY2w3SXRaWE94OHRfUENJX0pPS3c3RXZvSjdiSUk2c2E4UEdtaVN5NlhOZEFuSXlmY3QwZGJERy12WnVlQk5yYXZnTlItMWZOcmJlM01MODFVNHlqOHlUNDdDNTM2T1NCTUdaZm5QYVhZZ1VDVTJZRHpvOEJ1Q2syNDNZelo1ZWpQUjRWR3d4WVc4aF95NTZZLW1wcVJTRkhDT21JSlk?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9b58bb0c0c76"
+    },
+    {
       "date": "2026-10-27",
       "company": "Canva",
       "front": "Creative",
@@ -1499,45 +1534,174 @@
       "source": "Google News",
       "curated": false,
       "id": "8047dd8e6d48"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches AI model designed for text-rich images",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2FyWHEzZWxYdm9rQXVQWUNoZlJMeG1EbEJ5OHgybmVUbEdLb0RKZWMwYzUxclBsOHc5NUpTSWJzX21kaW5DQWFnVjAyWWtKSUZEWmpSSGxJT1ZQSUdBc1BoOFJnVXFQSl85RVN6dXZlQ1c1TTZzTEFkaXFtbVpIZmtZWkM3WkgxNk9IdnJ3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ca68592d5f79"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Introducing Tesla Roadster... Again",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE55c21qQmhDQmhaWHJ1eWw5X1J1d3ktbGdFWE5HMnJMM3RqRThkelNjcXcwZHI5aHJzTy1J?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dcae85d0c7e8"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$1 Billion",
-      "title": "Higgsfield Adds TCV And NVIDIA To Series B As AI Media Platform Surpasses $1 Billion Annualized Revenue",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUwxNXhYOXJPQWlfUW9WNkxBc3FnYmctUUNiWU1ENVRSSFJYeVc0TEFjbGRUUmxhSFhYNXZuSWVWRjhGOW1fX0RoUzduQ3FGLVUxVFZpMGxlZE9rZVhsbjljV2t3ekU5akFEREoyVHlLYWF5ZU5DaUdRSXc5cTdqcjZsRHpDWVZDb1NpeXBTQjluYUt4V0lBQ19xRjF2WkdSSG45elhoZ3Nmd2VXWHRxZHdQR0xpVC05WUkzcDZMcw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fa84a23defef"
     }
   ],
   "items": [
+    {
+      "id": "67d436a2b181",
+      "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
+      "source": "Search Engine Journal",
+      "summary": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search. The post The Hreflang Magic Trick – It Routes, It Doesn’t Rank appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-28T14:00:59Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "d5a1a7dbe721",
+      "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+      "url": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
+      "source": "Search Engine Journal",
+      "summary": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines. The post Decodo Launches Web Data API To Give AI Agents Web Access appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-28T13:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "814eee08aecd",
+      "title": "Google Search Fan POV (Point Of View) Button",
+      "url": "https://www.seroundtable.com/google-search-fan-pov-42401.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has added a new interactive search button to some sports-related queries named \"Fan POV.\" If you go to Google Search and search for [world series], Google will show a blue button that has a baseball emoji and the words \"Fan POV.\" When you click on it, it opens a dialog…",
+      "category": "SEO",
+      "published": "2026-10-28T12:35:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fa46ed6dbf30",
+      "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
+      "url": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
+      "source": "Search Engine Journal",
+      "summary": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season. The post GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-28T12:00:45Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1093cab04e1c",
+      "title": "Google Ads Tests Sponsored Results With Apple Messages Button",
+      "url": "https://www.seroundtable.com/google-ads-apple-messages-button-42400.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a new messaging button named Apple Messages on the Google Ads sponsored results. Google has placed messages button, message assets, on Google search ads for a long time now but I don't think I've seen the Apple Messages button before.",
+      "category": "SEO",
+      "published": "2026-10-28T11:56:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "06a025399c89",
+      "title": "Google Ads \"All Conversions\" Tab Is Fully Live",
+      "url": "https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads seems to have rolled out the \"All conversions\" tab within the Goals and Conversions section. This allows advertisers to make one less click, where they can avoid clicking on \"View all conversion actions.\"",
+      "category": "SEO",
+      "published": "2026-10-28T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "523ae6467cc6",
+      "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
+      "url": "https://www.seroundtable.com/google-facebook-messenger-mme-links-42377.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is emailing businesses to let them know it is automatically adding Facebook (Meta) Messenger M.me links to their Google Business Profile. I don't think I've seen Google add m.me links to a Google Business Profile before, so this may be new.",
+      "category": "SEO",
+      "published": "2026-10-28T11:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d9b2826a7688",
+      "title": "Google Image Search Tests Save Button On Image Overlay",
+      "url": "https://www.seroundtable.com/google-images-save-button-overlay-42394.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing a new position for the Save button within Google Image Search. When you hover your mouse cursor over an image, you may see a \"Save\" button show up that you can click on. The previous method was to show the Save button when you click on an image and the image…",
+      "category": "SEO",
+      "published": "2026-10-28T11:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1284afd4e971",
+      "title": "Bing Tests Get Phone Number & QR Code To Scan",
+      "url": "https://www.seroundtable.com/bing-get-phone-number-qr-code-42397.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Bing is testing adding a phone icon to the local pack on desktop, when you click on the phone button, it has a scan to call QR code with the phone number listed out. Google did this back in 2023 and now Microsoft Bing is testing it.",
+      "category": "SEO",
+      "published": "2026-10-28T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6eb37bf61d38",
+      "title": "Google Business Profiles Asking Businesses For EIN",
+      "url": "https://www.seroundtable.com/google-business-profiles-ein-request-42382.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is asking some businesses to provide their EIN, Employer Identification Number and a link to their privacy policy when updating parts of their Google Business Profile.",
+      "category": "SEO",
+      "published": "2026-10-28T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "fcee1d5d3580",
+      "title": "Google Signals A Wider Crackdown On UGC SEO Spam via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
+      "source": "Search Engine Journal",
+      "summary": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On UGC SEO Spam appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-28T11:04:02Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1027734ce2cf",
+      "title": "Google AI Mode: All You Need to Know",
+      "url": "https://ahrefs.com/blog/google-ai-mode/",
+      "source": "Ahrefs Blog",
+      "summary": "Then, at Google I/O in May 2026, Sundar Pichai called AI Mode “our biggest upgrade to Search ever” and said it had passed 1 billion monthly active users. It’s no longer just an experiment. AI Mode now has its own … Read more ›",
+      "category": "GEO",
+      "published": "2026-10-28T10:41:46Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "2fc8e689e413",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "category": "GEO",
+      "published": "2026-10-28T09:30:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "1334271b063a",
+      "title": "AI Discoverability, Page types, and more (September 2026)",
+      "url": "https://ahrefs.com/blog/new-features-september-2026/",
+      "source": "Ahrefs Blog",
+      "summary": "We’ve got 5 updates this month, from a brand-new AI Discoverability category in Site Audit to Page types in Site Explorer, and more. Let’s dive in. AI Discoverability issues AI Discoverability is a new issue category in Site Audit. It … Read more ›",
+      "category": "SEO",
+      "published": "2026-10-28T08:34:28Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "744bf5f0862e",
+      "title": "Google sends Knowledge Graph facts to AI Mode as uncited \"Biography\" search results",
+      "url": "https://dejan.ai/blog/knowledge-graph-biography-ai-mode/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "AI Mode receives Knowledge Graph biographies of people and companies as search results with no URL. Building on Natzir Turrado and Olivier de Segonzac: 99 QRS providers, 542 result types and 268 query signals in Google Earth's 15 October build.",
+      "category": "GEO",
+      "published": "2026-10-28T04:18:42Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "71c92905e4ce",
       "title": "How Enterprise Brands Should Structure AEO Teams in 2027",
@@ -1595,10 +1759,10 @@
     },
     {
       "id": "e4fd7bb51e73",
-      "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin via @sejournal, @MattGSouthern",
+      "title": "Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
       "source": "Search Engine Journal",
-      "summary": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Moves AI Agent Knowledge Base Into Merchant Admin appeared first on Search Engine Journal .",
+      "summary": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-27T15:39:22Z",
       "coverage": 1,
@@ -4122,171 +4286,6 @@
       "published": "2026-10-14T07:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "7d10f0ddfecf",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "category": "SEO",
-      "published": "2026-10-14T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "fecbdc06c83a",
-      "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/",
-      "source": "Search Engine Journal",
-      "summary": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't. The post Bing Webmaster Tools Sorts AI Search Queries Into Topics appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-14T00:19:30Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "7b20f81dfcef",
-      "title": "Gemini 4 Argon's personality: no hype, hard facts, fewer tables",
-      "url": "https://dejan.ai/blog/argon/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Release-day tests on Gemini 4 Argon: it punishes hype and still wants hard facts like prices, but tables, a favourite of every Flash model, fall from 93.6% to 31.5%.",
-      "category": "GEO",
-      "published": "2026-10-14T00:13:55Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2f3282e48314",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "category": "SEO",
-      "published": "2026-10-14T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "e4f1265b2f96",
-      "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
-      "source": "Search Engine Journal",
-      "summary": "Experimental Core Web Vitals that count in-app page changes are now in the Chrome UX Report, with Search Console set to follow. The post Google Adds Experimental Soft Navigation Metrics To CrUX appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-13T21:31:39Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9275f36d165e",
-      "title": "Google Search On PDFs: Conversion, Links, HTML, Ranking, Limits, Crawling...",
-      "url": "https://www.seroundtable.com/google-search-on-pdfs-42291.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's Martin Splitt and John Mueller just posted a Search Off the Record podcast on the topic of PDFs, it is named PDFs in Search: Indexing, AI & Pitfalls. It goes over how PDFs are converted for crawling and indexing, how Google processes links, images, what are the file…",
-      "category": "SEO",
-      "published": "2026-10-13T19:27:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "faccdeabb0de",
-      "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
-      "source": "Search Engine Journal",
-      "summary": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-13T17:18:44Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "66af0fae8a0d",
-      "title": "Introducing Topics Portfolio (Beta) in AI Performance",
-      "url": "https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/",
-      "source": "Bing Webmaster",
-      "summary": "Bing Webmaster Tools introduces Topics Portfolio, a beta view of sites’ presence across thematic AI Search clusters. It combines portfolio-level context with query-level opportunities for planning growth. Each topic shows Topic Size, Sites Cited, and Queries, indicating demand…",
-      "category": "GEO",
-      "published": "2026-10-13T15:16:06Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "6b4de7478fcf",
-      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
-      "url": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
-      "source": "Search Engine Journal",
-      "summary": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-13T14:00:21Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "40c4fd7b5d0d",
-      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
-      "url": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
-      "source": "Search Engine Journal",
-      "summary": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages. The post Lost In Translation: How Language Changes Which Brand AI Recommends appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-13T12:00:05Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ffc748cb8d88",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "category": "GEO",
-      "published": "2026-10-13T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "a91f7954e3ec",
-      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move?",
-      "url": "https://www.seroundtable.com/google-search-old-domain-42279.html",
-      "source": "Search Engine Roundtable",
-      "summary": "I spotted a thread on Reddit that seemed off from an SEO perspective. A site owner said he switched to a new domain four months ago, Google indexed and served the new domain but then all of a sudden, Google started to show the old domain again four months after the migration.",
-      "category": "SEO",
-      "published": "2026-10-13T11:43:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d1b03867f1dc",
-      "title": "Google May Show Pharmaceutical & Drug Ads In AI Mode & AI Overviews",
-      "url": "https://www.seroundtable.com/google-ads-drugs-ai-mode-ai-overviews-42277.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google may show \"certain pharmaceutical products\" and pharmaceutical drugs within ads in AI Mode and AI Overviews. A Google spokesperson told Adweek it has \"recently expanded to include certain pharmaceutical products\" within these surfaces.",
-      "category": "GEO",
-      "published": "2026-10-13T11:41:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "a584a0969f28",
-      "title": "Google Discover To Transform Into Hyper-Personalized Concierge",
-      "url": "https://www.seroundtable.com/google-discover-hyper-personalized-concierge-experience-42276.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google posted a new job posting to hire a Principal, UX, Search Discover who will lead efforts to transform Google Discover into a \"proactive, hyper-personalized concierge experience.\"",
-      "category": "SEO",
-      "published": "2026-10-13T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dd25917b28a8",
-      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
-      "source": "Search Engine Journal",
-      "summary": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-13T11:23:58Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
