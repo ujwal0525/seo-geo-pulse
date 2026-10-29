@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T04:43:24Z",
+  "updated": "2026-10-29T14:59:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1539,6 +1539,127 @@
   ],
   "items": [
     {
+      "id": "bb41fc913bb3",
+      "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+      "source": "Search Engine Journal",
+      "summary": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-29T14:00:06Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "e847f9b69868",
+      "title": "How Stable Are AI Citations? 10 Things We Learned Tracking 37,500 Citations",
+      "url": "https://ahrefs.com/blog/how-stable-are-ai-citations/",
+      "source": "Ahrefs Blog",
+      "summary": "Key takeaways: Treat citation volatility as normal. It seems to be a built-in trait of AI answers, and it may change significantly with model updates. So, aim to appear more often over time, not to hold every citation without interruption. … Read more ›",
+      "category": "GEO",
+      "published": "2026-10-29T13:25:17Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0d9e5fe6f260",
+      "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
+      "source": "Search Engine Journal",
+      "summary": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-29T12:00:46Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ea0174a33255",
+      "title": "Google Does Not Show All Spammy Links In Search Console",
+      "url": "https://www.seroundtable.com/google-search-console-does-not-show-all-links-42407.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google does not show all links, and not all spammy links, within the Search Console links report. This is not new, Google has long said that the link report only shows a sampling of links.",
+      "category": "SEO",
+      "published": "2026-10-29T11:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "912aa793e4b1",
+      "title": "Google AI Overviews With Query Refinement Bubbles",
+      "url": "https://www.seroundtable.com/google-ai-overviews-query-refinement-bubbles-42406.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing query refinement bubbles at the top of the AI Overviews in Google Search. But clicking the refinement bubble does not change the query, instead, it takes you into AI Mode for that query set.",
+      "category": "GEO",
+      "published": "2026-10-29T11:41:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "f384a0ef5132",
+      "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
+      "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are…",
+      "category": "GEO",
+      "published": "2026-10-29T11:31:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ba43d2cb3cba",
+      "title": "Google Merchant API With New October 2026 Updates",
+      "url": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has released several updates to the Merchant API for October 26. The update expands YouTube Shopping and AI-commerce reporting, adds product attributes for videos and warranties, improves disapproval diagnostics, and introduces API integration enhancements and reporting…",
+      "category": "SEO",
+      "published": "2026-10-29T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2435bdf61ee6",
+      "title": "Is Google Testing Dropping Citations Cards From AI Overviews?",
+      "url": "https://www.seroundtable.com/citations-cards-google-ai-overviews-42413.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google may be testing removing the citations card on the Google AI Overviews section. So when you do a search on desktop and see an AI Overview, Google generally shows a citations card that has links to the sources you can click on. Google is reportedly testing removing that…",
+      "category": "GEO",
+      "published": "2026-10-29T11:11:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "77e3c5e5e1c8",
+      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
+      "source": "Search Engine Journal",
+      "summary": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-29T11:07:37Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f1d355db7dca",
+      "title": "How the Same 16,000 Users Behave in AI Search vs. Google",
+      "url": "https://ipullrank.com/ai-search-user-behavior",
+      "source": "iPullRank (Rank Report)",
+      "summary": "Comparing AI and Google searches among the same group of users over a month to examine how their behavior differs between platforms. TL;DR: I matched 16,310 users across two Datos panels to compare how each user searched with Google and LLMs and understand how we need to track…",
+      "category": "GEO",
+      "published": "2026-10-29T11:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "483601444414",
+      "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
+      "source": "Search Engine Journal",
+      "summary": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. The post Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-29T07:45:03Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
       "id": "ef5fbe5e6878",
       "title": "We Trained AI. Now AI Trains Us.",
       "url": "https://dejan.ai/blog/we-trained-ai-now-ai-trains-us/",
@@ -1595,10 +1716,10 @@
     },
     {
       "id": "ead29250331c",
-      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+      "title": "Google Gives Restaurants Direct Control Over Ordering Providers via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
       "source": "Search Engine Journal",
-      "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Lets Restaurants Directly Opt Out Of Ordering Providers appeared first on Search Engine Journal .",
+      "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-28T22:11:43Z",
       "coverage": 1,
@@ -4166,127 +4287,6 @@
       "published": "2026-10-15T11:51:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "4d63ddc53b00",
-      "title": "Google Tests New Search Bar In Google App",
-      "url": "https://www.seroundtable.com/google-app-new-search-bar-42267.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a redesigned search bar within the Google mobile app. The new search bar is now has the + sign in it, and instead of saying \"Search,\" it says \"Ask Google.\" The search bar is also white, as opposed to gray and is thinner and higher up on the page.",
-      "category": "SEO",
-      "published": "2026-10-15T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ab5044a4e51a",
-      "title": "Google Ads Updates Sexual Content Policy With More Examples",
-      "url": "https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has updated the sexual content policies to \"provide additional examples and clearer information to advertisers,\" the company wrote. The main section that was updated was the \"Sexually suggestive elements and themes\" section.",
-      "category": "SEO",
-      "published": "2026-10-15T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9e351283698d",
-      "title": "Bing Tests Related Searches Based On Your Browsing",
-      "url": "https://www.seroundtable.com/bing-related-searches-based-on-your-browsing-42302.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Bing is testing showing \"Related searches based on your browsing\" similar to how Google is/was showing this a few months ago. In Bing's test, this is below the Microsoft Ads in the search results.",
-      "category": "SEO",
-      "published": "2026-10-15T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6d7b50edc6ed",
-      "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
-      "source": "Search Engine Journal",
-      "summary": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations. The post Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-15T10:32:28Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9e41f21a0dab",
-      "title": "Operationalizing AI: Proven Workflows That Generate Measurable Revenue",
-      "url": "https://moz.com/blog/ai-workflows-generate-measurable-revenue",
-      "source": "Moz Blog",
-      "summary": "Most teams use AI. Almost none compound it. Eric Siu shows how Single Grain turns repeat work into skills, evals, and loops that improve every week.",
-      "category": "SEO",
-      "published": "2026-10-15T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "dd00c04c9b95",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "source": "OpenAI",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "category": "SEO",
-      "published": "2026-10-15T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "088a8493483c",
-      "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
-      "source": "Search Engine Journal",
-      "summary": "Google's new Search Central video series tackles unusual technical SEO questions, starting with emoji, non-English characters, and keywords in your URLs. The post Google Launches A Video Series For Odd Technical SEO Questions appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-14T18:51:41Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f1431f8dd370",
-      "title": "How Websites Are Becoming a Key Trust Signal for Consumers",
-      "url": "https://neilpatel.com/blog/website-credibility/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways AI has made it easier than ever to create a website, generate content, and put a brand online. That speed comes with a new challenge: consumers have more reason to question what they see. A convincing business can appear online almost overnight. For customers, a…",
-      "category": "SEO",
-      "published": "2026-10-14T16:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "9b5f088b29a5",
-      "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
-      "source": "Search Engine Journal",
-      "summary": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on…",
-      "category": "SEO",
-      "published": "2026-10-14T15:00:33Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0223a29f27ad",
-      "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores & Emojis",
-      "url": "https://www.seroundtable.com/google-search-urls-42305.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google posted its first video in a series of what they are calling The Non-Canonical Cabinet. In this video, Cherry Prommawin and Gary Illyes discussed how Google Search deals with URLs. They discuss URLs as a ranking signal, hyphens versus underscores, emojis and much more.",
-      "category": "SEO",
-      "published": "2026-10-14T14:57:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "54bfa861fba1",
-      "title": "Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing",
-      "url": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
-      "source": "Search Engine Journal",
-      "summary": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
-      "category": "Algorithms",
-      "published": "2026-10-14T14:00:20Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
