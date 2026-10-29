@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:49:24Z",
+  "updated": "2026-10-29T04:43:24Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-28",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
+      "url": "https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "c5d3f213e931"
+    },
     {
       "date": "2026-10-26",
       "family": "model",
@@ -803,15 +813,6 @@
       "url": "https://searchengineland.com/google-may-2026-core-update-rollout-is-now-complete-479119",
       "curated": true,
       "id": "5657df9e6eb3"
-    },
-    {
-      "date": "2026-05-19",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google I/O: AI Mode 'intelligent search box' (Gemini 3.5 Flash)",
-      "url": "",
-      "curated": true,
-      "id": "4bf7d8a6b9e1"
     }
   ],
   "competitors": [
@@ -898,6 +899,42 @@
       "source": "Google News",
       "curated": false,
       "id": "5a20c14bc2fb"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Grand Forks Air Force Base unveils new runway with ribbon-cutting ceremony",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2lldnFIejhsSDBYeExnam5VcDZzYXdLQWtjUG16akpWYW0yMnh3SU02T3RadXhnVFZHdzBJVElJWGlVMlJsVmZXVlo2OU0zNGRhd2kxZmN1NS16LVYtb3dsZTkxR0NKVTU2S0QyQVBWN29xbzN1ZFo2QW1TaV8yV1p4emJuYlBiWlRJc2wzSHY3M1JURUVmV0lrNkJjbkN0S1hvX1dXYUtSRFhuaTVPamRVZk9kemp6RGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "09a464964427"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "$152M",
+      "title": "$152M runway project launches at Selfridge military base in Macomb County",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS01zcWdvdTRSdzRNYXJLT0ljODZPaUNjaVExODJsZFFXU2VmTHJHMHZrOF92LUVxOGRGVFNtbUNTTk5QRGdtSVdVVVdDal91RjBGSUEtU0dXa0F2OXhCZDA2YWt3SlFSNW5kcFpUYzVjTW1nZ3VVNTUyQ2xzYmlEMmFtNlgxSnRXUXNWTU1KamZQcFFSMGgxeU4yOVhpam15Rk9TSzdZd09meHFpY2VkZg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "cd3776c27851"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "McDonald's unveiled limited-time holiday beverages and an $8 meal at participating locations. See link below ⬇️ 📸 Scott Olson, Getty Images",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbmVkRnVWUDBSRGVfOXRZbklNV1NFaGdsanFObnM0dk11S3FkVlBqWkFQaXFDOER1alZ4eDRUbm8xSVVsT2ZaTlhzdjl1MlMwZ1RlNnBkNmxoTW9DVGZxWG1GTnh4N21MN2VzTFMySHZzY1B1TGNyMVhLdXp0MUloMUFWa1N6cnVKY21XZUl0ZVRHRlRZZ29FSmdoUnJic2FvSXF5aEVEYmJLejdzYmtfUnRlR09jQWdPdTctSmxaS0ZBZUQ2THF3bTlRcktvaHk5c2xTbzA4MjkzUWFHcE13?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d489854f09eb"
     },
     {
       "date": "2026-10-27",
@@ -1498,45 +1535,75 @@
       "source": "Google News",
       "curated": false,
       "id": "fa266d2d9267"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Releases AI Image Generator That Wasn’t Trained on Photographs",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1laZmtRTjVQQ1VNWGRpazZmNXp5cjNoX3ZZRmNWR3BDa2doaFdIbUFOOXFiVTc4OFA0X2JzLVFJQjhNMDZ3ZG45cXh6YmRaOUxBWUhralRuOURYOVVCUGlYcnRJOFJaRDVJMi1aTTJ0dUJBMmFYb05fZzJKTXBXRXh3WGFlR0haRUx5UnVXUGhfVUZGa0JaMDkzLVBsOXVmSGFN?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a467f59b5414"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Launches Craft, Its First Image Generation Model Built for Design",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzY4TWdXaGFXMldpNTlSWHJLZHctNmFOci1xZVVZQXdLQzUweG1fb0JBTkJncExKTjBzRVI4aU1BYmh5OVFONl9FN1pzbDdrcUJ1UnpzeFFuUnBac0hjNU0yOF9IZlU3LUtsVjVCdlZ0eHBkQ0dWLXZBNUxWUk9ySkp3VTNWc2tqU2dnMEd4YXp3MzRiUk11Zk40UmozRHNxVjZCRXZxWWc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c12ff436d895"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "More Voices, More Markets: AudioStack Rolls Out ElevenLabs' v4",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFIxMkIxZ3NDOXp6eDZqSnBPTjl0V3ExYW81ZGdYcXBhbmVsVXJLWlJHT09wU3ZxR1U1dU5PVUc2ekhkRUowMXBCaUJpeXBHZkRaSDVqeUkwNUhDZVNTcU5IbmR0RnFVcHhNWUQyb0F3Vmw0aXNuZ25BTnZjWTFxbEQ5VmFqbHU0bFo0ekNueFhYWEdTYkFGRU1DS1dCTHFyTlc5QnpwWHI?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "72990f206506"
     }
   ],
   "items": [
+    {
+      "id": "ef5fbe5e6878",
+      "title": "We Trained AI. Now AI Trains Us.",
+      "url": "https://dejan.ai/blog/we-trained-ai-now-ai-trains-us/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "People take on AI's reasoning as their own, and it shapes how they decide next time.",
+      "category": "SEO",
+      "published": "2026-10-29T00:16:49Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "b16ad67af33b",
+      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
+      "source": "Search Engine Journal",
+      "summary": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given. The post Google Says Lower AI Mode Monetization Weighed On Search Growth appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-28T23:12:24Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "5b6f048becc1",
+      "title": "Google Business Profiles Finally Adds Third-Party Ordering Controls",
+      "url": "https://www.seroundtable.com/google-business-profiles-ordering-controls-42411.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has finally added the ability to manage and control third-party ordering services on an individual basis for restaurants within Google Business Profiles. So you can disable features completely or partially from within Google Business Profiles.",
+      "category": "SEO",
+      "published": "2026-10-28T22:32:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "37ef36f1d85f",
+      "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
+      "url": "https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google announced it is expanding ads in AI Mode to several more countries including Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. Then in Q4 Google will also expand ads in AI Mode to Brazil, Mexico, and the United…",
+      "category": "GEO",
+      "published": "2026-10-28T22:30:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "6a64ebe3a9c0",
+      "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
+      "source": "Search Engine Journal",
+      "summary": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-28T22:14:34Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "ead29250331c",
+      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
+      "source": "Search Engine Journal",
+      "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Lets Restaurants Directly Opt Out Of Ordering Providers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-28T22:11:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "1f6b023391d0",
       "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
@@ -1547,6 +1614,17 @@
       "published": "2026-10-28T20:42:47Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "64629d93bb0b",
+      "title": "Bing Ads Revenue Up 12% With Overall Revenue Up 19%",
+      "url": "https://www.seroundtable.com/microsoft-earnings-q127-42404.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft reported its first quarter 2027 earnings, showing that its search and advertising revenue was up 12%, indicating its ad growth was 2 points higher than the previous quarter. The previous quarter it was up 10%, before that was up 12%, before that up 10% before that, up…",
+      "category": "SEO",
+      "published": "2026-10-28T20:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "060858c757a7",
@@ -1836,10 +1914,10 @@
     },
     {
       "id": "ecbc9411295d",
-      "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
+      "title": "Google Turns Off Discover Experiment After AI Summary Source Bug via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
       "source": "Search Engine Journal",
-      "summary": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google: Disabled Discover Clicks Were A Bug In An Experiment appeared first on Search Engine Journal .",
+      "summary": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google Turns Off Discover Experiment After AI Summary Source Bug appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-27T20:06:27Z",
       "coverage": 1,
@@ -4209,83 +4287,6 @@
       "published": "2026-10-14T14:00:20Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "87c110d37371",
-      "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
-      "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
-      "source": "Search Engine Journal",
-      "summary": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify. The post Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means appeared first on Search…",
-      "category": "SEO",
-      "published": "2026-10-14T12:00:06Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "72db3876dc1c",
-      "title": "Check out this year’s buzziest Halloween trends.",
-      "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
-      "source": "Google (Search)",
-      "summary": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
-      "category": "SEO",
-      "published": "2026-10-14T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "1c7e58ceb95c",
-      "title": "6 ways to trick-or-treat yourself to the ultimate Halloween with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/halloween-tips-2026/",
-      "source": "Google (Search)",
-      "summary": "An abandoned video rental store lit by a red neon sign at night.",
-      "category": "SEO",
-      "published": "2026-10-14T12:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a0e0fec2c2b5",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "category": "GEO",
-      "published": "2026-10-14T12:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "24cc989c02db",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "category": "SEO",
-      "published": "2026-10-14T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "9ce7eeb83889",
-      "title": "Google Ads Search Terms & Ad Combinations As One Report",
-      "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. This report shows how search queries, ad creatives, and landing pages work together.",
-      "category": "SEO",
-      "published": "2026-10-14T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6b68d0d4818d",
-      "title": "Google Tests AI Mode Left Sidebar On Main Google Search Results Page",
-      "url": "https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing placing the left vertical sidebar you see in AI Mode results on the main Google web search results page. This places the small super G Google logo on the left, with the chat history lines, a way to start a chat with AI Mode and the settings icon all on the left…",
-      "category": "GEO",
-      "published": "2026-10-14T11:41:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
