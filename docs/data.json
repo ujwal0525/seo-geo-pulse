@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:59:39Z",
+  "updated": "2026-10-29T20:54:59Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-29",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
+      "url": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "faf4b84fd31c"
+    },
     {
       "date": "2026-10-28",
       "family": "engine",
@@ -804,18 +814,21 @@
       "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
       "curated": true,
       "id": "f0e05ca36ff3"
-    },
-    {
-      "date": "2026-05-21",
-      "family": "engine",
-      "platform": "Google",
-      "title": "May 2026 core update",
-      "url": "https://searchengineland.com/google-may-2026-core-update-rollout-is-now-complete-479119",
-      "curated": true,
-      "id": "5657df9e6eb3"
     }
   ],
   "competitors": [
+    {
+      "date": "2026-10-29",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Pika Launches Pika H3 Flex, a Video Model Built for Professional Iteration",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHFsenhOd3Z6eGdmNVl3MDc0Ump3ci1wdHdHT0ljOUVhejU1YXRmVDRNVFR4QkJ0UWFrcUhmcDdianZNMGktWmZCUldmd3JSNGVYdC0wZXhRS18tWWZEWktFQUY2dUUxQ2h0cFBJUERkajBod0xzMXY4VHMzWnUyVGhvak0ya2FoajY5ajFoaVdya3l3eWNhWXAzUEF3RjZsUGFGaUx3MTdLQXZmalZaSDZ4cFlqTk1OYlpuRzJmZWwxN1JoUURxTWdR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8621ac273a30"
+    },
     {
       "date": "2026-10-28",
       "company": "Runway",
@@ -1523,21 +1536,97 @@
       "source": "Google News",
       "curated": false,
       "id": "988e73255f08"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "SelfyzAI Among First to Integrate Kling 4.0 API: New Model Available in Workspace",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDE1Nm13TVBhdjdWZW1MQjctNUpWWGVmWkxlUEZmakcyaXlsS21CYzJ2TnAwVGN4TDhPWEtCRDlTSkJNdVNLeU4wdFBwYnZaRlhVVkwxMVYyXzdFZmwtY1VsUE9RVUJkOHdQdk5oTkw0bWppRjlWMFk1Q2lwTXZpTjFyWm1IQVlGaXAxQnR2YldPeXlWQXRoV243eExXbmVsUUVMRWRwSWQ1STY5c0VIU1duWQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fa266d2d9267"
     }
   ],
   "items": [
+    {
+      "id": "07e78cab6e3d",
+      "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
+      "source": "Search Engine Journal",
+      "summary": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post Google’s Ads Decoded Explores How AI Is Changing Search Behavior appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-29T20:24:25Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "b98075034222",
+      "title": "Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
+      "source": "Search Engine Journal",
+      "summary": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post Google’s Q3 Selloff Raises Advertiser Concerns About AI Search appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-29T19:47:55Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "f4ffc7cbff47",
+      "title": "Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/accurate-facts-can-still-produce-a-false-ai-answer-and-courts-are-starting-to-hold-the-platform-responsible/594296/",
+      "source": "Search Engine Journal",
+      "summary": "AI search merges businesses with their lookalikes, and courts are holding platforms liable. Here’s how conflation happens and how to make your entity unmistakable. The post Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform…",
+      "category": "GEO",
+      "published": "2026-10-29T19:00:31Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6000479a2db2",
+      "title": "Google's John Mueller: Eventually Systems Will Catch The AI Spam & Tricks",
+      "url": "https://www.seroundtable.com/john-mueller-google-systems-ai-spam-42420.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller was interviewed by David Iwanow, where he shared information on AI-generated content, the future of SEO, technical SEO, the crawl stats report, redirect chains, ecommerce product data and much more. John was asked about tactics, such as listicles, being…",
+      "category": "SEO",
+      "published": "2026-10-29T17:25:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7bf0065ceb16",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "category": "SEO",
+      "published": "2026-10-29T17:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "d1d8a597a07a",
+      "title": "Google Business Profiles AI-Powered Messaging Expands",
+      "url": "https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be rolling out access to the Google Business Profile AI-powered messaging feature to more businesses. I believe we covered this in June of this year, but since then, Google made some updates to the feature.",
+      "category": "SEO",
+      "published": "2026-10-29T16:55:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "fb8a044b4619",
+      "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
+      "source": "Search Engine Journal",
+      "summary": "Check whether search engines can find and understand your images, and spot technical issues that limit their visibility in multimodal search. The post How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-29T15:30:40Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "925e7b30cc7d",
+      "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
+      "url": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google announced earnings yesterday, and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a \"lower monetization\" than ads in traditional search.",
+      "category": "GEO",
+      "published": "2026-10-29T14:15:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "bb41fc913bb3",
       "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
@@ -1548,6 +1637,17 @@
       "published": "2026-10-29T14:00:06Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "b146304f0936",
+      "title": "Daily Search Forum Recap: October 29, 2026",
+      "url": "https://www.seroundtable.com/recap-10-29-2026-42414.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-10-29T14:00:00Z",
+      "coverage": 2,
+      "impact": 6.0
     },
     {
       "id": "e847f9b69868",
@@ -1649,6 +1749,17 @@
       "impact": 4.0
     },
     {
+      "id": "d28967fce9c6",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "category": "SEO",
+      "published": "2026-10-29T09:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "483601444414",
       "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
@@ -1658,6 +1769,17 @@
       "published": "2026-10-29T07:45:03Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "2d9928289658",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "category": "SEO",
+      "published": "2026-10-29T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "ef5fbe5e6878",
@@ -1834,17 +1956,6 @@
       "published": "2026-10-28T14:00:59Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "5eaa332d2a83",
-      "title": "Daily Search Forum Recap: October 28, 2026",
-      "url": "https://www.seroundtable.com/recap-10-28-2026-42398.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-28T14:00:00Z",
-      "coverage": 2,
-      "impact": 6.0
     },
     {
       "id": "75e2017ed4c5",
@@ -4177,116 +4288,6 @@
       "published": "2026-10-15T16:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "bb05c2bb9d5b",
-      "title": "More ways to connect with the web from Search",
-      "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
-      "source": "Google (Search)",
-      "summary": "TBD",
-      "category": "SEO",
-      "published": "2026-10-15T16:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d8da3810a156",
-      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
-      "source": "Search Engine Journal",
-      "summary": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-15T16:00:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "08e53641e7c1",
-      "title": "Google Updates Links In AI Mode & AI Overviews Again, Won't Show Click Data",
-      "url": "https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google, for the umpteenth time, has updated how it shows links and carousel link cards in AI Mode and AI Overviews. Google always says this is to encourage searchers to click from the AI response to the publisher or creator, but it feels as if those efforts to drive clicks from…",
-      "category": "GEO",
-      "published": "2026-10-15T16:00:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "fe78684251a2",
-      "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
-      "source": "Search Engine Journal",
-      "summary": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 & 2030 appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-15T14:00:33Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "cfdc749d35ab",
-      "title": "Three Ways to Spend Q4 Budget on AI Search (and Prove It Worked by February)",
-      "url": "https://ipullrank.com/q4-budget-ai-search-2027",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Every year the same thing happens. Money surfaces in October. Finance wants it committed by December. And it gets shoveled into whatever can absorb cash fast: a paid media bump, a rushed refresh of outdated content, another round of display retargeting. Most of it is gone by…",
-      "category": "GEO",
-      "published": "2026-10-15T13:36:17Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "b792a990c3cc",
-      "title": "An intelligent new shopping cart",
-      "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-      "source": "Google (Search)",
-      "summary": "Images of the global cart UI, over a collage of products",
-      "category": "SEO",
-      "published": "2026-10-15T13:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "fa14b8f7db46",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "category": "SEO",
-      "published": "2026-10-15T13:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b4aeabca9ac7",
-      "title": "How to do an SEO audit with Claude & the Semrush MCP",
-      "url": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/",
-      "source": "Semrush Blog",
-      "summary": "Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data.",
-      "category": "SEO",
-      "published": "2026-10-15T12:32:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "9ae01d59fb8d",
-      "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
-      "url": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
-      "source": "Search Engine Journal",
-      "summary": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine…",
-      "category": "SEO",
-      "published": "2026-10-15T12:00:21Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3469abab0984",
-      "title": "Google Automotive Model Feeds On Search Ads (Vehicle Top Ads)",
-      "url": "https://www.seroundtable.com/google-vehicle-top-ads-42301.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has a new Google Ads beta format named automotive model feeds on search ads, also known as Vehicle Top Ads (Beta). This is a new search ad format designed specifically for vehicle manufacturers to showcase vehicles with rich visuals and key details in the search results.",
-      "category": "SEO",
-      "published": "2026-10-15T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
