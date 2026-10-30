@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:53:24Z",
+  "updated": "2026-10-30T20:28:42Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -7,7 +7,9 @@
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
+    "Google Search Central",
     "Growth Memo",
+    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -31,6 +33,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "8c98d7419afa"
+    },
+    {
+      "date": "2026-10-30",
+      "family": "engine",
+      "platform": "Microsoft",
+      "title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
+      "url": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "5428d0b78cbf"
     },
     {
       "date": "2026-10-29",
@@ -806,15 +818,6 @@
       "url": "https://ahrefs.com/google-algorithm-updates",
       "curated": true,
       "id": "30c975a9dced"
-    },
-    {
-      "date": "2026-06-09",
-      "family": "model",
-      "platform": "Anthropic",
-      "title": "Claude Fable 5 & Mythos 5",
-      "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-      "curated": true,
-      "id": "afb6b2070e24"
     }
   ],
   "competitors": [
@@ -889,6 +892,18 @@
       "source": "Google News",
       "curated": false,
       "id": "d446fed4fcec"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$2.98B · $18B",
+      "title": "Kling AI Raises $2.98B at $18B Valuation [2026]",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNG5HY1UzS1R4UHpRNVl3MzhMS3BmNktaRGJrR2Ytb0pVWG9QYTB1cWF5bkFXX3lmZjVpMUVXa0YtcGZGNFJPZUdHZmFLdlhxeVJaTktSaE9qc1E5TERRVFNNTkhZdzNUUTEwYTJHLVhhNWFneWR1UDlBZmtKSTIyeHhta1RDdUVOT1phdVZ3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "bf0448cdf5a1"
     },
     {
       "date": "2026-10-29",
@@ -1525,21 +1540,130 @@
       "source": "Google News",
       "curated": false,
       "id": "f7934a4144fe"
-    },
-    {
-      "date": "2026-10-24",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Puma’s Fast-RB Nitro Elite 2 launches globally next week",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2toSzB1NDF4T25sSkxTRWpDbEtFU0JpVHA0bVE0VjdfdW5yX3F4cGE1Z0ppRVg1Z2pjY2lWLUlEejZjZE1xd0E0U2hOTFg3TEV6QXhVc3pXakR3V3J5TGZsY21SNE10RG1TekNqdlVaTEU0eGV4R1czZ0VHalpYbE13U2lSTFBhbmwyeHN0NFE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0b2724d6172e"
     }
   ],
   "items": [
+    {
+      "id": "e85f289f8608",
+      "title": "Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
+      "source": "Search Engine Journal",
+      "summary": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. The post Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-30T19:47:37Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "034b7440f099",
+      "title": "The AI Search Measurement Gap Brands Must Close In 2027 And Beyond via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/",
+      "source": "Search Engine Journal",
+      "summary": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. The post The AI Search Measurement Gap Brands Must Close In 2027 And Beyond appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-30T19:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "3f4f578f2713",
+      "title": "New asset: AI Search Visibility Pitch Deck",
+      "url": "https://www.growth-memo.com/p/new-asset-ai-search-visibility-pitch",
+      "source": "Growth Memo",
+      "summary": "Make the budget case for AI visibility before attribution catches up",
+      "category": "GEO",
+      "published": "2026-10-30T17:09:58Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "077aeee481d2",
+      "title": "I Built a Tool to Watch ChatGPT Search, and It Predicted My Next Question",
+      "url": "https://www.seerinteractive.com/insights/chatgpt-search-tool",
+      "source": "Seer Interactive",
+      "summary": "TL;DR I wanted to understand how ChatGPT searched, so I wrote a script to watch it and tracked 3 random shopping conversations: a carry-on suitcase, a cloud backup tool, and a Spanish app For each topic, I asked an opening question plus two follow-ups in the same chat and saved…",
+      "category": "GEO",
+      "published": "2026-10-30T17:04:41Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "6b33ca68f100",
+      "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
+      "source": "Search Engine Journal",
+      "summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-30T16:38:30Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ed2fe70dbde8",
+      "title": "What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)",
+      "url": "https://ahrefs.com/blog/bluf/",
+      "source": "Ahrefs Blog",
+      "summary": "BLUF means bottom line up front: put your main point in the first sentence. Here's how to write it, with examples and a free BLUF rewriter. Read more ›",
+      "category": "SEO",
+      "published": "2026-10-30T16:27:18Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "2acb13ea3365",
+      "title": "Google’s Q3 2026 Earnings Call: Search & AI are merging into one unified product.",
+      "url": "https://www.mariehaynes.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/",
+      "source": "Marie Haynes",
+      "summary": "Even though Wall Street is panicking over Google's earnings call, it seems obvious to me what is happening. They are not going to slow down when it comes to AI. Throughout the call they spoke of agents and how we are in the early days of how they are changing Search. They told…",
+      "category": "SEO",
+      "published": "2026-10-30T16:20:41Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a783e2bb6ad6",
+      "title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
+      "url": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft just announced new Bing AI content controls \"offering newer, simpler, and clearer preferences that allow you to make choices about training, grounding, or both while remaining eligible for Bing search results,\" Krishna Madhavan, Principal Product Manager, Microsoft…",
+      "category": "GEO",
+      "published": "2026-10-30T16:15:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "31bb7b4f10cc",
+      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+      "source": "Search Engine Journal",
+      "summary": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-30T15:30:24Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2e2a52d6c74d",
+      "title": "ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
+      "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and…",
+      "category": "GEO",
+      "published": "2026-10-30T15:17:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "4bf96b0182de",
+      "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
+      "source": "Search Engine Journal",
+      "summary": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury & What Still Wins appeared first on…",
+      "category": "SEO",
+      "published": "2026-10-30T15:11:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "455c0f4bbcd3",
       "title": "More than bling: How SEO can help your jewelry brand get found",
@@ -1682,6 +1806,39 @@
       "published": "2026-10-30T09:40:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "25cc4c9bb2e3",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "category": "SEO",
+      "published": "2026-10-30T09:30:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "c7606af40dbb",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "category": "GEO",
+      "published": "2026-10-30T09:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "f041d99d423e",
+      "title": "Supporting a shared AI training control for websites",
+      "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+      "source": "Google Search Central",
+      "summary": "Today, we're announcing our plans to support a shared AI training control in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIPREF working group at the Internet Engineering…",
+      "category": "SEO",
+      "published": "2026-10-30T00:00:00Z",
+      "coverage": 2,
+      "impact": 7.0
     },
     {
       "id": "07e78cab6e3d",
@@ -1935,6 +2092,17 @@
       "published": "2026-10-29T00:16:49Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "6750c2461412",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "source": "OpenAI",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "category": "GEO",
+      "published": "2026-10-29T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "b16ad67af33b",
@@ -4124,171 +4292,6 @@
       "published": "2026-10-17T18:15:44Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "6dfd27f9c4d5",
-      "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
-      "source": "Search Engine Journal",
-      "summary": "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links. The post Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-17T12:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "9f1b6ed87c96",
-      "title": "Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
-      "source": "Search Engine Journal",
-      "summary": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta’s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-16T21:38:49Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4d675f6a9d94",
-      "title": "Why The New York Times Puts Free Content First",
-      "url": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
-      "source": "Search Engine Journal",
-      "summary": "The New York Times gives prime homepage space to free articles and tells readers they’re free. Here’s why that works. The post Why The New York Times Puts Free Content First appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-16T19:00:23Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "65442e708214",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "category": "SEO",
-      "published": "2026-10-16T19:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "72886fcc89a7",
-      "title": "Why AI Makes Content Ecosystems Essential",
-      "url": "https://neilpatel.com/blog/ai-content-systems/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways AI is changing more than how quickly marketers can create content. It is changing how marketing teams operate. McKinsey’s latest research argues that AI is moving organizations away from campaign-based marketing and toward continuous growth, supported by…",
-      "category": "SEO",
-      "published": "2026-10-16T16:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "d06402b902aa",
-      "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
-      "url": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
-      "source": "Search Engine Journal",
-      "summary": "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It’s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-16T14:00:20Z",
-      "coverage": 2,
-      "impact": 6.0
-    },
-    {
-      "id": "e552b9f3bf7a",
-      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
-      "url": "https://www.seroundtable.com/video-09-16-2026-42313.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several...",
-      "category": "GEO",
-      "published": "2026-10-16T12:01:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "977006ae9a77",
-      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
-      "source": "Search Engine Journal",
-      "summary": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-16T12:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "879afe85bfb4",
-      "title": "Google Search Ranking Volatility & Chatter Spike Today",
-      "url": "https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html",
-      "source": "Search Engine Roundtable",
-      "summary": "It has been a while since I reported on a Google Search ranking update. I blame the tools, but in all seriousness, I am seeing a spike in volatility and, now probably more importantly, a spike in chatter over the past 24 hours, related to Google Search ranking changes, referral…",
-      "category": "Algorithms",
-      "published": "2026-10-16T11:55:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "429e265f0018",
-      "title": "Google Ads To Allow Certification For Online Gambling Advertisers",
-      "url": "https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads will allow some advertisers to apply for certification for the category of online gambling. This started this month, October 2026, and will gradually be available to some advertisers in Google Ads.",
-      "category": "SEO",
-      "published": "2026-10-16T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d6cdf1790abd",
-      "title": "Bing Tests Read More Links In Search Result Snippets",
-      "url": "https://www.seroundtable.com/bing-read-more-links-42311.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing placing \"read more\" links within the Bing Search result snippets, like Google officially did a year or so ago. I am able to replicate this on some browsers, where Bing adds a \"Read more\" link at the end of the search result snippet that links to the same…",
-      "category": "SEO",
-      "published": "2026-10-16T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6b04aa20e87e",
-      "title": "Google Ads Lead Form Adds Lead Scoring For Lead Qualification",
-      "url": "https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google added the ability to add lead scoring by indicating answers that qualify a lead for your business to get higher-quality leads. You can add up to 12 answers per question and check off whether they qualify under the lead scoring section.",
-      "category": "SEO",
-      "published": "2026-10-16T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dbadd770ad18",
-      "title": "Bing Search Testing Popular Links On Snippets",
-      "url": "https://www.seroundtable.com/bing-testing-popular-links-42304.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft is testing adding the label \"Popular Links\" to the Bing search results sitelinks. This reminds me of the Google top pages test and variations of that.",
-      "category": "SEO",
-      "published": "2026-10-16T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "62fd228b99f6",
-      "title": "Google Ads API Releases Twice Per Month Going Forward",
-      "url": "https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule. Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month.",
-      "category": "SEO",
-      "published": "2026-10-16T11:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fa45f9d02d87",
-      "title": "Google Updated Indexing API Quota Details & More",
-      "url": "https://www.seroundtable.com/google-updates-indexing-api-quota-information-42316.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the indexing API documentation; this includes three different pages within the documentation. I think the big takeaway is that Google removed the old approval process and initial testing explanation, the sitemap recommendation, and, most importantly, the…",
-      "category": "SEO",
-      "published": "2026-10-16T10:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
