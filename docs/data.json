@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T04:42:22Z",
+  "updated": "2026-10-30T14:53:24Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-10-30",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings",
+      "url": "https://www.seroundtable.com/video-10-30-2026-42418.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "8c98d7419afa"
+    },
     {
       "date": "2026-10-29",
       "family": "engine",
@@ -805,18 +815,81 @@
       "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
       "curated": true,
       "id": "afb6b2070e24"
-    },
-    {
-      "date": "2026-05-28",
-      "family": "model",
-      "platform": "Anthropic",
-      "title": "Claude Opus 4.8",
-      "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-      "curated": true,
-      "id": "f0e05ca36ff3"
     }
   ],
   "competitors": [
+    {
+      "date": "2026-10-30",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Pika Ediciones unveils its December 2026 calendar with Breaking Me Softly",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdE03a2E4MllPa0lteUVzZ3Izb3dHT1dmRjFFamJ4VFpmWk1YMjd0MS1pbXJISWg5SGlQTl9xaVpUZVFjX1YzV1lvdnZqUnh3V2s2SDl2ZkNYeWd4S0Y0NjRBeFJyTlctRENXOHFxdVZmTkRvOWpVd2ZhaGlGWmZ5dURaX1dhdHY4bThFYjhXbUc2elNGWjJUSmV4MWhhR2ZzdW1XMUV6TG5jNE5meVdn?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "05f0442233d2"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$3 billion",
+      "title": "Kuaishou's Kling AI unit completes a near $3 billion funding round",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzA2cUdzaUF0OUhrSGV1cmdpYzA4dS1yYU5uSWZ1aWRWRENaRldCYTR1RDZ2cFl6YmtlNV9xUzBieGhRY08zcVFESk43cjRTUHNRYk1NNkRxQUttdTNwMjkwTWpPQ3lhNFN3dnl3SUk3bzJRLTJvaWMyRmk5QkEzYjVDZTdaZmwyb25LSE43enh1aUtWWk1HMEVyVjJYM3pVM2JhakdTRFA0dy14VkJJOG1NaE5zbmx1N3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "532eaf9a869f"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$3 Billion",
+      "title": "Kuaishou Doubles Down On Kling With A $3 Billion Raise",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFRhNjNqY0tyNFNENlRDZjFVUmwycG9KOGhJR2hEWmpQazMwWkNBeDhVd2IzOVFnbnNvSEcxTGx1VXJuM0pIcS04aFlDb3VmZUZTa3pOM2tHX283Y2dZLVFES1ozSlAwNXhRQk5SSi01QzFWeTNnMnJpa1JiUG1ka2RoeW1ZT3RraGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f28b67d95315"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Unveils Brush: AI Tool Revolutionizes Design Editing Speed and Quality",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSm9ndmNNMUFJUTctSUNEVXVwdFBzdjFaMzNteUcya1dad0RuNHhvT2tuUVZXQjlFVjJwUHkxWWRDYnpoM0ZsLTR2TEtQODdQNWJXUmVyRm0yTFRSVG9jREh4eGVlTkFZOUlldS1XMnRNemdyWWxVYkpjWnpFbmNwa0F0dnRFZDRmdHJvMmwzUVRUemNyVDZxUDBLR0FobGxZVVBORXBB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "08184f0b66dd"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Unveils Campaign By New Agency GS&P 11/02/2026",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWEyN3FCQk5qTzlSaDBuYUh1ME1YS3EzcXk0bHRaUGY0QTFEeUpNLWVicEhJRGZqLWw1cHVPRWpwblh1c29zSXIwUVBzel9YVEhUNFExWkw5dnh6dldmQ0s0WU5wM1VUYnZEM2tLOFBrU1owTUQxaTNyNXNNaEZyb1o2U3pZVU9NeU8tdXJ5MmNscXdQdXppUjNGeThFU2ZZ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "83d341edf443"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches AI design editing model ‘Brush’",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLWlNblQwaS1jSC1yaks5bDR0a2NYT25ZTUt3emUzXzJ2N1pqMmMySUctZXRPd3hQdkhPZzFtN2YtVy1QZ1dCVWNVWUxWeW5QQkVreFN4RDQyNzM2U1AzUUZFVXFXMnRqRWhaM01YNVNYUEpqamFMbmYxU1hjVXRENFd2SlhOT2M3ZGNyeHo4ckhMZkFNal9rQ0pzelhVenJ3cW9ZNnh5eExmNXB1U3N1TVN1SWVDQjMwVWdjWQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d446fed4fcec"
+    },
     {
       "date": "2026-10-29",
       "company": "Pika",
@@ -840,6 +913,18 @@
       "source": "Google News",
       "curated": false,
       "id": "cd06220c209d"
+    },
+    {
+      "date": "2026-10-29",
+      "company": "UPDF",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Must be sane: Muhoozi introduces new UPDF rule amid fallout with ex-commander",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaU9MQlpseWpnTDZtanowQlNsRUhfU0RkdEtfWHBrVlZIVUNSRVRNcWplakQ4d01ZUWlxbm9RUDdpN3Nsa2hJeHNhdXBlWU15eno2d2o2WV9sbUE4dzZzTHhSS3g1NmNiZFJKSjZ6NFZSQjdBNTZxNkQ5OXhNOEZVV01CQ3pGVVoxcXJvbW0tNXVPVnNEM3BZQ1dBRy1VWTNNa2oxNDAySVBnek41NGFTemFzaUw2Q3gyLXpv?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2e27bb6331e0"
     },
     {
       "date": "2026-10-28",
@@ -1452,93 +1537,152 @@
       "source": "Google News",
       "curated": false,
       "id": "0b2724d6172e"
-    },
-    {
-      "date": "2026-10-24",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva debuts ‘Craft': Here's how AI image generator works",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1J2V25Yd1VJQTA5ZEl1MUp5VTQwcDdhdzAzWS04TEZ6SnltajJJWVEyNUE1clUyWmtaUjN0UU8tOTBlQTRtMzlDdUU1eW8ybjY1ei1JWm5KS1ZER2t5Y3V0bUhPR0xvZVNlRG1Ea2lmaS1sbkhCcTUzUFh0V01pOGNsS25qR2FuMkFESF9wZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a74ab4803750"
-    },
-    {
-      "date": "2026-10-24",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "$2.25M",
-      "title": "Story3 Capital Partners buys $2.25M in Rent the Runway shares",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeU5YcjRUV2xsbHNMSlN5THpncEVxYnlXQ3NyenNUX2ZmVUxSNXVFY0N4S0R1TmNGWFRSX0NPTWRMVlJJOXdZUWtYZWQ5Yl9SRkVJcHBJNHJMTG9RZmlJUVFWWk5OVUtaLThiQ0FrSU9zZWlKVFJhQ2tqdGVuR1J3OWhzX1ZYQ041RTVBRXFtSEZ5aV9JeGxLWng2ZXhOVEFaWFRDQkdyNnRxX1R6Q1ZzaUt1Y0VJZDBJb2RiVkRWblN6UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "adf78c769a29"
-    },
-    {
-      "date": "2026-10-24",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "$2.25M",
-      "title": "Nexus Capital Management, a Rent the Runway director, buys $2.25M in stock",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdVRGYTc4Mko0VUVtamxocl9KdjZURG1tdWxZQ0g1UlRHdEZVc01Vdlo1eW5DME5iQkR6ckloeGFjZmtjVWZQMHZjb0hTVzBiZDY2SC1JcDJsb0F3R0tDNTVHV2JwS0tUd2JxTnI3R09Xd1ZUOFE2bk9uNUlZU3FabEJHTUU5TU9jdTVFb25BUDRrWW9EOFFSNldHWFd2VndPeDhuYVMtZVcyWHRaVEU4TnVHWkIxQ2hpc3NGY0lReHpTUXFRNVpQTndZOFU0VWxm?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e1851c215ef2"
-    },
-    {
-      "date": "2026-10-24",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "$1.6M",
-      "title": "CHS US Investments, a 10% owner, buys $1.6M in Rent the Runway (RENT) By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWJfc3hadWlhSUJSVVgtX2ZPNVlsYlo5SXp4SkJDam1TT1hrMkNwaXE3NVdDZGxNeFp2QUduY2IyY2M1WGhyZ1R2aklSbnJpVC1sRGhzSjBiaENJOHZFbENUZUZqdzhvUVpscDdIdFhNRG9hWWlIb25UaVo4RmhPdG04cGVzTlcxR3lUWmlMVmk4NjU2Ty1NUmlCRnBOVVpaM1pBUEg5VVhtMG5Iem8zSnpUT3RjQjNNMkFLT1VsN3BQakVmbUE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "35e4c7583d9f"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Leonardo AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches its 1st image generation model",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3gwTURZRkFOYXk2T0N4R2xwU0tZWGtvMGktWlktNXBDZDZRZFl2Y1Z5RVBoWmU1T0REMFdqV01MakNtS0s4NEhobWdNQTVZU0N2Mm02aldHVE53MHU3TDFKNXFQWnlpTW9OVnhweFM3ZVFLN05sM2VKV3B6UVBGaGZQVDZCZW5CRm5hSjF5TVhsc0RJcVdmbXNaLW1BZlVjTC1vM0hZVXd4ODlwbERyT1V6TFNxcTc3bHc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1225e976d3a2"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Craft image model with 2K output and API",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUJmX1ZycnNXNVpLOGFQdExZeHZQUVZ1dXJXS3JyUUhiaGZyU1U4UDVlZWFEZFRtZ25tMFA4QjZoZ0FERzRhZy1IZzV6aDhVRDJhNFd5YTJYREhSLWVwXzFmNlZpSjNfWkNLajFIOHg5VF9xeFVuWkpydzgyTDBpaWg1NjRJdGZjSWx0ejRqRFU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "40204d56ce54"
-    },
-    {
-      "date": "2026-10-23",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva unveils native image generator Canva Craft for Magic Studio",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDdHQThXc0MyRXNQSHNZLXlmU1M0OXRQLWdnUnV2eU1GMkVJcm1SemQ5OTNGOU1OejV4S3JxXy1sdzhhR1VDWlh4TXZHaEFEN0JWQXF2OVFacDZXUjk3QXVjV2NabU5DVlJBbnQtcVZmQVlMOFBfV0xEOVVFc0xHUlcydGFla0JRU0RjR3NLNzhib0VaZzVRLUktUGJvVEVhaVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3615a50f57ee"
     }
   ],
   "items": [
+    {
+      "id": "455c0f4bbcd3",
+      "title": "More than bling: How SEO can help your jewelry brand get found",
+      "url": "https://yoast.com/seo-tip-for-jewelers/",
+      "source": "Yoast",
+      "summary": "Your jewelry can have all the bling, but first, people need to find it. Whether you sell ready-to-wear pieces, craft custom designs, or make jewelry for other businesses, search can put your work in front of people looking for exactly what you offer. That’s where SEO comes in…",
+      "category": "SEO",
+      "published": "2026-10-30T14:46:12Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "8d5b7b8ec1bf",
+      "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
+      "source": "Search Engine Journal",
+      "summary": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open. The post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-30T14:17:57Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "96065fc4d37b",
+      "title": "Daily Search Forum Recap: October 30, 2026",
+      "url": "https://www.seroundtable.com/recap-10-30-2026-42424.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Ads in Google AI Mode make Google less per search, but Google has more searches. Google's John Mueller said AI spam tactics will be…",
+      "category": "GEO",
+      "published": "2026-10-30T14:00:00Z",
+      "coverage": 2,
+      "impact": 8.0
+    },
+    {
+      "id": "826e8cad104a",
+      "title": "What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/",
+      "source": "Search Engine Journal",
+      "summary": "Search Console's Page indexing report has fallen behind before. Here's what Google has said and what each remaining check can show while the data lags. The post What Search Console Can Still Tell You When Indexing Data Lags appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-30T14:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ecb5320c72da",
+      "title": "Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/",
+      "source": "Search Engine Journal",
+      "summary": "Google's Q3 earnings call outlined a vision in which traditional Search may no longer be the central experience. The post Google’s Q3 Earnings Call Casts Shadow Over Classic Search appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-30T13:02:09Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1ad72bae6b66",
+      "title": "Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM via @sejournal, @siliconvallaeys",
+      "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
+      "source": "Search Engine Journal",
+      "summary": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-30T12:02:22Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "97697570f5ab",
+      "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings",
+      "url": "https://www.seroundtable.com/video-10-30-2026-42418.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This week, we reported on Google Search volatility not once but twice this week. Google warned tools on user-generated spam guidelines. Google downplayed the importance of fresh indexing reporting. Google explained...",
+      "category": "SEO",
+      "published": "2026-10-30T12:01:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "74b7d617f028",
+      "title": "Google AI Overviews & AI Mode 0.9% Click-Through Rate, Opt Out Study Says",
+      "url": "https://www.seroundtable.com/google-ai-overviews-mode-ctr-42421.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Everyone has been asking, what is the click-through rate you get from Google Search AI features such as AI Overviews and AI Mode. Well, a new small study says the click-through rate is about 0.9%. The study also showed that when you opt out of showing in Google's Search…",
+      "category": "GEO",
+      "published": "2026-10-30T11:51:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "4059fab3d3ca",
+      "title": "Bing Showing Ads Within AI Overviews",
+      "url": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot. I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search.",
+      "category": "GEO",
+      "published": "2026-10-30T11:41:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "cead96138e62",
+      "title": "Google & Bing Halloween Search Easter (Pumpkin) Eggs",
+      "url": "https://www.seroundtable.com/google-bing-halloween-search-easter-eggs-42415.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Halloween is tonight/tomorrow and to celebrate both Google and Bing has special easter eggs (or should I call them pumpkins) for its search results. Google asks you to find a costume using AI Mode, which is boring. But Bing has a floating ghost that explodes into candy when you…",
+      "category": "GEO",
+      "published": "2026-10-30T11:31:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "fe285de661fe",
+      "title": "Google's Gary Illyes: AI Made Bot Impersonation Worse",
+      "url": "https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Gary Illyes from Google was recently interviewed by Aneta Samkoff, host of the Odys Podcast. The topic was all about bots and crawlers and they covered a lot of ground. Gary said bot impersonation is more of a problem now because of AI. Bot impersonation is when rogue bots…",
+      "category": "SEO",
+      "published": "2026-10-30T11:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d747dbd5dbb7",
+      "title": "Google Gemini Stopped Attaching UTM Parameters To Cited URLs",
+      "url": "https://www.seroundtable.com/gemini-utm-parameters-42399.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to have stopped appending UTM parameters on Gemini links, the cited URLs in Gemini's AI responses. Google started adding UTM parameters to links in Gemini in early September, but then, around September 28th, Google stopped.",
+      "category": "GEO",
+      "published": "2026-10-30T11:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "fd2efe06fbc3",
+      "title": "Google Search May Be Bringing Back 100 Search Results Parameter",
+      "url": "https://www.seroundtable.com/google-search-100-search-results-parameter-back-42423.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search may be bringing back the ability to see 100 search results per page by bringing back the num=100 parameter. As a reminder, Google dropped this feature in September 2025 as one of many methods to prevent crawlers from scraping its search results. As you know…",
+      "category": "SEO",
+      "published": "2026-10-30T09:40:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "07e78cab6e3d",
       "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
@@ -1552,10 +1696,10 @@
     },
     {
       "id": "b98075034222",
-      "title": "Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
+      "title": "What Google’s Search Ad Revenue Numbers Signal For AI Search Spend via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
       "source": "Search Engine Journal",
-      "summary": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post Google’s Q3 Selloff Raises Advertiser Concerns About AI Search appeared first on Search Engine Journal .",
+      "summary": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post What Google’s Search Ad Revenue Numbers Signal For AI Search Spend appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-10-29T19:47:55Z",
       "coverage": 1,
@@ -1629,25 +1773,14 @@
     },
     {
       "id": "bb41fc913bb3",
-      "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+      "title": "OpenAI’s Agents Can Silently Block Your Site – & Your Logs Won’t Show It via @sejournal, @TaylorDanRW",
       "url": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
       "source": "Search Engine Journal",
-      "summary": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing appeared first on Search Engine Journal .",
-      "category": "GEO",
+      "summary": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI’s Agents Can Silently Block Your Site – & Your Logs Won’t Show It appeared first on Search Engine Journal .",
+      "category": "SEO",
       "published": "2026-10-29T14:00:06Z",
       "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b146304f0936",
-      "title": "Daily Search Forum Recap: October 29, 2026",
-      "url": "https://www.seroundtable.com/recap-10-29-2026-42414.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-10-29T14:00:00Z",
-      "coverage": 2,
-      "impact": 6.0
+      "impact": 4.0
     },
     {
       "id": "e847f9b69868",
@@ -1780,6 +1913,17 @@
       "published": "2026-10-29T07:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "22232c7a4106",
+      "title": "How To Analyze Server Logs for AI Search",
+      "url": "https://moz.com/blog/analyze-log-files-ai-search",
+      "source": "Moz Blog",
+      "summary": "Learn how to find AI crawler requests in server logs and fix pages that crawlers cannot read",
+      "category": "GEO",
+      "published": "2026-10-29T07:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
     },
     {
       "id": "ef5fbe5e6878",
@@ -1921,8 +2065,8 @@
       "summary": "A split-screen graphic showing a Google search interface connecting to Gemini to confirm a dinner reservation.",
       "category": "GEO",
       "published": "2026-10-28T17:00:00Z",
-      "coverage": 2,
-      "impact": 8.0
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "f39b11f1e625",
@@ -4145,149 +4289,6 @@
       "published": "2026-10-16T10:05:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "23ed47f5cec0",
-      "title": "How to Automate Content Creation: A Follow-Along Guide",
-      "url": "https://ahrefs.com/blog/automated-content-creation/",
-      "source": "Ahrefs Blog",
-      "summary": "When people hear “automated content creation”, I imagine they picture something like this: Enter a keyword, click a button, and poof! An article is made. From there, they’ll generate 500 articles before the day ends and publish all of them. … Read more ›",
-      "category": "SEO",
-      "published": "2026-10-16T09:21:11Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "dd8df01f78f8",
-      "title": "2027 SEO Planning Workbook",
-      "url": "https://www.growth-memo.com/p/2027-seo-planning-workbook",
-      "source": "Growth Memo",
-      "summary": "Walk into next year’s budget meeting with a confident plan",
-      "category": "SEO",
-      "published": "2026-10-16T06:11:18Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "66a3f3a6ca49",
-      "title": "Google Dataset Search Currently Not Returning Search Results",
-      "url": "https://www.seroundtable.com/google-dataset-search-broken-42315.html",
-      "source": "Search Engine Roundtable",
-      "summary": "For the past several hours, Google Dataset Search has not been able to return any search results or matches. Google Dataset Search returns a response that says \"Your search - [keyword phrase here] - did not match any datasets.\"",
-      "category": "SEO",
-      "published": "2026-10-16T01:37:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9db4940a53f8",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "category": "GEO",
-      "published": "2026-10-16T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "4a2f3ca18eb9",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "category": "SEO",
-      "published": "2026-10-16T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "1d7d75b47c31",
-      "title": "How Grupo Boticário uses AI to strengthen human connections",
-      "url": "https://openai.com/index/grupo-boticario",
-      "source": "OpenAI",
-      "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
-      "category": "SEO",
-      "published": "2026-10-16T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "827221925d8d",
-      "title": "How Localiza reorganized work around generative AI",
-      "url": "https://openai.com/index/localiza-generative-ai",
-      "source": "OpenAI",
-      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-      "category": "GEO",
-      "published": "2026-10-16T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "d432e8da3b66",
-      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
-      "source": "Search Engine Journal",
-      "summary": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags. The post ChatGPT Traffic Drop Appears To Be A Tracking Problem appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-15T21:48:30Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "9ba1422ca5de",
-      "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
-      "source": "Search Engine Journal",
-      "summary": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google’s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-15T20:43:38Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b41f51af802e",
-      "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
-      "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
-      "source": "Search Engine Journal",
-      "summary": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI. The post How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC appeared first on…",
-      "category": "SEO",
-      "published": "2026-10-15T19:00:58Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a72d1e4da6b0",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "category": "SEO",
-      "published": "2026-10-15T19:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fc9e8a09b703",
-      "title": "How Do We Move Forward if the SERP Is Generative?",
-      "url": "https://ipullrank.com/generative-serps",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Google has been moving the results page away from fixed modules for a couple of years, and a Google Research paper, Generative UI: LLMs are Effective UI Generators, spells out where that road may end: a model writes the entire page, including the HTML, CSS and JavaScript, from…",
-      "category": "GEO",
-      "published": "2026-10-15T18:52:03Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "97bef6f4602e",
-      "title": "400 publications are now partnering with us on our News AI pilot program.",
-      "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
-      "source": "Google (Search)",
-      "summary": "People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
-      "category": "SEO",
-      "published": "2026-10-15T16:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
