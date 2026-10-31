@@ -1,9 +1,8 @@
 {
-  "updated": "2026-10-31T04:26:45Z",
+  "updated": "2026-10-31T14:21:44Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
-    "Andrea Volpini (WordLift)",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
     "Google (Search)",
@@ -822,6 +821,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-10-31",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches Brush AI model to edit designs with prompts, cuts editing costs by 46%",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXJIQWlybEJ5SkpvNlFHOERValZXM3J6ZWd0OUI4VkVyMEpSQXJEM2ExSnF6NTgxZFdXdXUtdnZsUVNlVE9HQjU0SnNQN1MzLTIyRkFPY2ZDZl9HZENmWFJ5cjhEUkhPaGVJQXkxbGFxR0RKTUZPTWJ6My1lbjJveUh1YW5Hc3dHREc1S2RQelVpLUpZQkpJYmFkZFRiSDI2am5za05yb2RaMTAyZGhPSW5iZHZaZlZhaUhodTI4M25MX2FFSHF4dQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "51f0e78d0ce2"
+    },
+    {
       "date": "2026-10-30",
       "company": "Pika",
       "front": "GenAI Media",
@@ -1528,21 +1539,53 @@
       "source": "Google News",
       "curated": false,
       "id": "a01759c26f06"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Creamfields unveils new 20,000-capacity Runway 2.0 stage for 2027",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWFjaXZBcGs4ODdnVEJUWVNSMjNoOWxyaFlFVWZjWWpraFM4NnotaVMxTjQwdnNjeDFtdzRteDhSdmZ5dVo2dl95UlNSOVNuY290eFFLWmRvbGFOUGM3UWFadWN6ME0yN3QxVFpHZnhhZFBFTGtIV2J2RUhMQk90LThqWGFNT1VYS0E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "27a8be2475a6"
     }
   ],
   "items": [
+    {
+      "id": "d805e73cea6d",
+      "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
+      "source": "Search Engine Journal",
+      "summary": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. The post Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-31T12:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "44c0ea37d843",
+      "title": "Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
+      "source": "Search Engine Journal",
+      "summary": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation. The post Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-31T09:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6c7d5d54c0cd",
+      "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
+      "source": "Search Engine Journal",
+      "summary": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit. The post Big Brands Dominate AI Search But Leave Openings For Smaller Sites appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-31T08:15:08Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "fa94a56a37ab",
+      "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
+      "source": "Search Engine Journal",
+      "summary": "Developers can apply to bring apps into AI Mode and the Gemini app, and Google's policy bars misleading descriptions meant to get an app picked. The post Google Opens Connected Apps Preview For AI Mode & Gemini appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-10-31T07:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "6f44da017482",
       "title": "We rewrote the alt text on Google Store's Pixel Watch 5 page. Its images went from a 30% to an 84% match.",
@@ -1743,10 +1786,10 @@
     },
     {
       "id": "1ad72bae6b66",
-      "title": "Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM via @sejournal, @siliconvallaeys",
+      "title": "Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways via @sejournal, @siliconvallaeys",
       "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
       "source": "Search Engine Journal",
-      "summary": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
+      "summary": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-30T12:02:22Z",
       "coverage": 1,
@@ -4248,50 +4291,6 @@
       "published": "2026-10-19T11:31:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "278a33f47c1d",
-      "title": "Google AI Mode Citations With Preferred Source Preferences",
-      "url": "https://www.seroundtable.com/google-ai-mode-citations-preferred-sources-42323.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing letting users view and modify their preferred sources list directly from within the AI Mode citations sidebar. There is a new button named \"Source preferences\" and when you click on it, it opens up your preferred sources list where you can add or remove…",
-      "category": "GEO",
-      "published": "2026-10-19T11:21:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "64af1c8bcebb",
-      "title": "ChatGPT Ads New Ad Formats, Updated Conversion Page, Performance Emails...",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42321.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI announced a number of product updates to ChatGPT Ads late Friday. These updates include new visual ad formats, a redesigned conversions page, performance emails, new measurement partners and a bug reporting / product feedback system.",
-      "category": "GEO",
-      "published": "2026-10-19T11:11:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "80944f653c28",
-      "title": "Google Ads To No Longer Show Featured Professionals, Headshots Are Optional",
-      "url": "https://www.seroundtable.com/google-ads-featured-professionals-headshots-42325.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads posted a message to Local Service Ads advertisers saying that featured professionals will no longer show on your ads, and headshots will be optional and won't impact ad serving.",
-      "category": "SEO",
-      "published": "2026-10-19T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "29e5aecfcc26",
-      "title": "Why first-hit Wikidata search breaks AI agents",
-      "url": "https://wordlift.io/blog/en/first-hit-wikidata-search/",
-      "source": "Andrea Volpini (WordLift)",
-      "summary": "Many AI agents identify things by searching Wikidata and taking the first hit. We measured it on 351 names in six languages: it’s right 82% of the time, and the other 18% is a famous meaning beating the right one. Orange becomes a town, Liverpool the city, Java the language. The…",
-      "category": "SEO",
-      "published": "2026-10-19T10:41:38Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
