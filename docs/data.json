@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:21:44Z",
+  "updated": "2026-10-31T19:47:59Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -833,6 +833,18 @@
       "id": "51f0e78d0ce2"
     },
     {
+      "date": "2026-10-31",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$2.9B",
+      "title": "Kling AI Closes $2.9B Round as Two Investors Miss Payment",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHp1dWZLYl81ZGloTHVORXRXZHMyTHBiOHhnS3RIS0tKYm5aeFpwOUZtc1Z2VVhJNWRHVmkxc21HYVlsMWxMNkdVU2VtajJSeXpnMU9Db1BpN3JWbjhHR2p3bkt0WERjZmZGcWRMaG5JYnc1Q2ZRWDlxcnRjaHBQZW1QV20xTFl6Wncteg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5e0d4e71bd16"
+    },
+    {
       "date": "2026-10-30",
       "company": "Pika",
       "front": "GenAI Media",
@@ -999,6 +1011,18 @@
       "source": "Google News",
       "curated": false,
       "id": "c528ba6bc18f"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "True Religion and Baby Phat Bring Y2K Glamour Back to the Runway with First-Ever Collaboration in Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc29QVDQxRElaS3pxblVjbmlxU1pDUjJvRWpDbTM2eE1Td1VCRkZuR1JIMjUwV3J5U3hlaFhxNVUyY1BTNDZpWXVOV0RmXzBPLTJYLUFLbExwRzlvc1NfWk9NLTNQV1JDemUtUlpyZzhvOVN6d2FXclZvZldQUnY3SzZCWWRwZzg0QURZcXhPSzljSHh0d2N5c2p4N3hVMFRDVTB6MkVnTGhMUnI3RkItMHMtSFpSVWVkM0xIdmJYWFFUMlZ0a2RBWTJMbDcyNEtNUy0xSlRodlk2cDA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "35f7dc37f786"
     },
     {
       "date": "2026-10-29",
@@ -1515,30 +1539,6 @@
       "source": "Google News",
       "curated": false,
       "id": "1b3aafed5191"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches 1st in-house craft AI to create high-res images",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2NPR0lOSnItMUlxQ0FLOGxoeXhud2dvZkFHbGdLalRTckxuRUhzeWhLcWNCbmJYanFUc1ZvWVM2UURVYVZwaGNrN285Zk1kelpLbnltQjFoM2p1N0hNYzl1NFN0RlgwdE1PS3BNZC1vQzRoOGZmd2M1dTVicnZWaVVsa09wQ0YxeEZCNzA1b1VLLUtoc1lZalpjR2RVR2Y0U3ZwVF8tb0lKdUtJSVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1dc6fd9acfb0"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Press Release: Primeclass unveils new lounge concept at Ankara ESB",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEtrS3k1akV1S0dKMnRsODNfT19MSkFob3J4a0dRRTBvX1I2WkxnUzFMcjA3UmtjRUxTOHYzV2xNREtpZ3N2dnA1T09iVVdHT09NN0x2T0JYZ0F5QUk4U0JIOVA2Y0RRNlRLWVlhUjgybVg4RWdiNHp5VkZXWjJfd3ozUHVvaEVmTGdsYWpvWG5abnFnXzhhNWJGY3R4UGY2dWc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a01759c26f06"
     }
   ],
   "items": [
