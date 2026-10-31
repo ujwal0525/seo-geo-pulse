@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:47:59Z",
+  "updated": "2026-10-31T23:08:42Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1543,6 +1543,17 @@
   ],
   "items": [
     {
+      "id": "4e9eee5bb258",
+      "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
+      "source": "Search Engine Journal",
+      "summary": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes. The post Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-10-31T21:11:41Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
       "id": "d805e73cea6d",
       "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
@@ -1654,10 +1665,10 @@
     },
     {
       "id": "6b33ca68f100",
-      "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+      "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
       "source": "Search Engine Journal",
-      "summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
+      "summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord Member Messages May Start Showing Up In Google In December appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-30T16:38:30Z",
       "coverage": 1,
@@ -4280,17 +4291,6 @@
       "published": "2026-10-19T11:41:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "8ee8561e8a6f",
-      "title": "Google Ads Now In AI Mode With Personal Intelligence",
-      "url": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google confirmed it will now show ads in AI Mode results with Personal Intelligence enabled. Back in March, Google said AI Mode with Personal Intelligence turned on would be ad-free, but that is now changing.",
-      "category": "GEO",
-      "published": "2026-10-19T11:31:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
