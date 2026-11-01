@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T14:49:48Z",
+  "updated": "2026-11-01T20:16:35Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -821,6 +821,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-01",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$900m",
+      "title": "Israeli startups raised over $900m in October - Globes",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUlfSmg3Q01tTUVNdGxtQzlZdnNnUXlGTWNSNGVVZno4Zm1nNFZHWGpadWczWHpLRmF3NThWNjFFNEJ0NlcyUzJ3cDFFRzAyVy1wc1pxOTdoYjdXdU5Ya1M2U0Z2bG5iUldtOEpUMFJyWHdWSE04MHIzZnNEU2RFb05YTS02RDJQSmpLVXF4TDVnNkFf?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "453be8472fb6"
+    },
+    {
       "date": "2026-10-31",
       "company": "Canva",
       "front": "Creative",
@@ -1527,18 +1539,6 @@
       "source": "Google News",
       "curated": false,
       "id": "dab92984856c"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Craft, its first in-house image generation model",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk1MaXUwaDdNTnU4YUkzQ0Frb25kam9PY3NrR2NmLUlxZzNFbm5ibXV0MTRzSGZ4UzNLVE4zOW1KNUVYNi1ta2tGT1lnbk9jeUd3RldSQmNzSmVaOTNIdXhEcXpJSGwzVUxQdFZLSVRzMVh1N1Rtd1l1T0Y1SFlCU1AwRWtWbWljZ3RLNmFQb3BlOEZWMnIzeXYtTDhEaHpOZ3k5VDdFdzBwOUpxdUdwamVqa0JQUjQ2bkhpWkVrcGRoUHfSAcoBQVVfeXFMTlFoYmRCWlVCaFhDdVJiYXEwaGphNEFrejNDczVfaFJGdHJDZUYtVGh4TlFlbERtZXVsMDdsVzRIMlBxOUtzV3pHUk9UUXgwbFFMSkZPR1hDajY4Um1PUE8wNGQ1SlZFQjJfYlJBQzJSRWo4RWZMVUxhMXlrakJVNENCTk1xS3lDLXllbks3SmVSS2p3STF4bzZ2T041SzJ1OVFYWFl3OEtVWWMzUGR1N19jUkY4bVFFWWpqdkludzRqUXJibW14WG52Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e2bed9899e6d"
     }
   ],
   "items": [
@@ -1577,10 +1577,10 @@
     },
     {
       "id": "44c0ea37d843",
-      "title": "Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
+      "title": "Shopify CEO Says AI Performance Review Answers ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
       "source": "Search Engine Journal",
-      "summary": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation. The post Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ appeared first on Search Engine Journal .",
+      "summary": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation. The post Shopify CEO Says AI Performance Review Answers ‘Didn’t Matter’ appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-31T09:00:00Z",
       "coverage": 1,
