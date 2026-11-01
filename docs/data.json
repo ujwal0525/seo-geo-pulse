@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:45:41Z",
+  "updated": "2026-11-01T14:49:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1109,6 +1109,18 @@
       "id": "9155858ad6bd"
     },
     {
+      "date": "2026-10-29",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "STRICT-G x HiKESHi SPiRiT Pop-Up \"STRICT-G RUNWAY\" Launches a Limited-Edition Apparel Collection",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GLWxLSXZCd1VUQktHWmlsR0ZqamVudVRkOFQ3bDF6YWx4SUZxUVRURGhBdDBOUUNrRV9vbVFrSmpfVjdxUzVLYlpVX2dFMDZm?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "488489662a9f"
+    },
+    {
       "date": "2026-10-28",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1527,21 +1539,20 @@
       "source": "Google News",
       "curated": false,
       "id": "e2bed9899e6d"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Craft Debuts Fourth on DesignArena as Canva’s Own Image Model",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UZGRzQmpuNFQxbkNqdWJWMWxRYnFwWmJDdHJ2WnpxMjdfRXhmSmpJOXAwX2daZWR6U2ZNXzRoOGVpYldsaERNZm83SmE5UXkxN3hvS1dDT2hnWFJZbHlNTWxZN29tbzVEZnBKMVFpa0s?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1a9d9a7968a1"
     }
   ],
   "items": [
+    {
+      "id": "38879ac62934",
+      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
+      "source": "Search Engine Journal",
+      "summary": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. The post Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-01T08:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "4e9eee5bb258",
       "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
@@ -4278,17 +4289,6 @@
       "summary": "Here is something new for you - the Is it new? AI scan tool. It is a feature I thought would be neat to build, where instead of you reaching out to me to see if this or that is a new Google, Bing, etc search feature, you can upload a screenshot, add some descriptive text and…",
       "category": "SEO",
       "published": "2026-10-19T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "651620880ee5",
-      "title": "Google Moves Google Posts Higher Up On Local Panel",
-      "url": "https://www.seroundtable.com/google-posts-higher-42319.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to have moved the Google Posts section of a local knowledge panel higher up on the page. In 2018, Google moved the Google Posts section to the bottom of the local panel. Now it seems Google is moving it back up.",
-      "category": "SEO",
-      "published": "2026-10-19T11:41:00Z",
       "coverage": 1,
       "impact": 4.0
     }
