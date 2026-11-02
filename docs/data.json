@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T20:16:35Z",
+  "updated": "2026-11-02T04:47:42Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1542,6 +1542,28 @@
     }
   ],
   "items": [
+    {
+      "id": "f056b8784a69",
+      "title": "Unlocking hidden skills inside Google's model",
+      "url": "https://dejan.ai/blog/latent-skills/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "AI models hold skills no prompt can unlock. We enabled hidden skills inside Google's model through precise tuning of only a small number of its weights.",
+      "category": "GEO",
+      "published": "2026-11-02T01:23:45Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b3f67b0e1770",
+      "title": "Releasing a new sentiment classification model.",
+      "url": "https://dejan.ai/blog/sentiment-model/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Our new sentiment model is free on Hugging Face. It scores every heading, list item and sentence from very positive to very negative, gets 84% of labels exactly right and 95% within one point, and is built into DEJAN App and a public demo.",
+      "category": "SEO",
+      "published": "2026-11-02T01:06:10Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "38879ac62934",
       "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
@@ -4267,28 +4289,6 @@
       "summary": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search…",
       "category": "SEO",
       "published": "2026-10-19T12:00:45Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7a364f356aab",
-      "title": "Advancing Coding in Low-Resource Programming Languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "category": "GEO",
-      "published": "2026-10-19T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b2f7ebbba6b4",
-      "title": "Is It New? AI Scan Tool",
-      "url": "https://www.seroundtable.com/is-it-new-ai-scan-tool-42322.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is something new for you - the Is it new? AI scan tool. It is a feature I thought would be neat to build, where instead of you reaching out to me to see if this or that is a new Google, Bing, etc search feature, you can upload a screenshot, add some descriptive text and…",
-      "category": "SEO",
-      "published": "2026-10-19T11:51:00Z",
       "coverage": 1,
       "impact": 4.0
     }
