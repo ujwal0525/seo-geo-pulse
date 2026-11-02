@@ -1,10 +1,9 @@
 {
-  "updated": "2026-11-02T04:47:42Z",
+  "updated": "2026-11-02T17:55:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Dan Petrovic (DEJAN)",
-    "Glenn Gabe (GSQi)",
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
@@ -23,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-02",
+      "family": "engine",
+      "platform": "Google",
+      "title": "November 2026 Google Webmaster Report",
+      "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "10bd74fa7125"
+    },
     {
       "date": "2026-10-30",
       "family": "engine",
@@ -808,18 +817,141 @@
       "url": "https://en.wikipedia.org/wiki/GPT-5.6",
       "curated": true,
       "id": "f42408d88dce"
-    },
-    {
-      "date": "2026-06-26",
-      "family": "engine",
-      "platform": "Google",
-      "title": "June 2026 spam update",
-      "url": "https://ahrefs.com/google-algorithm-updates",
-      "curated": true,
-      "id": "30c975a9dced"
     }
   ],
   "competitors": [
+    {
+      "date": "2026-11-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity’s creative studio is now available on iPad for free",
+      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+      "source": "The Verge",
+      "curated": false,
+      "id": "8d94bf1fc1df"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Black Forest Labs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$750M",
+      "title": "Lovable and Black Forest Labs backer Creandum closes $750M fund",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEtqTFFNT3NlbXFvcHk0WUlwM1ZBbWNpUkpMM2c2UmJqV0s4V1NYV2lsQ3JUSFpCcWxtQ0FDLTFzQ2JiU2xzVy05MFVvcTF4VmhYY21CR2ViV2E3dmE1UEJNNUhyLWYzYjVlXzNlQ1B2SmpWWkU4UXVzRlBYVFBoZnFfQkpLY2JGQmRnVExNN2NGWXIxZU1OU0ZB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5a06f8cabfa5"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Bonnie Tyler Christmas single to be released as husband says he misses her every day",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xeW1BLU04Z19QQnFKZG1IM294Z21RRDJaMFhPRTZwTkNTTkluUDNjb2dZVUFJM3JBZWh3VXNvb3BEYnZXV3dVbW1hMjNCbkdOajVtcTF5TnVpMUU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ca14b071d122"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Unveils New Campaign: Explore Your Creative Possibilities Today",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3NWUzNKY1lOTU85Tk05VlBPVkVxZHo3RHBHWkxUaEtSSi1WbDF2Ui1SV1RHU3dZWlo5ZFRXQ0dDTVFDUThBdVRfUEVVVXZPRl9YTGU3MkdwbTREazlNNElKVUxTdk10M1I3Njd6Nl93WHNWRnhRVFVLRU84bzJtVjgteUZyZ3lYX0JORG9fWVlnazk0ZnRmS2lIbnM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "eaf620342a82"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Releases Free All-in-One Affinity Design App for the iPad",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjE1eENEblVRRWNLWVJhSDEyR2RwbTBNRDJFY19PdVR4cUxjTmp4NmZsQk1vcFNZaXhDRGNHTW95dlMyTDYyU2E2VDhUSmZOTXJOTFR0a0JoQ3Vmal81eXVSa3dRd09pUy0xaUxJdWg0dnpVbkF4RkxlUEhGNUV0TnpraFl2cmZGOWJBWjdhTDZvOU92ZkdOVlVIa3hfdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d601ee827663"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Free tool: Canva launches Affinity for iPad",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ0ZrTWQ0cXV5X1VMNGhNNV8xblAyaHFvWE15cFhXZVlkcGJjUGlSRk1hRE9aOGhvS0E2SnBUMDJVTEg2NHNJemVZMkFManhYeFRoelpNZUYtb0ZkSDNHazl1NVp2dUw5OVNvU01UVE5YMXRwdlVSSFZsV1pidjJUZW9VUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9d44c1fb2a66"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva unveils ‘What Will You Canva Today?’ brand platform via Goodby Silverstein & Partners",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlIdTYxbmtQcTg4VDlOV1NQSDJBdjdjaVhfZlFmRThBV1dQZmdJRVkxd1NfTHY2YTcwQVhzb0htTG1Mb29tMXdCRnd2ODlteHUyU1FvZjJWQTVTZ1YyY0tILUxwcHpJNkJ2SzlxV1U0STVTSlVaSTV0a1J6UEFkczg1cVR1djRWaDRuUVR6clV2Um9rOVhlZFlFWE5uYWRWT2pCT29yU3pPOWxKa2QtZERVQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5b8f8d639ead"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Shows You How To Scrub Your Ex From Photos As It Rolls Out New Brand Platform",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkJWaGFnU0tzaUNaMlE1alhrRkdOaUpjWkdhTkt6SktoWGNsVmFlcWpaemRteThfQUpxY0xwQUFrU0pOemptU1NEako5azRTOTZaVzBRNmFPQ3pnQlpLcS0tTlVzZUtlcHdNOWxaY0NkWGpEN1hlMjY5UkU5RTVFTEx3c0o4WTlYNXp0dEw3YXJRMVZobzJMeTNVM1dmWmw3TW8wbi0ydlJnVDUyN3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5ea40155e1da"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity for iPad all-in-one design app now available, free for individuals",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRjWFZPNk1PaVNsV2JDdFA4ejd3T3pVUTRyUEk4UEQyaVo1TFpjU2hmd2pNQVBEcmlOcmg3NFZ1aUJ1TGZCa0NPNGlsMUlfR29qMlEzSHIzUmd1U24zWnFRU3kxUXQ0d1ZURUR5ZENyODd2aFdlQ1Z0TVRia0wzYUJWSXBGeHV6Skl5WHVMZlFFNjA4TmZfYzA0T0loQTZmODdlR1hXanFRQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "527165e8d8d0"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Free Affinity App For iPad Now Available",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtRlRyWXhZTlJNSE9tSk9vM2otdHFRMEhRVEJMdVRDNjVsSEFHaFJoaWRJNGlqU3pSOEc3aXliQVFpSTkxenZldk5PTEQ3SHlrQ1RZaUlZWTRTelgtSW55YTExMGFEUjFCSUdUVjE0Z1I?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f79202c6144b"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity for iPad Launches: What Mac Users Should Verify First",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVh6dGlPUGliN01SX2NON3FlcjVfbVVKdlkwVnRlTjRlZXI4OW5raWVLbWYtZVZTanNnMTJwdXpxcjRpTDFyNmxsS25ySjBZWnI4N2tpWGdQd0tOTWRPNkFacGQwZmFiODRBQ1VPblQ3OU80MWFIS1JuSU5abmg3VDJvbDl5NnFXLVZfd1pjWVR5cHdKbFluU08yR296UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0bb7bb30d1a3"
+    },
     {
       "date": "2026-11-01",
       "company": "Shutterstock",
@@ -831,6 +963,18 @@
       "source": "Google News",
       "curated": false,
       "id": "453be8472fb6"
+    },
+    {
+      "date": "2026-11-01",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Introduces Craft, the Most Advanced AI Image Maker Model for Design",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nTlNxSEdFdXlEQjREdXoxMS11dkd2LXFjd1ZOV1FsV0J0M1BPdWJoLW9IdVE5SndMZHV6STNVcTRzX3NSMmZWdUE5MNIBQkFVX3lxTE5GU0xUNmlicWQtLWhNRzNTUGpBWXdSTVQ2Q1ZCRXROa0VlN2w4aEF3aDdfb2JLX2xjeDhSTm13RjlxZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4889e835535d"
     },
     {
       "date": "2026-10-31",
@@ -1133,6 +1277,18 @@
       "id": "488489662a9f"
     },
     {
+      "date": "2026-10-29",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Codeifai Lists ProtectCode on AWS Marketplace, Launches Canva App and Reaches 8,753 ConnectQR Users",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWhsaXE1NW8zNi1Zd1NISXdNYmJaRVk2QlpEYkJfcU1oZ21JbWstZlhqbTh6UnlYNlBjdHBwM0xnN0pwdGs2UFB2LTRUT043WE9ValFMZW5jNzN3aXE0NUVTblIwZ3RqTEhOYmtTTjBxbEZaU0Q2b19INWpKM0h5WVFsYlQ5cS1XSWs5RkI4YTJfSGFNNEljZmV6NE5vckY5aV82di1zUHVFM3lmV241bEs3cG1YSDE1d18zQlk2VTVzZmpCVFVUYXRZR1BTWVNzcTd0Q253?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6e9bc78317f7"
+    },
+    {
       "date": "2026-10-28",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1383,165 +1539,174 @@
       "source": "Google News",
       "curated": false,
       "id": "dbaa6849cf5f"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Canva partners with EBANX and Capitec Pay to unlock cardless subscriptions for South Africans",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUkdyUmVwUnZoamlOUkdHMHFIMDI1SjNNMkdDZDdqQk9PT0Q5czFvNkFXMmdJMXY4bktYRFBkaXNfSXlHMmU4VUcyQXZmZ0FkWm1FeVgwcHhvOFN0ajFvOHNZU3g3RmtELWdSZWcyWUJaUXRKallHSzg0RjBKTGVWdlJBN3RndG1heC1tSVRMdmVNN3Q5UWJVdDlpbjhJZ0pRTUY2cjdpckNhVlpTMkhYOFQxa19iLTNpVkpLNmpKSzI2bm5SVC0teDZaZlduQWJhcWpRaFZVSnhNN0JaRGVUVzhsX0ZCVW4wOEd4VG44VEpaNDFobmJKcEpnZ3poaUgzREtZMnVKcGnSAY4CQVVfeXFMUHU4MnFoeUZvTTZza2FxN19NSkhTUmlaak43aU8xMmZUSHhjeGRGQlhEM2FOVHdVR3BiSW1BTEhSekdEOFJHTnNPZHVUd0NYV0ViRnp5S2VabGVCemJwckUyWDRLMk54d0lUUmlBSGtjNndZRW9YSzhUc2FLTHlHV0tCN1lpRUUxOXo5b1lZRjVJRVBPd1ZVSm1mN2tyb0ZGTkZHS1ZXYWJUUlBtblhiSHFSdnl4YUN1UEFOclFOSG1Zc2lXNmhQXzlVMEU5eFA5SmliamZULTlySGM0NXR5ckU4TDlrQVdHZkpDOXM3Zm5SVHEzYXVTd0wxT2dwbU5TZGIxbkFfS1ZwWDVEdE1R?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6c63bfc5bb2e"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Krea",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Krea launches Krea 3 image editor for commercial teams",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlFZbHJSUXktZkFWdU1UMURtSWkyU3o1Y0sybzJvTFNSV1RQRE9PLWZKY0xiRVJVOGtySEdUcFhpUlZlbjllODBxaUN0U0EwSGs5NU9wOHZPdFdteF8xRFJHNFJicFVVMzBKOTE4SkR2UzBERFFBb0t6NVpYcEVzUk5tS19CT3hsMS1HeU9yREJrRkU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c8703ef9bc59"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Launches 'Instant Soundtrack' That Analyzes Video to Generate Music and Sound Effects in One Go",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZnAzOHpYeG8yNnlqTjZmcFdzNXBCbTNnbDdPX29lWjM4andhcm82S21UVHRIOWZKd0NBR1dRNHlwTTEwQ1VOQlFoUm5nRmtsbUVJX2FidkJsdFNBR296NHlNdjVvMWtZYUc1Zl9DVk5aWnZXTWc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8f09fd64edfd"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs launches AI that creates music and sound effects to match videos",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50UkJMYlVzZnhTNHgzQ1RwenNGZjZMMnhDNFA5SGNhSlU4Q3VrenBLN3JlQnVacnJMekZGdXpBbTZoQUpCQzB6YkQ5MkQ3X1NKZ1E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "23e0a1455067"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs debuts AI tool that auto-scores videos with music and effects - CHOSUNBIZ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hemxpNUpyN2JuUmkycnV1TEVlekIwQXZxSmZXcHV5elBLSTZTS09acGZydVlOWWhJWnlGbHVzbl9jNVR1MHNUcUgzSXR2amdpSEdFLWVVU2FGZ1JzQjRNbmZOTHM2NjlFMVRCc0k3Yllva1RDVlFyYTl30gGOAUFVX3lxTFBMMERoXzROVGVZMHdUYmI3YzN1M1YtUkpRVXB6SEJtMGE5UmdHREdlRUE5MFdEU2hFdWVwbU5IWFFYTUh1eEc2b1J4UmJFdnloR3NLS2FDTnpYLThESkxKS2xwZ0VHYU5YOVROdlBEVTgzZlE1RWZSNnhveTQ5N1Z0REhwVWJESEhnQmJucHc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8ac101546038"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches a home-grown AI image generation model",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHhyV2ZuNU15UTdVYWtuZG5PZGNaWFg3Sk42X2Y3Uk53LVNPQ1c2RmVRRV81M244S3phV3U1N3VUeVNMenVfSEh0aTRtQkZ3MWJDN3djblRDcjgyZjJuOHhHQ0J6Y1A3RWhqVWhSZ0Q3dmpXcDlMVkpkVzhDV3FXUERCdEpQeEU2NmNsUDVKYTdjVVBkZUhsemNqY0w2bVljdlN0ZVRXckttWFQzNlF2M3NRRjZCQ3YzemdXaGNJZXhhb2R6U1dDYnlB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "be2db06f00c5"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway News | Introducing Runway App Studio",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUx5MHY0bGFvMDh2UDFXQnlJcHJkci1lY1YtcnlrekZRMjZEQlFlbGNwTVJTSEVKYjFJZ24zSmd0MnF0aHg4V1lxMU52VzY2WTF3aEJuYkJUMk1FZmRiZnRJQmZpbW91UUpjWll5d1h3WldXS09NNFlDbjFoQmdFX3R1dzFRV0ZvYmIzOVUxMjZVT3VQMU5XUGctWkwtc0VnVktNdGpLM0ZCYmdfeGV4bURR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ab84855f86eb"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Introducing Code2Video-AA, our independent implementation of HeyGen’s Code2Video Bench",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHg1VXRzMGcxTzRTU3R0STZvRFIwQ0p6THRXZzBvSXVxLTRNU01hYkt3V3cyNU1vYWFZM01ORnFONndfVnQxYU1PNFltQUs0U01zV1hCbUwyY3E2STNqdVpaX1lkbEZkNldyU0lPMU42RkI2bXJQaUstNHJGV1QyWk9qM3Y2U284RFR4cmR0cjlRUlh3ellvMw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7de96cd303e6"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kensington Palace Releases New Photo of Prince William and Kate Middleton's Kids",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTctdDhhejB5Q1ktWWRlR0hQZS1pOEQwbXRocHJObHlWTXYyYzNwM3F1WHdaZUtkU3hITkJfeTRmZjhzX0dQbW1CMDEzbl83MS1SdG52Y0tZRHFLTU5waHRGRzJkTWVwSGwwdlZGY20zd09OcE1rYjlXOVJoRDhicDd0TWYyekpIeHZGa1pGZG45MUVrODh5YXptR1VxWFFaaXRFMQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b1e4753d2b6c"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "DocuSign Launches Integrated Agreement Management for SAP Sales and HR Solutions",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnhRT0VtUG42el83V3RoVDRBWFBOcUxCQzF2QXFlOWtGZVFWVmZyVllHY0VucDdZRFBTaW85MjNrTU9KcUZIdFFmYzgybzlVNkF5cFJhYzZLWll3UV9HbndwNkhNRTk0RjY0a1hQS0MtYlRtRDNNTlhRdldTYzhDWUdJZTJENE85NV8wLW43a0lodzM5LThHR1NPbWFVZnRIam5fYWlkWkZBbHhC?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "89ca35b36ac0"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva releases Craft, an image model developed by its in-house research lab",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWdOVkkyZkhGVmZ0REE5dFVMblhiXzhULU80dUhhR1dTWEYxM0Y0OEhRUkNUVExDU3VHNy1USHlrc01HSGI2N25NbE5hV3k3VzZQZnJsdHpnRjN4OE1ybF9hNUZrbkhqNXNiS3pKT1JMdDBkUzRtQmNyaGlGQ1Z6UDl6OUZjcTNvN0VBODAtSTItY3hsNHQ5aHNUUWt2NDZOYVZMYWtoUGdPN2lBdmQ3WjB3enNwNTM0N1FESVhXZ0ppLThJVmhHa0FIUUR3aENGcnpZ0gHTAUFVX3lxTE5pZ05WSTJmSEZWZnREQTl0VUxuWGJfOFQtTzR1SGFHV1NYRjEzRjQ4SFFSQ1RUTENTdUc3LVRIeWtzTUdIYjY3bk1sTmFXeTdXNlBmcmx0emdGM3g4TXJsX2E1RmtuSGo1c2JLekpPUkx0MGRTNG1CY3JoaUZDVnpQOXo5RmNxM283RUE4MC1JMi1jeGw0dDloc1RRa3Y0Nk5hVkxha2hQZ083aUF2ZDdaMHd6c3A1MzQ3UURJWFdnSmktOElWaEdrQUhRRHdoQ0Zyelk?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "518821422b4d"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva unveils 'Craft', its first in-house foundational AI image model",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVnFybEpwQ2FLeUZNVEtQelFoSEVKYVZMNkxZR1BGeWlMZW5wQ2dmY2wtbFR1c3dnemhfVDJzTFZtRnJNbnUwZTVMSWE1eFNfLUpGYkRmZC1BY1ZSY2NYS3FJTkhGTnVmSlVBRWNkal91SG5GdEhNM2tRaWZ5Y1ppMHgzMnJPeW1RdERjbUIzY0ltWVhvbW9NQV9hdWFvMDN4MDZj?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "86acc9626bd4"
-    },
-    {
-      "date": "2026-10-26",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Craft, its first in-house AI image model, ranks second globally",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVQ4TnE0c2Fxby1Rcmo5QjBXRlg0aE5HQUh5R1ZlVHJyUnlnM0xyay1kLTlpaHVjeFduTnVsdVVKQ3hoMk1mUUVxZHp1QllacVdoM2hqMnVaN2ZRczE4VU1keEhPalgwcVBHSlkxUUlUVGZGQmx1RGN0RTE3TVQ3TTFDRW5JdkFyX2NIVThPd3pTSGNjSlJKbDd2ZGtYNnM5XzM1VGZyUVBGZ1B6Vno4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dab92984856c"
     }
   ],
   "items": [
+    {
+      "id": "ee2d52d9b96f",
+      "title": "What channels grow when organic search shrinks?",
+      "url": "https://www.growth-memo.com/p/what-channels-grow-when-organic-search",
+      "source": "Growth Memo",
+      "summary": "Similarweb data from the US and France shows where email and paid search are growing, why Direct is holding up better, and how the mix varies by industry.",
+      "category": "SEO",
+      "published": "2026-11-02T16:04:17Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "51cde3d7c073",
+      "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
+      "url": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
+      "source": "Search Engine Journal",
+      "summary": "Build demand before BFCM, give Google room to capture peak sales, and turn holiday visitors into December buyers with a phased ad strategy. The post How To Run A Full-Funnel Ecommerce Account Through BFCM Week appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-02T15:00:59Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "19244c7aa206",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "category": "SEO",
+      "published": "2026-11-02T15:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "09106f2f5302",
+      "title": "Daily Search Forum Recap: November 2, 2026",
+      "url": "https://www.seroundtable.com/recap-11-02-2026-42434.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google and Microsoft, as well as OpenAI and Anthropic...",
+      "category": "SEO",
+      "published": "2026-11-02T15:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2c5c768b8762",
+      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+      "source": "Search Engine Journal",
+      "summary": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic, and most saw no sales from them. The post Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-02T14:41:23Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0df5d1d32669",
+      "title": "Another rank tracker accuses Google of poisoning search results.",
+      "url": "https://foundationinc.co/lab/vol-316",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Welcome back to What Matters This Week. This week, Semrush joins the growing list of rank tracking tools that have caught Google serving fake search results. It’s time to take a closer look at that SEO data you’ve been reporting for the last month. Is Google Lying to Your Rank…",
+      "category": "SEO",
+      "published": "2026-11-02T14:09:25Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "ba20dcc467f3",
+      "title": "3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+      "source": "Search Engine Journal",
+      "summary": "Google rankings are a black box a store can still watch. The AI shopping decision layer is a black box with nothing to monitor. The post 3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-02T13:00:14Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "2edc95b2034a",
+      "title": "November 2026 Google Webmaster Report",
+      "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
+      "source": "Search Engine Roundtable",
+      "summary": "It is time for the big Google Webmaster report, the November 2026 edition, where I recap all the big changes Google made organically in Google Search. Of course, the big one is that Google completed its September 2026 spam update in October, and we also saw several unconfirmed…",
+      "category": "Algorithms",
+      "published": "2026-11-02T12:51:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "ed867fa3285a",
+      "title": "Gary Illyes Implies Click Data Not Coming To Google Search Console AI Reporting",
+      "url": "https://www.seroundtable.com/click-data-search-console-ai-reporting-42437.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Gary Illyes from Google has implied that click data and query data are likely not coming to the AI performance report in Google Search Console. Gary Illyes wrote that the Search Console team is interested in bringing \"data that makes sense\" to the report but didn't say clicks or…",
+      "category": "SEO",
+      "published": "2026-11-02T12:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "996ccfb904ba",
+      "title": "Google Ads Strategists Using AI-Generated Fake Names & Profile Photos",
+      "url": "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads Strategists, who are part of the Google Extended Workforce, are using AI-generated profile photos and names when reaching out to advertisers. An email sent from Kassy Garcia from Google to Joe Youngblood seems legit but when you look up who Kassy Garcia is, you won't…",
+      "category": "GEO",
+      "published": "2026-11-02T12:31:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "4e50a55a23b3",
+      "title": "Reddit Stock Drops 33% After CEO Confirms Declining Google Search Traffic",
+      "url": "https://www.seroundtable.com/reddit-stock-drops-declining-google-search-traffic-42432.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Reddit's stock dropped 36% over the past week after Reddit's CEO, Steve Huffman, confirmed Google Search traffic has been declining for the popular social media site. Of course, every SEO on this planet knew this would happen eventually, and it did.",
+      "category": "SEO",
+      "published": "2026-11-02T12:21:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "02c3a2ae8bd9",
+      "title": "Google Ads Promotion Offers Within Promotions",
+      "url": "https://www.seroundtable.com/google-ads-promotion-offers-42425.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has added a new \"Promotions offers\" section within the Promotions section in Google Ads. This lets you quickly filter your promotions by these three statuses, offered, expired and invalidated.",
+      "category": "SEO",
+      "published": "2026-11-02T12:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9a94129bbc5a",
+      "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
+      "source": "Search Engine Journal",
+      "summary": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-02T10:55:11Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ed4b58253682",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "category": "SEO",
+      "published": "2026-11-02T09:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "7b6249934d45",
+      "title": "20 Zero Click Marketing Questions Everyone’s Asking",
+      "url": "https://sparktoro.com/blog/20-zero-click-marketing-questions-everyones-asking/",
+      "source": "SparkToro",
+      "summary": "Huzzah! Zero Click Marketing is finally live. After two years of pain, sweat, and countless edits, the book Amanda and I have been writing to help marketers survive and thrive in the new era of digital marketing is finally here. You can buy the hardcover, ebook, audiobook, or…",
+      "category": "SEO",
+      "published": "2026-11-02T06:29:36Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "f056b8784a69",
       "title": "Unlocking hidden skills inside Google's model",
@@ -4126,171 +4291,6 @@
       "published": "2026-10-20T07:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "ef1b00bc00ee",
-      "title": "From Prompts to Priorities: A Practical AI Visibility Workflow",
-      "url": "https://moz.com/blog/practical-ai-visibility-workflow",
-      "source": "Moz Blog",
-      "summary": "Move beyond basic prompt metrics and transform AI visibility data into business priorities. Learn how to evaluate LLM recommendations, track influential citations, and identify key growth opportunities.",
-      "category": "GEO",
-      "published": "2026-10-20T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "e301d3373bf7",
-      "title": "New Feature: Grounding Snippet Ablation",
-      "url": "https://dejan.ai/blog/ablation/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "The new Ablation tab in DEJAN's Content Optimizer measures how many rank places each sentence of an AI-cited source is worth.",
-      "category": "GEO",
-      "published": "2026-10-20T00:48:56Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "dbaa90254253",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "category": "SEO",
-      "published": "2026-10-20T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "84084d44174c",
-      "title": "SEO Templates, Guides and Checklists to Streamline Your Strategy",
-      "url": "https://neilpatel.com/blog/seo-templates/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Tired of spending tons of time building SEO spreadsheets, sorting data, and double-checking each step? I’ve put together 19 SEO templates to make your life easier. From tracking organic traffic to writing the perfect blog post, these resources cover every step of…",
-      "category": "SEO",
-      "published": "2026-10-19T19:00:00Z",
-      "coverage": 1,
-      "impact": 0.5
-    },
-    {
-      "id": "68bfa5fc37e9",
-      "title": "1 in 5 AI Overviews for branded buying queries cites a competitor",
-      "url": "https://foundationinc.co/lab/vol-314",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Welcome back to What Matters This Week. This week we’re looking at citation data from Writesonic to test a warning that’s been making the rounds: that competitors can now shape your brand’s answer in Google. Competitors Can Shape Your Brand’s AI Overview. It Happens One Word…",
-      "category": "GEO",
-      "published": "2026-10-19T18:46:48Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6b1be3e171a4",
-      "title": "Competitive Citations in AI Overviews: Data From 15k Branded BOFU Queries",
-      "url": "https://foundationinc.co/lab/competitive-citations",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Search a B2B brand name in Google and the AI Overview mostly sticks to the brand’s own site and a Wikipedia entry. Add one buying word, like “pricing”, “alternatives”, or “reviews”, and a competitor starts writing part of the answer. We tracked 15,716 Google AI Overviews on…",
-      "category": "GEO",
-      "published": "2026-10-19T18:37:44Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "5c2bc4373850",
-      "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
-      "source": "Search Engine Journal",
-      "summary": "Meta removed training from the crawling clause in its upcoming Commercial Terms. The permission to crawl sites tied to business users is still in place. The post Meta Drops Training From Its Crawl Clause And Keeps The Crawl appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-19T18:30:50Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "98f8751e70a4",
-      "title": "B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/b2b-lead-generation-how-to-choose-your-2027-marketing-channels-webinar/593589/",
-      "source": "Search Engine Journal",
-      "summary": "Learn how to choose B2B marketing channels, fund a trial campaign and measure results with CallRail and Matter Made on October 29. The post B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-19T18:28:32Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "bc351f928e99",
-      "title": "See the top style searches from people in big fashion capitals.",
-      "url": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
-      "source": "Google (Search)",
-      "summary": "We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
-      "category": "SEO",
-      "published": "2026-10-19T16:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "251a7fd0c80f",
-      "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
-      "source": "Search Engine Journal",
-      "summary": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The post DeepSeek Opens Its In-House Search Engine To Developers appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-19T15:02:15Z",
-      "coverage": 2,
-      "impact": 7.0
-    },
-    {
-      "id": "804220c8b423",
-      "title": "It Knew Every Word via @sejournal, @pedrodias",
-      "url": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
-      "source": "Search Engine Journal",
-      "summary": "A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-19T14:00:20Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "68381bd66dc5",
-      "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
-      "source": "Search Engine Journal",
-      "summary": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The post AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-19T13:34:28Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6cca32b4019d",
-      "title": "434 Days Later – Are AI Search Platforms Like ChatGPT and Claude Still Unable To Render JavaScript In October 2026?",
-      "url": "https://www.gsqi.com/marketing-blog/can-ai-search-platforms-render-javascript/",
-      "source": "Glenn Gabe (GSQi)",
-      "summary": "In August of 2025, I published a blog post covering how AI search platforms like ChatGPT, Claude, and others do not render JavaScript. I tested a number of sites that were using JS to render content and the results were not good… not good at all. ChatGPT, Claude, and Perplexity…",
-      "category": "GEO",
-      "published": "2026-10-19T12:42:58Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6311423ca796",
-      "title": "Does AI drive more direct traffic?",
-      "url": "https://www.growth-memo.com/p/does-ai-drive-more-direct-traffic",
-      "source": "Growth Memo",
-      "summary": "I went hunting for hidden AI traffic and found bots, tempting correlations, and a tougher attribution problem. Here’s what to measure when Direct traffic doesn’t tell the whole story.",
-      "category": "SEO",
-      "published": "2026-10-19T12:29:03Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "cc683a624b9b",
-      "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
-      "url": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
-      "source": "Search Engine Journal",
-      "summary": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search…",
-      "category": "SEO",
-      "published": "2026-10-19T12:00:45Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
