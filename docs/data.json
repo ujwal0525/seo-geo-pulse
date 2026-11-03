@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:55:05Z",
+  "updated": "2026-11-03T02:03:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -18,7 +18,6 @@
     "Semrush Blog",
     "SparkToro",
     "Yoast",
-    "Zyppy Signal",
     "iPullRank (Rank Report)"
   ],
   "milestones": [
@@ -821,6 +820,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-03",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches 'Eleven Realtime' Voice Agent Supporting 90 Languages",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZYlFzX1gwcTYwd252T1JOcjB5OG5uenNQTlFnN0VFZm5BZUprOXREdVVSX0NKeGpuSlhla01ieFdIZC1mclc2bWlHSVBvUVdHNjVRcjZBTHBveEx4OEhyQllaUzF3eDlaRWJOeldSVlUyUlhVNUE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9a9b61d2fddb"
+    },
+    {
       "date": "2026-11-02",
       "company": "Canva",
       "front": "Creative",
@@ -951,6 +962,30 @@
       "source": "Google News",
       "curated": false,
       "id": "0bb7bb30d1a3"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity for iPad Launches Free With Sketch Studio",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XenRYNndSS19FZXpGRS1uY24tdXFPM1J5Q1FWR0VIUmxLejFVRHdmU3JadTNFcTdFSnRGRENoUE1tMW8xRUlCdk1aVzQ2aDduMlN0SW5icFRnZ3NLRng5UkVYdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5f70fb879972"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity Federal Credit Union Launches the Affinity Wellbeing Institute on National Wellbeing Day",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUllvVlh6SS1TSTVldi14UkNyRGR3czlDMV9mNUszZ2hyb1FMSGdYam5HYU5EX2t4emdDc1gwMFdsMWxiSW1sWHRMdGhHblowdjFpWTRiRG51TWJLNGRQLWxBMU1ld0FRZXM3Wmk4MjRGX3dhVno1cVpLd2lZLTFsVkxNU3dFV0hzMEdNYVQ1WXc1ZkFuNnZ4a0RHRkFtMFpmRnRyb3JqeldtX202OTd5ajYyLUNuYnIzcmtuVEFSbTgzSjJnVm9reDRMMjQ0T2xiUjNtQjYtX25kVFIyX3ZhcEczTUd3UHNnT1E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "71de5cd70e47"
     },
     {
       "date": "2026-11-01",
@@ -1503,45 +1538,86 @@
       "source": "Google News",
       "curated": false,
       "id": "89aa1c52235d"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Dutch Bros just launched its first-ever plushies and 100% of profits go to charity — how to buy",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2155b40e7d3e"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Dutch Bros launches collectible plushies: How to buy Nitro, Mocha, and Joe",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjVOVUlueE5NNmtSQTNwSlFDUEhBRjNqQk9ESjk3TFFlZVR5aHh5bWl3NUhXX1FuZkw3al8tUVY2MTZpTUFvQy10NjRYWlhwRGVwb21UWVpUTjJqaFZQc2xjTjhDUl9vQWszQTlhSmZUc2M3ZlY0em5CNVUwVTMxa1VyRHJteDhiZ1Rybk9IdWt0Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e4bdbbab1787"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Calgary Public Library unveils plans for eight new locations by 2040",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQazJvV0dTWmsxTGJWbGdaTUJXWGk3alNpYnd1cDJIQnk0MEthV3ZYaG1HT1VJWUZ6YnBmN21teFNZamtZZ2hvc2NsN0tmZFhiRlExOURQSW8zSmo3UUdLa2gxNV9VRnlYZjQ3c2x5NWR6QVRJ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dbaa6849cf5f"
     }
   ],
   "items": [
+    {
+      "id": "942f256d5558",
+      "title": "PageSpeed Insights Scores May Rise After Lighthouse Update via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/",
+      "source": "Search Engine Journal",
+      "summary": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post PageSpeed Insights Scores May Rise After Lighthouse Update appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-02T21:52:57Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "db43fec0d4c1",
+      "title": "NY Times Accuses Brave Of Scraping And Exploiting Content via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
+      "source": "Search Engine Journal",
+      "summary": "New York Times lawsuit accuses Brave of selling access to paywalled content to AI companies and depriving publishers of ad income. The post NY Times Accuses Brave Of Scraping And Exploiting Content appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-02T21:38:22Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "885c059f661f",
+      "title": "TikTok Search Ads Adds Brand And Category Keyword Packs via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/tiktok-search-ads-brand-category-keyword-packs/595682/",
+      "source": "Search Engine Journal",
+      "summary": "TikTok is highlighting two impression share metrics for Search Ads and adding curated keyword packs. Here's what each does. The post TikTok Search Ads Adds Brand And Category Keyword Packs appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-02T20:56:45Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a6d0249e50e3",
+      "title": "AI Shopping: Get Your Products Found In Google & ChatGPT via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
+      "source": "Search Engine Journal",
+      "summary": "Chris Sachs & Aris Vrakas outlined 4 moves for AI shopping: make product pages retrievable, use shopper language, connect feeds with pages, test the results. The post AI Shopping: Get Your Products Found In Google & ChatGPT appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-02T20:41:45Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b90100cccf44",
+      "title": "How The Athletic Gets More Clicks With One Simple Trick",
+      "url": "https://www.searchenginejournal.com/how-the-athletic-gets-more-clicks-with-one-simple-trick/594915/",
+      "source": "Search Engine Journal",
+      "summary": "Clickability isn’t just headlines and images. Showing readers which articles other readers are talking about is a distribution lever most publishers ignore. The post How The Athletic Gets More Clicks With One Simple Trick appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-02T20:00:19Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3d0bc17095ba",
+      "title": "Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/",
+      "source": "Search Engine Journal",
+      "summary": "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date. The post Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-02T19:21:56Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a51342ae4106",
+      "title": "Google AI Overviews For Brands Moved To Right Column",
+      "url": "https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has moved the AI Overviews for many brand-related keywords to the right-hand column of the search results page. Previously, they appeared at the top or middle of the main search results section.",
+      "category": "GEO",
+      "published": "2026-11-02T17:15:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "ee2d52d9b96f",
       "title": "What channels grow when organic search shrinks?",
@@ -1552,6 +1628,17 @@
       "published": "2026-11-02T16:04:17Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "de4cf53f9db9",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "category": "SEO",
+      "published": "2026-11-02T15:30:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "51cde3d7c073",
@@ -1728,6 +1815,28 @@
       "published": "2026-11-02T01:06:10Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "598c6194c0d3",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "category": "SEO",
+      "published": "2026-11-02T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ff138f709a7e",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "category": "SEO",
+      "published": "2026-11-02T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "38879ac62934",
@@ -2102,6 +2211,17 @@
       "published": "2026-10-30T09:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "0104b4da9461",
+      "title": "Answer Engine Optimization: How to Improve AI Visibility",
+      "url": "https://neilpatel.com/blog/answer-engine-optimization/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways More than half of searches in 2025 don’t lead anywhere. People get answers from ChatGPT, Perplexity, Google AI Overviews, and Gemini without clicking a single link. Google’s AI Mode takes this even further. It turns search into a full conversation and already has…",
+      "category": "GEO",
+      "published": "2026-10-30T07:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "f041d99d423e",
@@ -4170,127 +4290,6 @@
       "published": "2026-10-20T14:00:13Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "9a583f844af4",
-      "title": "How To Create Links for SEO Google Can't Ignore",
-      "url": "https://signal.zyppy.com/p/links-google-cant-ignore",
-      "source": "Zyppy Signal",
-      "summary": "Links are critical to SEO, but Google actually ignores most of them. Here's how to ensure your links count.",
-      "category": "SEO",
-      "published": "2026-10-20T13:07:32Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "0ff558c009c8",
-      "title": "Google Removes AI Overviews Labels On Some AI Overviews",
-      "url": "https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be removing the AI Overviews label from some of the search results that are AI Overviews. The desktop version is missing the AI Overview label, while the mobile version has the AI Overview label.",
-      "category": "GEO",
-      "published": "2026-10-20T13:03:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "b59769708010",
-      "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
-      "source": "Search Engine Journal",
-      "summary": "Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you. The post What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-20T12:00:04Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4e609083d825",
-      "title": "Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc",
-      "url": "https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for…",
-      "category": "SEO",
-      "published": "2026-10-20T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a49e96365a8d",
-      "title": "Google Search Internal Issues With Square Brackets [] Punctuations In URLs",
-      "url": "https://www.seroundtable.com/google-square-brackets-urls-42332.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search had some issues handling square brackets punctuation marks (i.e. [ ]) within URLs. John Mueller from Google responded to former Googler, Vanessa Fox, saying that he is \"seeing some of the issues internally that came up with these kinds of characters in the URL.\"",
-      "category": "SEO",
-      "published": "2026-10-20T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "85772c504cb6",
-      "title": "Bing Tests Not Showing Sitelinks",
-      "url": "https://www.seroundtable.com/bing-no-sitelinks-42327.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft seems to be testing not showing sitelinks under the main Bing search result snippets. I am honestly not sure if this is new but I was able to replicate Bing showing sitelinks for the first search result snippet in one browser and for the same query, it not showing the…",
-      "category": "SEO",
-      "published": "2026-10-20T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e05100d08859",
-      "title": "Google Search Tests Removing Horizontal Rule Line Under Tabs",
-      "url": "https://www.seroundtable.com/google-search-horizontal-rule-line-removed-42333.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing removing the HR, thematic line break or horizontal rule line, that is found under the search tabs under the search box in the search results page.",
-      "category": "SEO",
-      "published": "2026-10-20T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b3fcb2e42d32",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "category": "GEO",
-      "published": "2026-10-20T10:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "05cd45c837d9",
-      "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
-      "source": "Search Engine Journal",
-      "summary": "Search's share of North American publisher pageviews fell to 12%, but a lower share alone doesn't show fewer search pageviews. The post Search Share Fell To 12% For North American Publishers: Chartbeat appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-20T08:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "658c6ed956c3",
-      "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/sej-webinar-recap-c252a32e4209/592892/",
-      "source": "Search Engine Journal",
-      "summary": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations & Clicks Come From appeared first on Search…",
-      "category": "GEO",
-      "published": "2026-10-20T07:45:18Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a84b6a7bee5c",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "source": "OpenAI",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "category": "GEO",
-      "published": "2026-10-20T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
