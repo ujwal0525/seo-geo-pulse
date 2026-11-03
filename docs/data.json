@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T02:03:05Z",
+  "updated": "2026-11-03T11:41:17Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -832,6 +832,66 @@
       "id": "9a9b61d2fddb"
     },
     {
+      "date": "2026-11-03",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$2.98B",
+      "title": "Kuaishou's Kling AI closes $2.98B round, keeping parent in control",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVh0OFFQeW5FR25HcVhBeWpYWXNHc2pzU1d1OTFQbnA3S3I2NGNDUWJmSUpydVRNS2tmS1NYR25OVnh0aDFZRmFnUy02QUY4czUzdk1sdE1HbmN0NXpKSEtJZlZMZUNtOF9lYS1oT2RnbVJ3MzZtc0pnRHJwM2VTZDIyd3JXREhnODNKSm5vME4zZWZKSHNSOXBlX1J0cHM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d43d9e2b470a"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Canva OpenAI Partnership: GPT-6 Astra After Brush [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HVzliME5GRFJUay1NelpnYXQ5VFpGZ2liazVOZW9CeXdyd3ZYbE5FbVpNZzlscXc0VkZUQm1WNXphRkRBbjFaNlhRWm5zSFcxWnZDVnl1cEJGTV9Yb19NTllGMlJlOUhwdElPTC1SWFZGd3F4NGJoUDJySnhSRFU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8d00a6e82b78"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "A design featuring Figma, Sanrio, and Hello Kitty in a collaboration tool",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLThlTnlpUmdqMlA0d3VpWnBLRE5NREhfbzZIODFuU0FQRW1oblMyZUxucmlBNDl3VmVwZ0syclgwSHpmTTIxSnA4UDFZWkFiRExiYWlRcEdwaldfZ0FLYkFkZ1NTLWV5bU1EMDc2SVJ5dGNOTjhLN0xuZnhXSk5QaW9QN1BYUjg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7f8d1d1997ee"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "From Political Affinity to Partnership: U.S.–Hungarian Relations",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUhCRlFaUnd5QzNfb1QwSlExc3NNNU9EX3FIbmdmTXZaM2lBTkoyWVhQN2NOUjNvcmo5dGhaMUQtMkZyZWF0bzJuLVB1Y0laYlV1dnEwRFJ1dnB1NE9BODhFRzFzRkJQTVYtSWQyR1FNcVdNb0ZUTVNzZWlXZGJ6N093OVg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "597e84059a2e"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity Federal Credit Union debuts new wellbeing institute - ROI-NJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHFBWTRHNWNBUHJXc2tVSzFwTFdTWkFNY3RKUDdrcGVwM2J2dXZ5azh6bE9OaVdiajhSMnhYam5SX1NWYzJKSTh2UzFlWTRkSnp5SkJ4VE5SeEg0V1VyOWRyT0FtVFNIeHRuNkhEZndoUnlSUkcxS01VS2FleVc4QmlxYUhmaUhrbkdDSW0yMkdJTWtvUnRkMHRqWVlyUnItcmxJUWdn?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ae140b687b49"
+    },
+    {
       "date": "2026-11-02",
       "company": "Canva",
       "front": "Creative",
@@ -1216,6 +1276,18 @@
       "id": "35f7dc37f786"
     },
     {
+      "date": "2026-10-30",
+      "company": "Midjourney",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Meta partners with Midjourney to bring AI image tech to future products",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUJXMkdZMHVTMHFKOEVvREpFQ1VvUEx2YlpaMzhpM1R1R01oZDRiNkdzRVFmLWJsa0REeW9fRGdCSHJCUUlxOVh6eWY0Y2d1NEVIWEo4b1J3cXhDU182bFRXNnh1UkZHaGltWG9pbW8wUFRHMDM4MGJuSC1fTTF0OTM4cnR6RnlpUTVINWJrMXZfQ3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "13e275ebc800"
+    },
+    {
       "date": "2026-10-29",
       "company": "Pika",
       "front": "GenAI Media",
@@ -1466,87 +1538,37 @@
       "source": "Google News",
       "curated": false,
       "id": "ad82b6221e37"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "airSlate",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Apoorva Launches BillWare, a Unified Invoicing and Payments Platform",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNElPa1Q3VW5GdzE0akk1NVpTSHN6SG5rZzBJUnRNZmFGLWlOM0Q5cTM4RzVweWhfdFgyMW80WXY3TDNack9hY0x4QzR4Q0JBRkxKWTNYcjRsV1VxT3JKNzNVRlRJVDBMQ1ZLMjFvc01lY0w2ZHJnb0RUV3Nld2ZubTNPeVphUi1zbDY5by1FbVFlSTJ3QlpleFdhYmdTR2xoUTBIUXZUV09VX2RZTGxUcExCWFhTSm0xSlF6Tw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "86a9459ee443"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Press Release: Air India unveils new guest amenities",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmJzX3R0R2tacVdTTUZGZkw5M1lBMkpGVjN4X3FycHl0WlpZWWUxTlR0WDNlcUh4TUZETTQ2MkVUbUh1ZlhzcXo3Vm1HM2pZdVptbVhHNlBLcUpJQlpSM19VazZXMkYySzM5dDJUVVpyUG1Lb0FvOS1RNEdnQ0Q5THhB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "27a19261e604"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Acer Unveils its Newest Predator and Nitro Monitors",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXdFVmaFhvdDByMEUwaktpd0hyaDFHOUpWMXM1eXRTTlZXM0N4cjhRSXduWjgwbHh1bnNPbkhFM2t6ZzhMempwWGZoX0ZoWFAwMmc3TjBCSGlDWDlfS08wVG1SZE1xay1KWkJGZ0F3YXM1Y0FNT3MyaVdzYVlZUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "23820568d99e"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Acer unveils new Predator, Nitro gaming monitors",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGdBWHFOWEI1TzFLd1B4djQycEJMcDEwZU9iSVdYTTB1Yk5ZcVFOMXh2UXdibHlvWEU2dk5ZdGhFc3UtYkJCN0RFQUVpQWVpeXdTR2pIN2xXZ2VhRXFWclVtQnJ6M2VyakVVZEdGXzg0c3AxU0NfQ0FWSmFNU2J5TFpBSQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "103d9b79528b"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$10B",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch",
-      "curated": false,
-      "id": "997e85a0a5c4"
-    },
-    {
-      "date": "2026-10-27",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Affinity Aviation Group Partners with Training Provider",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmIwRi1NTjhJNm83dGVuOGpfcGRHOFdET21IWlpoazQtZHFvYWQ1aUNxS2phbWpfQklZY3dtb01mQ1FMbmdBU2Uta0VpTTNlTFRjS0lheVcxTjhlRDVETWdDcy1tZXNWdmV0WGhKa1JZNG9VR2FSRGtLYXg0VDF0MU9pcmFNNWhiQ0VZbWVaZWNWaEJHR01jazM2Q01aMVhSV3FmczYzTXhkN1d0Rkppa3VUZjViUXpHTHlv?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "89aa1c52235d"
     }
   ],
   "items": [
     {
+      "id": "938293bb33fd",
+      "title": "Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
+      "source": "Search Engine Journal",
+      "summary": "Google's John Mueller said it's okay, within a specific use case, to use robots.txt to hide resources from Googlebot. The post Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-03T11:16:50Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "08b710f1e780",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "category": "GEO",
+      "published": "2026-11-03T08:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "942f256d5558",
-      "title": "PageSpeed Insights Scores May Rise After Lighthouse Update via @sejournal, @MattGSouthern",
+      "title": "Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/",
       "source": "Search Engine Journal",
-      "summary": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post PageSpeed Insights Scores May Rise After Lighthouse Update appeared first on Search Engine Journal .",
+      "summary": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-11-02T21:52:57Z",
       "coverage": 1,
@@ -1606,6 +1628,28 @@
       "published": "2026-11-02T19:21:56Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "6fd6ad7938fa",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "category": "SEO",
+      "published": "2026-11-02T18:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "262cfa35f430",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "category": "SEO",
+      "published": "2026-11-02T18:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "a51342ae4106",
@@ -4244,50 +4288,6 @@
       "summary": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-10-20T19:00:30Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c18de8302776",
-      "title": "Google Ads Expands Financial Services Verification To US & Canada",
-      "url": "https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this.",
-      "category": "SEO",
-      "published": "2026-10-20T15:20:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "9961a451b5a0",
-      "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
-      "source": "Search Engine Journal",
-      "summary": "Cloudflare says its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search. The post ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-20T15:00:36Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "76d4b56b62ad",
-      "title": "Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail",
-      "url": "https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/",
-      "source": "Search Engine Journal",
-      "summary": "Regain control of Google Ads with a curated article stack on lead quality, Local Services Ads migration, Smart Bidding goals, and proving PPC business value. The post Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-20T14:17:07Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "00755085f68b",
-      "title": "I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites via @sejournal, @suganthan",
-      "url": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/",
-      "source": "Search Engine Journal",
-      "summary": "DeepSeek’s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs. The post I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-20T14:00:13Z",
       "coverage": 1,
       "impact": 4.0
     }
