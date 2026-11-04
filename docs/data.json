@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T19:10:57Z",
+  "updated": "2026-11-04T00:26:14Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -80,6 +80,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "c5d3f213e931"
+    },
+    {
+      "date": "2026-10-28",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "url": "https://openai.com/ads/customers/evernote",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "493dcde933e9"
     },
     {
       "date": "2026-10-26",
@@ -807,16 +817,6 @@
       "source": "OpenAI",
       "curated": false,
       "id": "ca1bcf23ae76"
-    },
-    {
-      "date": "2026-07-22",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "f7d15167519c"
     }
   ],
   "competitors": [
@@ -1011,6 +1011,54 @@
       "source": "Google News",
       "curated": false,
       "id": "5c81e552bcd9"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Mass job cuts as Canva unveils major restructure after ‘hardest year yet’",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3k5SU52d214c2JIc2ZKVVh2NHNSRW9JWm41bTBZUWFxRGNXX1JlNl9YM0tNRjc5X2NSTWpjYVhJeHBZUkc0Nms0V05DOUtZdmRhazNGdjR5Q0JNMFd6SVZJTXM0cTNkYjVYOHVUNGkxSk5YakhnbFIzWS04WTl1NkNUWFQtcHNQYzdKVDdOb05fdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "79621d6e4e68"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "Docusign Acquires Suplari to Expand AI-Powered Procurement and Contract Management Capabilities",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRy0yWXl2Q2tMSTVyMktQRVlXVjZfRkl1N1dlNmNiSjl4ZDh1MWFkNkxXdmNyazNNMDBSbEVsV3F4bmhfZWdXLUFqa093UUtvYkZXNGhtNmZGa3dsM1I1b0tPSjZDUGpsR0hydVY4RVEyM1ZPRllnTldXT2g2THhrZ253M0p2aG54NUZ2c0JqcDM0a2JTSVZURW1SZFhYcWVkWnJ4QkJxLXE2aVl0OXo0NEJXS3NfYWFMcWgxZzRPaEg2bWRKenoxZVc5UHhWSTQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3ce2e91fd5cf"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "DocuSign Acquires Suplari, Enhancing AI-Powered Procurement Solutions",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVo5UGJaUWVMTUlxbGhQeUt3eHRzczVyMFpiSEpCMEJqcFk0aWFyTTV4SWprYmZHMkgwREUxRE9XQ1ZDd1FJaEN4RFZ2a004WHkzX2Q0V1FwcTdrQ3o3R3BNV3pGOUU3N1lWRHg5TkVzU2t2Mm1yTV9BbGNKSXdLWXh3d1I1OUZTMTI2cjZQazBlbjFMY3ltLVdZNDc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "84753f7f47f9"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "Docusign Acquires Suplari to Add Procurement Analytics to AI Platform",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92blBRZU5ud1l0QVBpN1c5aDFNU3A3SklnZkExZlB2anhjamtLVEE2TWUxUnRRMWdGUy0zZVpHWEtDcFBvNUdEcThpUWtGS0FHbDcwelRldkU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9aff11647943"
     },
     {
       "date": "2026-11-02",
@@ -1491,57 +1539,53 @@
       "source": "Google News",
       "curated": false,
       "id": "6370db866825"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "OneSpan",
-      "front": "Documents",
-      "move": "Funding",
-      "detail": "$254M · $258M",
-      "title": "OneSpan raises FY26 revenue view to $254M-$258M from $248M-$252M",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORzJtLVppLVk4T1ZVNVRtX0drbXA2NGo5Sk1zb2lFM3NQLWJTWXlNbGF0aGVsVFBvRkw5UktiTkMteU51MW9za2pXdUZrTHBKaE5Ia1I5R2NDbWRYS05MNTZud0hHcEZIYWZjWDdpQW9GdWVmaDdzcng4RUZ1Vmd1ay1CMTFuS1ZjQjQxblhNZnAtOTR5cVVZV1Rtc3dDUGk2YWI2OEZ4bGYxLUJjS1Rr?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d22492d0aed4"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$6 million · $39 billion",
-      "title": "In 2015, Airtree backed Canva's $6 million Series A; 6 years later, a partial sale at a $39 billion valuat",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPaHVJSDhCWWNyaWM5QVZwRW9mSDc5R0Z3eFZBbUlIM2FzT0ExSGlzTXR2b0ZkR3RkV0lub2g1MmZwWDdYOHdSeWQ5ZUYydU5iemFfTkJVWnhXczRmSlo5a2xhTWFkTThNOVBEX3hkU2hJVy1iNmZJSU4xcjNEWi1uV05XOHZPZFlIOEVvVG1kRm1mS0VDay0wdkxsV3V6N09GLS0tNEtqSzVBUkVRbVlLRzNLZkRHcXJNX0ZnZmgyTTJ2UWxMY1RQZ3FsN2pnMWxRMmFLbmpzRU85Ymh4T3FLeDdTd3A5b2NvVURKZ0NjVGRtOHdmbEZhOWVRdnFhMmxMckNBbFNHSDBaYUYxTkp2UTFFd05tdjA5YTBHUXVqTl9ES00zbEpaazlDNHBNejlFSHFIVmh30gG7AkFVX3lxTE11TFlYOU1fYkZuMkFxMGF3aEtfLUpfMWFycFpQNURrUS1oNnBrWERhdkNuZnQ2N1ZhalAzMlFOWUlNbFNwWFVibEpyRmJjZEtMTEdtMThVTUI1ZjJoeVJlNFBKd1RCQ29ObE01cnpuMGEyVlp4cVU2d3dmbkZuaVdCWXgwVTVpazV2RmQ1dS1YN2R4ZVZqdjlLNHo3OGtOZVQtSGp6SjE4R0FLR3FyWGRoVDg0UndLZlpaZjJJRUxPdmIxYUZVdE9HY09kUk12MlVFQWZtZUV2eXE4SXlyQjdOUXQxcDI0OW4wNklKMEYwb25UcGlGZE9zMEI5TDZ5eEZDVEhLRC1RY2llSEtBWTMzb3VfU3lqcUMwaG1TSmRHU2xVOTBmdl9NbkpRVjN3N1B5eTQwVklnS3Q1RQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9155858ad6bd"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "STRICT-G x HiKESHi SPiRiT Pop-Up \"STRICT-G RUNWAY\" Launches a Limited-Edition Apparel Collection",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GLWxLSXZCd1VUQktHWmlsR0ZqamVudVRkOFQ3bDF6YWx4SUZxUVRURGhBdDBOUUNrRV9vbVFrSmpfVjdxUzVLYlpVX2dFMDZm?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "488489662a9f"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Codeifai Lists ProtectCode on AWS Marketplace, Launches Canva App and Reaches 8,753 ConnectQR Users",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWhsaXE1NW8zNi1Zd1NISXdNYmJaRVk2QlpEYkJfcU1oZ21JbWstZlhqbTh6UnlYNlBjdHBwM0xnN0pwdGs2UFB2LTRUT043WE9ValFMZW5jNzN3aXE0NUVTblIwZ3RqTEhOYmtTTjBxbEZaU0Q2b19INWpKM0h5WVFsYlQ5cS1XSWs5RkI4YTJfSGFNNEljZmV6NE5vckY5aV82di1zUHVFM3lmV241bEs3cG1YSDE1d18zQlk2VTVzZmpCVFVUYXRZR1BTWVNzcTd0Q253?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6e9bc78317f7"
     }
   ],
   "items": [
+    {
+      "id": "094549b34808",
+      "title": "Google Updates Crawled - Currently Not Indexed Details",
+      "url": "https://www.seroundtable.com/google-updates-crawled-currently-not-indexed-42450.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated the page indexing report help documentation, specifically the \"Crawled - currently not indexed\" section. It now says Google doesn't index all pages, this is a common message, it doesn't necessarily indicate an issue and more.",
+      "category": "SEO",
+      "published": "2026-11-03T21:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6a0688bb5a55",
+      "title": "Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
+      "source": "Search Engine Journal",
+      "summary": "ChatGPT's search-like queries equal about a fifth of Google's volume, its maker says, counting each question that sends it to the web. Traffic data differs. The post Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-03T21:13:38Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "f1622c73a597",
+      "title": "Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/595484/",
+      "source": "Search Engine Journal",
+      "summary": "SEOs, buckle up. Google says expect rapid improvement from recursive self-improvement, and Search is becoming an agent manager. The post Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-03T20:00:43Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4a37f9feca4e",
+      "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
+      "source": "Search Engine Journal",
+      "summary": "Google says ad tags in server-side Tag Manager will accept full IP addresses while Analytics tags stay redacted. Here's what changes and how to redact. The post Google Ad Tags In Server-Side GTM To Get Full IP Addresses appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-03T19:30:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "c6e4caa30af6",
       "title": "How To Create Demand You Can Actually Convert (And Prove) via @sejournal, @duchessjenm",
@@ -1807,6 +1851,17 @@
       "impact": 6.0
     },
     {
+      "id": "a2357e701f02",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "category": "GEO",
+      "published": "2026-11-03T08:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
       "id": "7b935a974fbb",
       "title": "The Complete AI Research Workflow: From Prompt Discovery to Content Creation",
       "url": "https://moz.com/blog/ai-research-workflow-moz-pro",
@@ -1816,6 +1871,17 @@
       "published": "2026-11-03T08:00:00Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "3d509e27bae2",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "category": "SEO",
+      "published": "2026-11-03T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "942f256d5558",
@@ -2872,6 +2938,17 @@
       "published": "2026-10-28T20:10:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "bbd4d7a8dcb5",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "url": "https://openai.com/ads/customers/evernote",
+      "source": "OpenAI",
+      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+      "category": "GEO",
+      "published": "2026-10-28T19:40:49Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "829b0d0f1f91",
@@ -4212,83 +4289,6 @@
       "summary": "Compare Semrush to Moz by key differences in keyword databases, AI visibility research, pricing, tracking frequency, and SEO features to choose the right platform for your team.",
       "category": "SEO",
       "published": "2026-10-21T19:15:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "7e27f1860283",
-      "title": "Rank Tracking Broke In September – The Future Is Measured By Brand & Revenue via @sejournal, @TaylorDanRW",
-      "url": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
-      "source": "Search Engine Journal",
-      "summary": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting. The post Rank Tracking Broke In September – The Future Is Measured By Brand & Revenue appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-21T19:00:57Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "e0a4e35d4f92",
-      "title": "Google On robots.txt Rules For AI Crawlers, Emojis, International URLs & More",
-      "url": "https://www.seroundtable.com/google-video-robots-txt-rules-42355.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Gary Illyes and Chery Prommawin released their second video in the Non-Canonical Cabinet series; this one is named What can you actually put in a robots.txt? Here they discuss what is, and is not, supported by robots.txt files. And while Google may support features or…",
-      "category": "SEO",
-      "published": "2026-10-21T17:25:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4ab93569e260",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "source": "OpenAI",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "category": "SEO",
-      "published": "2026-10-21T17:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2ce23afcfc1e",
-      "title": "How to Use Facebook Groups for Marketing",
-      "url": "https://neilpatel.com/blog/an-eye-opening-guide-create-grow-facebook-group/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways Marketers rely on good strategy to reach their target audiences, and one of those strategies is harnessing the power of Facebook Groups. With more than 3 billion monthly active users, 1.8 billion of whom participate in Facebook Groups, these online communities are…",
-      "category": "SEO",
-      "published": "2026-10-21T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "0a74807b58d4",
-      "title": "How Feature Upvote fixed Google’s wrong AI Overview answer",
-      "url": "https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/",
-      "source": "Semrush Blog",
-      "summary": "Fixing incorrect brand facts in AI search took Feature Upvote days. Here‘s how it got Google‘s AI Overview to say yes to its API.",
-      "category": "GEO",
-      "published": "2026-10-21T15:43:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "7b4caa555802",
-      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell",
-      "url": "https://www.seroundtable.com/google-php2shell-42353.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The World Wide Web is rushing now to fix and patch its servers for the critical PHP exploit known as PHP2Shell. Most are able to patch these without downtime but many sites are going offline until the patch is implemented, just to be super safe. Google's John Mueller offered…",
-      "category": "SEO",
-      "published": "2026-10-21T15:35:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "94b8f9290812",
-      "title": "Wiretapping The SERP: Reverse Engineering Network Data",
-      "url": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
-      "source": "Search Engine Journal",
-      "summary": "A beginner’s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT. The post Wiretapping The SERP: Reverse Engineering Network Data appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-21T14:00:14Z",
       "coverage": 1,
       "impact": 3.0
     }
