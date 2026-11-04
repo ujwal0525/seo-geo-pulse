@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:26:14Z",
+  "updated": "2026-11-04T11:54:46Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -821,6 +821,42 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-04",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$22 Billion",
+      "title": "ElevenLabs Valuation Soars to $22 Billion as CEO Sets Sights on IPO Preparations by 2028",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50TDc1Qi1HWEdsaXpCc1BHNGRzRTdwVC1uOWFvQjNGNEJKWnB4RnNUaUVqYWNwOHNrTkZFYkRXdmdxby1nckhXVGh1VHdZUVhPUG1wTVJGSGNIdmVIakJ6eGVvY2JoTDFuaGl4R3dsc2hWSW9UM2c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "604a6bfa69dd"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "The One Show 2027 opens entries, introduces new sports discipline and CapCut partnership",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1pKTWx1Y0twWTFyR3VlZktwRDZnS2IxZ05DcGh0QnJ3ZzR6TUdUN1IwOEpXY080eUtjV0gtQlpkTGgtRi0tZHhVenRfRi1oSERCMUhWV3BPc253d3BaS3JkSm9xYkJUb1pTYV9FcDdEaFBHdXZsaHFra2h2ZnhDTUNMZS1nNmdFd284RnZRVk5XZWlpalpPY1pnTEpWdUhQWmVGczdjUjZWSU5DVEF2eWJJVFFxc3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b334a9be9329"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "Docusign Buys Suplari to Add AI Procurement Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkdTSDRCNEM5NzJ1ZWdrQnVyUGQyQi0tM0R3OU83bi10QkF0R1l2TG5xS1hHM3otanhvMnF4R1A0ekR2WVNlMG5JeXBmLTZRWHkwYTdyZHJXSnZaTGZFS3otRjZGUTRlYm16UnVUd245aDRQaGRscXBMaDM3V3B6ai1qV2g?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6b70be2fae71"
+    },
+    {
       "date": "2026-11-03",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1061,6 +1097,54 @@
       "id": "9aff11647943"
     },
     {
+      "date": "2026-11-03",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Hello Kitty Comes to Figma FigJam for Limited-Time Collaboration",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2ctdEVIM2ZRUUlyN3ZPLUJDeDVMVE5MdlNUTmR3SkpMMjFSMnp4dVNHeXhETV94ekJPamllZWxubVN0bEZWcVZjSDdZaTd1ZHNYdzV0c1dMdm5OdTBBa01MdGI5T0pfQjZzWGJFaTh0enNQRGhtb2YyZVViSUoxR1NBbVhpZUVmbkE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "88f30e3625d8"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity for iPad Launches: What Mac Users Should Verify First",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVh6dGlPUGliN01SX2NON3FlcjVfbVVKdlkwVnRlTjRlZXI4OW5raWVLbWYtZVZTanNnMTJwdXpxcjRpTDFyNmxsS25ySjBZWnI4N2tpWGdQd0tOTWRPNkFacGQwZmFiODRBQ1VPblQ3OU80MWFIS1JuSU5abmg3VDJvbDl5NnFXLVZfd1pjWVR5cHdKbFluU08yR296UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e77710a5ec40"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity for iPad mobile app released",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFlReFYybGpNUUdIWlFKbExJYXZ5RklGVi00c0phQkFWSFd2c0VWVzdyWVdsR1ZScENrdDlKVHEyeWJ5Y0o0MUlseGpZMF82QzhobS1kekRja3FkRmQwZUVwTmRTTmtiR0tIcnlTY2Y4NktUQ1pDR2JveXNkUVNoemdjcUZXRE9kcEww?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "36ceb00f0fe8"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "DocuSign (DOCU) director Trollope acquired 870 shares",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjBxOVpWQnNRVk1Hckk2R2t0WmE0bVdxWFlqODRuMVVPZVNWRlpRN2lWWWtDQlhvX25LaEJQM3B0WUkzRFBGeE01RkpSYS1ZYlZtek9rWHJIX3BnNGh3aWU3czFmYkYxWl9WMmN1Z1NIVC1oVV91R3FiY2N2ZVg5cmN4QzdYWmV4VFNfMnZUQWJ4TzlUNlVTaDJPaUxxSkp6eVhTVXFBWUNfTlRYeXlVS2xLSQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5a3ce01862dc"
+    },
+    {
       "date": "2026-11-02",
       "company": "Canva",
       "front": "Creative",
@@ -1182,18 +1266,6 @@
     },
     {
       "date": "2026-11-02",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity for iPad Launches: What Mac Users Should Verify First",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVh6dGlPUGliN01SX2NON3FlcjVfbVVKdlkwVnRlTjRlZXI4OW5raWVLbWYtZVZTanNnMTJwdXpxcjRpTDFyNmxsS25ySjBZWnI4N2tpWGdQd0tOTWRPNkFacGQwZmFiODRBQ1VPblQ3OU80MWFIS1JuSU5abmg3VDJvbDl5NnFXLVZfd1pjWVR5cHdKbFluU08yR296UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0bb7bb30d1a3"
-    },
-    {
-      "date": "2026-11-02",
       "company": "Canva",
       "front": "Creative",
       "move": "Launch",
@@ -1239,6 +1311,66 @@
       "source": "Google News",
       "curated": false,
       "id": "7fed771acf21"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Free Affinity App For iPad Released",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtRlRyWXhZTlJNSE9tSk9vM2otdHFRMEhRVEJMdVRDNjVsSEFHaFJoaWRJNGlqU3pSOEc3aXliQVFpSTkxenZldk5PTEQ3SHlrQ1RZaUlZWTRTelgtSW55YTExMGFEUjFCSUdUVjE0Z1I?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "389b20600ce5"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Launches Free All-in-One Affinity App for iPad",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGF4SXg0VUhoU21HeDVKSlhNRDNGRFVUSjFuVGpLNFNHXzJSNk0tLUhjR3liUWhLUU5rV08yOTBtUllER183SW9UOXdFOE5CODZjbUZjN1l1MklLc2ljVS03dG4xdEdwa1V3RDVLcTdOVEFGLVhrSVRHbVpiVzE4MU1tcGsyeWtiWEVCRzJ0Zw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "16183cc083ca"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva releases Affinity for iPad. Promises free professional tools and new support Apple Pencil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1llVjBtdW5yektIWlVtZDkyZk9FWUd1cmZOUEt5QUVwSEE5dkd6cFBBMFJRLVpzLUJfYTU4cV9lY1FSYkItLXRvck03ZXNGZm5QaXV0STVFd1dXUG9TNWxBVVp0MjNLSFZtSEJuMHZ0NkNfVzRwS0Y5Zl9sUERuQzdWMVhPZVI2LTZzNVZvbEhLQ2drdzFld3Q1TXB6Sm0zZmg4NjlubnIxMG1KU1dDd2lJakY2LWg5ZGdnQmF3aw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "42a4f1fa18fb"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "OneSpan",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "Weekly Recap: Target raised and acquisitions add passwordless tools",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZwQjZiM0hlU1ZrcWhuYVNKQ01oeXZBeV9zb3R5Z1F1Q2ZkQWVCNG5neXJyd3hyNXotRjcxd3dzaVVES2pUNjRQWHlNV3Y5VzJGVzR5RVJZSkNDQ1RzUGt2NkhmbTZiXzkwTEFOVmljSnRSZFZuMmEydUMtRk83d1BWd3JhVWpFVVJ0eTZSbWRiT1lKY25wSkY0d2VkcTF5aTIzMWx1UlR4Y0FXa0w5TnV3MFlWUE5zOWxtUU5PNm5MVy1sOG9Z?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f4eb639bf4fb"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "UPDF",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "UPDF launches investigations into Lake Edward shooting",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS1V5a0RzTGtYb1FGZGNwTzUxV09QWUU1MU53X3UyZXhGckpjeHR4OW1Wc2hCcEJ4bHllbDloUkF6cGFDQ0xCT19Ba0pMaURMdVdIS3NKazR6eDBhOFpEbDhHTFFDbHUyTkNocDg2dWtzN2RkT25ZQXp5clJ3Z2dWUXRzTW5RWGNCSUl0VGlUUzh5ckxSQXpvV0MyRTJ4RXZpQ2o4aUwtbw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b78660567d6c"
     },
     {
       "date": "2026-11-01",
@@ -1407,141 +1539,31 @@
       "source": "Google News",
       "curated": false,
       "id": "cacfd3c354a0"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$1.29M",
-      "title": "ClearVue Technologies Signs Canva HQ Subcontract and Raises $1.29M in Oversubscribed SPP During Q1 FY27",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTHdHYVRFY2lacjlFNU9FOTVra2Z3LUxKTW55bm5qX2JQZ1VvMTR4Y3hYZTh5U1AzU3NiYl9tQ1NzNTNGdDNoV2JfNVQ4cE5FbERBeENMdWpxNkxnS0RVTzhFSktIaHBlLWs1XzBRbnVrX05mYUNLWUJRZ2VYV2FhdHI1RGhac1NhXzBuNXFKY2FWNTZxMDZ2UVdLVUl1ZndXUmRENTloQ1hkWURMZEs1VDAzNlBLdjVUdXJuTmZxM1BYUVl1bTVKV25FVEM5YkpoMC1OSUFWdk5hdzQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2f7775919f01"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva unveils Brush AI to edit designs with text prompts",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdC1OUnQxaWpESzlDTWtrWFRLU29yZzBxR0ZXQWhQUUc0cmhGdEZBTC16WGR3ZmNWOWJ4VlpiR2FZcUVHVU51YWhmWkZwLXF2djcyVTBhenA5VW1VY3JaS0xHRzN0M0d4RVByM0prang0ZzJVSUVTTThaaGVZMUFCMXhPMEUxV1RQamlueF9kNXRxa291RXZPWlF1TkdJc2xUV1NKaGh3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "deb143e8d5a6"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva unveils a new vision-language model for design: Canva Brush",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWEtfeVlwWk5uQ2g2N0cxUy1tZS1Ldzc4SHlRYTVlNU83ek9NZ2c2NG5HMUZ5UzZWTVRjTlhHRlJWOUdoNlh1WFNkb1NsMVVGQWJqQ2dpZnlRSnJncnRHeUQ5VS1MQVd2MEFMTG9qNzFCTUZYeDRKU01iaFZhUjJybHNLMGREU3F5MUEzaWdjc2ZxaHVPQWFKeG94T0J6SzBrd2o4T3cyNkxXbWR0dERZdEYzNDN1WFdKLXRJcDV4QQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "351e927c9978"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "OneSpan",
-      "front": "Documents",
-      "move": "Funding",
-      "detail": "$22 B",
-      "title": "B. Riley Securities maintains OneSpan at Buy, raises price target to $32 from $22",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZWc4QzgzYUI0Wnl6TW1XNTFfUHdpMGlpOUhwVlBwcHl1RlBkMmR3RFFXa0ZXQWVPT1V3cTFJcG50Y2JPVW1yMEtSY29mY2NfMk5zYk5TXzNaQWtjVU0ySG03dWgxcFBGN0FhcEs0RXd1UEVtME1vVlY5MTg0MGJjQ2p2OWI1a2VOeFVrM1IwMGZPVW9yTnBLMlFLQ3o3VEhTRjVLY3lteWpJbjNLdG5EU01xNUdxN3VRV2ZBblMwOFFBMXRnaW02ZWxGY2gyR3NDeDF4V1Z3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c528ba6bc18f"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "True Religion and Baby Phat Bring Y2K Glamour Back to the Runway with First-Ever Collaboration in Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc29QVDQxRElaS3pxblVjbmlxU1pDUjJvRWpDbTM2eE1Td1VCRkZuR1JIMjUwV3J5U3hlaFhxNVUyY1BTNDZpWXVOV0RmXzBPLTJYLUFLbExwRzlvc1NfWk9NLTNQV1JDemUtUlpyZzhvOVN6d2FXclZvZldQUnY3SzZCWWRwZzg0QURZcXhPSzljSHh0d2N5c2p4N3hVMFRDVTB6MkVnTGhMUnI3RkItMHMtSFpSVWVkM0xIdmJYWFFUMlZ0a2RBWTJMbDcyNEtNUy0xSlRodlk2cDA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "35f7dc37f786"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Midjourney",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Meta partners with Midjourney to bring AI image tech to future products",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUJXMkdZMHVTMHFKOEVvREpFQ1VvUEx2YlpaMzhpM1R1R01oZDRiNkdzRVFmLWJsa0REeW9fRGdCSHJCUUlxOVh6eWY0Y2d1NEVIWEo4b1J3cXhDU182bFRXNnh1UkZHaGltWG9pbW8wUFRHMDM4MGJuSC1fTTF0OTM4cnR6RnlpUTVINWJrMXZfQ3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "13e275ebc800"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Pika Launches Pika H3 Flex, a Video Model Built for Professional Iteration",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHFsenhOd3Z6eGdmNVl3MDc0Ump3ci1wdHdHT0ljOUVhejU1YXRmVDRNVFR4QkJ0UWFrcUhmcDdianZNMGktWmZCUldmd3JSNGVYdC0wZXhRS18tWWZEWktFQUY2dUUxQ2h0cFBJUERkajBod0xzMXY4VHMzWnUyVGhvak0ya2FoajY5ajFoaVdya3l3eWNhWXAzUEF3RjZsUGFGaUx3MTdLQXZmalZaSDZ4cFlqTk1OYlpuRzJmZWwxN1JoUURxTWdR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8621ac273a30"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs unveils Cue for character-level audio timing",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0FjN2tlakZBR3djOFhUSHU5VW84UFBTOWJVT2hOQmswbGpDeldzdmx4VFprWW9zc0JUby1iOUNLOTBiNV9kNjFZX0gyOXpnNUhfYXV3cmE5Skx6YlNNMDI0WkZQRjdxekdPRlFDWEZjR0FkSjRFcDVHRVRRRVV1Rm5qLUpMWUxqcHppVWh1cnpRY3M?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "cd06220c209d"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "UPDF",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Must be sane: Muhoozi introduces new UPDF rule amid fallout with ex-commander",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaU9MQlpseWpnTDZtanowQlNsRUhfU0RkdEtfWHBrVlZIVUNSRVRNcWplakQ4d01ZUWlxbm9RUDdpN3Nsa2hJeHNhdXBlWU15eno2d2o2WV9sbUE4dzZzTHhSS3g1NmNiZFJKSjZ6NFZSQjdBNTZxNkQ5OXhNOEZVV01CQ3pGVVoxcXJvbW0tNXVPVnNEM3BZQ1dBRy1VWTNNa2oxNDAySVBnek41NGFTemFzaUw2Q3gyLXpv?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2e27bb6331e0"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva: Launches Brush AI Model as Adoption Hits 79.7%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRHRmTzgyVXNLY0dsOTRLVzVyRXJTODctTF9HdnZHLXJnMDhmbFpvTDlic0NnaFpuUU44UlNjRS1nQzJxU2htQzBzT0hkZ0tqU09yaGZOVVJYWDA2UmNBRmNEVUdsZ3cwcVdjNjM2N3dpc2JsZkxqVFViLW5BZ2tqWGwtZFo2VVdoYmc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "af1e1d124dec"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva unveils Brush, its first vision-language model built for design",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDREdTRHBXczZTLTRwYnFBVTcxVU5LYnFBdWFldzMyUDhJcXBxOFBnSUtCbkhfb1hMWE5QN1pUb0dwOUkwUzRpSUVOZWs3cGxOY2JzclJIN1ZSMnBLX1ZYVHcwS3haVDRoMTVDNEZwazdfdFVjY1UtTQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6370db866825"
     }
   ],
   "items": [
+    {
+      "id": "dbb56d1e5580",
+      "title": "How To Report SEO Performance When Analytics Data Is Incomplete",
+      "url": "https://moz.com/blog/measure-seo-performance-incomplete-data",
+      "source": "Moz Blog",
+      "summary": "Struggling to track SEO results through privacy and consent blind spots? Learn how to use GSC, GA4, and CRM data to explain SEO impact when the full customer journey isn’t visible.",
+      "category": "SEO",
+      "published": "2026-11-04T08:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "6860f667f31e",
+      "title": "Reddit Is Rolling Out a Logged-In Only Experience: Here’s What You Need to Know",
+      "url": "https://foundationinc.co/lab/reddit-logged-in-experience/",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "On October 29, 2026, Reddit CEO Steve Huffman announced that Reddit will become a primarily logged-in site. For two decades, anyone could read almost any thread without an account. Starting this quarter, Reddit will test login walls in select markets outside the US. For B2B SaaS…",
+      "category": "SEO",
+      "published": "2026-11-04T01:01:49Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "094549b34808",
       "title": "Google Updates Crawled - Currently Not Indexed Details",
@@ -4269,28 +4291,6 @@
       "published": "2026-10-21T20:19:40Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "f36678271f8f",
-      "title": "Semrush Starter vs. Pro+: Which plan is right for you?",
-      "url": "https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/",
-      "source": "Semrush Blog",
-      "summary": "Compare limits and features between Semrush Starter and Pro+ plans. Choose what’s best for you based on tracking limits, historical data and domain comparisons, and key features.",
-      "category": "SEO",
-      "published": "2026-10-21T19:33:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "df99929868bc",
-      "title": "Semrush vs. Moz: Which is better in 2026?",
-      "url": "https://www.semrush.com/blog/semrush-vs-moz/",
-      "source": "Semrush Blog",
-      "summary": "Compare Semrush to Moz by key differences in keyword databases, AI visibility research, pricing, tracking frequency, and SEO features to choose the right platform for your team.",
-      "category": "SEO",
-      "published": "2026-10-21T19:15:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
