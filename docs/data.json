@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:56:48Z",
+  "updated": "2026-11-05T19:37:23Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -18,6 +18,7 @@
     "Semrush Blog",
     "SparkToro",
     "Yoast",
+    "Zyppy Signal",
     "iPullRank (Rank Report)"
   ],
   "milestones": [
@@ -30,6 +31,16 @@
       "source": "OpenAI",
       "curated": false,
       "id": "23ea3566bf0d"
+    },
+    {
+      "date": "2026-11-05",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "7fc7e94f9b27"
     },
     {
       "date": "2026-11-04",
@@ -808,16 +819,6 @@
       "url": "https://en.wikipedia.org/wiki/GPT-5.6",
       "curated": true,
       "id": "523dc2557aec"
-    },
-    {
-      "date": "2026-08-06",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "b4b65e085feb"
     }
   ],
   "competitors": [
@@ -832,6 +833,114 @@
       "source": "Google News",
       "curated": false,
       "id": "42af78262ab8"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+      "source": "TechCrunch",
+      "curated": false,
+      "id": "aa5a3bd81355"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "Luma AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Luma Health Launches Agent Launchpad, AI Agent Orchestrator Helping Prepare Patients for Procedures with 95% Response Rate",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR3J0VlNRMk1rR09BWUZLVnhKT3ROOFp2MVA0VU9BQzFKNDhsVUZXSEpZb2EzLUJVZjhWV1IyMlBqemctYUgzdURTZS05bjRYanFZV19oVWV2ZWtPc0dGUi1DVjRuR1NlMHphcGFVNkNwbTBaS2NIYnlIWlFEVW1tZDlnZ01sWUNLQUtIRkhPQnFtLXRyX2tfcXZheWticjlobjZNMm9fMVluWkpvelFtRE53Mm1DWElDbnpEdmRvNklscGY3MGVUc2lZNzZLZ2ZLU25GX1UwUzBqdWJYVUduWEJfSEd2cWpBd1oxWGJ0ZmRpSTBOaS04T3lZU2hSRExNcHBTTGM1UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "431d729b726d"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "SoundCloud integrates with ElevenLabs' AI music generation platform",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHdjeG1HVXVVQmF0TFphTGppcnRYY0k4ZHpoRkZvY3gteFdrUXJJSS13akdqYl9oQnNTRFZlLWdYWXRiblRkaWc3aE5WOU4zTW1xNTZqVTFDaENheks2cjBlcFFVR2RDa2hIZlo0T1h0V3EtVnctQmJaTmNfVXhscGpQUlBmX0JwSEx5NmZNWm5OaEN4ZmY5UnA4d3FSTXdpWTRiNzI5YzRGbHhjdTdoZEpR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ce678a2c3723"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "SoundCloud integrates with ElevenLabs for direct AI music publishing",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzZrSjBaeUtVY20zaFZMQUg3YjFWU1JSWks1WXFRM1VDb0czWVZ2QVpxNjM1R2h4X2p1U0t2dm9lUnhjaXUxSDJrcm03NDJJYTNqOHNSb3JFRC1tVlAyakREQUFmN3FUY0JiNm5qa3o5R1cxM3pDVXh1NDlMX2I5YnhuemFMN25U?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d18b783dda26"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "SHUTTERSTOCK ($SSTK) Releases Q3 2026 Earnings",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUtaLTMwY3NhQ3U3U21URnNWWmFtQ1dPM04wQUptdW9tMmhkQnYxTl9Gdkl0RmFWZTBtOFNCRmxzUS1qWmxNekVZOUd1VHRfclJkMUMyVm9Pcll1X0p1b29SYVpDOG1jeXdBbWF4Y2h2ejMtWndCNC1USnRaTE1nSGtYdncwVUdDaDNDTWh3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "02b9d8742c47"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Watch UFC's Michael Chandler get launched across the ring during 'unsanctioned match' in WWE",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2xteWQ3X3UxQnNmTGh2TXV5blZjdzVodkIxOHI4NTBxOGVtd3dkZGFtSVhLTmtRaW5LSE53dkhrRFV1LXVMdFZ4Q1czUVM1NjRkRFZlYTNsQzdORjBXd0VlREU0RzFtdllQb0Fnbkw4UnpNQmRpS3VhenBJUmpNUzJHZXZncndoTGI4MEVLVU9tSXF2VmVMRmg3OHVIUFJCRzlPakVDbmx4R2lCSFlaR1E2SGlFaktJTlJOZ0V0SjJ5ekU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "88203e2775f8"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Affinity for iPad Launches: What Mac Users Should Verify First",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVh6dGlPUGliN01SX2NON3FlcjVfbVVKdlkwVnRlTjRlZXI4OW5raWVLbWYtZVZTanNnMTJwdXpxcjRpTDFyNmxsS25ySjBZWnI4N2tpWGdQd0tOTWRPNkFacGQwZmFiODRBQ1VPblQ3OU80MWFIS1JuSU5abmg3VDJvbDl5NnFXLVZfd1pjWVR5cHdKbFluU08yR296UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e1ec56d4450e"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Instagram launches free desktop video editor to rival CapCut",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWpJb1hfTG40RThxYWdXbUJ3TlRiREtEMFFwZ1d5MDJiRVNrQ0pUbE1ZWFdJWk5VbUlvM1d3VTktb1FTYTFBNTNxM3dsYTcxb043ZFNyOVZFeEVqQXBlWjN5VjRMN3dFUmJhaGp1NV9LMGEzQk42YW9ubU5SdERXWUQtM25ucGo5MERKbGMwQXI1cnFldWtBaUo1alRfX0ZCdjBDRHI2LTV3UE1Qc0RiSmxrQ3FXb0pfbUpyN3dxWTExVjE3WWQ40gHHAUFVX3lxTE1laklvWF9MbjRFOHFhZ1dtQndOVGJES0QwUXBnV3kwMmJFU2tDSlRsTVlYV0laTlVtSW8zV3dVOS1vUVNhMUE1M3Ezd2xhNzFvTjdkU3I5VkV4RWpBcGVaM3lWNEw3d0VSYmFoanU1X0swYTNCTjZhb25tTlJ0RFdZRC0zbm5wajkwREpsYzBBcjVycWV1a0FpSjVqVF9fRkJ2MENEcjYtNXdQTVBzRGJKbGtDcVdvSl9tSnI3d3FZMTFWMTdZZDg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7bedfef3264f"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Instagram’s Edits app launches on Mac in bid to outdo CapCut",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVMTGhZQnVrN2hwa0RBSU5KNTNGbHJTRGo2RE4yYldwQVFzdFJWbzJNWDRaMWJ4bm13UFltWVFKMFdkNDFaOWdtcDZMem1kWUx0T3E2OHlXQVI4bzBtQzFBRFFONGUwOVhxWG5VQ29EdS1NRmpPa21FMHFpcTFsU1B5MWtINGxZSXRTU1haYllEU3R2N1FlYw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "221fdc9e352e"
     },
     {
       "date": "2026-11-04",
@@ -952,6 +1061,18 @@
       "source": "Google News",
       "curated": false,
       "id": "812b5bad6945"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Digital Remedy Partners with Affinity Solutions for Merchant Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGhtdHF5a29Ua3VVY0NpeU5oTDhMUzh0UnZGMkd5aFkxQXdaSXZtTTBJcEREaUJ2TzBjVGZWYmoxMUxrVGdxczNmU195WDlIMV9mcV8wbllrLXJ1X21TdU9DNVp2d2FIbUlqSjUxMU9nckpZZU1HN3BjUzNGbUdjdGFWYlNHZV9TUXJaVGlYeFBSTUZTci1IMmkzVFJWei1nN0xzbHp5QmMteXQwNEl6Nk9CNmtBa1c4WGJuc1F1RU9DcnFjOTdiS0VCUU9aMVdTUUJMUWhrN045Z0E0OHFGaDlodkVqS0RRV0E?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1e87f161f926"
     },
     {
       "date": "2026-11-03",
@@ -1211,18 +1332,6 @@
       "front": "Creative",
       "move": "Launch",
       "detail": "",
-      "title": "Affinity for iPad Launches: What Mac Users Should Verify First",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVh6dGlPUGliN01SX2NON3FlcjVfbVVKdlkwVnRlTjRlZXI4OW5raWVLbWYtZVZTanNnMTJwdXpxcjRpTDFyNmxsS25ySjBZWnI4N2tpWGdQd0tOTWRPNkFacGQwZmFiODRBQ1VPblQ3OU80MWFIS1JuSU5abmg3VDJvbDl5NnFXLVZfd1pjWVR5cHdKbFluU08yR296UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e77710a5ec40"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
       "title": "Affinity for iPad mobile app released",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFlReFYybGpNUUdIWlFKbExJYXZ5RklGVi00c0phQkFWSFd2c0VWVzdyWVdsR1ZScENrdDlKVHEyeWJ5Y0o0MUlseGpZMF82QzhobS1kekRja3FkRmQwZUVwTmRTTmtiR0tIcnlTY2Y4NktUQ1pDR2JveXNkUVNoemdjcUZXRE9kcEww?oc=5",
       "source": "Google News",
@@ -1264,6 +1373,18 @@
       "source": "Google News",
       "curated": false,
       "id": "548331db87ed"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "$105M",
+      "title": "St. Paul Downtown Airport unveils $105M plan with runway closure, new hangars",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNak0wMC1TRzBVMzV2ZXpqV3dSZUxacnJ0Q1dnalhLR21mTDhqY3ZRX2Exc1NwaDBnYWNLXzUzclRWVXZNdjBydlJmdi0wTVE4NVBfbnBiNzZsMjJONWVLSzBkSHhDSUxSUzRIVVk5Tk45WnViSGFWZ0UtQk12OS1mVVR2TUV6RTZSczBmSW1ILUh5X2ZIRG5YSmtKVXB3X3FrcTJmbmdmSnNVVV9x?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "21bf26ed6d3b"
     },
     {
       "date": "2026-11-02",
@@ -1420,129 +1541,174 @@
       "source": "Google News",
       "curated": false,
       "id": "46fbf6f1caaf"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Latin Ends Three-Year Deferral of Israel-Palestine Dialogue, Launches Lecture Series - The Forum",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaURMQUoxTTZHcVViVHlydXlmb2tuek1KLWd6UnhDR0ZWTk5UR2JSLVZYeEpXdzNURm53Y19HNWJSTG5IZ290QnlRa2txMWZ0ektoTXpjc2ZUODV0RTNfeUQ4UklaN2hqR0hOXzFBcXFtLWMzWGtmT201NGVMV2xaNFF6LXpHUTEzS000YXNQYlhGZWlSdDJ1WVpic2J2aWhUMFM3WU9sX2g3cU5UNWtKUzJfdWp6dVpTR0NPUg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7fed771acf21"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Free Affinity App For iPad Released",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtRlRyWXhZTlJNSE9tSk9vM2otdHFRMEhRVEJMdVRDNjVsSEFHaFJoaWRJNGlqU3pSOEc3aXliQVFpSTkxenZldk5PTEQ3SHlrQ1RZaUlZWTRTelgtSW55YTExMGFEUjFCSUdUVjE0Z1I?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "389b20600ce5"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Launches Free All-in-One Affinity App for iPad",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGF4SXg0VUhoU21HeDVKSlhNRDNGRFVUSjFuVGpLNFNHXzJSNk0tLUhjR3liUWhLUU5rV08yOTBtUllER183SW9UOXdFOE5CODZjbUZjN1l1MklLc2ljVS03dG4xdEdwa1V3RDVLcTdOVEFGLVhrSVRHbVpiVzE4MU1tcGsyeWtiWEVCRzJ0Zw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "16183cc083ca"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva releases Affinity for iPad. Promises free professional tools and new support Apple Pencil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1llVjBtdW5yektIWlVtZDkyZk9FWUd1cmZOUEt5QUVwSEE5dkd6cFBBMFJRLVpzLUJfYTU4cV9lY1FSYkItLXRvck03ZXNGZm5QaXV0STVFd1dXUG9TNWxBVVp0MjNLSFZtSEJuMHZ0NkNfVzRwS0Y5Zl9sUERuQzdWMVhPZVI2LTZzNVZvbEhLQ2drdzFld3Q1TXB6Sm0zZmg4NjlubnIxMG1KU1dDd2lJakY2LWg5ZGdnQmF3aw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "42a4f1fa18fb"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "OneSpan",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "Weekly Recap: Target raised and acquisitions add passwordless tools",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZwQjZiM0hlU1ZrcWhuYVNKQ01oeXZBeV9zb3R5Z1F1Q2ZkQWVCNG5neXJyd3hyNXotRjcxd3dzaVVES2pUNjRQWHlNV3Y5VzJGVzR5RVJZSkNDQ1RzUGt2NkhmbTZiXzkwTEFOVmljSnRSZFZuMmEydUMtRk83d1BWd3JhVWpFVVJ0eTZSbWRiT1lKY25wSkY0d2VkcTF5aTIzMWx1UlR4Y0FXa0w5TnV3MFlWUE5zOWxtUU5PNm5MVy1sOG9Z?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f4eb639bf4fb"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "UPDF",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "UPDF launches investigations into Lake Edward shooting",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS1V5a0RzTGtYb1FGZGNwTzUxV09QWUU1MU53X3UyZXhGckpjeHR4OW1Wc2hCcEJ4bHllbDloUkF6cGFDQ0xCT19Ba0pMaURMdVdIS3NKazR6eDBhOFpEbDhHTFFDbHUyTkNocDg2dWtzN2RkT25ZQXp5clJ3Z2dWUXRzTW5RWGNCSUl0VGlUUzh5ckxSQXpvV0MyRTJ4RXZpQ2o4aUwtbw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b78660567d6c"
-    },
-    {
-      "date": "2026-11-01",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$900m",
-      "title": "Israeli startups raised over $900m in October - Globes",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUlfSmg3Q01tTUVNdGxtQzlZdnNnUXlGTWNSNGVVZno4Zm1nNFZHWGpadWczWHpLRmF3NThWNjFFNEJ0NlcyUzJ3cDFFRzAyVy1wc1pxOTdoYjdXdU5Ya1M2U0Z2bG5iUldtOEpUMFJyWHdWSE04MHIzZnNEU2RFb05YTS02RDJQSmpLVXF4TDVnNkFf?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "453be8472fb6"
-    },
-    {
-      "date": "2026-11-01",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Introduces Craft, the Most Advanced AI Image Maker Model for Design",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nTlNxSEdFdXlEQjREdXoxMS11dkd2LXFjd1ZOV1FsV0J0M1BPdWJoLW9IdVE5SndMZHV6STNVcTRzX3NSMmZWdUE5MNIBQkFVX3lxTE5GU0xUNmlicWQtLWhNRzNTUGpBWXdSTVQ2Q1ZCRXROa0VlN2w4aEF3aDdfb2JLX2xjeDhSTm13RjlxZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "4889e835535d"
-    },
-    {
-      "date": "2026-10-31",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Brush AI model to edit designs with prompts, cuts editing costs by 46%",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXJIQWlybEJ5SkpvNlFHOERValZXM3J6ZWd0OUI4VkVyMEpSQXJEM2ExSnF6NTgxZFdXdXUtdnZsUVNlVE9HQjU0SnNQN1MzLTIyRkFPY2ZDZl9HZENmWFJ5cjhEUkhPaGVJQXkxbGFxR0RKTUZPTWJ6My1lbjJveUh1YW5Hc3dHREc1S2RQelVpLUpZQkpJYmFkZFRiSDI2am5za05yb2RaMTAyZGhPSW5iZHZaZlZhaUhodTI4M25MX2FFSHF4dQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "51f0e78d0ce2"
-    },
-    {
-      "date": "2026-10-31",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$2.9B",
-      "title": "Kling AI Closes $2.9B Round as Two Investors Miss Payment",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHp1dWZLYl81ZGloTHVORXRXZHMyTHBiOHhnS3RIS0tKYm5aeFpwOUZtc1Z2VVhJNWRHVmkxc21HYVlsMWxMNkdVU2VtajJSeXpnMU9Db1BpN3JWbjhHR2p3bkt0WERjZmZGcWRMaG5JYnc1Q2ZRWDlxcnRjaHBQZW1QV20xTFl6Wncteg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5e0d4e71bd16"
     }
   ],
   "items": [
+    {
+      "id": "280e0d11da25",
+      "title": "November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/november-click-spikes-in-google-search-console-are-bot-traffic-how-to-filter-your-reports/595834/",
+      "source": "Search Engine Journal",
+      "summary": "Seeing a vertical jump in Search Console clicks? Bots, not humans, are behind it. Here’s how to spot it and filter your reports. The post November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-05T18:00:28Z",
+      "coverage": 2,
+      "impact": 5.0
+    },
+    {
+      "id": "c1c055849a47",
+      "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
+      "source": "Search Engine Journal",
+      "summary": "New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on. The post Ads In Google AI Answers Concentrate In Apparel & Electronics appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-05T15:15:08Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "00367f1d1cbc",
+      "title": "How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC via @sejournal, @navahf",
+      "url": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/",
+      "source": "Search Engine Journal",
+      "summary": "Improve lead quality by teaching ad platforms which conversions become qualified opportunities and revenue. The post How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-05T15:00:32Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "75539a6756bd",
+      "title": "Daily Search Forum Recap: November 5, 2026",
+      "url": "https://www.seroundtable.com/recap-11-05-2026-42466.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-11-05T15:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5a6d272895a7",
+      "title": "We Opted Out of Google AI Search - Here's What Happened",
+      "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
+      "source": "Zyppy Signal",
+      "summary": "Google let’s you opt out of appearing in generative AI answers, but it’s probably going to hit your website traffic.",
+      "category": "GEO",
+      "published": "2026-11-05T14:07:28Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "53c824439178",
+      "title": "Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse",
+      "url": "https://www.seroundtable.com/facebook-answers-google-42467.html",
+      "source": "Search Engine Roundtable",
+      "summary": "If you looked at the Google Search results recently, you may have stumbled on content from Facebook Answers. Facebook Answers are AI-generated pages, and answers are made up of Facebook posts and pages and are then open for indexing by Google and others. Currently, Google has…",
+      "category": "SEO",
+      "published": "2026-11-05T13:01:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3e5d358979e9",
+      "title": "GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/",
+      "source": "Search Engine Journal",
+      "summary": "GEO's low referral traffic can hide its influence on buying decisions, while cited research shows ChatGPT visitors convert nearly five times better than search visitors. The post GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions appeared first on…",
+      "category": "GEO",
+      "published": "2026-11-05T13:00:43Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ab0cbf4654f8",
+      "title": "Google Ads Expands AI Content Disclosure Label To More Regions",
+      "url": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York.",
+      "category": "SEO",
+      "published": "2026-11-05T12:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "676cd2af2175",
+      "title": "Google Ads PMax Channel Report Definitions Coming To Search & Shopping",
+      "url": "https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google updated its Definition: Performance Max channel help document to specify that channel definitions are coming to the Performance Max channel report for standard Search and Shopping reports in 2027.",
+      "category": "SEO",
+      "published": "2026-11-05T12:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c833c92a8818",
+      "title": "Google AI Mode Integrates With Home Services Booking",
+      "url": "https://www.seroundtable.com/google-ai-mode-home-services-booking-42459.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has added home services booking integration within AI Mode. Google has partnered with partners like Angi Home, Thumbtack, Housecall, and GetJobber and will add ServiceTitan soon. It works as expected, Google adds booking buttons to the home services listing within the AI…",
+      "category": "GEO",
+      "published": "2026-11-05T12:31:00Z",
+      "coverage": 2,
+      "impact": 8.0
+    },
+    {
+      "id": "0d166bb7a5bf",
+      "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
+      "source": "Search Engine Journal",
+      "summary": "Google clarifies how server-side redirects influence ranking signals and canonicalization. The post Google Explains How Redirects Affect Ranking Signals appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-05T12:23:47Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d58266744a17",
+      "title": "Google Can Temporarily Protect Important URLs From Being Deindexed",
+      "url": "https://www.seroundtable.com/google-protected-important-urls-index-42464.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Gary Illyes from Google said that when important URLs serve a 4xx status code, Google Search can \"temporarily protect the URL from falling out of the index right away.\" Meaning, Google Search will still show the URL in Google Search, for a short while, just to make sure…",
+      "category": "Algorithms",
+      "published": "2026-11-05T12:21:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "4d638038a8f5",
+      "title": "Google Business Profiles Car Dealership Inventory Limited Pilot",
+      "url": "https://www.seroundtable.com/google-business-profiles-car-dealership-inventory-42465.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Business Profiles is testing a \"new feature pilot\" for car dealership inventory, which has limited availability. This seems different from Google's previous local car listings and inventory options. Google added this to the help documentation under the title \"Car…",
+      "category": "SEO",
+      "published": "2026-11-05T12:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ac2233519d03",
+      "title": "Google Search Profiles Spotted Adding LinkedIn",
+      "url": "https://www.seroundtable.com/google-search-profiles-adds-linkedin-42458.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search Profiles officially supports YouTube, TikTok, Instagram and X, plus you can also add Facebook and your website. But now some are seeing Google add LinkedIn as well.",
+      "category": "SEO",
+      "published": "2026-11-05T12:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0c6e2211b3ba",
+      "title": "Google Ads Gains A New Telemedicine Certification Option",
+      "url": "https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads announced that in addition to the original telemedicine certification options, Google is adding a new one from the National Association of Boards of Pharmacy (NABP)'s Healthcare Merchant Accreditation Program. This goes into effect this month, November 2026.",
+      "category": "SEO",
+      "published": "2026-11-05T12:05:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "d47ecdf7c22a",
       "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
@@ -1553,6 +1719,28 @@
       "published": "2026-11-05T11:48:21Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "9cfbce157204",
+      "title": "How to use Google Keyword Planner",
+      "url": "https://www.semrush.com/blog/google-keyword-planner/",
+      "source": "Semrush Blog",
+      "summary": "Google Keyword Planner is a free tool. Here’s how to use it to find terms and where to get accurate search volume from.",
+      "category": "SEO",
+      "published": "2026-11-05T10:43:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "53c56afbaf05",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "category": "GEO",
+      "published": "2026-11-05T09:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "280bbf056f1c",
@@ -1643,17 +1831,6 @@
       "impact": 1.0
     },
     {
-      "id": "f5165cf8e896",
-      "title": "Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
-      "source": "Search Engine Journal",
-      "summary": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees. The post Google AI Mode Adds Booking & Quote Links For Home Services appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-04T19:34:49Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
       "id": "7b870a80c9a8",
       "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
@@ -1694,17 +1871,6 @@
       "summary": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes. The post The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-11-04T15:00:12Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "258266023524",
-      "title": "Daily Search Forum Recap: November 4, 2026",
-      "url": "https://www.seroundtable.com/recap-11-04-2026-42452.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search Console's performance report is showing a spike in clicks for some websites...",
-      "category": "SEO",
-      "published": "2026-11-04T15:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1960,17 +2126,6 @@
       "published": "2026-11-03T18:25:17Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "f9ebcaeba77a",
-      "title": "Massive Click Spikes in Google Search Console (Early November 2026): What Is Going On and How to Filter Your Reports",
-      "url": "https://www.mariehaynes.com/google-search-console-click-spikes-november-2026/",
-      "source": "Marie Haynes",
-      "summary": "This morning, I saw Barry Schwartz's post on X (and his write-up on Search Engine Roundtable) sharing a screenshot from Joy Hawkins. Joy noticed that several sites were seeing sudden, massive vertical spikes in Google Search Console clicks while impressions stayed flat, and…",
-      "category": "SEO",
-      "published": "2026-11-03T17:53:02Z",
-      "coverage": 1,
-      "impact": 2.0
     },
     {
       "id": "79ba20dc2b1f",
@@ -4138,160 +4293,6 @@
       "published": "2026-10-23T12:01:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "bc67840caf3e",
-      "title": "How Rank Trackers Say They Handle Suspect Google Results via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/rank-trackers-suspect-google-results/594049/",
-      "source": "Search Engine Journal",
-      "summary": "Rank trackers describe how they check suspect Google results, what customers see during checks, and what they say about reprocessing and past results. The post How Rank Trackers Say They Handle Suspect Google Results appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-23T12:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bdb53ba62893",
-      "title": "Google AI Overview Citation Cards With AI-Generated Summary Snippets",
-      "url": "https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be testing or rolling out AI-generated summaries within AI Overviews citation cards. So the cards on the right (or bottom) of the AI Overviews within Google Search can now show AI summary snippets/descriptions.",
-      "category": "GEO",
-      "published": "2026-10-23T11:51:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "ebf181d5a881",
-      "title": "JPEG XL Image Format Not Supported By Google Images & Google Discover",
-      "url": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
-      "source": "Search Engine Roundtable",
-      "summary": "John Mueller at Google recently confirmed that Google Image Search and Google Discover don't yet support the JPEG XL image format. He said this on Bluesky recently, \"FWIW if you're hoping to get images shown in Google Images & as previews in Discover, etc - JPEG-XL is currently…",
-      "category": "SEO",
-      "published": "2026-10-23T11:41:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "1256919ee720",
-      "title": "Google Business Profiles Tests New Advanced Performance Reports",
-      "url": "https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing a completely revamped performance report section within Google Business Profiles that includes metrics on engagement, reviews, search trends, audience and more. It also includes top recommendations and a more broken-out reviews detail view.",
-      "category": "SEO",
-      "published": "2026-10-23T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "540cc87ce2b9",
-      "title": "Google Universal Cart In Search Is Live, Yep",
-      "url": "https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Last week, we reported that Google was launching its Universal Cart in the United States after demoing it at Google I/O in May. And yes, a few days after Google announced it, it was rolling out. I think most people started to see it show up in Google Search and Gemini starting…",
-      "category": "GEO",
-      "published": "2026-10-23T11:21:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "923de88d4726",
-      "title": "Google AdSense Videos Placement & Sticky Requirements Removed",
-      "url": "https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google updated its AdSense Video inventory restrictions policy to remove the placement requirement and the scroll-to-sticky requirements yesterday, October 22nd. Google removed this line from the policy, \"For In-stream or Accompanying Content placements that transition to a…",
-      "category": "SEO",
-      "published": "2026-10-23T11:15:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "856f01f9d287",
-      "title": "Google Ads Tests Scrolling Marquee Style For Ratings/Reviews & Underlines",
-      "url": "https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is testing a scrolling marquee on some of the sponsored results within Google Search. Google will load in the reviews/ratings, number of visits and a visit site link in one of these tests. In the other test, Google underlines the domain name in the ad snippet.",
-      "category": "SEO",
-      "published": "2026-10-23T11:11:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "a58548365979",
-      "title": "Google Ads Asset Optimization Sourced Videos On/Off Toggle",
-      "url": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically.",
-      "category": "SEO",
-      "published": "2026-10-23T11:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ed6c7991dc04",
-      "title": "AI search strategy: 4 layers of brand visibility",
-      "url": "https://www.semrush.com/blog/ai-search-strategy/",
-      "source": "Semrush Blog",
-      "summary": "An AI search strategy starts with diagnosis. Rewriting content won‘t help if AI can‘t reach your site or keeps describing your brand wrong.",
-      "category": "GEO",
-      "published": "2026-10-23T10:58:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "54f35fa3745f",
-      "title": "Google Search expands agentic capabilities with information agents and Universal Cart",
-      "url": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
-      "source": "Semrush Blog",
-      "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online.",
-      "category": "SEO",
-      "published": "2026-10-23T10:35:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "48e2274fdf2b",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "category": "SEO",
-      "published": "2026-10-23T10:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "e2fecef192d2",
-      "title": "YouTube AI Search: What Gets B2B Videos Cited (Data)",
-      "url": "https://foundationinc.co/lab/youtube-ai-citations",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Across ChatGPT, Google AI Mode, and Google AI Overviews, YouTube is mainly a Google opportunity: 36% of Google AI answers cite YouTube, compared with 2.1% of ChatGPT answers. Many of the most-cited videos also come from small channels with titles that match buying questions. The…",
-      "category": "GEO",
-      "published": "2026-10-23T02:46:28Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "15c1f8ef7a58",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "category": "SEO",
-      "published": "2026-10-23T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "c6099fc8919f",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "url": "https://openai.com/index/anima",
-      "source": "OpenAI",
-      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "category": "GEO",
-      "published": "2026-10-23T00:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
