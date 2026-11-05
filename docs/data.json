@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T00:46:13Z",
+  "updated": "2026-11-05T11:56:48Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -21,6 +21,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-05",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "23ea3566bf0d"
+    },
     {
       "date": "2026-11-04",
       "family": "model",
@@ -808,18 +818,21 @@
       "source": "OpenAI",
       "curated": false,
       "id": "b4b65e085feb"
-    },
-    {
-      "date": "2026-08-01",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "OpenAI names Astra (next model)",
-      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
-      "curated": true,
-      "id": "e7103cdf7b10"
     }
   ],
   "competitors": [
+    {
+      "date": "2026-11-05",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "VVY: Cash runway extends into December 2026; Phase 2b plans hinge on new funding or a partnership",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTFppOWlocjhCQzBLNks5TWZCZGFCUWpBVG5kT0kxVXJZSTg5ckpSVjkwWG5JS3dDUmxOSE5ZeUtNWUFtd3JmOUZpT2pxMUlMWndCcUtBOVpoTWZINV8zSkJzLWpqbjR5b1FqeTVOQS1hNm1GV0tzc0J4OHBMMnNuMG11OUhyVDg1a0prYTlwUXhENFNjaEg2TnAyWjR1RkxnUS1PODdvdHJrc2tfSVFHclBSRWZxa0JpaG1Nd190bTh3TUNleTRxM3dxLWdLYTk1bWZud21xSGFTVmxQb1FEVTBDb2NqeTcyQVNhM3pET3hYNnpCbGJaQ1Nna3RoRXd5REw0MUF1c29jUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "42af78262ab8"
+    },
     {
       "date": "2026-11-04",
       "company": "ElevenLabs",
@@ -915,6 +928,30 @@
       "source": "Google News",
       "curated": false,
       "id": "544ff1746746"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Prince George, 13, Debuts a New Teen Look at a Soccer Match With Prince William",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNanZSX0dubEtFNFp3MVFsQVZRMnNpU2NLeWV4SHpVci1KT0lwbmpGLTRaUkp5V29VZ1BLQWlrVWVETTdKRXduNGc3dDFwcHJsNUY0blk1ejZlTWdnUWlRaldLWWYwNWl3RzkwMWhicjZMVHB0SkhtY3hzenZSNEtqZ3lyaDhtRXIteG4wQlo0S2JBSVFJaldka1ExQU1PeFE1TEk3LQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7e265fb4d062"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva’s Free Affinity App Launches Now on iPad",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04azYyY0p4MFN6aDFJTGd3QzlodWFZX0Y3ZU0wLTYxX3RFdDBiaUJGLXdtencxX19CRW02b3hYa1IwRUVvTmEzYS1SejVyWWJSdjVXZTJSRkxLMldiTEsyOUx1c3Z1SjRLUjZvZjJjZzRBVzZuZTlEag?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "812b5bad6945"
     },
     {
       "date": "2026-11-03",
@@ -1503,45 +1540,53 @@
       "source": "Google News",
       "curated": false,
       "id": "5e0d4e71bd16"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Pika",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Pika Ediciones unveils its December 2026 calendar with Breaking Me Softly",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdE03a2E4MllPa0lteUVzZ3Izb3dHT1dmRjFFamJ4VFpmWk1YMjd0MS1pbXJISWg5SGlQTl9xaVpUZVFjX1YzV1lvdnZqUnh3V2s2SDl2ZkNYeWd4S0Y0NjRBeFJyTlctRENXOHFxdVZmTkRvOWpVd2ZhaGlGWmZ5dURaX1dhdHY4bThFYjhXbUc2elNGWjJUSmV4MWhhR2ZzdW1XMUV6TG5jNE5meVdn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "05f0442233d2"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$3 billion",
-      "title": "Kuaishou's Kling AI unit completes a near $3 billion funding round",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzA2cUdzaUF0OUhrSGV1cmdpYzA4dS1yYU5uSWZ1aWRWRENaRldCYTR1RDZ2cFl6YmtlNV9xUzBieGhRY08zcVFESk43cjRTUHNRYk1NNkRxQUttdTNwMjkwTWpPQ3lhNFN3dnl3SUk3bzJRLTJvaWMyRmk5QkEzYjVDZTdaZmwyb25LSE43enh1aUtWWk1HMEVyVjJYM3pVM2JhakdTRFA0dy14VkJJOG1NaE5zbmx1N3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "532eaf9a869f"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$3 Billion",
-      "title": "Kuaishou Doubles Down On Kling With A $3 Billion Raise",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFRhNjNqY0tyNFNENlRDZjFVUmwycG9KOGhJR2hEWmpQazMwWkNBeDhVd2IzOVFnbnNvSEcxTGx1VXJuM0pIcS04aFlDb3VmZUZTa3pOM2tHX283Y2dZLVFES1ozSlAwNXhRQk5SSi01QzFWeTNnMnJpa1JiUG1ka2RoeW1ZT3RraGc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f28b67d95315"
     }
   ],
   "items": [
+    {
+      "id": "d47ecdf7c22a",
+      "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
+      "source": "Search Engine Journal",
+      "summary": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs. The post SERP Data Providers Say Google Is Throttling Goto Result Links appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-05T11:48:21Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "280bbf056f1c",
+      "title": "AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027?",
+      "url": "https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/",
+      "source": "Search Engine Journal",
+      "summary": "Measure AI visibility beyond rankings and citations. Use inclusion, framing, and endorsement to show clients what changed and what to do next. The post AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027? appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-05T06:03:53Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "44690eb3104a",
+      "title": "Google Brings UCP Direct Checkout To AI Mode In Canada via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
+      "source": "Search Engine Journal",
+      "summary": "Google is expanding UCP-powered direct checkout in AI Mode and the Gemini app to Canadian shoppers, with a Merchant Center integration planned for next year. The post Google Brings UCP Direct Checkout To AI Mode In Canada appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-05T03:38:11Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "f93567576105",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "category": "SEO",
+      "published": "2026-11-05T02:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "7f6468dfb530",
       "title": "Google Ads Explains Difference With Search Terms Match Type (Keywords)",
@@ -4247,50 +4292,6 @@
       "published": "2026-10-23T00:00:00Z",
       "coverage": 1,
       "impact": 7.0
-    },
-    {
-      "id": "b7b4a2a881f4",
-      "title": "Is AI Visibility a Marketing BoonDoggle?",
-      "url": "https://sparktoro.com/blog/is-ai-visibility-a-marketing-boondoggle/",
-      "source": "SparkToro",
-      "summary": "Should every marketer be putting 80% of their effort into AI visibility? Should we be throwing billions at tracking AI recommendations? Should companies restructure their budgets around appearing in AI tools? Probably not. Three new studies came out in the last week showing us…",
-      "category": "SEO",
-      "published": "2026-10-22T22:27:41Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "fd341b9dcb45",
-      "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO via @sejournal, @rollerblader",
-      "url": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
-      "source": "Search Engine Journal",
-      "summary": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-22T19:00:47Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "27825e300358",
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "category": "SEO",
-      "published": "2026-10-22T19:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "0e8522429cc8",
-      "title": "Same Prompt, Different Data Structure: ChatGPT's Search Data Keeps Changing",
-      "url": "https://www.seerinteractive.com/insights/chatgpt-data-structure",
-      "source": "Seer Interactive",
-      "summary": "TL;DR I ran the same ChatGPT prompt multiple times and saw the search data change across weeks, days, and even minutes Between Sept. 3 and Sept. 16, ChatGPT's underlying pipe-language data dropped from 4 lines to 0, while unique retrieved URLs went up (from 14 to 40) Two…",
-      "category": "GEO",
-      "published": "2026-10-22T19:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
