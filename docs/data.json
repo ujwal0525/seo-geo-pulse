@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T19:27:47Z",
+  "updated": "2026-11-05T00:46:13Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -30,6 +30,16 @@
       "source": "OpenAI",
       "curated": false,
       "id": "e6e828d68498"
+    },
+    {
+      "date": "2026-11-04",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "f743b101642b"
     },
     {
       "date": "2026-11-03",
@@ -807,16 +817,6 @@
       "url": "https://en.wikipedia.org/wiki/GPT-5.6",
       "curated": true,
       "id": "e7103cdf7b10"
-    },
-    {
-      "date": "2026-07-29",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Platform properties roll out globally, plus a new social and video performance guide",
-      "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
-      "source": "Google Search Central",
-      "curated": false,
-      "id": "0920e95ab91d"
     }
   ],
   "competitors": [
@@ -903,6 +903,18 @@
       "source": "Google News",
       "curated": false,
       "id": "7b6c601720eb"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "A rare second exit: AI startup Suplari acquired by Docusign nearly 3 years after Microsoft spinout",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPejYzVEt5YXNiZnJxLVpkalA2Y0g3RWdLNkZRUlpRXzd5X0FGSVhmZFVOOTdDXzJCczNFTllVY1F0SG93T1lmYzlBRzVHVk5jcWJPTExCaG5SdDZ4REtGSmZHNHBzcVRnY0dGT3hQLWF0UGlzN1ZKWHZ3XzRWZklQM3NqbnBmalBHeFdkcWowQ1RmZ0pZUU1YeV8xRmdtUnZhZHYwOE44N0dlUWxhM0lqblZ2OG1TVE9qdERqSERB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "544ff1746746"
     },
     {
       "date": "2026-11-03",
@@ -1527,21 +1539,75 @@
       "source": "Google News",
       "curated": false,
       "id": "f28b67d95315"
-    },
-    {
-      "date": "2026-10-30",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Unveils Brush: AI Tool Revolutionizes Design Editing Speed and Quality",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSm9ndmNNMUFJUTctSUNEVXVwdFBzdjFaMzNteUcya1dad0RuNHhvT2tuUVZXQjlFVjJwUHkxWWRDYnpoM0ZsLTR2TEtQODdQNWJXUmVyRm0yTFRSVG9jREh4eGVlTkFZOUlldS1XMnRNemdyWWxVYkpjWnpFbmNwa0F0dnRFZDRmdHJvMmwzUVRUemNyVDZxUDBLR0FobGxZVVBORXBB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "08184f0b66dd"
     }
   ],
   "items": [
+    {
+      "id": "7f6468dfb530",
+      "title": "Google Ads Explains Difference With Search Terms Match Type (Keywords)",
+      "url": "https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Ginny Marvin, the Google Ads Liaison, explained why the Google Ads interface has two different metrics named search terms match type. One is named \"Search terms match type\" and the other is named \"Search terms match type (Keywords).\"",
+      "category": "SEO",
+      "published": "2026-11-04T22:45:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3f401663f271",
+      "title": "Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA",
+      "url": "https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google just sent out emails to some sites that have site reputation abuse policy manual actions that those manual actions won't impact the search results within the EEA, European Economic Area. This actually took effect on August 30, 2026, but now, two months later, Google is…",
+      "category": "Algorithms",
+      "published": "2026-11-04T21:19:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "97c97f87edcf",
+      "title": "Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
+      "source": "Search Engine Journal",
+      "summary": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for. The post Reddit Begins Testing Ads In Its Own Search Results appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-04T21:00:39Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e2a0c4ca94df",
+      "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
+      "source": "Search Engine Journal",
+      "summary": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive. The post Businesses Treat Your AI Agent 3 Different Ways appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-04T20:00:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "19a92b6b11cf",
+      "title": "XML Sitemap Optimization: How to Improve Crawlability",
+      "url": "https://neilpatel.com/blog/xml-sitemap/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Most websites have an XML sitemap. A lot of those sitemaps aren’t optimized, though. That means site owners are missing a golden opportunity to improve their SEO and gain an edge over competing brands. Your sitemap gives search engines a roadmap to the content you…",
+      "category": "SEO",
+      "published": "2026-11-04T20:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "f5165cf8e896",
+      "title": "Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
+      "source": "Search Engine Journal",
+      "summary": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees. The post Google AI Mode Adds Booking & Quote Links For Home Services appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-04T19:34:49Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "7b870a80c9a8",
       "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
@@ -1708,6 +1774,17 @@
       "impact": 2.0
     },
     {
+      "id": "a4f4c423c542",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "category": "SEO",
+      "published": "2026-11-04T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "dbb56d1e5580",
       "title": "How To Report SEO Performance When Analytics Data Is Incomplete",
       "url": "https://moz.com/blog/measure-seo-performance-incomplete-data",
@@ -1750,6 +1827,28 @@
       "published": "2026-11-04T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "0a437d67f2ef",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "category": "GEO",
+      "published": "2026-11-04T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "bf25be8f8779",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "category": "GEO",
+      "published": "2026-11-04T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "094549b34808",
@@ -1863,10 +1962,10 @@
     },
     {
       "id": "ca472fdb5455",
-      "title": "Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better via @sejournal, @gregjarboe",
+      "title": "5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/google-favors-high-ad-strength-rsas-but-lower-rated-ads-convert-better/595478/",
       "source": "Search Engine Journal",
-      "summary": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better appeared first on Search…",
+      "summary": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post 5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions appeared first on Search…",
       "category": "SEO",
       "published": "2026-11-03T15:00:44Z",
       "coverage": 1,
@@ -4192,105 +4291,6 @@
       "published": "2026-10-22T19:00:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "619405faf352",
-      "title": "AI Search Is Not a Distraction, It’s a Branding Channel",
-      "url": "https://ipullrank.com/ai-search-is-a-branding-channel",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Three studies dropped in the same week, and they all arrived at the same verdict. Marie Haynes looked at 12 months of GA4 data across 100 sites and found that ChatGPT sent 0.62% of the traffic Google organic did. SEO Works found that organic delivered 39 times the traffic of AI…",
-      "category": "GEO",
-      "published": "2026-10-22T18:00:33Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fe1b3fbf7933",
-      "title": "Affiliate Marketing: What It Is & How to Start in 2026",
-      "url": "https://ahrefs.com/blog/affiliate-marketing/",
-      "source": "Ahrefs Blog",
-      "summary": "You recommend products you genuinely rate. When someone buys through your link, you get a commission. You don’t have to make the product, hold stock, handle shipping, or deal with refunds. In this guide, I’ll show you how to think … Read more ›",
-      "category": "SEO",
-      "published": "2026-10-22T17:06:30Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "1d9f9f7df795",
-      "title": "Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
-      "source": "Search Engine Journal",
-      "summary": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement appeared first on Search Engine…",
-      "category": "GEO",
-      "published": "2026-10-22T16:58:09Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b4afa3c86a8a",
-      "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
-      "source": "Search Engine Journal",
-      "summary": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The post Pichai Says AI Agents Will Click Through Pages And Use Protocols appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-22T15:36:05Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f29d55693b05",
-      "title": "Getting Indexed No Longer Means Getting Visited via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/getting-indexed-no-longer-means-getting-visited/593412/",
-      "source": "Search Engine Journal",
-      "summary": "Being indexed used to buy a visit. In the answer layer, it buys eligibility, and nothing promises anyone arrives at your site. The post Getting Indexed No Longer Means Getting Visited appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-22T14:00:47Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "4d6539a8fc4e",
-      "title": "Growth Intelligence Brief #26",
-      "url": "https://www.growth-memo.com/p/growth-intelligence-brief-26",
-      "source": "Growth Memo",
-      "summary": "Amazon and Best Buy hit record lows, YouTube adds 322 points, Genius falls 13 weeks straight, Wikipedia and Merriam-Webster slide, Google's spam update barely shows any impact.",
-      "category": "Algorithms",
-      "published": "2026-10-22T12:19:33Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ac2616d53eff",
-      "title": "Why Reddit Belongs In Your PR Strategy via @sejournal, @brentcsutoras",
-      "url": "https://www.searchenginejournal.com/why-reddit-belongs-in-your-pr-strategy/593602/",
-      "source": "Search Engine Journal",
-      "summary": "Reddit conversations can become news stories. Brands that listen and respond gain a chance to address problems before coverage follows. The post Why Reddit Belongs In Your PR Strategy appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-22T12:00:11Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a1f1d8ceeef1",
-      "title": "Google Search Tests Layout Change For Local Knowledge Panel",
-      "url": "https://www.seroundtable.com/google-local-panel-layout-42356.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing moving things around in the local knowledge panels in Search by swapping the position of the company name, ratings, description and action button with the business photos. It is a subtle change and it matches the current mobile design on Google Search more but…",
-      "category": "SEO",
-      "published": "2026-10-22T11:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c705019ee978",
-      "title": "Google Ads New Translation Tool",
-      "url": "https://www.seroundtable.com/google-ads-translation-tool-42351.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads is now rolling out the Translation tool within the advertiser console. This allows advertisers to \"Translate your campaigns to reach global customers and boost your conversions,\" Google wrote.",
-      "category": "SEO",
-      "published": "2026-10-22T11:41:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
