@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T18:58:42Z",
+  "updated": "2026-11-06T23:59:05Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -883,6 +883,18 @@
       "id": "30c608cf7711"
     },
     {
+      "date": "2026-11-06",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Yeezy Returns with LA Runway Show and JD Sports Partnership",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzgwbFN3XzIxY1Rwc3pYZThnY3NXVThBR2JYd240UUxvZDNpQ3I1QjdZOHZhOVBTTXE4eUFSZk5ueW5NZkJjZkcwbmdudjFMRHZ5MVppNGtuanRTV09HYXF3bHpQc25aZGZQZ3RhT0dzeUNpUmJZS1VyUnJEUFpnMXhUSnloMzV3aHczU25lelBkLVoyeFg2U1A1S2N1MURGWl9aYkxWMDJMS1Z5UDZF?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "59343b466174"
+    },
+    {
       "date": "2026-11-05",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1529,21 +1541,31 @@
       "source": "Google News",
       "curated": false,
       "id": "5b8f8d639ead"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Shows You How To Scrub Your Ex From Photos As It Rolls Out New Brand Platform",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkJWaGFnU0tzaUNaMlE1alhrRkdOaUpjWkdhTkt6SktoWGNsVmFlcWpaemRteThfQUpxY0xwQUFrU0pOemptU1NEako5azRTOTZaVzBRNmFPQ3pnQlpLcS0tTlVzZUtlcHdNOWxaY0NkWGpEN1hlMjY5UkU5RTVFTEx3c0o4WTlYNXp0dEw3YXJRMVZobzJMeTNVM1dmWmw3TW8wbi0ydlJnVDUyN3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5ea40155e1da"
     }
   ],
   "items": [
+    {
+      "id": "987d248a5128",
+      "title": "Brave Sells Its Search Index To AI, And Your Website Is Probably In It via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
+      "source": "Search Engine Journal",
+      "summary": "Brave sells its search index to Cohere, Mistral, and Perplexity. A 30-second site: search shows whether your pages are part of it. The post Brave Sells Its Search Index To AI, And Your Website Is Probably In It appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-06T20:00:19Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "a349ffa3c393",
+      "title": "Trending Keywords in AnswerThePublic: Find What’s Rising on Google and YouTube",
+      "url": "https://neilpatel.com/blog/answerthepublic-trending-keywords/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways A keyword shows up in your research tool with a clean volume number next to it. You write the article. You publish it. And it lands on a results page that already has a dozen strong pages on it, because everyone else’s tool showed them the same number around the…",
+      "category": "SEO",
+      "published": "2026-11-06T20:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "df84387c4097",
       "title": "Google Gemini Business Profile Tools Are Coming To Workspace via @sejournal, @MattGSouthern",
@@ -1695,6 +1717,17 @@
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "category": "SEO",
       "published": "2026-11-06T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "cfd4354afa14",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "category": "SEO",
+      "published": "2026-11-06T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
     },
@@ -4260,39 +4293,6 @@
       "published": "2026-10-26T14:30:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "f1a01ddd95d5",
-      "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
-      "url": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
-      "source": "Search Engine Journal",
-      "summary": "Referral reports show who sent the visit, not who shaped the decision. Why GEO’s real job is what a model learns, not what it retrieves. The post Google Gets The Thank-You appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-26T14:00:54Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "1a1d4bf2fc11",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "category": "GEO",
-      "published": "2026-10-26T13:45:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "5a1a42ac0223",
-      "title": "Meta Delays The Terms That Let It Crawl Business Sites via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
-      "source": "Search Engine Journal",
-      "summary": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Delays The Terms That Let It Crawl Business Sites appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-26T13:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
