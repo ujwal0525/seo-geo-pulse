@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:37:23Z",
+  "updated": "2026-11-06T00:49:12Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1545,6 +1545,39 @@
   ],
   "items": [
     {
+      "id": "8f79255b75f8",
+      "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/",
+      "source": "Search Engine Journal",
+      "summary": "Newly unredacted FTC and state complaint alleges Amazon secretly inflated ad auction prices by up to 250% during Prime Day and Black Friday. The post FTC Unseals Details In Amazon Ads Auction Surcharge Suit appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-05T21:23:01Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "b15d732586b4",
+      "title": "Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/google-search-queries-hit-a-5-year-high-and-search-revenue-didnt-follow/595485/",
+      "source": "Search Engine Journal",
+      "summary": "Search revenue grew 12% while queries hit a five-year high. The gap is AI Mode, and Google’s fix is more ads inside the answer. The post Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-05T20:00:58Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "7b020f77f545",
+      "title": "OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC",
+      "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI has just emailed advertisers within ChatGPT Ads about bidding options changes coming Monday, November 9. This impacts advertisers using Max Bid or Max CPC bidding options.",
+      "category": "GEO",
+      "published": "2026-11-05T18:29:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "280e0d11da25",
       "title": "November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports via @sejournal, @marie_haynes",
       "url": "https://www.searchenginejournal.com/november-click-spikes-in-google-search-console-are-bot-traffic-how-to-filter-your-reports/595834/",
@@ -1743,6 +1776,17 @@
       "impact": 6.0
     },
     {
+      "id": "300d91101f21",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "category": "GEO",
+      "published": "2026-11-05T08:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "280bbf056f1c",
       "title": "AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027?",
       "url": "https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/",
@@ -1772,6 +1816,17 @@
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
       "category": "SEO",
       "published": "2026-11-05T02:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "1f9981de5700",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "category": "GEO",
+      "published": "2026-11-05T00:45:15Z",
       "coverage": 1,
       "impact": 6.0
     },
@@ -1832,10 +1887,10 @@
     },
     {
       "id": "7b870a80c9a8",
-      "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
+      "title": "Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
       "source": "Search Engine Journal",
-      "summary": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales. The post Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 appeared first on Search Engine Journal .",
+      "summary": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales. The post Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-11-04T18:00:49Z",
       "coverage": 1,
@@ -4238,61 +4293,6 @@
       "published": "2026-10-24T12:00:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "c953335464d3",
-      "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
-      "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
-      "source": "Search Engine Journal",
-      "summary": "Universal Cart, UCP, WebMCP, intelligent eyewear: the agentic web is arriving. Marie Haynes maps the opportunities most businesses are ignoring. The post GEO Is A Distraction: Here’s Where The Real Opportunity Is appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-23T19:00:43Z",
-      "coverage": 2,
-      "impact": 7.0
-    },
-    {
-      "id": "298c8de07d18",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "category": "GEO",
-      "published": "2026-10-23T17:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b4ea8460b020",
-      "title": "The 4 Ps of Marketing: Product, Price, Place, and Promotion",
-      "url": "https://neilpatel.com/blog/4-ps-of-marketing/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways The 4 Ps of marketing (product, price, place, and promotion) have been around for decades, and they still drive decisions around every successful product launch. Also known as the “marketing mix,” they help you think through how to bring a product to market and…",
-      "category": "SEO",
-      "published": "2026-10-23T16:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "10b68ceec243",
-      "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
-      "source": "Search Engine Journal",
-      "summary": "Make junior hiring an explicit part of your 2027 SEO budget, with defined learning roles and a scorecard that tracks unfilled seats. The post The Junior Hiring Gap Your 2027 Marketing Budget Should Name appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-23T14:00:53Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c6ea96ad42a1",
-      "title": "Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",
-      "url": "https://www.seroundtable.com/video-10-23-2026-42362.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week, yes, we saw even more Google search ranking volatility chatter but still no official core update. Google shared how to handle Google Search if you need to take down your site for the PHP exploit fix. There are three new...",
-      "category": "Algorithms",
-      "published": "2026-10-23T12:01:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
