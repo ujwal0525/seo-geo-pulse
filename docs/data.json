@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T00:49:12Z",
+  "updated": "2026-11-06T11:52:19Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -823,6 +823,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-06",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "ElevenLabs Partners With SoundCloud to Let Users Publish AI-Generated Music Directly",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlhnUWtjNmN5eTRNeG14S0lSYk83eXJDNHU4akk5SGdSZktaYUtTTUR5YnJnY19fMUhqeDFmNHBxb253STFrZ0hBejZzNnR3ZkgxckFIeVl4VjdOeHVSZkl3ZkxBbUppVW1RcDlHVzVvLWdTZmoxbXhUX2RTc0VFMFhlckxMZExkWF93U1RXMDMyVjFqcFg0UEdNUVVoVVJEQkljdGFhM09jY2loNTVhZnhGeE5xU1BWVk54aEFPTW7SAcYBQVVfeXFMTUVmRXVtSF95NlZvRW5LVTE3SWhibHJWc2FrZUpPUGtZYUc2WWNvUEhMY0tfN1ZuMkxXa2h2dGVBdUZoMGprSjdmQ3FEMVVIMElXcVFjcjV5Rk04ay1CWnVvN25idHpsNWpJeTZseVFjRWttMmZKelM4MnJtQXA0cXlJMHBkeHdOel9pbUF0dl8zMFZoVktkQlNJZGJ2R3ZwNTZFdlZTVDZOYTVrQzlrZ3JXZVlxRVJmSkE3OUpEVjFlTW5QcHNR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9169f9251483"
+    },
+    {
+      "date": "2026-11-06",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Instagram launches free Mac app for editing videos with music and captions",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0p3Vm40Y3c5NW43d3F0UUVsUkR1R2JIWnlUcEhkb3JaRVd2alZLbjNNTFpReUx5ZDBwekdnMENYUDdOYVdqaXpOS0VrT0l5RUNDSHZFS0JtU0RvWW1oREtlbGpNV0JpemxGY1hVUU5od3RmSDlrRTZfVFVEb1ZyMWNpbmZuNUhJV3pYeTJJRDE2ajlaUnRXYUo4Ui1Lb0VPamRQTllRdGl4U0FjMFNzM2Fndw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ed5bbaf41854"
+    },
+    {
       "date": "2026-11-05",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1517,30 +1541,6 @@
       "source": "Google News",
       "curated": false,
       "id": "5f70fb879972"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity Federal Credit Union Launches the Affinity Wellbeing Institute on National Wellbeing Day",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUllvVlh6SS1TSTVldi14UkNyRGR3czlDMV9mNUszZ2hyb1FMSGdYam5HYU5EX2t4emdDc1gwMFdsMWxiSW1sWHRMdGhHblowdjFpWTRiRG51TWJLNGRQLWxBMU1ld0FRZXM3Wmk4MjRGX3dhVno1cVpLd2lZLTFsVkxNU3dFV0hzMEdNYVQ1WXc1ZkFuNnZ4a0RHRkFtMFpmRnRyb3JqeldtX202OTd5ajYyLUNuYnIzcmtuVEFSbTgzSjJnVm9reDRMMjQ0T2xiUjNtQjYtX25kVFIyX3ZhcEczTUd3UHNnT1E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "71de5cd70e47"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$750M",
-      "title": "Spotify, Lovable backer Creandum said to raise $750M new fund",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdXU2STJpMzl3Mmd1VWJXSUNoUUJudG9NT3JuWHVocGhfazhfRGlTSWNRNGQtNjVHejhjbnU2QU1SUmJrS0ZiUmtJcnE5WEhFVE1TVDVCcjZjM2Z0QS1jZVJuUkU3djZ4a0tCbzVISFRCZ3NRbTBTSHhFQmd5czRXQlkxT2dUTVBIR1FibW91Vm1LTC1vTzJyd3J3aUlGdTdRWjl2b0UwMjFOMG5aVk93dlJ2UUswRThDZVFKdjJqSQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "46fbf6f1caaf"
     }
   ],
   "items": [
@@ -1567,6 +1567,17 @@
       "impact": 6.0
     },
     {
+      "id": "c88b52d0b210",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "category": "SEO",
+      "published": "2026-11-05T20:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "7b020f77f545",
       "title": "OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC",
       "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
@@ -1587,6 +1598,17 @@
       "published": "2026-11-05T18:00:28Z",
       "coverage": 2,
       "impact": 5.0
+    },
+    {
+      "id": "b58fee4edbbb",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "category": "GEO",
+      "published": "2026-11-05T17:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "c1c055849a47",
@@ -1829,6 +1851,17 @@
       "published": "2026-11-05T00:45:15Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "c0d7b0808284",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "source": "OpenAI",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "category": "SEO",
+      "published": "2026-11-05T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "7f6468dfb530",
@@ -4260,39 +4293,6 @@
       "published": "2026-10-26T07:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "1758535ac6be",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "category": "GEO",
-      "published": "2026-10-26T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b1d68213f920",
-      "title": "Google Search Ranking Volatility Gets Heated October 24th",
-      "url": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This past Saturday, October 24th, we saw some significant ranking volatility captured by many of the third-party Google tracking tools. There was also some heavy chatter within the SEO industry about ranking movement and Google traffic changes over the past couple of days. The…",
-      "category": "Algorithms",
-      "published": "2026-10-25T14:07:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "2ab3ab131754",
-      "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
-      "source": "Search Engine Journal",
-      "summary": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-24T12:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
