@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T05:45:58Z",
+  "updated": "2026-11-07T14:44:00Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1015,6 +1015,18 @@
       "id": "221fdc9e352e"
     },
     {
+      "date": "2026-11-05",
+      "company": "Midjourney",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Why Patience Can Create More Value in a Partnership",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWwwRnV2S25zZDNwb29vRWUwZ2VTdGowWWVpQ0NZUXpxc0NsZmtSYk0yQW16dHowME9CbUVSV3hGeE9MTEpWdlRNdmxaZmJJT0Q5WUZ2OFI2YXdFYnRjV0F0UmJ5WVdOU1hUZnhHa3A0Wmh6dWpqSUxTVkVOVkNOLW1ueVgzdkdST3EzelhMRVdVUzJ5cVlSMy0wRQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "49107be6c11b"
+    },
+    {
       "date": "2026-11-04",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1529,21 +1541,20 @@
       "source": "Google News",
       "curated": false,
       "id": "d601ee827663"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Free tool: Canva launches Affinity for iPad",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ0ZrTWQ0cXV5X1VMNGhNNV8xblAyaHFvWE15cFhXZVlkcGJjUGlSRk1hRE9aOGhvS0E2SnBUMDJVTEg2NHNJemVZMkFManhYeFRoelpNZUYtb0ZkSDNHazl1NVp2dUw5OVNvU01UVE5YMXRwdlVSSFZsV1pidjJUZW9VUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9d44c1fb2a66"
     }
   ],
   "items": [
+    {
+      "id": "c48a95c5d4f8",
+      "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
+      "source": "Search Engine Journal",
+      "summary": "Rank data may carry one-word results and redirect URLs. Other updates cover PageSpeed lab scores, a shared AI training opt-out, technical SEO and AI search. The post Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-07T13:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "987d248a5128",
       "title": "Brave Sells Its Search Index To AI, And Your Website Is Probably In It via @sejournal, @slobodanmanic",
@@ -1601,14 +1612,14 @@
     },
     {
       "id": "2c4007ebab8d",
-      "title": "AI Visibility Isn’t A Sham – Most Ways Of Measuring It Are via @sejournal, @gregjarboe",
+      "title": "4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google’s Organic Traffic via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
       "source": "Search Engine Journal",
-      "summary": "Make AI visibility budgets defensible by testing dashboard scores against customer behavior and measuring exposure, recall, and consideration. The post AI Visibility Isn’t A Sham – Most Ways Of Measuring It Are appeared first on Search Engine Journal .",
-      "category": "SEO",
+      "summary": "Make AI visibility budgets defensible by testing dashboard scores against customer behavior and measuring exposure, recall, and consideration. The post 4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google’s Organic Traffic appeared first on Search Engine Journal .",
+      "category": "GEO",
       "published": "2026-11-06T15:00:32Z",
       "coverage": 1,
-      "impact": 4.0
+      "impact": 5.0
     },
     {
       "id": "71d692c8d103",
@@ -1810,10 +1821,10 @@
     },
     {
       "id": "c1c055849a47",
-      "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern",
+      "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
       "source": "Search Engine Journal",
-      "summary": "New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on. The post Ads In Google AI Answers Concentrate In Apparel & Electronics appeared first on Search Engine Journal .",
+      "summary": "New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on. The post Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-11-05T15:15:08Z",
       "coverage": 1,
@@ -1953,10 +1964,10 @@
     },
     {
       "id": "d47ecdf7c22a",
-      "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
+      "title": "Google Appears To Limit How Fast Goto Result Links Can Be Followed via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
       "source": "Search Engine Journal",
-      "summary": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs. The post SERP Data Providers Say Google Is Throttling Goto Result Links appeared first on Search Engine Journal .",
+      "summary": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs. The post Google Appears To Limit How Fast Goto Result Links Can Be Followed appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-11-05T11:48:21Z",
       "coverage": 1,
@@ -4282,17 +4293,6 @@
       "published": "2026-10-26T15:30:04Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "f16aefe89a6e",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "category": "SEO",
-      "published": "2026-10-26T14:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
