@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T14:44:00Z",
+  "updated": "2026-11-07T19:56:43Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -823,6 +823,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-07",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "Docusign Acquires Suplari To Expand AI-Powered Procurement And Contract Intelligence Capabilities",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXlRY3I0c1I3NXBkSW83a3pDcHRwaG1ZN0dFRDN3R2dDMVd6aFR2bjNDUllTeEMzUWt3ekx0LVIyZkRlZXR6Vld4UHZHXzA5UXNvNkpxSWh1Rm14V05nRXZLYnZubGVVNEdzdktZUTVrNFhPMjhJdG4wTHJueWtsTmdHeDZhVnRLanh2UV9ROUpGMjZ4WkpvakxBZ1lXSFNpR2ZnbFFBdVlwcXo1QS03RzJpaTRjdFRH?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "04c852116fca"
+    },
+    {
       "date": "2026-11-06",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1380,18 +1392,6 @@
       "front": "Documents",
       "move": "M&A",
       "detail": "",
-      "title": "Docusign Acquires Suplari to Expand AI-Powered Procurement and Contract Management Capabilities",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRy0yWXl2Q2tMSTVyMktQRVlXVjZfRkl1N1dlNmNiSjl4ZDh1MWFkNkxXdmNyazNNMDBSbEVsV3F4bmhfZWdXLUFqa093UUtvYkZXNGhtNmZGa3dsM1I1b0tPSjZDUGpsR0hydVY4RVEyM1ZPRllnTldXT2g2THhrZ253M0p2aG54NUZ2c0JqcDM0a2JTSVZURW1SZFhYcWVkWnJ4QkJxLXE2aVl0OXo0NEJXS3NfYWFMcWgxZzRPaEg2bWRKenoxZVc5UHhWSTQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3ce2e91fd5cf"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
       "title": "DocuSign Acquires Suplari, Enhancing AI-Powered Procurement Solutions",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVo5UGJaUWVMTUlxbGhQeUt3eHRzczVyMFpiSEpCMEJqcFk0aWFyTTV4SWprYmZHMkgwREUxRE9XQ1ZDd1FJaEN4RFZ2a004WHkzX2Q0V1FwcTdrQ3o3R3BNV3pGOUU3N1lWRHg5TkVzU2t2Mm1yTV9BbGNKSXdLWXh3d1I1OUZTMTI2cjZQazBlbjFMY3ltLVdZNDc?oc=5",
       "source": "Google News",
@@ -1590,10 +1590,10 @@
     },
     {
       "id": "71ae9e7046b6",
-      "title": "TikTok Search Ads Are Becoming Real Search Advertising via @sejournal, @MattGSouthern",
+      "title": "Google Ads Skills Transfer To TikTok Search Ads – With 4 Catches via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/tiktok-search-ads-are-becoming-real-search-advertising/596016/",
       "source": "Search Engine Journal",
-      "summary": "TikTok's search ads carry match types, negatives, keyword bids, and impression share. Here's what carries over for a paid search team, and what doesn't. The post TikTok Search Ads Are Becoming Real Search Advertising appeared first on Search Engine Journal .",
+      "summary": "TikTok's search ads carry match types, negatives, keyword bids, and impression share. Here's what carries over for a paid search team, and what doesn't. The post Google Ads Skills Transfer To TikTok Search Ads – With 4 Catches appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-11-06T15:35:29Z",
       "coverage": 1,
