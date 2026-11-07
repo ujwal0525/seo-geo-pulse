@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:56:43Z",
+  "updated": "2026-11-07T23:29:54Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -835,6 +835,18 @@
       "id": "04c852116fca"
     },
     {
+      "date": "2026-11-07",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Mirae Asset Global Investments Co. Ltd. Acquires 178,203 Shares of Figma, Inc. $FIG",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZlRhb2xEZC1rdXVzRXBvYm5KTUpBdmpYYy1HVkFsYnJveXBZbER5UXVpU0szLTJlUjNtZ2pPVWdybHFmRlljSFRnazlFMk9YTFNVVE5qUTJ1cnVaM0hXX2VtdXpOaVktRmFfY2Y3U2llU2FjSTEzRFA1TWZSOEhIaHMxMHVoRTlpV0gzMEMwVDhSWTdqNFFxLTZTTTg5cENSOG9SbVM1ZEtZNG1NTTN4YncyQk83SV9JVjRrV0FCaFJBVzZ2MWkxMV9GZUtIUmVNcnEwbA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "82ae31dfb95a"
+    },
+    {
       "date": "2026-11-06",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1529,18 +1541,6 @@
       "source": "Google News",
       "curated": false,
       "id": "eaf620342a82"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Releases Free All-in-One Affinity Design App for the iPad",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjE1eENEblVRRWNLWVJhSDEyR2RwbTBNRDJFY19PdVR4cUxjTmp4NmZsQk1vcFNZaXhDRGNHTW95dlMyTDYyU2E2VDhUSmZOTXJOTFR0a0JoQ3Vmal81eXVSa3dRd09pUy0xaUxJdWg0dnpVbkF4RkxlUEhGNUV0TnpraFl2cmZGOWJBWjdhTDZvOU92ZkdOVlVIa3hfdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d601ee827663"
     }
   ],
   "items": [
