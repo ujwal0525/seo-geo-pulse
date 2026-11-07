@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:59:05Z",
+  "updated": "2026-11-07T05:45:58Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1147,6 +1147,18 @@
       "id": "1e87f161f926"
     },
     {
+      "date": "2026-11-04",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Compass-Rate merger to create ‘powerhouse lending platform’",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXlyY2hJRXVYbmVUTkR4a191aDQxTW0tYjdwYXZQYkUwcjBhUWpSMmdOa0tMY2s0eWpuX3RLcU1PMml2Q1dYbTJnUTdLS1hTOWhBVmw2VjZDYXl0NEpKRE92OFc2Z1M2emdmTjhUb2NFTUVtSkRINTVyeUlIMnE5eTR3b0ZNRHl5TTJpajZkUm1oQVJqS18yTjA2eHgzaDNC?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "340e7cde6b5e"
+    },
+    {
       "date": "2026-11-03",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1529,18 +1541,6 @@
       "source": "Google News",
       "curated": false,
       "id": "9d44c1fb2a66"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva unveils ‘What Will You Canva Today?’ brand platform via Goodby Silverstein & Partners",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlIdTYxbmtQcTg4VDlOV1NQSDJBdjdjaVhfZlFmRThBV1dQZmdJRVkxd1NfTHY2YTcwQVhzb0htTG1Mb29tMXdCRnd2ODlteHUyU1FvZjJWQTVTZ1YyY0tILUxwcHpJNkJ2SzlxV1U0STVTSlVaSTV0a1J6UEFkczg1cVR1djRWaDRuUVR6clV2Um9rOVhlZFlFWE5uYWRWT2pCT29yU3pPOWxKa2QtZERVQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5b8f8d639ead"
     }
   ],
   "items": [
