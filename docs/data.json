@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:49:33Z",
+  "updated": "2026-11-08T20:15:09Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -823,6 +823,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-08",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "This Is the Family Tree of the World’s Fastest Runway-Launched Jet Aircraft",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaDlBUlA5QVQ5dnJZY28ydDhWNzBjQWRsMGZ6NndyblRST2Y5VjVYb2VXOTRWQ2EyQ2Q5b0xldF9NWW1WakdIVkdockdSNnE4NmJEU3gwQW00WmhWbE4xV1NicjdIVGNtWWdybXAyV1FTY19yQ3JYOE9HRTk4bXV4cGhudm9uTkxVaHVYczR6T3hGc2lBTHg3RHhaWkMwQkpmNktFTGZpZ0lkQU9BVEpwbG1ydGl5dEZwSmxzWWh3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "29d2b3e33a71"
+    },
+    {
       "date": "2026-11-07",
       "company": "DocuSign",
       "front": "Documents",
@@ -1529,21 +1541,31 @@
       "source": "Google News",
       "curated": false,
       "id": "5a06f8cabfa5"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Bonnie Tyler Christmas single to be released as husband says he misses her every day",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xeW1BLU04Z19QQnFKZG1IM294Z21RRDJaMFhPRTZwTkNTTkluUDNjb2dZVUFJM3JBZWh3VXNvb3BEYnZXV3dVbW1hMjNCbkdOajVtcTF5TnVpMUU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ca14b071d122"
     }
   ],
   "items": [
+    {
+      "id": "b8d13cbf8744",
+      "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
+      "source": "Search Engine Journal",
+      "summary": "Tripadvisor tied a writedown largely to search changes, expects SEO to weigh on growth next year, and says marketing takes more of its revenue. The post Tripadvisor Says SEO Will Still Weigh On Growth In 2027 appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-08T19:09:13Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "de211b92cfcb",
+      "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
+      "source": "Search Engine Journal",
+      "summary": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits. The post Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-08T18:07:49Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "c48a95c5d4f8",
       "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
@@ -4271,28 +4293,6 @@
       "published": "2026-10-26T18:00:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "424c51681584",
-      "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
-      "url": "https://neilpatel.com/blog/ubersuggest-inside-claude/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways You already use Claude to write, think, and plan. You draft the content brief, outline the client report, work through a strategy question out loud. But the moment you need a real number: search volume, a competitor’s ranking keywords, what’s actually broken on a…",
-      "category": "SEO",
-      "published": "2026-10-26T16:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "cfba109eda66",
-      "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
-      "url": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
-      "source": "Search Engine Journal",
-      "summary": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-26T15:30:04Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
