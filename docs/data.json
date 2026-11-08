@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:29:54Z",
+  "updated": "2026-11-08T04:49:18Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1051,6 +1051,18 @@
       "id": "49107be6c11b"
     },
     {
+      "date": "2026-11-05",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$200 Million",
+      "title": "Sand.ai Raises $200 Million To Challenge Kling and Seedance With Open-Source AI Video",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0lrQUdoR2xDY3I2elpyaEw3cTFYVVBRY2lYSkhhT19HS3VJa0lvOTk5SUZUdWdEVVpTWUl1T0hrNmlOdnluQUpPWDFWUUo0QWNnZ3BubHNMSGYwU0FMWjVVM253YV9pS1d3OF81MGdZczdnS214WjdrTTF5TDk0RUw4MTJ6V01D0gGIAUFVX3lxTE5DSWtBR2hHbENjcjZ6WnJoTDdxMVhVUFFjaVhKSGFPX0dLdUlrSW85OTlJRlR1Z0RVWlNZSXVPSGs2aU52eW5BSk9YMVZRSjRBY2dncG5sc0xIZjBTQUxaNVUzbndhX2lLV3c4XzUwZ1lzN2dLbXhaN2tNMXlMOTRFTDgxMnpXTUM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "987ee7903ad7"
+    },
+    {
       "date": "2026-11-04",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1529,18 +1541,6 @@
       "source": "Google News",
       "curated": false,
       "id": "ca14b071d122"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Unveils New Campaign: Explore Your Creative Possibilities Today",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3NWUzNKY1lOTU85Tk05VlBPVkVxZHo3RHBHWkxUaEtSSi1WbDF2Ui1SV1RHU3dZWlo5ZFRXQ0dDTVFDUThBdVRfUEVVVXZPRl9YTGU3MkdwbTREazlNNElKVUxTdk10M1I3Njd6Nl93WHNWRnhRVFVLRU84bzJtVjgteUZyZ3lYX0JORG9fWVlnazk0ZnRmS2lIbnM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "eaf620342a82"
     }
   ],
   "items": [
