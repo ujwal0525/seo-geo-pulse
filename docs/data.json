@@ -1,9 +1,11 @@
 {
-  "updated": "2026-11-09T04:58:01Z",
+  "updated": "2026-11-10T02:35:14Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
+    "Andrea Volpini (WordLift)",
     "Dan Petrovic (DEJAN)",
+    "Glenn Gabe (GSQi)",
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
@@ -22,6 +24,36 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-09",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "dd351586c3b0"
+    },
+    {
+      "date": "2026-11-09",
+      "family": "engine",
+      "platform": "Google",
+      "title": "The Impact of Google AI Overviews rolling out in France – The clearest evidence of impact to clicks and click-through rate yet [GSC Data]",
+      "url": "https://www.gsqi.com/marketing-blog/google-ai-overviews-roll-out-in-france-impact/",
+      "source": "Glenn Gabe (GSQi)",
+      "curated": false,
+      "id": "6d12c24ba4d3"
+    },
+    {
+      "date": "2026-11-09",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads",
+      "url": "https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "3455825a1f6f"
+    },
     {
       "date": "2026-11-05",
       "family": "model",
@@ -791,37 +823,117 @@
       "source": "OpenAI",
       "curated": false,
       "id": "7ced1501af7c"
-    },
-    {
-      "date": "2026-08-18",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "82c2340734b6"
-    },
-    {
-      "date": "2026-08-13",
-      "family": "model",
-      "platform": "Gemini",
-      "title": "Gemini 3.7 Flash",
-      "url": "https://en.wikipedia.org/wiki/Google_Gemini",
-      "curated": true,
-      "id": "7401478b5d68"
-    },
-    {
-      "date": "2026-08-10",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "GPT-5.6-Cyber",
-      "url": "https://en.wikipedia.org/wiki/GPT-5.6",
-      "curated": true,
-      "id": "523dc2557aec"
     }
   ],
   "competitors": [
+    {
+      "date": "2026-11-10",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Massie introduces impeachment articles against Hegseth over Iran war - Al-Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHBmV3pEX2Y2NS1hUEJEWC1TdFdGTlpHQW9oWThKcG5PcklNdFg1TUI4Vk9USUhzUlAtb1VnU0pLMk4yVXNDVjRZTzdmUWJ3ZWVDNFktZGJ0akNKbFBrMzFaSjBEZ3hDV1ViQWhwakVNS3JDNDZKMnU2dEswLWpzYUEtYTltS05xbmdudmowY3JOOXcyajdsN2tpZnlGTEdRb3F5Q3Z2dTAwVXA0ZFRCUXdFaw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5e45713d2995"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "Recraft",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Royal Balk Shipyard unveils refit concept for 37m explorer Santa Maria T",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmY0OHFVVU4wNkg2NUEwelhKQ09YN0xmZzZxMlJxMnZSd2xyZWtObG1oVDl0Y1ZKc2ZOT0xXdEh5Rm5jbThjejRIU000ZzV3dmVXNUs4ZXVyclVwUU41aVo3Vm1hdTBtUmJ0SFh1eWdneTVValBOby1BTlBMdVI4SjhGZUk3OUFpTXVDbjl6MXk0aDBGRWN5dGowMFdqM0pMMlNQVlRobkZ6a0tEYXFVUHl6cE1mS2dENkRGT0xsVTYxYmozbVVB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "15790338f83c"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield unveils Miracle, layer-based video editing now in private beta",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORkVTdmxzS2ZUZ2NURnI2emRYRjN1WWNya0dKT3I4em5vblJSTDRQYXY4WEh1dFB1aVdvcGRVbTA4YkZrUElOeFN5T0FSVWpvc0lVYVcxaWFpbXhucjFIeUhyUTUwWEQyeklvbVMxS003TnVCR0ExcEhSNGtMLTdkRGZkbFJXclpGdU9kb0ZxWmVEMHdJUm5rRmxROA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "eaf555939ab6"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Higgsfield launches a free 72-hour trial with Claude Fable 5.2",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanJnWWpjTUQzWXBfdkZpSU02eF9EX2I1Nm5JSDJxSmFSeFRCUUhzOW93LV9PVzFrTGZlbGc2cTFDU3VFSU9JVkQ4SWRqcVRTeHU3czRQdkxhNHZEWnNXMG1JazgtRUdRUzYySENBWHlscUJocTJmSUJ3UmJyc0lJWTBqSzBVTVd3NHFJM1R4NTdiMEF5?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "dbe2fb9f3e4a"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches ElevenAgents Campaign Manager",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGw3NTIzTXlYWGZWaFB6RENOUThlRkszOERVWjhZSVVRNzhWUjgzSWVGVTdzbWxIUm4yQ3Z3NkNWdGRfUERxSWdXSk9Ja3hFQkppaTR3NnpLbVZ6LU41MERyZ3pRYzlBelRtTVQ3NkF4LXQtSjZWd3JMTUE4UmpCZVdjTUdmM0w3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "37551a1cc792"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Pelephone buys Wecom for NIS 265m - Globes",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1dLZFU2TUx3X19DelVkTGpFSDYySHFXR0d6UTdfVXYtejRyYnotZFpYSmRoWTFxcHhDUXZPRG1ad1hkQWE5SHRJTDJ6MDkwMVpmYnp0MmcwM0NoLU13c2lxQW9zMWpzMTVXNlVFWjhPcTFQeDdUX05QdFljRGduajNIcHVDUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ce1ec66a5907"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$7 M",
+      "title": "LACMA’s Star-Studded Art+Film Gala Raises Nearly $7 M.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkxaQVFpVXBUczJIUGM2ektMWHR0TG5uaDJJX0taTzZ6U1NDc083QlpaejM3aWNlc2VfTzZxUVhUUmxrZERGZHJMVjFtdDZwYTdPcHFTdXZfTEZkUlZFM0RyY0xxSUFuVEFzb3VWUDdVdU1iUVJ6NzIxWUpqZEJVWExNN3F1SC12bmNIbjh2eHZ1eTg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7aad8d02bd5f"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Campaign",
+      "detail": "",
+      "title": "Canva goes viral for generous severance packages",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjV0NWJKbEhJRllQb0p0NUdQeW1Cd05YazcxUjdsdUFnYnBfblNFSVhXelJDVGhoMDEtT2VqY2hoRGw0Tl80UV9qNUR0Vm94QzhMU01wRDROX0hQd3ZaVXk2ZV9QSUdlSHo3QVJiSGUtSDJHWHkwTElCZzJ3Um5CZFYweVlwU2xGbEtoZ3V5aUMxZ1pQN192N2tfYkZjOV9xdGNJbUJpaHFPbTlyV19PM1Jpa1FrS3VvcklZ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9ba2750bebac"
+    },
+    {
+      "date": "2026-11-09",
+      "company": "CapCut",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "ByteDance rolls out Seedream 5.5 image model across Dreamina, CapCut and BytePlus",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZT0thUGJpQWgwVF9ac0RYZlRFbDhPdWcyWi1BSmpIcjVXWllnY3BfYW1KV2pJVi1wbGV4Mm9zaEg4RUpnSWtxWTB6UE9XcWRzMXZ1ZkVnMHJoVW05d3FiWVFMMXB0b2FURW9uQ3hCaEJLWi1DRHRkRy13?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7ec1a7a81886"
+    },
     {
       "date": "2026-11-08",
       "company": "Runway",
@@ -1433,117 +1545,284 @@
       "source": "Google News",
       "curated": false,
       "id": "84753f7f47f9"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "Docusign Acquires Suplari to Add Procurement Analytics to AI Platform",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92blBRZU5ud1l0QVBpN1c5aDFNU3A3SklnZkExZlB2anhjamtLVEE2TWUxUnRRMWdGUy0zZVpHWEtDcFBvNUdEcThpUWtGS0FHbDcwelRldkU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9aff11647943"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Hello Kitty Comes to Figma FigJam for Limited-Time Collaboration",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2ctdEVIM2ZRUUlyN3ZPLUJDeDVMVE5MdlNUTmR3SkpMMjFSMnp4dVNHeXhETV94ekJPamllZWxubVN0bEZWcVZjSDdZaTd1ZHNYdzV0c1dMdm5OdTBBa01MdGI5T0pfQjZzWGJFaTh0enNQRGhtb2YyZVViSUoxR1NBbVhpZUVmbkE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "88f30e3625d8"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity for iPad mobile app released",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFlReFYybGpNUUdIWlFKbExJYXZ5RklGVi00c0phQkFWSFd2c0VWVzdyWVdsR1ZScENrdDlKVHEyeWJ5Y0o0MUlseGpZMF82QzhobS1kekRja3FkRmQwZUVwTmRTTmtiR0tIcnlTY2Y4NktUQ1pDR2JveXNkUVNoemdjcUZXRE9kcEww?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "36ceb00f0fe8"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "DocuSign (DOCU) director Trollope acquired 870 shares",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjBxOVpWQnNRVk1Hckk2R2t0WmE0bVdxWFlqODRuMVVPZVNWRlpRN2lWWWtDQlhvX25LaEJQM3B0WUkzRFBGeE01RkpSYS1ZYlZtek9rWHJIX3BnNGh3aWU3czFmYkYxWl9WMmN1Z1NIVC1oVV91R3FiY2N2ZVg5cmN4QzdYWmV4VFNfMnZUQWJ4TzlUNlVTaDJPaUxxSkp6eVhTVXFBWUNfTlRYeXlVS2xLSQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5a3ce01862dc"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs unveils voice AI supporting 90 languages",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04SE5ZT1FlRFByU0tPUjZFd0JkVzhOV09ONEt0SWczVmZNSTBXcTRqNGxrY3FLQkphTy1pNkZQVG96TUlBLWhOY1VpVXpnWlNmTTVvOGtzOVU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "654d8023b507"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Victor Ciardelli details Rate, Compass JV merger",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qbjZWVEE3UW9nQmtCWUo5RXVUX0piVUx6c0VCbDF5ZGdMelBwNUFxVkpIZzFuX2g5cEx2RFFfVUE3RXpFbUdnWFAtSnRJNkxZT2ZrVGItbW9oamhyRjJqclE0alF1cTQzOWp3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "548331db87ed"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "$105M",
-      "title": "St. Paul Downtown Airport unveils $105M plan with runway closure, new hangars",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNak0wMC1TRzBVMzV2ZXpqV3dSZUxacnJ0Q1dnalhLR21mTDhqY3ZRX2Exc1NwaDBnYWNLXzUzclRWVXZNdjBydlJmdi0wTVE4NVBfbnBiNzZsMjJONWVLSzBkSHhDSUxSUzRIVVk5Tk45WnViSGFWZ0UtQk12OS1mVVR2TUV6RTZSczBmSW1ILUh5X2ZIRG5YSmtKVXB3X3FrcTJmbmdmSnNVVV9x?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "21bf26ed6d3b"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity’s creative studio is now available on iPad for free",
-      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
-      "source": "The Verge",
-      "curated": false,
-      "id": "8d94bf1fc1df"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Black Forest Labs",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$750M",
-      "title": "Lovable and Black Forest Labs backer Creandum closes $750M fund",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEtqTFFNT3NlbXFvcHk0WUlwM1ZBbWNpUkpMM2c2UmJqV0s4V1NYV2lsQ3JUSFpCcWxtQ0FDLTFzQ2JiU2xzVy05MFVvcTF4VmhYY21CR2ViV2E3dmE1UEJNNUhyLWYzYjVlXzNlQ1B2SmpWWkU4UXVzRlBYVFBoZnFfQkpLY2JGQmRnVExNN2NGWXIxZU1OU0ZB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5a06f8cabfa5"
     }
   ],
   "items": [
+    {
+      "id": "1c4449cb09bc",
+      "title": "Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
+      "source": "Search Engine Journal",
+      "summary": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays. The post Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-09T20:00:13Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "9c331579e229",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "category": "GEO",
+      "published": "2026-11-09T19:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "cab45a950bb7",
+      "title": "Reddit is putting up a login wall. Here’s what it means for AI visibility.",
+      "url": "https://foundationinc.co/lab/vol-317",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Welcome back to What Matters This Week. This week, Reddit is putting up a login wall. B2B buyers go there to read what their peers really think, and AI engines cite those threads constantly. Once it rolls out, both may have a harder time reading Reddit without an account. Reddit…",
+      "category": "SEO",
+      "published": "2026-11-09T18:03:58Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "25d8afc9aa0a",
+      "title": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
+      "source": "Search Engine Journal",
+      "summary": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test. The post Google Ads Tests Asset Activity Page With Weekly AI Insights appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-09T16:30:00Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "5d4a555a0028",
+      "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
+      "url": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
+      "source": "Search Engine Journal",
+      "summary": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue. The post SEO Split Testing In 2027: How To Prove A Change Actually Worked appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-09T15:00:42Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "b0671e70bb78",
+      "title": "Daily Search Forum Recap: November 9, 2026",
+      "url": "https://www.seroundtable.com/recap-11-09-2026-42485.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. OpenAI is working on a ChatGPT like Search Console, we have a screenshot...",
+      "category": "GEO",
+      "published": "2026-11-09T15:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "622d64d0c3af",
+      "title": "Why An AI Usage Report Stopped Comparing AI With Search Engines via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
+      "source": "Search Engine Journal",
+      "summary": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and says it can no longer reliably compare AI search use with search engines. The post Why An AI Usage Report Stopped Comparing AI With Search Engines appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-09T15:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "8e56584d297b",
+      "title": "The Impact of Google AI Overviews rolling out in France – The clearest evidence of impact to clicks and click-through rate yet [GSC Data]",
+      "url": "https://www.gsqi.com/marketing-blog/google-ai-overviews-roll-out-in-france-impact/",
+      "source": "Glenn Gabe (GSQi)",
+      "summary": "Data from Google Search Console reveals some big drops in clicks and click-through rate based on AIOs rolling out in France on July 22, 2026. But not all sites dropped. You might be surprised by what the data shows. Google rolled out its generative AI features in France on July…",
+      "category": "GEO",
+      "published": "2026-11-09T14:48:15Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "b36169149a68",
+      "title": "The future of SEO: Where search is heading in 2027",
+      "url": "https://www.semrush.com/blog/future-of-seo/",
+      "source": "Semrush Blog",
+      "summary": "SEO will remain relevant as AI changes how people search. Learn what to expect and how to prepare.",
+      "category": "SEO",
+      "published": "2026-11-09T14:24:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "2a6ffc01d1cf",
+      "title": "Social media competitor analysis [+ free template]",
+      "url": "https://www.semrush.com/blog/social-media-competitor-analysis/",
+      "source": "Semrush Blog",
+      "summary": "Social media competitor analysis starts with the competitors you’re missing. Learn what to measure and turn their content into strategy with a free template.",
+      "category": "SEO",
+      "published": "2026-11-09T13:49:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "d4fdca051c5e",
+      "title": "How software buyers use AI",
+      "url": "https://www.growth-memo.com/p/how-software-buyers-use-ai",
+      "source": "Growth Memo",
+      "summary": "What the prompts of 200 study participants tell us about the software buying process on AI",
+      "category": "GEO",
+      "published": "2026-11-09T13:42:36Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2de106d56f91",
+      "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
+      "url": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
+      "source": "Search Engine Journal",
+      "summary": "Build an organic growth stack around the sources Google's AI answers and standalone chatbots cite most in your category. The post The New Organic Growth Stack: Search, Social, Communities & AI appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-09T13:00:04Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "f37b680abcf7",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "category": "SEO",
+      "published": "2026-11-09T13:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b3567b25217a",
+      "title": "Google Search Ranking Volatility Status: Update November 8th/9th?",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-november-9th-42486.html",
+      "source": "Search Engine Roundtable",
+      "summary": "It's been about two weeks since we reported on a Google Search ranking update, whether confirmed or unconfirmed. But the truth is, the October 27th update lingered on for like a full week. Since then, ranking volatility has been relatively calm, but that may be changing over the…",
+      "category": "Algorithms",
+      "published": "2026-11-09T12:55:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "5319d59490e0",
+      "title": "Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads",
+      "url": "https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html",
+      "source": "Search Engine Roundtable",
+      "summary": "A couple of weeks ago, Google announced Multiturn ads, ads show up on responses to follow-up user queries. Well, those ads seem live. I was testing AI Mode on Friday afternoon and here are screenshots and videos of Multiturn ads in AI Mode.",
+      "category": "GEO",
+      "published": "2026-11-09T12:51:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "12bc3368b561",
+      "title": "Google Adding Booking Links To Business Profiles Automatically?",
+      "url": "https://www.seroundtable.com/google-business-profiles-adding-booking-links-42477.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google may automatically add booking links to some local business profile listings. I noticed that on my own profile, I had a booking link added and Brandon Schmidt, Joy Hawkins and Syed Amir posted on Friday that this seems to be happening for more businesses. And in some…",
+      "category": "SEO",
+      "published": "2026-11-09T12:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "8bea951c5cf8",
+      "title": "Google Ads AI-Generated Summaries Above & Within Ads",
+      "url": "https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing more AI-generated summaries within its search ads. This one shows AI-generated summaries above the grouping of the sponsored results, summarizing all the ads from all the advertisers, with also AI-generated summaries below each ad description.",
+      "category": "GEO",
+      "published": "2026-11-09T12:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "5576e89a4e0f",
+      "title": "New Data Manager In Google Analytics Beta",
+      "url": "https://www.seroundtable.com/data-manager-in-google-analytics-42480.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has launched Data Manager in Google Analytics. Data Manager in Google Analytics, \"is a centralized data management tool, which lets you manage your data streams and connected products all from a single home page,\" Google wrote. \"It can help you visualize your data…",
+      "category": "SEO",
+      "published": "2026-11-09T12:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "c69547efe83a",
+      "title": "Google Aggregator & Supplier Units Gain 'Things To Do' Query Support",
+      "url": "https://www.seroundtable.com/google-aggregator-supplier-units-things-to-do-42484.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has updated two help documents, the aggregator unit and supplier unit documentation to include support for \"things to do\" queries. Things to do is not new in Google Search, but Google has just added them to the aggregator unit and supplier unit help documentation.",
+      "category": "SEO",
+      "published": "2026-11-09T11:03:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "63461a6b161f",
+      "title": "Ziff Davis Says Organic Google Referrals Fell About 37% via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
+      "source": "Search Engine Journal",
+      "summary": "A large publisher says organic Google referrals fell again and pointed to Search Console's AI report. Here's what its AI impressions comparison measures. The post Ziff Davis Says Organic Google Referrals Fell About 37% appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-09T11:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1efd6a3117ae",
+      "title": "Who Owns an AI’s Memory?",
+      "url": "https://wordlift.io/blog/en/who-owns-an-ais-memory/",
+      "source": "Andrea Volpini (WordLift)",
+      "summary": "AI assistants are getting better at remembering us, but who owns what they remember, and how do we know it’s true? We explain why trustworthy agent memory needs identity, provenance, time, uncertainty and governance, and share what our first experiments with WoGraph, WoCell and…",
+      "category": "GEO",
+      "published": "2026-11-09T09:36:17Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a74f063980a2",
+      "title": "Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/",
+      "source": "Search Engine Journal",
+      "summary": "One site opted out of Google’s AI features to estimate its clicks from AI Overviews and AI Mode, plus a possible lift on regular listings. The post Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-09T09:00:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "23b94c697622",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "category": "GEO",
+      "published": "2026-11-09T08:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "932fe34bad72",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "source": "OpenAI",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "category": "SEO",
+      "published": "2026-11-09T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "65137139eba9",
+      "title": "Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/",
+      "source": "Search Engine Journal",
+      "summary": "Use AI workflows to turn customer insights into helpful content for AI search and reduce manual publishing and reporting. Join us November 18 at 2 PM ET. The post Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-11-09T06:03:22Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "b8d13cbf8744",
       "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
@@ -1642,17 +1921,6 @@
       "published": "2026-11-06T15:00:32Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "71d692c8d103",
-      "title": "Daily Search Forum Recap: November 6, 2026",
-      "url": "https://www.seroundtable.com/recap-11-06-2026-42474.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-11-06T15:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "366a3e5a1a4f",
@@ -1926,8 +2194,8 @@
       "summary": "Google has added home services booking integration within AI Mode. Google has partnered with partners like Angi Home, Thumbtack, Housecall, and GetJobber and will add ServiceTitan soon. It works as expected, Google adds booking buttons to the home services listing within the AI…",
       "category": "GEO",
       "published": "2026-11-05T12:31:00Z",
-      "coverage": 2,
-      "impact": 8.0
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "0d166bb7a5bf",
@@ -4029,270 +4297,6 @@
       "published": "2026-10-27T20:06:27Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "2eb722288f96",
-      "title": "Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say",
-      "url": "https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search has just updated its favicon documentation to now specify that Googlebot must be able to follow redirects from the homepage to the page where the favicon is specified. The document also explicitly says that these URLs must not be blocked by robots.txt or other…",
-      "category": "SEO",
-      "published": "2026-10-27T19:05:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "309f7bb0dde7",
-      "title": "Why We Should Fear The Shadow Web We’re Building For AI via @sejournal, @chrisgreenseo",
-      "url": "https://www.searchenginejournal.com/why-we-should-fear-the-shadow-web-were-building-for-ai/593930/",
-      "source": "Search Engine Journal",
-      "summary": "Why would an AI search provider keep trusting information a brand hides from its own website? The parallels with cloaking are too close to ignore. The post Why We Should Fear The Shadow Web We’re Building For AI appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-27T19:00:25Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "54646dc1b7e6",
-      "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
-      "source": "Search Engine Journal",
-      "summary": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-27T17:11:52Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "e4fd7bb51e73",
-      "title": "Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
-      "source": "Search Engine Journal",
-      "summary": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-27T15:39:22Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "97d3f45b4224",
-      "title": "Looking Things Up Now Rivals Writing In ChatGPT, OpenAI Data Shows via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/",
-      "source": "Search Engine Journal",
-      "summary": "Looking things up now makes up about as large a share of consumer ChatGPT messages as writing, though the increase is smaller than earlier data. The post Looking Things Up Now Rivals Writing In ChatGPT, OpenAI Data Shows appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-27T14:13:30Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "720db33a2285",
-      "title": "How I Decide Where The Next $100,000 Of Marketing Budget Should Go",
-      "url": "https://www.searchenginejournal.com/how-i-decide-where-the-next-100000-of-marketing-budget-should-go/593211/",
-      "source": "Search Engine Journal",
-      "summary": "Allocate your next marketing budget increase by weighing retention and conversion fixes against more paid search, then fund the bottleneck with evidence. The post How I Decide Where The Next $100,000 Of Marketing Budget Should Go appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-27T14:00:18Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "117b40775ed1",
-      "title": "Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First",
-      "url": "https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/",
-      "source": "Search Engine Journal",
-      "summary": "Jonathan Berthold explains why bottom-of-funnel content is the lowest-lift experiment and how to sell leadership on a test you can't promise will win. The post Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-27T12:00:41Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "aae3751ef5da",
-      "title": "Unconfirmed Google Search Ranking Update: Volatility & Chatter Spike",
-      "url": "https://www.seroundtable.com/google-search-ranking-volatility-42379.html",
-      "source": "Search Engine Roundtable",
-      "summary": "I know I just reported on an unconfirmed Google Search ranking update from this past Saturday, October 24th. But I am now seeing a larger spike in volatility, along with an increase in SEO community chatter around another unconfirmed update over the past 24 hours.",
-      "category": "Algorithms",
-      "published": "2026-10-27T11:51:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "5da827908eec",
-      "title": "Google Downplays The Importance Of Fresh Index Reporting",
-      "url": "https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller kind of downplayed the importance of the freshness of the Google Search Console page indexing report. He said on Reddit, in response to my coverage of the report's recent slowness, that \"it can feel like it's important to focus on it, but honestly, save…",
-      "category": "SEO",
-      "published": "2026-10-27T11:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3bd3ed0239a1",
-      "title": "Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not",
-      "url": "https://www.seroundtable.com/google-local-service-ad-confusion-42328.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google advertisers are struggling to agree on whether a specific local ad unit in Google Search is a Local Service Ad or another type of local Google ad.",
-      "category": "SEO",
-      "published": "2026-10-27T11:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "14aa12908a22",
-      "title": "Google Ads Tests Dotted Underlined Links In Sponsored Results",
-      "url": "https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing placing dotted underlined links in the sponsored results ad descriptions. When you click on them, you go to the ad destination's URL, like you would if you clicked on the title of the ad.",
-      "category": "SEO",
-      "published": "2026-10-27T11:21:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "4755a8d1b0a1",
-      "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
-      "source": "Search Engine Journal",
-      "summary": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness. The post Google Responds To Concern Over Search Console Indexing Reports appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-27T11:17:59Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a37c6a1684f2",
-      "title": "Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy",
-      "url": "https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads said it will update its Child Sexual Abuse and Exploitation (CSAE) ads policy this coming January. Google said this is being done as part of a \"redesign of the policy, and to improve protections, clarity and transparency.\"",
-      "category": "SEO",
-      "published": "2026-10-27T11:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "46bec9f2d622",
-      "title": "7 free SEO tools to boost visibility & traffic",
-      "url": "https://www.semrush.com/blog/free-seo-tools/",
-      "source": "Semrush Blog",
-      "summary": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest.",
-      "category": "SEO",
-      "published": "2026-10-27T09:05:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "adc118ad2a0f",
-      "title": "Image SEO: How to optimize alt and title text",
-      "url": "https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/",
-      "source": "Yoast",
-      "summary": "Adding images to your posts and product pages makes your content more engaging. Good images support your message and improve your chances of appearing in image search, visual search, and AI-powered results. However, you need to describe those images properly. Alt text helps…",
-      "category": "SEO",
-      "published": "2026-10-27T08:34:54Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "6bbdade74098",
-      "title": "Poisoned SERPs: An update on Google ranking data in Semrush",
-      "url": "https://www.semrush.com/blog/poisoned-serps/",
-      "source": "Semrush Blog",
-      "summary": "Learn how Semrush is addressing “poisoned” Google Search results, validating ranking data, and investing in visibility for users.",
-      "category": "SEO",
-      "published": "2026-10-27T08:17:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "a3a879144b29",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "category": "GEO",
-      "published": "2026-10-27T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "8cb333260a17",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "category": "SEO",
-      "published": "2026-10-27T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "250e5d8f3024",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "category": "GEO",
-      "published": "2026-10-26T22:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "0ce8426eac5a",
-      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
-      "source": "Search Engine Journal",
-      "summary": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-26T21:24:39Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b76d7959d61c",
-      "title": "Google Updates Spam Guide For Shared Pages, Generated Content & Apps via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
-      "source": "Search Engine Journal",
-      "summary": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Updates Spam Guide For Shared Pages, Generated Content & Apps appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-26T20:57:22Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a98bd41a1407",
-      "title": "Google Warns Tools On User-Generated Spam Guidance & More",
-      "url": "https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated its Prevent user-generated spam on your site and platform help document to specify \"tools that let users publish shared pages, generated content, or web apps.\" The update explicitly includes platforms and tools that let users create shared pages, generated…",
-      "category": "SEO",
-      "published": "2026-10-26T19:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a41fca800763",
-      "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
-      "source": "Search Engine Journal",
-      "summary": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI. The post Generative UI Could Turn Google Into Your Booking.com appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-26T19:00:54Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1758535ac6be",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI",
-      "summary": "Delivering fast and capable computer use at scale",
-      "category": "GEO",
-      "published": "2026-10-26T18:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
