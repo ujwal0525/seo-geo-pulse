@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:35:14Z",
+  "updated": "2026-11-10T12:12:57Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -24,6 +24,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-10",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "ChatGPT Ads While It Creates Your Image Live",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-visual-ads-42493.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "d344d1fb8e44"
+    },
     {
       "date": "2026-11-09",
       "family": "model",
@@ -813,16 +823,6 @@
       "source": "OpenAI",
       "curated": false,
       "id": "49e5c59e9904"
-    },
-    {
-      "date": "2026-08-18",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "7ced1501af7c"
     }
   ],
   "competitors": [
@@ -837,6 +837,30 @@
       "source": "Google News",
       "curated": false,
       "id": "5e45713d2995"
+    },
+    {
+      "date": "2026-11-10",
+      "company": "Recraft",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Balk unveils 37m Santa Maria T ReCraft explorer yacht concept",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEh1bmJRSDFmQmtlZlU3SUZPMnVUVmRUSTRDMW1raWJ2QThtNTNCM1E2Y0FocmU2RkZGWTJLV0IzU2ZvOUFCZEhNWXZwS0ZSRk9yUUJRTmxfTWlybDVuTGEyOUxnOHRrdHRrZzlVN1A4NEdmcERjdzlfTjk1UHROblh1YjZlbmtvMUNSUndB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "63ab1563ef0d"
+    },
+    {
+      "date": "2026-11-10",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "3,060,796 Figma, Inc. $FIG Shares Acquired by Pictet Asset Management Holding SA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWNpMlIxQVMtaWVFVEk4bmxRcjRSMmVGaW5hWHlsOHoxUnB5SHh5YkhQLTB6RzY0VW1jX0tMNk5fdWIxMXBmbmFubkJjLU1icl9iX2pwTUJDa3ZFTHJnZm1iM0J2SXVLa0pYSUhJaW5CUmsxbVN1OHZ2b2xROVE5Z0NsTGNyZS0wQTg0NWlPQ2lTWkRabVNUTmRNT0ZiSkZZOFFFMWl2MWFTTERYU29zYkFkZFhuZ1VnU2ZySHNZSk51dFh5UVVLS0NKcHhkM3UtcFE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "df0dd0479566"
     },
     {
       "date": "2026-11-09",
@@ -947,6 +971,18 @@
       "id": "29d2b3e33a71"
     },
     {
+      "date": "2026-11-08",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Yeezy returns with LA runway show and JD Sports partnership",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXN5dXZ1eUd1OG1uNVB6OW8tYVRYU2dBUkdBeTMwOTNvOVlZZTNEenhuU2lyMl9NU3M3Z0hXM2hhTERIbm9WaVpXaFpHYW01N21EUzZLaUwzUWJiWTJfLVZfaGhRQ3ZPTG1UWjQ3WnAzb1RDRFhJc2tnOWhGaUY0UFdUM2N1UWJ3LTJNLXN2OFRkZU5OVXcxOU4yc3pZOWhOeVVXQXI2ZkVVOVE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b445ca83596a"
+    },
+    {
       "date": "2026-11-07",
       "company": "DocuSign",
       "front": "Documents",
@@ -1029,18 +1065,6 @@
       "source": "Google News",
       "curated": false,
       "id": "30c608cf7711"
-    },
-    {
-      "date": "2026-11-06",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Yeezy Returns with LA Runway Show and JD Sports Partnership",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzgwbFN3XzIxY1Rwc3pYZThnY3NXVThBR2JYd240UUxvZDNpQ3I1QjdZOHZhOVBTTXE4eUFSZk5ueW5NZkJjZkcwbmdudjFMRHZ5MVppNGtuanRTV09HYXF3bHpQc25aZGZQZ3RhT0dzeUNpUmJZS1VyUnJEUFpnMXhUSnloMzV3aHczU25lelBkLVoyeFg2U1A1S2N1MURGWl9aYkxWMDJMS1Z5UDZF?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "59343b466174"
     },
     {
       "date": "2026-11-05",
@@ -1521,33 +1545,64 @@
       "source": "Google News",
       "curated": false,
       "id": "5c81e552bcd9"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Mass job cuts as Canva unveils major restructure after ‘hardest year yet’",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3k5SU52d214c2JIc2ZKVVh2NHNSRW9JWm41bTBZUWFxRGNXX1JlNl9YM0tNRjc5X2NSTWpjYVhJeHBZUkc0Nms0V05DOUtZdmRhazNGdjR5Q0JNMFd6SVZJTXM0cTNkYjVYOHVUNGkxSk5YakhnbFIzWS04WTl1NkNUWFQtcHNQYzdKVDdOb05fdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "79621d6e4e68"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "DocuSign Acquires Suplari, Enhancing AI-Powered Procurement Solutions",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVo5UGJaUWVMTUlxbGhQeUt3eHRzczVyMFpiSEpCMEJqcFk0aWFyTTV4SWprYmZHMkgwREUxRE9XQ1ZDd1FJaEN4RFZ2a004WHkzX2Q0V1FwcTdrQ3o3R3BNV3pGOUU3N1lWRHg5TkVzU2t2Mm1yTV9BbGNKSXdLWXh3d1I1OUZTMTI2cjZQazBlbjFMY3ltLVdZNDc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "84753f7f47f9"
     }
   ],
   "items": [
+    {
+      "id": "e513915e6d5c",
+      "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
+      "source": "Search Engine Journal",
+      "summary": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers. The post Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-10T11:30:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c6e7b358f735",
+      "title": "ChatGPT Ads While It Creates Your Image Live",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-visual-ads-42493.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI announced a month ago that it would release a \"new visual ad format in ChatGPT\" to show ads while ChatGPT makes images for users. Well, that ad format seems to be live - because if you ask ChatGPT to make an image, it will show an ad while the image is being generated.",
+      "category": "GEO",
+      "published": "2026-11-10T10:45:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "27cc6bdace8c",
+      "title": "ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/",
+      "source": "Search Engine Journal",
+      "summary": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-10T10:09:01Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "01a8528fa117",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "category": "SEO",
+      "published": "2026-11-10T09:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "60e1b7c0f779",
+      "title": "New Research: Traffic to the Open Web Has Fallen 24% in 5 years",
+      "url": "https://sparktoro.com/blog/new-research-traffic-to-the-open-web-has-fallen-24-in-5-years/",
+      "source": "SparkToro",
+      "summary": "Today, with the help of Similarweb‘s excellent research team, we’re publishing some new data analyzing where and how much traffic to the open web has evolved from 2021 to 2026. This quest started on a theory I had that the top few websites, dominated by the Big Tech players, was…",
+      "category": "SEO",
+      "published": "2026-11-10T07:56:43Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "1c4449cb09bc",
       "title": "Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
@@ -4242,61 +4297,6 @@
       "published": "2026-10-28T10:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "2fc8e689e413",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "source": "OpenAI",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "category": "GEO",
-      "published": "2026-10-28T09:30:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "1334271b063a",
-      "title": "AI Discoverability, Page types, and more (September 2026)",
-      "url": "https://ahrefs.com/blog/new-features-september-2026/",
-      "source": "Ahrefs Blog",
-      "summary": "We’ve got 5 updates this month, from a brand-new AI Discoverability category in Site Audit to Page types in Site Explorer, and more. Let’s dive in. AI Discoverability issues AI Discoverability is a new issue category in Site Audit. It … Read more ›",
-      "category": "SEO",
-      "published": "2026-10-28T08:34:28Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "744bf5f0862e",
-      "title": "Google sends Knowledge Graph facts to AI Mode as uncited \"Biography\" search results",
-      "url": "https://dejan.ai/blog/knowledge-graph-biography-ai-mode/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "AI Mode receives Knowledge Graph biographies of people and companies as search results with no URL. Building on Natzir Turrado and Olivier de Segonzac: 99 QRS providers, 542 result types and 268 query signals in Google Earth's 15 October build.",
-      "category": "GEO",
-      "published": "2026-10-28T04:18:42Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "71c92905e4ce",
-      "title": "How Enterprise Brands Should Structure AEO Teams in 2027",
-      "url": "https://foundationinc.co/lab/enterprise-aeo-ownership-model",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "As enterprise marketing teams set their 2027 budgets, many have an AI search mandate without the operating practices to deliver it. A Brandlight and Censuswide survey of 503 US CMOs at companies with more than $500 million in annual revenue, conducted in October 2025, found that…",
-      "category": "GEO",
-      "published": "2026-10-27T21:15:29Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "ecbc9411295d",
-      "title": "Google Turns Off Discover Experiment After AI Summary Source Bug via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
-      "source": "Search Engine Journal",
-      "summary": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google Turns Off Discover Experiment After AI Summary Source Bug appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-27T20:06:27Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
