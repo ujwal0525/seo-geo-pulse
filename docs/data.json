@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T04:59:33Z",
+  "updated": "2026-11-11T15:54:41Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-11",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Daily Search Forum Recap: November 11, 2026",
+      "url": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "d3162e2dc1be"
+    },
     {
       "date": "2026-11-10",
       "family": "model",
@@ -812,16 +822,6 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "470a085b1250"
-    },
-    {
-      "date": "2026-08-21",
-      "family": "model",
-      "platform": "Gemini",
-      "title": "Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update, Gemini 3.7 Powers AI Mode, Google and Microsoft Ads News & More",
-      "url": "https://www.seroundtable.com/video-08-21-2026-41915.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "2ff65708cab0"
     }
   ],
   "competitors": [
@@ -848,6 +848,42 @@
       "source": "Google News",
       "curated": false,
       "id": "f0dafa2d1c7e"
+    },
+    {
+      "date": "2026-11-11",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Praxis-1 Is Now Available",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5acXBiLV96NUFWbm9pRmRKR0ZsX29pMDljZ09HSm5XWWJpUXBjNU1pR3ByT1k5alVVOWdtVllWcWRXQU80Y1I1d0JEaVh1dWlFSGJsb3VwY2JqRkY1ZGVlTjRzcVpKVGJRV3prTHl1bw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "30d1ffd1d99e"
+    },
+    {
+      "date": "2026-11-11",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "OSHA Releases New Battery Safety Resource",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQm5sdWJoMzRJdXNqdjZ1ay14alNJUDlBSVBMcXJzR1hCQUg2TTE2c1JocWFhcjVTVEdjZGZRNG9KQjhQNlVYTFM2c0h6ZHVMSjdZdG9FQkRKUTdkRTExWWhTZm9aMnIwLVdqMEVhbl9xT3hYUHlobVdLcGk2SlRTWURlbw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ce6f1c51e6af"
+    },
+    {
+      "date": "2026-11-11",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E-Commerce",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0trckF1emRqSm1aU01NTjFybzh1R0lkNGRRWlJaSVhGelVWT1ZYTDltZkFOdzd1MTVRWE5xeDIxUFpGeHlvaTh6TEFQNjdTVEJKS1lNV3hmZ0FPcWFvcTYzUHp6Q2JzODZpUGV2eVpRNFBVSDhxY0U4Nm1oMk1NdFJkQkJKRnhVRjF6MU0zekdjU3dZaHVEUFh6cU1pQXRZMC1sUjlSS3RESTY4MXRIWWVNQUNJQTM4alROWGdGbEJGMFhsenc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "85ceac983e8b"
     },
     {
       "date": "2026-11-10",
@@ -944,6 +980,18 @@
       "source": "Google News",
       "curated": false,
       "id": "8ee30bf23dfb"
+    },
+    {
+      "date": "2026-11-10",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "PUMA unveils the new winter ball for Serie A",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWtTSFBIaWQ2U2dpNkxZMXVQT1dOUUF2RnRPTFYzYm0tbjY2cjAyTkJ0ZEJkME9jdjBuWlFOdHV1eDNPYUlhZ3hGVmFySlllelZsYkRiZEpJUDRJVXpPcmpDdmFRbURWRlJpZmI0Wm9jYm54c002QjNMV2p1aTIzQWVLYw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "dbd13c36ef8a"
     },
     {
       "date": "2026-11-09",
@@ -1496,54 +1544,6 @@
       "source": "Google News",
       "curated": false,
       "id": "597e84059a2e"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity Federal Credit Union debuts new wellbeing institute - ROI-NJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHFBWTRHNWNBUHJXc2tVSzFwTFdTWkFNY3RKUDdrcGVwM2J2dXZ5azh6bE9OaVdiajhSMnhYam5SX1NWYzJKSTh2UzFlWTRkSnp5SkJ4VE5SeEg0V1VyOWRyT0FtVFNIeHRuNkhEZndoUnlSUkcxS01VS2FleVc4QmlxYUhmaUhrbkdDSW0yMkdJTWtvUnRkMHRqWVlyUnItcmxJUWdn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ae140b687b49"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Affinity for free on the iPad: Photoshop’s competition is already here",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm55WUY2NGdfVlprU0ZIZTBGMjNxcHVRLWJsZFRRdG1yazN0N1hlRVZUZHFKRUZMUGVOaFdEZW9nYi1RMS1JNUEzd0RhbG5obmJNd3I2QUdqeFk0RVdlRHZrZW85RktRMGlzU090bmJaVVNyZ3FhakZ0N3pNTnNKb3Q0S3hMSlgwNWUwbW5MSEJ6RHVXTnNpVHBoZ05lN3BHOVZBbE90V3JXNmw1ZUJ0cHI3eUVOaU0?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "fc73311dbc87"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Exclusive: Victor Ciardelli on merger of Rate, Compass JVs into top-10 retail lender",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qbjZWVEE3UW9nQmtCWUo5RXVUX0piVUx6c0VCbDF5ZGdMelBwNUFxVkpIZzFuX2g5cEx2RFFfVUE3RXpFbUdnWFAtSnRJNkxZT2ZrVGItbW9oamhyRjJqclE0alF1cTQzOWp3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0a4e6b2135ec"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity for iPad Launches With Free Photo Editing, Vector Design, and Layout Tools",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDQwYzQzYnVRamlmemEtRjIzRXc3dm9rT2tzaWFLaWRJMTRROWU3TmZmd3pzbTB0T1VSM2I3bnZjSXYtUnVJVlBOWk02d3E0S1N6QzhtX0w1TmxBdGFRT3ZkdzV5a2djWFk0blZtWFRwVy1ZT3EyVHB5Uk0xS2RBNUlVOE1BQU1LU1Q4R1k4eElNLXJNM2NJeExwand5emVCc0tYU3VHSnZPeERlY3hhcXVWcHR6b2tIUEFDVA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0410679fbc89"
     }
   ],
   "items": [
@@ -1559,6 +1559,149 @@
       "impact": 5.0
     },
     {
+      "id": "c51f73aae968",
+      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
+      "source": "Search Engine Journal",
+      "summary": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes. The post Visibility Gets You On The List, Evidence Helps You Stay There appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-11T15:00:59Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6842ec18ffc6",
+      "title": "Daily Search Forum Recap: November 11, 2026",
+      "url": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has begun the rollout of the November 2026 core update...",
+      "category": "Algorithms",
+      "published": "2026-11-11T15:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "f513c13bdb71",
+      "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
+      "source": "Search Engine Journal",
+      "summary": "Google analyzed millions of Nano Banana prompts and found how businesses are using it for marketing. The post Google Discovers Unexpected Patterns In AI Image Generation appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-11T14:18:51Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "5a78ed99d9fb",
+      "title": "The 100 Most Mentioned Brands in ChatGPT (November 2026)",
+      "url": "https://ahrefs.com/blog/most-mentioned-brands-chatgpt/",
+      "source": "Ahrefs Blog",
+      "summary": "We counted how many of 5.5 million US ChatGPT answers mention each brand. Walmart comes first, named in 95,605 answers, almost twice as many as second-placed Target. Stores take six of the top 10 spots. Carmakers make up 15 of … Read more ›",
+      "category": "GEO",
+      "published": "2026-11-11T13:13:26Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0f2b90fa3ac6",
+      "title": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
+      "source": "Search Engine Journal",
+      "summary": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Gives You More Channel Control – But Not As Much As You Think appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-11-11T13:00:37Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f6d7196f938f",
+      "title": "New Google Ads Overview Page: Customer Journey Insights",
+      "url": "https://www.seroundtable.com/google-ads-customer-journey-insights-42510.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads posted a new help document about customer journey insights. \"Customer Journey Insights is a new Google Ads Overview page reporting card pilot for eligible advertisers. It provides transparency into how your campaigns move users across conversion journey stages,\"…",
+      "category": "SEO",
+      "published": "2026-11-11T12:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d600bde57e5e",
+      "title": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
+      "url": "https://www.seroundtable.com/google-crawled-discovered-currently-not-indexed-42507.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This is not new, but hey, John Mueller from Google said it again, getting a status of Crawled/Discovered - Currently Not Indexed within Google Search Console's page indexing report may be a sign that Google doesn't think your site or those pages are high-quality enough to index.",
+      "category": "SEO",
+      "published": "2026-11-11T12:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "709dde01391c",
+      "title": "Google Ads Visit Site Link In Mobile Search Ad Description",
+      "url": "https://www.seroundtable.com/google-ads-visit-site-description-42444.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads is also adding the Visit site link in the mobile ad descriptions for search ads. We saw them on the desktop ads with a Visit site button and also on organic results search and now also as a plain text anchor link in the mobile ad descriptions.",
+      "category": "SEO",
+      "published": "2026-11-11T12:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "cb805f9bfb0a",
+      "title": "Google Merchant Loyalty Program New Eligibility Requirements",
+      "url": "https://www.seroundtable.com/google-merchant-loyalty-program-eligibility-42495.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has posted new eligibility requirements for the merchant loyalty program. As a reminder, Loyalty is an add-on feature in the Merchant Center for merchants with an existing loyalty program who want to showcase its benefits on Google.",
+      "category": "SEO",
+      "published": "2026-11-11T12:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "ddcf87a4584b",
+      "title": "Google Ads Performance Max Page Feeds Updated",
+      "url": "https://www.seroundtable.com/google-ads-performance-max-page-feeds-update-42503.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has updated its Page feeds section for Performance Max campaigns to help advertisers understand how it works. These changes look like they should make it easier for advertisers to know which pages to feed to the ad algorithms.",
+      "category": "Algorithms",
+      "published": "2026-11-11T12:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "7e812b19f49d",
+      "title": "Google Ads Brand Lists Global Brand Library",
+      "url": "https://www.seroundtable.com/google-ads-brand-lists-library-42506.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google updated its About brand settings for Search and Performance Max help document to clarify how to manage brands within your brand list. Specifically, Google said, \"Google's brand library uses single, global canonical brands rather than individual localized or regional…",
+      "category": "SEO",
+      "published": "2026-11-11T12:05:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "af3b6012a7ab",
+      "title": "How to use Semrush with Google Search Console",
+      "url": "https://www.semrush.com/blog/semrush-google-search-console/",
+      "source": "Semrush Blog",
+      "summary": "Learn how to use Semrush with Google Search Console: which tools connect, how to set each one up, and six ways to use your GSC data in Semrush.",
+      "category": "SEO",
+      "published": "2026-11-11T11:40:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "80b38ea7da37",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "category": "GEO",
+      "published": "2026-11-11T08:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "2e95778bbebc",
       "title": "Google Loses Another Round in Legal Battle Against SerpApi Over Scraping",
       "url": "https://www.seroundtable.com/google-loses-again-against-serpapi-42508.html",
@@ -1568,6 +1711,17 @@
       "published": "2026-11-11T00:09:00Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "2d2a8c121bb5",
+      "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+      "url": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
+      "source": "Google Search Central",
+      "summary": "Deploying a Content Delivery Network (CDN) to distribute your site's assets across fast, globally distributed edge servers closer to users can be a major upgrade for any growing site: it lowers visitor latency and shields your origin server (the backend source of truth holding…",
+      "category": "SEO",
+      "published": "2026-11-11T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "2bb1da7a23ec",
@@ -1676,17 +1830,6 @@
       "summary": "Build programmatic SEO pages that earn their place with unique data, clear publishing standards, and pruning rules that keep scale from becoming spam. The post Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines appeared first on Search Engine Journal…",
       "category": "SEO",
       "published": "2026-11-10T15:00:54Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8caea2b2c75a",
-      "title": "Daily Search Forum Recap: November 10, 2026",
-      "url": "https://www.seroundtable.com/recap-11-10-2026-42494.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google said it can take time for search to understand the unique value of new websites...",
-      "category": "SEO",
-      "published": "2026-11-10T15:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -1856,6 +1999,17 @@
       "impact": 5.0
     },
     {
+      "id": "4e3e5904c85a",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "source": "OpenAI",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "category": "GEO",
+      "published": "2026-11-10T08:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
       "id": "b2a1863ca288",
       "title": "What Is Prompt Tracking? [Tips and Workflows To Do It on a Budget]",
       "url": "https://moz.com/blog/what-is-prompt-tracking",
@@ -1887,6 +2041,17 @@
       "published": "2026-11-10T07:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "1ff74ee2cb10",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "source": "OpenAI",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "category": "GEO",
+      "published": "2026-11-10T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "1c4449cb09bc",
@@ -4131,171 +4296,6 @@
       "published": "2026-10-29T11:41:00Z",
       "coverage": 1,
       "impact": 8.0
-    },
-    {
-      "id": "f384a0ef5132",
-      "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
-      "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are…",
-      "category": "GEO",
-      "published": "2026-10-29T11:31:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ba43d2cb3cba",
-      "title": "Google Merchant API With New October 2026 Updates",
-      "url": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has released several updates to the Merchant API for October 26. The update expands YouTube Shopping and AI-commerce reporting, adds product attributes for videos and warranties, improves disapproval diagnostics, and introduces API integration enhancements and reporting…",
-      "category": "SEO",
-      "published": "2026-10-29T11:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2435bdf61ee6",
-      "title": "Is Google Testing Dropping Citations Cards From AI Overviews?",
-      "url": "https://www.seroundtable.com/citations-cards-google-ai-overviews-42413.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google may be testing removing the citations card on the Google AI Overviews section. So when you do a search on desktop and see an AI Overview, Google generally shows a citations card that has links to the sources you can click on. Google is reportedly testing removing that…",
-      "category": "GEO",
-      "published": "2026-10-29T11:11:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "77e3c5e5e1c8",
-      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
-      "source": "Search Engine Journal",
-      "summary": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-29T11:07:37Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f1d355db7dca",
-      "title": "How the Same 16,000 Users Behave in AI Search vs. Google",
-      "url": "https://ipullrank.com/ai-search-user-behavior",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Comparing AI and Google searches among the same group of users over a month to examine how their behavior differs between platforms. TL;DR: I matched 16,310 users across two Datos panels to compare how each user searched with Google and LLMs and understand how we need to track…",
-      "category": "GEO",
-      "published": "2026-10-29T11:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d28967fce9c6",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "category": "SEO",
-      "published": "2026-10-29T09:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "483601444414",
-      "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
-      "source": "Search Engine Journal",
-      "summary": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. The post Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-29T07:45:03Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "2d9928289658",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "category": "SEO",
-      "published": "2026-10-29T07:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "22232c7a4106",
-      "title": "How To Analyze Server Logs for AI Search",
-      "url": "https://moz.com/blog/analyze-log-files-ai-search",
-      "source": "Moz Blog",
-      "summary": "Learn how to find AI crawler requests in server logs and fix pages that crawlers cannot read",
-      "category": "GEO",
-      "published": "2026-10-29T07:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "ef5fbe5e6878",
-      "title": "We Trained AI. Now AI Trains Us.",
-      "url": "https://dejan.ai/blog/we-trained-ai-now-ai-trains-us/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "People take on AI's reasoning as their own, and it shapes how they decide next time.",
-      "category": "SEO",
-      "published": "2026-10-29T00:16:49Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "6750c2461412",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "source": "OpenAI",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "category": "GEO",
-      "published": "2026-10-29T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "b16ad67af33b",
-      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
-      "source": "Search Engine Journal",
-      "summary": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given. The post Google Says Lower AI Mode Monetization Weighed On Search Growth appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-28T23:12:24Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "5b6f048becc1",
-      "title": "Google Business Profiles Finally Adds Third-Party Ordering Controls",
-      "url": "https://www.seroundtable.com/google-business-profiles-ordering-controls-42411.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has finally added the ability to manage and control third-party ordering services on an individual basis for restaurants within Google Business Profiles. So you can disable features completely or partially from within Google Business Profiles.",
-      "category": "SEO",
-      "published": "2026-10-28T22:32:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "37ef36f1d85f",
-      "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
-      "url": "https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced it is expanding ads in AI Mode to several more countries including Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. Then in Q4 Google will also expand ads in AI Mode to Brazil, Mexico, and the United…",
-      "category": "GEO",
-      "published": "2026-10-28T22:30:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "6a64ebe3a9c0",
-      "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
-      "source": "Search Engine Journal",
-      "summary": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-28T22:14:34Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
