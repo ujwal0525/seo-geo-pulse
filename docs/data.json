@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:41:21Z",
+  "updated": "2026-11-11T04:59:33Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -826,6 +826,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-11",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$410m",
+      "title": "Minerals 260 secures $410m to fund Bullabulling gold",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVlBT05xWllMWXZFTDNLMkswVXRRbTdHREZsbWpjS01kT0FnVXdHak8yeWdjbXZSYlh0UUxhWHVyZ1JqeFBJcGxOWUhPT05IQWpUMU9EbW1JRFJDNkV6b0lFMzdNTjduWEdzbXpEMWJJYmxRc2hYcFJYY1FXMXlzUldha2xhQnZXNThjQ0E4a2IyZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5571ef1ac6f8"
+    },
+    {
+      "date": "2026-11-11",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Expressing the culture of ekiden through traditional Japanese beauty. Puma unveils the captivating “Ekiden Pack.”",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KT19aWVh4R3U2UktjN0s1ZXJKTHJLbm43bGYxMlBNTU5fekFuek5jREx4SjFOZWc1dHBNVHRFT1ZoOTE1WmRUVmY5aFQtWHZWNkVR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f0dafa2d1c7e"
+    },
+    {
       "date": "2026-11-10",
       "company": "Getty Images",
       "front": "GenAI Media",
@@ -908,6 +932,18 @@
       "source": "Google News",
       "curated": false,
       "id": "017188e995cb"
+    },
+    {
+      "date": "2026-11-10",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "INO: VOCERYQ’s FDA approval launches commercialization, backed by new financing and runway into late 2027",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOLVBuQWVlX1p4UjYwTEpZSk1RVUhpSXBwYXRsVFVVVGVpc3BhdUNhbFU4Sk40cEdZZ1h4RlYtYU9pcVhQOHhJakV4TUs3cUd1ZnZhUHV4N29WTnFteGJFaGlUXzNRelQ3Y3gwNF9RZl9vTXVzS29aVjBlV0o2eWxaVGlxcGlNQTI3XzZ5NG1zU3VRbV91OUZjY2tkb3hGNjdGd0tmQzFWbkpsVXJKaFI5OG9SYXhlYWkzeW5tWW5OcVQ0Zm5wTm1LUXJVaGxlbTZsZmIyTEtmeFlURjVURzlMUkRXdzVzOERuMUlfZWJJYUFObmQwQ1ViTlZ2WDE5TWl6RnNWZERLTi0xbVNHTTNpeG1qMG4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8ee30bf23dfb"
     },
     {
       "date": "2026-11-09",
@@ -1508,45 +1544,31 @@
       "source": "Google News",
       "curated": false,
       "id": "0410679fbc89"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "Docusign Acquires Suplari to Accelerate AI-Powered Contract Management for Procurement",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZW85MEhyZThfWnFNSTFIMFJMS0JGejZvZTY0NndjSGlkNGl0MTJuX3NfWTlpQ3ZjdDFoVEFqSWZCR1VKd0ZnXzF5MzBJS2NlSEExbkN4ZW9GLU45bUNGaUZkcVNoR2VhcDg4SXlKX0xkQUIwVU1MM002ajAwaXNuMVFjWHNGUURNVW1LeDFVOUZsd3RpRjkxbVRIX043TzNyX3phTTRwVzVKTkczNWpaWHR2OV8xdUFXYlA4OG5UX3Qwc1hrc1BFNy1WeEtpdWZfOXUwMFZ3SGdzQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "feacbed3fe06"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "Docusign buys procurement AI startup Suplari, terms undisclosed",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVo1U3ZzR2o4bkI2dzBOLXp0aW53bjEwS0V1UGNETjk3WTR4UTM1TEJzZjRZM05EcU5VS0loUkFBR1A1TVJDTEotQTE0Ykx5S1Y3bkVXVXNCN0ZzR2FGaGxPVVZjelczZ1VIeVRzRDRRcmN3cU5fbjAzRmE2Sy0yVWd4OFlDMl9vcndEMTNqNzdMWlo3MHNJYU1uRkM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "18d1ffc4bba6"
-    },
-    {
-      "date": "2026-11-03",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "Docusign (DOCU) Acquires Suplari to Expand Its AI Procurement Capabilities",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSkcyc3M0UTVubnJiUmNibG8yTTBDRnBGQVBsRlJIbnp5NXVzUkZBRGxfTW0tVF9OOFdZclRMal9ONjFZZi1fWE5lc0RxRnpiYUgtNE5JSk5RX3BpMzllU1ROZmd3YVVoQ3phb0ZCemRLeEJvN2VuazV5WV9ORVlXUzZsZkg1TDFTOEppem1hNkZDQnBfYjZ4alBrU1o4ZWNfU0RqSzdwT2hTa2JPb3JmR3NOamp1M1VPU292SGVrWDRoODhLRWxqcEZ4SW9vdFU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f322510bf150"
     }
   ],
   "items": [
+    {
+      "id": "f28f90d2895a",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "category": "SEO",
+      "published": "2026-11-12T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "2e95778bbebc",
+      "title": "Google Loses Another Round in Legal Battle Against SerpApi Over Scraping",
+      "url": "https://www.seroundtable.com/google-loses-again-against-serpapi-42508.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has lost again in SerpApi's scraping legal fight in court, with the court giving Google 21 days to amend its complaint. But this is a major win for SerpApi and this case seems like it might be coming to a close soon.",
+      "category": "SEO",
+      "published": "2026-11-11T00:09:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "2bb1da7a23ec",
       "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better via @sejournal, @slobodanmanic",
@@ -4274,28 +4296,6 @@
       "published": "2026-10-28T22:14:34Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "ead29250331c",
-      "title": "Google Gives Restaurants Direct Control Over Ordering Providers via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
-      "source": "Search Engine Journal",
-      "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-28T22:11:43Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1f6b023391d0",
-      "title": "Pages AI Cited Got Straight To The Answer More Often, Data Shows via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
-      "source": "Search Engine Journal",
-      "summary": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post Pages AI Cited Got Straight To The Answer More Often, Data Shows appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-28T20:42:47Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
