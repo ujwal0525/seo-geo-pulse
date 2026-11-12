@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T22:31:04Z",
+  "updated": "2026-11-12T06:01:53Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -826,6 +826,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-12",
+      "company": "Higgsfield",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Kakao Ventures teams up with AI video platform Higgsfield",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjhDQWRBZFlKdnVVd2FkelVRMTI5dFlTQlk0aWdkQmVHU01kbUpGMWRUODlMdTM5MzZKcTAtRUt6Z01Eam9HRmp4S1FfRnF4bnhIZW9TZjNpMVFwRGpoMFQzOEdjYmhpRWttWXN3d1FmakFwLUZFNTRid0NnRVRZZHBxU0toY2tmN1YwVlJ3dTBnV2VPVk1HSnZvNm9Yc1BYbGVxSUp3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b025fe964f14"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Elevenlabs launches 13 new products and upgrades",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRy1rUjNyU21BWHQ2OHdkWERmWVctZk1OTGNYUVNuZmZOcVU5RlBhcmtsM1hERkRraC1QaEtJTXVQdnlVeDBKUGg2c2JTWEZ0SU1hVjNHNXdiZmNaeW1tTFdReHpNZkE0Ql9QR1hTVEFoYkpGZGg1dFU4RUozeGsyOTVvQjhmSkU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "df7dae4c8384"
+    },
+    {
       "date": "2026-11-11",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -1076,6 +1100,18 @@
       "source": "Google News",
       "curated": false,
       "id": "2c74221fb322"
+    },
+    {
+      "date": "2026-11-10",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Adobe unveils new AI tools for Photoshop, Premiere, and more, with MCP support coming in 2027",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORnpuUFQ0djY4aUFPTWZXZll6UWxJOW0wMndfaG51cWR5U1dNcWFqcl82eTRFazI2MUNCUEFudXJERVowMjJhX0toT3p2S0poel9xVDdyQlVOOTFWdGVMMGdVendQLTlrRUFoV29ONklad0dsZVlxTnNzVklwT0lwSUk3ZVBiei1Yb1h6VERKTHppdlBOdHFyaDdzZERBQThSaWx1eVJaRWp1bzJIV3B3MFBLTGJ1bVdlUWFZVTlCVQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1b29b01aaa3f"
     },
     {
       "date": "2026-11-09",
@@ -1508,45 +1544,42 @@
       "source": "Google News",
       "curated": false,
       "id": "7b6c601720eb"
-    },
-    {
-      "date": "2026-11-04",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "A rare second exit: AI startup Suplari acquired by Docusign nearly 3 years after Microsoft spinout",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPejYzVEt5YXNiZnJxLVpkalA2Y0g3RWdLNkZRUlpRXzd5X0FGSVhmZFVOOTdDXzJCczNFTllVY1F0SG93T1lmYzlBRzVHVk5jcWJPTExCaG5SdDZ4REtGSmZHNHBzcVRnY0dGT3hQLWF0UGlzN1ZKWHZ3XzRWZklQM3NqbnBmalBHeFdkcWowQ1RmZ0pZUU1YeV8xRmdtUnZhZHYwOE44N0dlUWxhM0lqblZ2OG1TVE9qdERqSERB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "544ff1746746"
-    },
-    {
-      "date": "2026-11-04",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Prince George, 13, Debuts a New Teen Look at a Soccer Match With Prince William",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNanZSX0dubEtFNFp3MVFsQVZRMnNpU2NLeWV4SHpVci1KT0lwbmpGLTRaUkp5V29VZ1BLQWlrVWVETTdKRXduNGc3dDFwcHJsNUY0blk1ejZlTWdnUWlRaldLWWYwNWl3RzkwMWhicjZMVHB0SkhtY3hzenZSNEtqZ3lyaDhtRXIteG4wQlo0S2JBSVFJaldka1ExQU1PeFE1TEk3LQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7e265fb4d062"
-    },
-    {
-      "date": "2026-11-04",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva’s Free Affinity App Launches Now on iPad",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04azYyY0p4MFN6aDFJTGd3QzlodWFZX0Y3ZU0wLTYxX3RFdDBiaUJGLXdtencxX19CRW02b3hYa1IwRUVvTmEzYS1SejVyWWJSdjVXZTJSRkxLMldiTEsyOUx1c3Z1SjRLUjZvZjJjZzRBVzZuZTlEag?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "812b5bad6945"
     }
   ],
   "items": [
+    {
+      "id": "e2c9111b060d",
+      "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
+      "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
+      "source": "Search Engine Journal",
+      "summary": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers. The post AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-12T06:00:23Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "7986392286e2",
+      "title": "Which YouTube Videos Does AI Cite? 7 Findings from Prompt Tracking Data",
+      "url": "https://foundationinc.co/lab/project-management-youtube-citations/",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "YouTube was the biggest single source of AI citations on one Foundation client’s tracked prompts. It earned 6.7% of all citations, 1.7 points ahead of the next domain and more than double the client’s own site. The client sells project management software, which had the highest…",
+      "category": "GEO",
+      "published": "2026-11-12T01:47:18Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "c5f0321fb6cf",
+      "title": "Google Placing Source Icons At Bottom Of AI Overviews",
+      "url": "https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing moving the citations or sources icons to the very bottom of the AI Overviews. Previously, these icons appeared at the top of the AI Overview; now Google is testing placing them at the bottom, which may make it even harder to find the sources of the answers…",
+      "category": "GEO",
+      "published": "2026-11-12T01:15:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "f28f90d2895a",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -1648,10 +1681,10 @@
     },
     {
       "id": "0f2b90fa3ac6",
-      "title": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
+      "title": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
       "source": "Search Engine Journal",
-      "summary": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Gives You More Channel Control – But Not As Much As You Think appeared first on Search Engine…",
+      "summary": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split appeared first on Search Engine…",
       "category": "SEO",
       "published": "2026-11-11T13:00:37Z",
       "coverage": 1,
@@ -4263,39 +4296,6 @@
       "published": "2026-10-29T17:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "d1d8a597a07a",
-      "title": "Google Business Profiles AI-Powered Messaging Expands",
-      "url": "https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be rolling out access to the Google Business Profile AI-powered messaging feature to more businesses. I believe we covered this in June of this year, but since then, Google made some updates to the feature.",
-      "category": "SEO",
-      "published": "2026-10-29T16:55:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "fb8a044b4619",
-      "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
-      "url": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
-      "source": "Search Engine Journal",
-      "summary": "Check whether search engines can find and understand your images, and spot technical issues that limit their visibility in multimodal search. The post How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-29T15:30:40Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "925e7b30cc7d",
-      "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
-      "url": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced earnings yesterday, and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a \"lower monetization\" than ads in traditional search.",
-      "category": "GEO",
-      "published": "2026-10-29T14:15:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
