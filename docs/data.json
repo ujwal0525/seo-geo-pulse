@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T00:55:56Z",
+  "updated": "2026-11-13T11:57:14Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -825,6 +825,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-13",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Introduces Medical Transcription Tool, Expands AI Models & Capabilities",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0hhOXc5VkVTcjhZY0lUYWVSUlRiNVJHVVdKcy0xbS1IOUhtdzBzalhENUtualNEb0ZuNjFTMDlMa1RIdVJkWFVsVDFsOVI2a3IzNjRvLWVidkNyYzJfVEFtYmdWWE5Fc0dWZ1RHdVc3Tm5aVkwtT2Jxb0FjNFNoRTBBZGY3a3d6cUpFa05VMlFWQ2lSd0RvVGZkSHVMckJJbkxRcV9GSnZwY2NlVzkyQVdBdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4b3bf7b298e4"
+    },
+    {
+      "date": "2026-11-13",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Jack Harlow Releases Sweet Action II, Six Years After Whats Poppin Breakthrough",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHdUbmVKcVUtTWV3ZHZIbXRyYXV5NmxtcG10LU1Gb3ctdXd1dUY0ZnpFNjhCbTgxQV9LQVlqUG9qOE9TRFd1d1dVNWNlRTNYR2lGT2c0VWhCOFlheTE1My1SWkZvZlRWSDhmTTN6X2ZCaEQtWklxZDRVSWlmNEszcW9LOHdEUHpuQU82X2xnZ3VJQWY4VzNhT1J6SG0wdXRnYXhINWhLUjFUSXVXVVhMRTR6am03R0lCSXFPV2lNMlhfU0Utc2hDVmFLNzM0aG8?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4e909b52002f"
+    },
+    {
       "date": "2026-11-12",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -979,6 +1003,30 @@
       "source": "Google News",
       "curated": false,
       "id": "11e37b455006"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Campaign",
+      "detail": "",
+      "title": "When misogynoir goes viral",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWS2hZa2hFWmJMY3VOZkNxRDNoX1pwSW5RQ3dVY2VscTdEMlBQdFlCQmkyb2RFdmtoM3Z6LVdSclVCSEg5SXdnYTVNNkZjR1RtNGlJV3J6Q2VsZ1o3c0JrdVNrT2xFeUJ6dEdfZzBB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "59e1a103cde9"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "AWS Launches Nitro Sandboxes, Running Up to 896 Lightweight VMs on a Single EC2 Instance",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uYVJwU0M3RlMyZVdMUERWYm1ZaUtuQm5pYWJaanBTY0hrdEVFTkZpam95R2lJREpsV0FZZkhyVnBQZlJhVHBVR19vTzY4b3lyT1RDNzdBWmZNbWItb1dNVWlrUVIyX2NKZHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8269b9159f8b"
     },
     {
       "date": "2026-11-11",
@@ -1495,57 +1543,20 @@
       "source": "Google News",
       "curated": false,
       "id": "30c608cf7711"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "VVY: Cash runway extends into December 2026; Phase 2b plans hinge on new funding or a partnership",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTFppOWlocjhCQzBLNks5TWZCZGFCUWpBVG5kT0kxVXJZSTg5ckpSVjkwWG5JS3dDUmxOSE5ZeUtNWUFtd3JmOUZpT2pxMUlMWndCcUtBOVpoTWZINV8zSkJzLWpqbjR5b1FqeTVOQS1hNm1GV0tzc0J4OHBMMnNuMG11OUhyVDg1a0prYTlwUXhENFNjaEg2TnAyWjR1RkxnUS1PODdvdHJrc2tfSVFHclBSRWZxa0JpaG1Nd190bTh3TUNleTRxM3dxLWdLYTk1bWZud21xSGFTVmxQb1FEVTBDb2NqeTcyQVNhM3pET3hYNnpCbGJaQ1Nna3RoRXd5REw0MUF1c29jUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "42af78262ab8"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Instagram brings Edits to desktop to take on CapCut",
-      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-      "source": "TechCrunch",
-      "curated": false,
-      "id": "aa5a3bd81355"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "Luma AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Luma Health Launches Agent Launchpad, AI Agent Orchestrator Helping Prepare Patients for Procedures with 95% Response Rate",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR3J0VlNRMk1rR09BWUZLVnhKT3ROOFp2MVA0VU9BQzFKNDhsVUZXSEpZb2EzLUJVZjhWV1IyMlBqemctYUgzdURTZS05bjRYanFZV19oVWV2ZWtPc0dGUi1DVjRuR1NlMHphcGFVNkNwbTBaS2NIYnlIWlFEVW1tZDlnZ01sWUNLQUtIRkhPQnFtLXRyX2tfcXZheWticjlobjZNMm9fMVluWkpvelFtRE53Mm1DWElDbnpEdmRvNklscGY3MGVUc2lZNzZLZ2ZLU25GX1UwUzBqdWJYVUduWEJfSEd2cWpBd1oxWGJ0ZmRpSTBOaS04T3lZU2hSRExNcHBTTGM1UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "431d729b726d"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "SoundCloud integrates with ElevenLabs' AI music generation platform",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHdjeG1HVXVVQmF0TFphTGppcnRYY0k4ZHpoRkZvY3gteFdrUXJJSS13akdqYl9oQnNTRFZlLWdYWXRiblRkaWc3aE5WOU4zTW1xNTZqVTFDaENheks2cjBlcFFVR2RDa2hIZlo0T1h0V3EtVnctQmJaTmNfVXhscGpQUlBmX0JwSEx5NmZNWm5OaEN4ZmY5UnA4d3FSTXdpWTRiNzI5YzRGbHhjdTdoZEpR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ce678a2c3723"
     }
   ],
   "items": [
+    {
+      "id": "49cba9a28673",
+      "title": "239,266 brands, ranked by authority in Gemini 4 Hydrogen, Google's new AI search model",
+      "url": "https://dejan.ai/blog/gemini-4-hydrogen-brand-authority/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "The day after Gemini 4 Hydrogen became the default model in Google's AI Mode, we asked it about brands 52,923 times and ranked the brands it recalls, overall and in 74 industries.",
+      "category": "GEO",
+      "published": "2026-11-13T07:25:03Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "6d8db93f424d",
       "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
@@ -4284,17 +4295,6 @@
       "published": "2026-10-30T17:09:58Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "077aeee481d2",
-      "title": "I Built a Tool to Watch ChatGPT Search, and It Predicted My Next Question",
-      "url": "https://www.seerinteractive.com/insights/chatgpt-search-tool",
-      "source": "Seer Interactive",
-      "summary": "TL;DR I wanted to understand how ChatGPT searched, so I wrote a script to watch it and tracked 3 random shopping conversations: a carry-on suitcase, a cloud backup tool, and a Spanish app For each topic, I asked an opening question plus two follow-ups in the same chat and saved…",
-      "category": "GEO",
-      "published": "2026-10-30T17:04:41Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
