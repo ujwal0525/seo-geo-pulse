@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-12T16:38:05Z",
+  "updated": "2026-11-13T00:55:56Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Andrea Volpini (WordLift)",
     "Dan Petrovic (DEJAN)",
     "Glenn Gabe (GSQi)",
+    "Google (Search)",
     "Google Search Central",
     "Growth Memo",
-    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -18,7 +18,6 @@
     "Seer Interactive",
     "Semrush Blog",
     "SparkToro",
-    "Yoast",
     "Zyppy Signal",
     "iPullRank (Rank Report)"
   ],
@@ -32,6 +31,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "f06dfe55b145"
+    },
+    {
+      "date": "2026-11-12",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "669ec8f48fee"
     },
     {
       "date": "2026-11-11",
@@ -812,16 +821,6 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "301509b703df"
-    },
-    {
-      "date": "2026-08-25",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "a16dfde7ecaf"
     }
   ],
   "competitors": [
@@ -920,6 +919,66 @@
       "source": "Google News",
       "curated": false,
       "id": "67beadfc9d9c"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "LCTX: HUNT1 acquisition expands the pipeline as cash runway extends into Q2 2028",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnhhYk9WWVRuQ1JJaE9TTzNGVjBIblJDTkFQR2xvUEJ4Zms4YU1JVVRQN2FvSGYyQTNHdUNPRlpDbXpoOGNLS2h4SFZacXFmNmNIVExGUUxKTE9fak9wVmhuam90dEk4Q1B3MV9wcWd3Q1ByMkRmcjdrUzMwTDVkZ3RsOWlhNHEzdU9vRnN0bmx3YmZKZmZNb0pQMEJPdWRPNVdlWHlPMndfX0FQaWlqWDcxOVdkR1VhbkhRQ2R4MmtXaEZNV295V0RyY0JNNHV0RFZMLXRGRVhMUEN1YVFXUndiejAtaXB2aVVPdjM3MkNObzB6czFMSzVB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7d67f948a31e"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "ElevenLabs CEO Mati Staniszewski on Nvidia partnership amid scandal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUYwREdVYW9BVWxScFRpSTBNRFcxZVNBVTZydHNMS2NPandoOE9WM2UxbWY4Qi1YS1lZYjUtenJESVZORW1YWmI4R09vWHhzX0pObXZNNGtFN0V6T2N2aWk1T3IxUWMwdG1OOG9rRVNwRlF5d0pNZVVSckV3VkExNmwzZnhKSllCaW8yNk9QeElxS1huVDNtRlhBck1ibVZZOURBZ19BcGVCb0pYRUhB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0210d8ab2d6c"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "ElevenLabs, NVIDIA Expand Partnership to Sovereign Voice Agent Deployments",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUUlXTGtwNkJWLTByUzR4WF9zSEFJLTVQdWowNTlnVjFleEdUbTYzNHBackNyMVI1UURDNnJ3S2hLcTdaRXNicm1BQ0cta1VQeHV1ZnFacUFGS2VDc2RkcE5FcEp6ZTA3aWFzR0I4WkZ5VFBZcmV0UDg4eGhMV3dsUm5malFSUjNkNTJLcDBKd1o1VzRl?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8478d036633d"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Launches Scribe v3: More Accurate but Slower and More Expensive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUJDOG5iZWJ0aEcyY3pidTROcm5KbDBJUk9NNnZ4ZDRzeEVaa3BVR0xoSU5rcTl2VUxmdjUxM3FjbEhZNWNldEszWnZfQmNrTHlYOUM4aV81TURzbi1UOXVrbU9ucFZlV1ZWQVZQTEhiVmx1MElVY1BLcFR6WXdnTGRUVmtxcTVoQmhWbS1PS2hINkpEYl9tNUhFOUhTV2pjN1BLejdWUHU2a00?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f67b219e0aee"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Blue Bell's rereleases unique seasonal flavor",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObGFRNWxPZmJJbC12ZFJPbERqcDlxQ3NDSlpfTE9taEJyNS11cDdRS0x0R0oxZHRnaUsxMGZhenVvV2kwV0pNN1VGWUlEVG1oLXFRZXBTeC1RZm1Falp3N2poYklOSFAxUEpfOU5xd1R4bjlIRldfbWZJblZIa2hHQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "11e37b455006"
     },
     {
       "date": "2026-11-11",
@@ -1076,6 +1135,18 @@
       "source": "Google News",
       "curated": false,
       "id": "a1e0c73d04f8"
+    },
+    {
+      "date": "2026-11-11",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Evogene's Cash Runway And Collaboration Count Face A Test As Shares Slide Toward Lows",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWFONmdNWEF0eTJLeVFLWnZkLS1MS2ZVREdsMERCNmhWV0lhbUFnenNFLWhJcDJiSURGQ1ZYbGI3ZDZlczRKT1NvTUV1aEU3QzhEY0xiS3YzU3hxVnVFQkpyUkEwRDVsTjJnX3Y0WDJjZXBVeFlvN3hTN0tGNXJ2TVlCeTlBOWlYYXpjbVVMTjFYOTBGanlnVlNLMHVCN2ZtWXBUYzc2SmRyTmVMN3lTbGJzWElWZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2e8f89c93f7a"
     },
     {
       "date": "2026-11-10",
@@ -1472,81 +1543,152 @@
       "source": "Google News",
       "curated": false,
       "id": "ce678a2c3723"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "SoundCloud integrates with ElevenLabs for direct AI music publishing",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzZrSjBaeUtVY20zaFZMQUg3YjFWU1JSWks1WXFRM1VDb0czWVZ2QVpxNjM1R2h4X2p1U0t2dm9lUnhjaXUxSDJrcm03NDJJYTNqOHNSb3JFRC1tVlAyakREQUFmN3FUY0JiNm5qa3o5R1cxM3pDVXh1NDlMX2I5YnhuemFMN25U?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d18b783dda26"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "SHUTTERSTOCK ($SSTK) Releases Q3 2026 Earnings",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUtaLTMwY3NhQ3U3U21URnNWWmFtQ1dPM04wQUptdW9tMmhkQnYxTl9Gdkl0RmFWZTBtOFNCRmxzUS1qWmxNekVZOUd1VHRfclJkMUMyVm9Pcll1X0p1b29SYVpDOG1jeXdBbWF4Y2h2ejMtWndCNC1USnRaTE1nSGtYdncwVUdDaDNDTWh3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "02b9d8742c47"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Watch UFC's Michael Chandler get launched across the ring during 'unsanctioned match' in WWE",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2xteWQ3X3UxQnNmTGh2TXV5blZjdzVodkIxOHI4NTBxOGVtd3dkZGFtSVhLTmtRaW5LSE53dkhrRFV1LXVMdFZ4Q1czUVM1NjRkRFZlYTNsQzdORjBXd0VlREU0RzFtdllQb0Fnbkw4UnpNQmRpS3VhenBJUmpNUzJHZXZncndoTGI4MEVLVU9tSXF2VmVMRmg3OHVIUFJCRzlPakVDbmx4R2lCSFlaR1E2SGlFaktJTlJOZ0V0SjJ5ekU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "88203e2775f8"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Affinity for iPad Launches: What Mac Users Should Verify First",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVh6dGlPUGliN01SX2NON3FlcjVfbVVKdlkwVnRlTjRlZXI4OW5raWVLbWYtZVZTanNnMTJwdXpxcjRpTDFyNmxsS25ySjBZWnI4N2tpWGdQd0tOTWRPNkFacGQwZmFiODRBQ1VPblQ3OU80MWFIS1JuSU5abmg3VDJvbDl5NnFXLVZfd1pjWVR5cHdKbFluU08yR296UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "e1ec56d4450e"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Instagram launches free desktop video editor to rival CapCut",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWpJb1hfTG40RThxYWdXbUJ3TlRiREtEMFFwZ1d5MDJiRVNrQ0pUbE1ZWFdJWk5VbUlvM1d3VTktb1FTYTFBNTNxM3dsYTcxb043ZFNyOVZFeEVqQXBlWjN5VjRMN3dFUmJhaGp1NV9LMGEzQk42YW9ubU5SdERXWUQtM25ucGo5MERKbGMwQXI1cnFldWtBaUo1alRfX0ZCdjBDRHI2LTV3UE1Qc0RiSmxrQ3FXb0pfbUpyN3dxWTExVjE3WWQ40gHHAUFVX3lxTE1laklvWF9MbjRFOHFhZ1dtQndOVGJES0QwUXBnV3kwMmJFU2tDSlRsTVlYV0laTlVtSW8zV3dVOS1vUVNhMUE1M3Ezd2xhNzFvTjdkU3I5VkV4RWpBcGVaM3lWNEw3d0VSYmFoanU1X0swYTNCTjZhb25tTlJ0RFdZRC0zbm5wajkwREpsYzBBcjVycWV1a0FpSjVqVF9fRkJ2MENEcjYtNXdQTVBzRGJKbGtDcVdvSl9tSnI3d3FZMTFWMTdZZDg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7bedfef3264f"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Instagram’s Edits app launches on Mac in bid to outdo CapCut",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVMTGhZQnVrN2hwa0RBSU5KNTNGbHJTRGo2RE4yYldwQVFzdFJWbzJNWDRaMWJ4bm13UFltWVFKMFdkNDFaOWdtcDZMem1kWUx0T3E2OHlXQVI4bzBtQzFBRFFONGUwOVhxWG5VQ29EdS1NRmpPa21FMHFpcTFsU1B5MWtINGxZSXRTU1haYllEU3R2N1FlYw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "221fdc9e352e"
     }
   ],
   "items": [
+    {
+      "id": "6d8db93f424d",
+      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
+      "source": "Search Engine Journal",
+      "summary": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-12T21:01:44Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "bfa9c0cbe2e1",
+      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
+      "source": "Search Engine Journal",
+      "summary": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions. The post Google Makes Gemini 4 Hydrogen The Default Model In AI Mode appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-12T20:09:18Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "c98570e7099e",
+      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO via @sejournal, @rollerblader",
+      "url": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
+      "source": "Search Engine Journal",
+      "summary": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection. The post Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO appeared first on Search Engine…",
+      "category": "GEO",
+      "published": "2026-11-12T20:00:07Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "5b0f73df89a6",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "category": "GEO",
+      "published": "2026-11-12T20:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "3940f6833374",
+      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11",
+      "url": "https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has confirmed a data logging bug in the Search Console Generative AI performance report in Search between the dates of November 9 and November 11, 2026 which resulted in a decrease in impressions.",
+      "category": "SEO",
+      "published": "2026-11-12T19:55:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "625d9ded7d92",
+      "title": "ChatGPT Ads UX Study: Findings from Real AI Search Sessions",
+      "url": "https://www.seerinteractive.com/insights/chatgpt-ads-inside-answers-what-161-ai-search-sessions-show",
+      "source": "Seer Interactive",
+      "summary": "TL;DR We watched 161 recorded AI search sessions and logged every ad that showed up inside a ChatGPT answer. Most of the people we asked told us they hadn't seen any.",
+      "category": "GEO",
+      "published": "2026-11-12T19:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "cec5c560aa82",
+      "title": "Reddit Reviews Are Live: What It Means for Brands on Reddit",
+      "url": "https://foundationinc.co/lab/reddit-reviews/",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "On November 10, 2026, Reddit launched Reddit Reviews. The feature aggregates product conversations from across Reddit communities and turns them into a single review page per product. Every page opens with a summary and a breakdown of how positive or negative the conversation…",
+      "category": "SEO",
+      "published": "2026-11-12T18:56:50Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a815442c4412",
+      "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
+      "source": "Search Engine Journal",
+      "summary": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed. The post Visits To The Top Million Websites Fell 12%, Data Shows appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-12T18:43:03Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "cc451083f63b",
+      "title": "2025 - ChatGPT named 21 competitors & us 0 times 2026 - Them 0, us 65%",
+      "url": "https://www.seerinteractive.com/insights/chatgpt-named-21-competitors-in-2025-and-us-0-today-many-are-at-0-we-are-at-65-percent",
+      "source": "Seer Interactive",
+      "summary": "In 2025 ChatGPT rewarded our competitors for ranking themselves in listicles. We bet on humans instead, this is the data on what happened. In February 2025 I recorded this video:",
+      "category": "GEO",
+      "published": "2026-11-12T18:01:18Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "ad614f81e42f",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google (Search)",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "category": "GEO",
+      "published": "2026-11-12T18:00:00Z",
+      "coverage": 2,
+      "impact": 7.0
+    },
+    {
+      "id": "654944e97f1b",
+      "title": "Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/",
+      "source": "Search Engine Journal",
+      "summary": "Microsoft Advertising announces UI improvements addressing advertiser feedback, including easier navigation, expanded reporting, sign-in troubleshooting, and account access management. The post Microsoft Advertising Updates UI Following Advertiser Feedback appeared first on…",
+      "category": "SEO",
+      "published": "2026-11-12T17:45:26Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "f066af019d0a",
+      "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search",
+      "url": "https://www.seroundtable.com/identify-traffic-from-google-search-42525.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has published a new help document named Identify Google Search traffic in your web analytics or server logs. This document explains how to see if Google Search is sending you traffic in your own web analytics system or server logs by inspecting the HTTP Referer header.",
+      "category": "SEO",
+      "published": "2026-11-12T17:08:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "4e1583d543f5",
+      "title": "OpenAI ChatGPT Ads Updates: Intelligent Bidding, New Cost Targets, Geo-Flexibility & Product Set Filters",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html",
+      "source": "Search Engine Roundtable",
+      "summary": "OpenAI just sent out its weekly ChatGPT Ads update email announcing a number of updates including intelligent bidding, new cost targets in Ads Manager, more geographic flexibility for product feed campaigns and more flexible product set filters.",
+      "category": "GEO",
+      "published": "2026-11-12T16:38:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "4384fde20d7d",
       "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
@@ -1601,17 +1743,6 @@
       "published": "2026-11-12T13:00:43Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "d9e1c61d29e2",
-      "title": "Google Ads New Invalid Traffic (IVT) Overview Card",
-      "url": "https://www.seroundtable.com/google-ads-invalid-traffic-ivt-overview-card-42513.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads announced a new Invalid Traffic (IVT) overview card within Google Search. Google's Keerat Sharma wrote, \"We're rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end transparency into how we protect their campaigns.\"",
-      "category": "SEO",
-      "published": "2026-11-12T13:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
     },
     {
       "id": "79cdb1aae0f8",
@@ -1691,11 +1822,22 @@
       "impact": 5.0
     },
     {
+      "id": "90d79223706e",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "category": "GEO",
+      "published": "2026-11-12T12:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "50264ceb54b6",
       "title": "13 Things Google Search Console Ranking Data Says",
       "url": "https://ipullrank.com/gsc-ranking-data",
       "source": "iPullRank (Rank Report)",
-      "summary": "Drawn from Google Search Console data for 166 brands, roughly 9.5 billion impressions and 105 million clicks a month over ~16 months. Findings at a Glance TL;DR: On unbranded queries, click-through rates are falling. Across the portfolio, the number-one position now averages…",
+      "summary": "Drawn from Google Search Console data for 166 brands, roughly 9.5 billion impressions and 105 million clicks a month over ~16 months. Findings at a Glance Finding 1 The −0.29 link between a site’s branded search demand and how well it ranks for the plain keyword falls once other…",
       "category": "SEO",
       "published": "2026-11-12T12:00:00Z",
       "coverage": 1,
@@ -4153,149 +4295,6 @@
       "published": "2026-10-30T17:04:41Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "6b33ca68f100",
-      "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
-      "source": "Search Engine Journal",
-      "summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord Member Messages May Start Showing Up In Google In December appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-30T16:38:30Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ed2fe70dbde8",
-      "title": "What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)",
-      "url": "https://ahrefs.com/blog/bluf/",
-      "source": "Ahrefs Blog",
-      "summary": "BLUF means bottom line up front: put your main point in the first sentence. Here's how to write it, with examples and a free BLUF rewriter. Read more ›",
-      "category": "SEO",
-      "published": "2026-10-30T16:27:18Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "2acb13ea3365",
-      "title": "Google’s Q3 2026 Earnings Call: Search & AI are merging into one unified product.",
-      "url": "https://www.mariehaynes.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/",
-      "source": "Marie Haynes",
-      "summary": "Even though Wall Street is panicking over Google's earnings call, it seems obvious to me what is happening. They are not going to slow down when it comes to AI. Throughout the call they spoke of agents and how we are in the early days of how they are changing Search. They told…",
-      "category": "SEO",
-      "published": "2026-10-30T16:20:41Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "a783e2bb6ad6",
-      "title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
-      "url": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft just announced new Bing AI content controls \"offering newer, simpler, and clearer preferences that allow you to make choices about training, grounding, or both while remaining eligible for Bing search results,\" Krishna Madhavan, Principal Product Manager, Microsoft…",
-      "category": "GEO",
-      "published": "2026-10-30T16:15:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "31bb7b4f10cc",
-      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
-      "source": "Search Engine Journal",
-      "summary": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-30T15:30:24Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2e2a52d6c74d",
-      "title": "ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
-      "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and…",
-      "category": "GEO",
-      "published": "2026-10-30T15:17:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "4bf96b0182de",
-      "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
-      "source": "Search Engine Journal",
-      "summary": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury & What Still Wins appeared first on…",
-      "category": "SEO",
-      "published": "2026-10-30T15:11:43Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "455c0f4bbcd3",
-      "title": "More than bling: How SEO can help your jewelry brand get found",
-      "url": "https://yoast.com/seo-tip-for-jewelers/",
-      "source": "Yoast",
-      "summary": "Your jewelry can have all the bling, but first, people need to find it. Whether you sell ready-to-wear pieces, craft custom designs, or make jewelry for other businesses, search can put your work in front of people looking for exactly what you offer. That’s where SEO comes in…",
-      "category": "SEO",
-      "published": "2026-10-30T14:46:12Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "8d5b7b8ec1bf",
-      "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
-      "source": "Search Engine Journal",
-      "summary": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open. The post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-10-30T14:17:57Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "826e8cad104a",
-      "title": "What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/",
-      "source": "Search Engine Journal",
-      "summary": "Search Console's Page indexing report has fallen behind before. Here's what Google has said and what each remaining check can show while the data lags. The post What Search Console Can Still Tell You When Indexing Data Lags appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-30T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ecb5320c72da",
-      "title": "Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/",
-      "source": "Search Engine Journal",
-      "summary": "Google's Q3 earnings call outlined a vision in which traditional Search may no longer be the central experience. The post Google’s Q3 Earnings Call Casts Shadow Over Classic Search appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-30T13:02:09Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1ad72bae6b66",
-      "title": "Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways via @sejournal, @siliconvallaeys",
-      "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
-      "source": "Search Engine Journal",
-      "summary": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-10-30T12:02:22Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "97697570f5ab",
-      "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings",
-      "url": "https://www.seroundtable.com/video-10-30-2026-42418.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week, we reported on Google Search volatility not once but twice this week. Google warned tools on user-generated spam guidelines. Google downplayed the importance of fresh indexing reporting. Google explained...",
-      "category": "SEO",
-      "published": "2026-10-30T12:01:00Z",
-      "coverage": 1,
-      "impact": 7.0
     }
   ]
 }
