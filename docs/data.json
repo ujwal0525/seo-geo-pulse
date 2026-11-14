@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:15:09Z",
+  "updated": "2026-11-14T17:43:52Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-14",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "b72bec1c54fd"
+    },
     {
       "date": "2026-11-13",
       "family": "model",
@@ -811,16 +821,6 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "fcbfbd68cefc"
-    },
-    {
-      "date": "2026-08-27",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google AI Mode Adds Flight Price Tracking, Mile Rates & Hotel Booking",
-      "url": "https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "a9268adaf69f"
     }
   ],
   "competitors": [
@@ -835,6 +835,18 @@
       "source": "Google News",
       "curated": false,
       "id": "685371f5654c"
+    },
+    {
+      "date": "2026-11-14",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Runtime: AWS rolls out a Nitro boost",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QUZnZFdhejFVbHQ5b3RTZW00OExKX1RSWWQ4VjJjaTBKWk5iUDc5dkF2eWZZR01SRV9sYlFOUFo3R0JKVWNkUWdQSUFDZUtpcHpRNDh2YTZqZG8xcUhOREJCS1h0NThsdXE5bEZZOF9zb2JuMkow?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "36c270c10303"
     },
     {
       "date": "2026-11-13",
@@ -1531,21 +1543,20 @@
       "source": "Google News",
       "curated": false,
       "id": "29d2b3e33a71"
-    },
-    {
-      "date": "2026-11-08",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Yeezy returns with LA runway show and JD Sports partnership",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXN5dXZ1eUd1OG1uNVB6OW8tYVRYU2dBUkdBeTMwOTNvOVlZZTNEenhuU2lyMl9NU3M3Z0hXM2hhTERIbm9WaVpXaFpHYW01N21EUzZLaUwzUWJiWTJfLVZfaGhRQ3ZPTG1UWjQ3WnAzb1RDRFhJc2tnOWhGaUY0UFdUM2N1UWJ3LTJNLXN2OFRkZU5OVXcxOU4yc3pZOWhOeVVXQXI2ZkVVOVE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b445ca83596a"
     }
   ],
   "items": [
+    {
+      "id": "5699ac805c11",
+      "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
+      "source": "Search Engine Journal",
+      "summary": "A core update rolls out, AI search gets a new default model, ChatGPT shares mention and click counts, and sites plan for less search traffic. The post Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-14T13:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "5bdab1c81e5a",
       "title": "United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern",
@@ -4284,17 +4295,6 @@
       "published": "2026-11-02T14:09:25Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "ba20dcc467f3",
-      "title": "3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner via @sejournal, @slobodanmanic",
-      "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
-      "source": "Search Engine Journal",
-      "summary": "Google rankings are a black box a store can still watch. The AI shopping decision layer is a black box with nothing to monitor. The post 3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-02T13:00:14Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
