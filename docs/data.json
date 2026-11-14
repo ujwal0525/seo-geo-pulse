@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T00:43:16Z",
+  "updated": "2026-11-14T11:15:09Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -825,6 +825,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-14",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches new app for team meetings, transcription, and dictation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVdsTldIT2tyQ1ZxX1hjSnZWcHI4Z1NxOERTS1kyUGpGZnFta0dhY193UHVCMmhWc2ZTV051a0o5UW9ramZaVUUwa0tERHhEVnNtZy1DY2wyaDhDdlk5cThDMTd6RUNYdmVqZlowUDJienc1bS1FQnRrRmpnVlotME5xTlVUTUdjbERnLWpyME1wVzdzWVJKYV92aHdCYkFzaldQRUpmVkZLYkRVZXpBSkJLQThMWkhPNHVYWFI2X1o1dw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "685371f5654c"
+    },
+    {
       "date": "2026-11-13",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1531,21 +1543,42 @@
       "source": "Google News",
       "curated": false,
       "id": "b445ca83596a"
-    },
-    {
-      "date": "2026-11-07",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "Docusign Acquires Suplari To Expand AI-Powered Procurement And Contract Intelligence Capabilities",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXlRY3I0c1I3NXBkSW83a3pDcHRwaG1ZN0dFRDN3R2dDMVd6aFR2bjNDUllTeEMzUWt3ekx0LVIyZkRlZXR6Vld4UHZHXzA5UXNvNkpxSWh1Rm14V05nRXZLYnZubGVVNEdzdktZUTVrNFhPMjhJdG4wTHJueWtsTmdHeDZhVnRLanh2UV9ROUpGMjZ4WkpvakxBZ1lXSFNpR2ZnbFFBdVlwcXo1QS03RzJpaTRjdFRH?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "04c852116fca"
     }
   ],
   "items": [
+    {
+      "id": "5bdab1c81e5a",
+      "title": "United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
+      "source": "Search Engine Journal",
+      "summary": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data. The post United Requires Permission For AI Agents, Keeps Search Indexing Open appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-14T10:00:14Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c9da56a30462",
+      "title": "Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
+      "source": "Search Engine Journal",
+      "summary": "Two companies' AI agents made most of the requests observed in one month, and most went to product and search pages rather than checkout. The post Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-14T08:00:52Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0efadebe8a29",
+      "title": "The evidence on the Jensen Huang leak points to a chip-export fight",
+      "url": "https://dejan.ai/blog/huang/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "I investigated the Jensen Huang scandal because its timing looked arranged. US officials had held intelligence on his relationship with Alice Huang (no relation), a former Megaspeed executive, for about a year . Some of them suspect her of working for Chinese intelligence. The…",
+      "category": "SEO",
+      "published": "2026-11-14T01:09:27Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "881c78fa24e1",
       "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
@@ -4262,39 +4295,6 @@
       "published": "2026-11-02T13:00:14Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "2edc95b2034a",
-      "title": "November 2026 Google Webmaster Report",
-      "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
-      "source": "Search Engine Roundtable",
-      "summary": "It is time for the big Google Webmaster report, the November 2026 edition, where I recap all the big changes Google made organically in Google Search. Of course, the big one is that Google completed its September 2026 spam update in October, and we also saw several unconfirmed…",
-      "category": "Algorithms",
-      "published": "2026-11-02T12:51:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "ed867fa3285a",
-      "title": "Gary Illyes Implies Click Data Not Coming To Google Search Console AI Reporting",
-      "url": "https://www.seroundtable.com/click-data-search-console-ai-reporting-42437.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Gary Illyes from Google has implied that click data and query data are likely not coming to the AI performance report in Google Search Console. Gary Illyes wrote that the Search Console team is interested in bringing \"data that makes sense\" to the report but didn't say clicks or…",
-      "category": "SEO",
-      "published": "2026-11-02T12:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "996ccfb904ba",
-      "title": "Google Ads Strategists Using AI-Generated Fake Names & Profile Photos",
-      "url": "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads Strategists, who are part of the Google Extended Workforce, are using AI-generated profile photos and names when reaching out to advertisers. An email sent from Kassy Garcia from Google to Joe Youngblood seems legit but when you look up who Kassy Garcia is, you won't…",
-      "category": "GEO",
-      "published": "2026-11-02T12:31:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
