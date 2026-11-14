@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:18:22Z",
+  "updated": "2026-11-14T00:43:16Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -885,6 +885,42 @@
       "id": "5cfd765a0ef7"
     },
     {
+      "date": "2026-11-13",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "E Street Band legend Steven Van Zandt launches new gig in Holocaust education",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tV083Mk81aGpwU1RGTnlNUmFrQXVYcUhuY3NzSVFNN3dmMVNMRFNVSkg3V3ZGY3J1TC1KemtFVDRxWTNneGNTblhvVzI1My1xV2NNUThWWHV6Y2dGUmVoM0lRQTg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1cec3fd873ec"
+    },
+    {
+      "date": "2026-11-13",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "M&A",
+      "detail": "",
+      "title": "Form SCHEDULE 13G/A Helix Acquisition Corp. Filed by: Affinity Asset Advisors, LLC",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDZ1dkx2a0ZkTVVURm9sQ3ZfY1Z6dnlzMzNWc1ZBaUduZXU4TEhFWXdXaXNyQTJVcEhqVTJPVVdDNC1ydWpHUkNNNHdYb05YbWZQYjZ1cG9YT1oyYlBEeGw1bGYxOWZNLVd2akJFMzZnRkNNN21jQTh6VkdyaTRhaGVaS0w3dmU5TU5ydWNYbC1oM01QSGZ3dGNEN0cwQkZySVNoYzNwV0N1QWhqeGhNNnFjdmdmdURXN2JMb3ozYzNIaU1XcGR4YjY4ZDhiY2FJdXp5WUc5SGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d38ed2240d80"
+    },
+    {
+      "date": "2026-11-13",
+      "company": "OneSpan",
+      "front": "Documents",
+      "move": "M&A",
+      "detail": "",
+      "title": "OneSpan (OSPN) CEO acquires shares tied to stock-price targets; 100,000 stock units remain.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXVHd2xaZ3Fwak9HTW5FcWpxcHlYcy1rbU04bWpUR3g0MjJIMHlSMk9jVEpBUFkwQjBmblVvZkU3YWZEUDVxWV90R3FaY0ZhaDRmQm05VDNUMC1oVzlYYldSSmF1ckpZLUdPRWZBV2g2dFFUY19TR19YZk9ia0sySHczVDE4NkhLQmtmNFdzeDlBY1E4T3dVc2k3NEs4Ni1wRmJlcVBPeG9Ydw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1d3cb57c5b2b"
+    },
+    {
       "date": "2026-11-12",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1507,45 +1543,64 @@
       "source": "Google News",
       "curated": false,
       "id": "04c852116fca"
-    },
-    {
-      "date": "2026-11-07",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Mirae Asset Global Investments Co. Ltd. Acquires 178,203 Shares of Figma, Inc. $FIG",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZlRhb2xEZC1rdXVzRXBvYm5KTUpBdmpYYy1HVkFsYnJveXBZbER5UXVpU0szLTJlUjNtZ2pPVWdybHFmRlljSFRnazlFMk9YTFNVVE5qUTJ1cnVaM0hXX2VtdXpOaVktRmFfY2Y3U2llU2FjSTEzRFA1TWZSOEhIaHMxMHVoRTlpV0gzMEMwVDhSWTdqNFFxLTZTTTg5cENSOG9SbVM1ZEtZNG1NTTN4YncyQk83SV9JVjRrV0FCaFJBVzZ2MWkxMV9GZUtIUmVNcnEwbA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "82ae31dfb95a"
-    },
-    {
-      "date": "2026-11-06",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "ElevenLabs Partners With SoundCloud to Let Users Publish AI-Generated Music Directly",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlhnUWtjNmN5eTRNeG14S0lSYk83eXJDNHU4akk5SGdSZktaYUtTTUR5YnJnY19fMUhqeDFmNHBxb253STFrZ0hBejZzNnR3ZkgxckFIeVl4VjdOeHVSZkl3ZkxBbUppVW1RcDlHVzVvLWdTZmoxbXhUX2RTc0VFMFhlckxMZExkWF93U1RXMDMyVjFqcFg0UEdNUVVoVVJEQkljdGFhM09jY2loNTVhZnhGeE5xU1BWVk54aEFPTW7SAcYBQVVfeXFMTUVmRXVtSF95NlZvRW5LVTE3SWhibHJWc2FrZUpPUGtZYUc2WWNvUEhMY0tfN1ZuMkxXa2h2dGVBdUZoMGprSjdmQ3FEMVVIMElXcVFjcjV5Rk04ay1CWnVvN25idHpsNWpJeTZseVFjRWttMmZKelM4MnJtQXA0cXlJMHBkeHdOel9pbUF0dl8zMFZoVktkQlNJZGJ2R3ZwNTZFdlZTVDZOYTVrQzlrZ3JXZVlxRVJmSkE3OUpEVjFlTW5QcHNR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9169f9251483"
-    },
-    {
-      "date": "2026-11-06",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Instagram launches free Mac app for editing videos with music and captions",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0p3Vm40Y3c5NW43d3F0UUVsUkR1R2JIWnlUcEhkb3JaRVd2alZLbjNNTFpReUx5ZDBwekdnMENYUDdOYVdqaXpOS0VrT0l5RUNDSHZFS0JtU0RvWW1oREtlbGpNV0JpemxGY1hVUU5od3RmSDlrRTZfVFVEb1ZyMWNpbmZuNUhJV3pYeTJJRDE2ajlaUnRXYUo4Ui1Lb0VPamRQTllRdGl4U0FjMFNzM2Fndw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ed5bbaf41854"
     }
   ],
   "items": [
+    {
+      "id": "881c78fa24e1",
+      "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
+      "source": "Search Engine Journal",
+      "summary": "A Google Search help page lists the referrer values Search traffic sends, why some visits arrive with none, and why counts differ from Search Console. The post Google Explains How To Find Search Traffic In Analytics & Logs appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-14T00:02:10Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "c9151c810e55",
+      "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+      "source": "Search Engine Journal",
+      "summary": "Blocking an AI training crawler isn’t the same as blocking a retrieval bot. Here’s why SEO needs deliberate bot policies, not block lists. The post AI Bot Management: Why SEOs Need More Than Block Lists appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-13T20:00:48Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "a89892b53da1",
+      "title": "AI Sentiment and Accuracy: The Metric Your Visibility Dashboard Is Missing (and How to Calibrate for It)",
+      "url": "https://neilpatel.com/blog/ai-sentiment-and-accuracy/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Every AI visibility report answers one question: are you showing up, and how often? Rank tracking, citation counts, and visibility measured at scale all count appearances. None of them tell you what the answer said about you. That blind spot is where AI sentiment…",
+      "category": "GEO",
+      "published": "2026-11-13T20:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "9c3f11c84376",
+      "title": "Google Tests Dropping AI Mode From Search Bar & Ask Anything",
+      "url": "https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is testing removing AI Mode from the search tab bar within Google Search and also removing the Ask anything follow-up box within the AI Overviews in Google Search. This follows our reports of Google removing the AI Mode buttons from the Google homepage.",
+      "category": "GEO",
+      "published": "2026-11-13T19:45:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "f896199eaa81",
+      "title": "Microsoft 365 Outage Impact On Microsoft Advertising",
+      "url": "https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html",
+      "source": "Search Engine Roundtable",
+      "summary": "As you know, Microsoft had a major Microsoft 365 outage yesterday and into today, affecting many businesses and users. But it didn't seem to directly affect Microsoft Advertising or ads in Bing Search.",
+      "category": "SEO",
+      "published": "2026-11-13T19:29:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "3870fba74c39",
       "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
@@ -1701,6 +1756,28 @@
       "impact": 4.0
     },
     {
+      "id": "d1318183fe17",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "category": "SEO",
+      "published": "2026-11-13T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "63cf5a3a1c10",
+      "title": "4 Prompt Tracking Mistakes — Whiteboard Friday",
+      "url": "https://moz.com/blog/prompt-tracking-mistakes-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "Are you measuring AI visibility wrong? Tom Capper reveals the 4 biggest mistakes in AI prompt tracking and 4 creative ways to expand your list of prompts.",
+      "category": "GEO",
+      "published": "2026-11-13T08:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
       "id": "49cba9a28673",
       "title": "239,266 brands, ranked by authority in Gemini 4 Hydrogen, Google's new AI search model",
       "url": "https://dejan.ai/blog/gemini-4-hydrogen-brand-authority/",
@@ -1719,8 +1796,8 @@
       "summary": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-11-12T21:01:44Z",
-      "coverage": 2,
-      "impact": 6.0
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "bfa9c0cbe2e1",
@@ -4218,83 +4295,6 @@
       "published": "2026-11-02T12:31:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "4e50a55a23b3",
-      "title": "Reddit Stock Drops 33% After CEO Confirms Declining Google Search Traffic",
-      "url": "https://www.seroundtable.com/reddit-stock-drops-declining-google-search-traffic-42432.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Reddit's stock dropped 36% over the past week after Reddit's CEO, Steve Huffman, confirmed Google Search traffic has been declining for the popular social media site. Of course, every SEO on this planet knew this would happen eventually, and it did.",
-      "category": "SEO",
-      "published": "2026-11-02T12:21:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "02c3a2ae8bd9",
-      "title": "Google Ads Promotion Offers Within Promotions",
-      "url": "https://www.seroundtable.com/google-ads-promotion-offers-42425.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has added a new \"Promotions offers\" section within the Promotions section in Google Ads. This lets you quickly filter your promotions by these three statuses, offered, expired and invalidated.",
-      "category": "SEO",
-      "published": "2026-11-02T12:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9a94129bbc5a",
-      "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
-      "source": "Search Engine Journal",
-      "summary": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-02T10:55:11Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ed4b58253682",
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "category": "SEO",
-      "published": "2026-11-02T09:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "7b6249934d45",
-      "title": "20 Zero Click Marketing Questions Everyone’s Asking",
-      "url": "https://sparktoro.com/blog/20-zero-click-marketing-questions-everyones-asking/",
-      "source": "SparkToro",
-      "summary": "Huzzah! Zero Click Marketing is finally live. After two years of pain, sweat, and countless edits, the book Amanda and I have been writing to help marketers survive and thrive in the new era of digital marketing is finally here. You can buy the hardcover, ebook, audiobook, or…",
-      "category": "SEO",
-      "published": "2026-11-02T06:29:36Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "f056b8784a69",
-      "title": "Unlocking hidden skills inside Google's model",
-      "url": "https://dejan.ai/blog/latent-skills/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "AI models hold skills no prompt can unlock. We enabled hidden skills inside Google's model through precise tuning of only a small number of its weights.",
-      "category": "GEO",
-      "published": "2026-11-02T01:23:45Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b3f67b0e1770",
-      "title": "Releasing a new sentiment classification model.",
-      "url": "https://dejan.ai/blog/sentiment-model/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "Our new sentiment model is free on Hugging Face. It scores every heading, list item and sentence from very positive to very negative, gets 84% of labels exactly right and 95% within one point, and is built into DEJAN App and a public demo.",
-      "category": "SEO",
-      "published": "2026-11-02T01:06:10Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
