@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T15:25:42Z",
+  "updated": "2026-11-15T20:52:12Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -1185,6 +1185,18 @@
       "id": "8269b9159f8b"
     },
     {
+      "date": "2026-11-12",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Press Release: IAG launches media and ad business, IAG Media",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0tZV3Q4aW11RGhlb0JtRE5IeVdySVVEZTYyZ3Z0blpCUjdLNHhnTjU0cGZsdV9DX0Zwd2Vkd0dzdV9NRTFOSWxSVklyTHM1azduUm1sVmNXZk9tUjZtbFBHMWQtTjZTS3hNRF9fOUJFQW1IbWJTOWRHOXNhZFdrOVd1V1UtQVZGQkFkVDAxbW9nVXgwYXVR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b3e457af47dd"
+    },
+    {
       "date": "2026-11-11",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -1531,18 +1543,6 @@
       "source": "Google News",
       "curated": false,
       "id": "dbe2fb9f3e4a"
-    },
-    {
-      "date": "2026-11-09",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs launches ElevenAgents Campaign Manager",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGw3NTIzTXlYWGZWaFB6RENOUThlRkszOERVWjhZSVVRNzhWUjgzSWVGVTdzbWxIUm4yQ3Z3NkNWdGRfUERxSWdXSk9Ja3hFQkppaTR3NnpLbVZ6LU41MERyZ3pRYzlBelRtTVQ3NkF4LXQtSjZWd3JMTUE4UmpCZVdjTUdmM0w3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "37551a1cc792"
     }
   ],
   "items": [
