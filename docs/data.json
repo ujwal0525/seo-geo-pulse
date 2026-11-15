@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T05:10:29Z",
+  "updated": "2026-11-15T15:25:42Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -825,6 +825,42 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-15",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$1 million",
+      "title": "Great Salt Lake-inspired fashion collection hits the runway, raises over $1 million in support",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0hfY3U5TzVWT3AyeE8wX0pjQVFGOURuNDRQRzNVRHU3UUNhSTVnaU90dkFpSXpKV1UwWEVyOXo0bHRMRlptYTVQTWNrbkhMbVAzenVyUjJOcW5lbUZwRF9wai0yNjFPaUZmaUh5dVNhTzJYQ0N2SmxyT1R0LUJCMFZSTlB3dXQz?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f02e88ddc7eb"
+    },
+    {
+      "date": "2026-11-15",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Skyways launches Skyreach, a runway-free cargo drone that can fly 1,300 miles",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcF9qNUQ4dFdzU3NraEpfWHBnQ01aREtXNTFvSjZWa3A1QlVRSlptY3NPRU9FOTRFaUVxV0VkVXctVzltMXB3TV9LQnNIRF9iaUtzeHloYk1ZSEZydlBpM3ZsSHBwTnZuRzFMcFpzZUVlLU03YVBvSUtkM3lMelhRcl84QU9oSFZROVhQeUVyUUl5aklFZ0NydjdDN013OXYtRm1ESmo5eGRZcGJoUVB6RzAtLWs1d1dN?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7a029eeb4bb5"
+    },
+    {
+      "date": "2026-11-15",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Listen: Final Song Recorded by Dolly Parton Released - 'It's Her Last Prayer... for America'",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdnZId3dQSEFmaElUaHdhMjNuT2NueFVNVm44OE0zeFVySE9xRUxBeFlXN3ZybEFIRzYzc2l5RkF5N1hDOVNsQ1B0X0htSWU2ZldKcWhtSFpYcE11aU5FdjFGc2lKZ2F3QW15RFA4VUtON04zNzlnVGZIWHZpWktqdkZqdHVDaFY1Rk94QmVfZW5TZkFFYUQ2SXFyS052d3hLMFE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7600581874bf"
+    },
+    {
       "date": "2026-11-14",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -847,6 +883,18 @@
       "source": "Google News",
       "curated": false,
       "id": "36c270c10303"
+    },
+    {
+      "date": "2026-11-14",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Runway releases Praxis-1 weights and training code",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKcVlzWVNBaXp6YjdRMU9MbzNLU1BVWW52LWZkMlFueE9NRDJKejdfSmpvS19YYlFTY0J2SjMxcC1ha3k3WF9HbHl6LXNQMmRrRzJmMC1ZWVBnN0JPNmhReS1JY1BIZ2F2ekF4UFZ4bXpOYnM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b5fae96a66b3"
     },
     {
       "date": "2026-11-13",
@@ -943,6 +991,18 @@
       "source": "Google News",
       "curated": false,
       "id": "1d3cb57c5b2b"
+    },
+    {
+      "date": "2026-11-13",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Frankfort/Clinton County Regional Airport Buys 26 Acres for New Hangars, With Runway Extension Planned Later - Avi-Go",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjeTJZaDNPQkxnZDBUZ3NRMXZlN0FHUHd5WVJLWkN5a09fVEx6ckdBdGJlalM5MEJNREEwcVRqQlR5RHlwSElLZGdFby1xS2RnOTB0U0lfVk5IVVVNWlBaVnZqYVhHTk90YTBzazBDaklGMFE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7061e95c097c"
     },
     {
       "date": "2026-11-12",
@@ -1483,69 +1543,31 @@
       "source": "Google News",
       "curated": false,
       "id": "37551a1cc792"
-    },
-    {
-      "date": "2026-11-09",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Pelephone buys Wecom for NIS 265m - Globes",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1dLZFU2TUx3X19DelVkTGpFSDYySHFXR0d6UTdfVXYtejRyYnotZFpYSmRoWTFxcHhDUXZPRG1ad1hkQWE5SHRJTDJ6MDkwMVpmYnp0MmcwM0NoLU13c2lxQW9zMWpzMTVXNlVFWjhPcTFQeDdUX05QdFljRGduajNIcHVDUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ce1ec66a5907"
-    },
-    {
-      "date": "2026-11-09",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$7 M",
-      "title": "LACMA’s Star-Studded Art+Film Gala Raises Nearly $7 M.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkxaQVFpVXBUczJIUGM2ektMWHR0TG5uaDJJX0taTzZ6U1NDc083QlpaejM3aWNlc2VfTzZxUVhUUmxrZERGZHJMVjFtdDZwYTdPcHFTdXZfTEZkUlZFM0RyY0xxSUFuVEFzb3VWUDdVdU1iUVJ6NzIxWUpqZEJVWExNN3F1SC12bmNIbjh2eHZ1eTg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7aad8d02bd5f"
-    },
-    {
-      "date": "2026-11-09",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Canva goes viral for generous severance packages",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjV0NWJKbEhJRllQb0p0NUdQeW1Cd05YazcxUjdsdUFnYnBfblNFSVhXelJDVGhoMDEtT2VqY2hoRGw0Tl80UV9qNUR0Vm94QzhMU01wRDROX0hQd3ZaVXk2ZV9QSUdlSHo3QVJiSGUtSDJHWHkwTElCZzJ3Um5CZFYweVlwU2xGbEtoZ3V5aUMxZ1pQN192N2tfYkZjOV9xdGNJbUJpaHFPbTlyV19PM1Jpa1FrS3VvcklZ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "9ba2750bebac"
-    },
-    {
-      "date": "2026-11-09",
-      "company": "CapCut",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "ByteDance rolls out Seedream 5.5 image model across Dreamina, CapCut and BytePlus",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZT0thUGJpQWgwVF9ac0RYZlRFbDhPdWcyWi1BSmpIcjVXWllnY3BfYW1KV2pJVi1wbGV4Mm9zaEg4RUpnSWtxWTB6UE9XcWRzMXZ1ZkVnMHJoVW05d3FiWVFMMXB0b2FURW9uQ3hCaEJLWi1DRHRkRy13?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7ec1a7a81886"
-    },
-    {
-      "date": "2026-11-08",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "This Is the Family Tree of the World’s Fastest Runway-Launched Jet Aircraft",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaDlBUlA5QVQ5dnJZY28ydDhWNzBjQWRsMGZ6NndyblRST2Y5VjVYb2VXOTRWQ2EyQ2Q5b0xldF9NWW1WakdIVkdockdSNnE4NmJEU3gwQW00WmhWbE4xV1NicjdIVGNtWWdybXAyV1FTY19yQ3JYOE9HRTk4bXV4cGhudm9uTkxVaHVYczR6T3hGc2lBTHg3RHhaWkMwQkpmNktFTGZpZ0lkQU9BVEpwbG1ydGl5dEZwSmxzWWh3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "29d2b3e33a71"
     }
   ],
   "items": [
+    {
+      "id": "604f1c744039",
+      "title": "Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+      "source": "Search Engine Journal",
+      "summary": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-15T11:30:33Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6930fb6cbd9f",
+      "title": "YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
+      "source": "Search Engine Journal",
+      "summary": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts. The post YouTube’s Clips Tool Turns Podcast Episodes Into Shorts appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-15T10:00:48Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "5699ac805c11",
       "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
@@ -4273,28 +4295,6 @@
       "published": "2026-11-02T15:00:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "2c5c768b8762",
-      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
-      "source": "Search Engine Journal",
-      "summary": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic, and most saw no sales from them. The post Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-02T14:41:23Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "0df5d1d32669",
-      "title": "Another rank tracker accuses Google of poisoning search results.",
-      "url": "https://foundationinc.co/lab/vol-316",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "Welcome back to What Matters This Week. This week, Semrush joins the growing list of rank tracking tools that have caught Google serving fake search results. It’s time to take a closer look at that SEO data you’ve been reporting for the last month. Is Google Lying to Your Rank…",
-      "category": "SEO",
-      "published": "2026-11-02T14:09:25Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
