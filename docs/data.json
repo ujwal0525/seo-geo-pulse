@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:52:12Z",
+  "updated": "2026-11-16T05:07:08Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -897,6 +897,18 @@
       "id": "b5fae96a66b3"
     },
     {
+      "date": "2026-11-14",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "HK airport introduces automatic runway-painting robots in world first",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFYwNUZXanFJRUlydkVKZ2JlZWszYkNuSjZ6Vm9zNXZDcTI5QzNGQ0sxMHN5YWp3NDRLcHk1ZWxrZnUydjJiN1dNcnIxWW5JU2JsdkU2dmN1MkVHNlRON3BEOGFJSmhQMF94ak9TZE00TTdsRnNLZlJyeHhaZUJ2d1loeFN2WGRZdFlxcHpzN094cnhHOE1rSTlRQmVGVWpPTE9uNTd4aFJneEhETGRwd0V3NEl4bVhvRVdrbA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1895b032d332"
+    },
+    {
       "date": "2026-11-13",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1531,21 +1543,31 @@
       "source": "Google News",
       "curated": false,
       "id": "eaf555939ab6"
-    },
-    {
-      "date": "2026-11-09",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Higgsfield launches a free 72-hour trial with Claude Fable 5.2",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanJnWWpjTUQzWXBfdkZpSU02eF9EX2I1Nm5JSDJxSmFSeFRCUUhzOW93LV9PVzFrTGZlbGc2cTFDU3VFSU9JVkQ4SWRqcVRTeHU3czRQdkxhNHZEWnNXMG1JazgtRUdRUzYySENBWHlscUJocTJmSUJ3UmJyc0lJWTBqSzBVTVd3NHFJM1R4NTdiMEF5?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dbe2fb9f3e4a"
     }
   ],
   "items": [
+    {
+      "id": "87d7014c15ee",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "category": "GEO",
+      "published": "2026-11-15T22:00:01Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "4b0fc5b701ff",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "category": "SEO",
+      "published": "2026-11-15T22:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "604f1c744039",
       "title": "Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern",
@@ -4271,28 +4293,6 @@
       "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
       "category": "SEO",
       "published": "2026-11-02T15:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "51cde3d7c073",
-      "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
-      "url": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
-      "source": "Search Engine Journal",
-      "summary": "Build demand before BFCM, give Google room to capture peak sales, and turn holiday visitors into December buyers with a phased ad strategy. The post How To Run A Full-Funnel Ecommerce Account Through BFCM Week appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-02T15:00:59Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "19244c7aa206",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "category": "SEO",
-      "published": "2026-11-02T15:00:00Z",
       "coverage": 1,
       "impact": 5.0
     }
