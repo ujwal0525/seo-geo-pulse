@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:50:23Z",
+  "updated": "2026-11-17T23:23:00Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -22,6 +22,56 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-17",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "57cd9a68bcee"
+    },
+    {
+      "date": "2026-11-17",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "47c454e131cf"
+    },
+    {
+      "date": "2026-11-17",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Temporary threads are now available in AI Mode in Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "source": "Google (Search)",
+      "curated": false,
+      "id": "bd81442872e3"
+    },
+    {
+      "date": "2026-11-17",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "c40500cdf848"
+    },
+    {
+      "date": "2026-11-17",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "60d1cc7263d2"
+    },
     {
       "date": "2026-11-16",
       "family": "engine",
@@ -221,6 +271,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "3455825a1f6f"
+    },
+    {
+      "date": "2026-11-09",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "url": "https://openai.com/ads/customers/vistaprint",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "109d2082c59f"
     },
     {
       "date": "2026-11-05",
@@ -761,66 +821,6 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "4a514de91565"
-    },
-    {
-      "date": "2026-09-10",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "dd0e5d502813"
-    },
-    {
-      "date": "2026-09-09",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google Merchant Center AI Performance: AI Search Intent, Terms & Attribution",
-      "url": "https://www.seroundtable.com/google-merchant-center-ai-performance-new-42043.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "9eb3068165ac"
-    },
-    {
-      "date": "2026-09-09",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google Ads Local Customer Optimization & Store Sales In Data Manager",
-      "url": "https://www.seroundtable.com/google-ads-local-customer-optimization-store-sales-42045.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "3bc67073b022"
-    },
-    {
-      "date": "2026-09-08",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "52959cd4df39"
-    },
-    {
-      "date": "2026-09-03",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "6dc1dd2e42a8"
-    },
-    {
-      "date": "2026-09-02",
-      "family": "model",
-      "platform": "Gemini",
-      "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
-      "source": "Search Engine Journal",
-      "curated": false,
-      "id": "01a4d069e527"
     }
   ],
   "competitors": [
@@ -921,6 +921,102 @@
       "id": "ada9aeeec61f"
     },
     {
+      "date": "2026-11-17",
+      "company": "Luma AI",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$58 million",
+      "title": "LanceDB raises nearly $58 million to manage AI training data for Microsoft, Netflix and Runway",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemYtZU1Dd0lnNGtCUnZVQTRLMWV4TExabmpYTmxQdndMRlUyRjdVNEdnOEFHZGRONkVBTUF4Y0NleDFQWGFfRDdEM1VubmMwME5iWHprVHlUVS1JVFV0LWZ5RjhucmFOcjBfdThKQ29GaWhwdGQyZ3cyOERsSGRUZVRwcjlSV3Z3SmFKamMySkZ1WGdOdnNnNmxwWklmbFd5RTkxOEhLN2Z1WTFzcG80Ri16UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ffec4e0f8093"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$100M",
+      "title": "ElevenLabs Finalizes $100M Acquisition of Kotoba Voice AI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEZBT1JqbWtKQTJ5SXZaRnZzdGlkOEJzUkE1MXF3Yll4U19yNkhpMFQ2a2ZkU3VodE1oNFpHak1mVENPQm9BRVJmbFJmRUEwNUZkdDNWTl8ySzQtOFFIeWFxUzZ3Q3R3VzZSWUtzMU04UGdhWWRLaXgwcEZpWkFubFZRRE51aTlDRy1n?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ba57c798d17c"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "HeyGen Launches Avatar 6 with Script-Aware Gestures and 2K Video",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSkxSX0ZubEVnbmRXNE9MOGdfNk42RjBTaktaU01haV9NeGYtdE9jcl9rUGdERmQyU1E5WE1xYUYxRVFWWkt1WjZ6TnBpc1pEeVUzMmg5ZEM3bmJaSWk1T0E4Wld4b3lhZEhQUDIzdElKdFFPOGhEQWNYa3V2VjNYN3NoWk1Id0FsbzFNaEljZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2c6fb7fe8bf6"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Launches Kling Image 4.0 with Photographic Realism and Native 8K Generation",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVI4cVBuemhTeDI5M05FWlhOcmIxV0xKUG91OElzUEVERkN4c0U3SUxZYjlWb0piTUNGb0VEYkowOVpxUERCRXlpdVpJQmVSeUF1bDJTbTlCdnJaeEYxLUdHQXBkY3JJUm5UYmhYeDRhdTBYZG9UMmNoRU5RV01MX0xXclVrWkY1anloTVlKUHJZOWJEMFF2YUVOaUdwTzBIaXNVcDNVeFRpRm5TaU15am03enFzbjBKT1VMaFd0ZmoyMkJhQXdPalZSdXNJdFZ6SG9Taw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "afe193cb3996"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Topaz Labs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Adobe Completes Topaz Labs Acquisition, Adds AI Media Tools",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQy1NdTM3MTRDMDFOWUVJSzVYT1puc0huenhaSUNpaDBXVjBaYTJyM1hmMUZiSWZhSzJRVnNFRDdnNlhpajVHWTkzb3VKUGRoM1o3V1BEMnRJUWJ4VVZLOEdKYnREazZfYW5Ka0dPVWJTUFlnMENlemZTS1hGWDBfa01ucE94WnZYR0lmMGR1MA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "23f2e0ab183b"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Force Effect Launches PARALLAX",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Y2pLSGJyaU80ckNQaHFmWG1DQTJyMmRIanBlUnZKYmhMbm4zejV4MnpELU9KRHBRa2d5aW4yREs3YUZOV1k3UWhScy12U2g4ZldIZXEzbm82QVBlWTJ0QlVwMEJGa3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "81da46f8a83c"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Foxit",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Foxit Unveils Major Expansion of Workspace for Business Content Creation",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjBpUy03NUNEMkVtc1ZpUndRWjh1Q0g3c0lnalRNSHI3ZjRsdXcwWW9obGFtTlVsTFZwVkdqdVlpTUtBWjdPSklZWkFnX1NuRkwwa3V1NDJjcDdsNjFzNUpwOFdjUnRIMnkyUXJtRk5VaDU2b0E3UVBGUlV5VVdnMVZpTGtrdEFCOWRIa09VWnZjVUtZYUdKaWdB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2983af67e290"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Acer launches 34-inch Nitro 5K2K gaming monitors with up to 180Hz and horribly long names",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjgwQ0dGZHdQQnN6dnFnVEFjUVRtbk9LREp4ejR1R3NKbGNhaUk3RHJUenJZYXN5RnRxN09SYnJpOEJreHpKeDhySF9hYmxiX05hRktVVEE5WHZaRHNfNk93WWpVM2d0X1c4RTI5cXBnVW9xdC1aNjNtdnZqWmNTQ1RVa2lacGZ0ajhtT2RNZjRJWGpDLTNPUHo2VHJPVWMydHR2NlU3XzY2ajVRM0kteG9oUElJNG9a?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c20af8225427"
+    },
+    {
       "date": "2026-11-16",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -967,6 +1063,18 @@
       "source": "Google News",
       "curated": false,
       "id": "a553ea4f14a6"
+    },
+    {
+      "date": "2026-11-16",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0Zha3ZQTEw5QXlEX1BaWGloUmxtQVJqWFpTc05lQVRKaWVOZlRKNkRmZFNUSG5xUlZmcGNXQ3A5ZllLbk9uRWRoSjdCRzk2WFlVOWNVRWZXVE9jRWg5YnpNUHRzOVhpbmt6NzF5Z3J0allPbDdYZzRuWEZ5S05zZTVod3lsUnhYZ0hlbldFaTBhSl9BYnpvUzN4NGNhbmFBQ05TOWhB0gGrAUFVX3lxTE0yNE9NNjJHS0UzbS1QNXhzdktKLW1fMFkwLVpYa1R6bkwxcmc0LTVzN1VvRzBkTllXWWl0d0RwMXFkLXNZenlERXktN0cyMnpTbzJKaWVjR3JvTnJzX1RiVnBreTk0YlQ5Qi1PU3k1YmlQV01HdWFfQW85MmFwc2V5TTdBdno4UmNCNjhPMGdRWXpaUlBJWjJ2OHVqb2hrTm13WTFfNWgxTVZxaw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "34ec62ab6aab"
     },
     {
       "date": "2026-11-15",
@@ -1147,6 +1255,18 @@
       "source": "Google News",
       "curated": false,
       "id": "7061e95c097c"
+    },
+    {
+      "date": "2026-11-13",
+      "company": "Midjourney",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Meta partners with Midjourney to bring AI image tech to future products",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUJXMkdZMHVTMHFKOEVvREpFQ1VvUEx2YlpaMzhpM1R1R01oZDRiNkdzRVFmLWJsa0REeW9fRGdCSHJCUUlxOVh6eWY0Y2d1NEVIWEo4b1J3cXhDU182bFRXNnh1UkZHaGltWG9pbW8wUFRHMDM4MGJuSC1fTTF0OTM4cnR6RnlpUTVINWJrMXZfQ3c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d68c6d77ac57"
     },
     {
       "date": "2026-11-12",
@@ -1423,129 +1543,196 @@
       "source": "Google News",
       "curated": false,
       "id": "5e28d031955a"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Unveils Model Customization, ElevenAI and Partner Program",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQldWNWdrcjZKR2pvMGtnS3IxdExDSTVwMzBpYWZ6bmxBQTl0YVAydmV5ZksydW0zWTZHbC0yUXdPLUltVFZsdXVXQ09XSG10WW9EZ2Fmb2FSMkZXNnNYWjVrQzkxUHBkdUx1dk50SXV1aUFuNmlaakpZRXg2UUhOT2RFbWFCa3g2M1poT2c1RkM0TTg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5c772984bf82"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Nvidia expands collaboration with ElevenLabs to put Nemotron models inside voice agents",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53SjhmNkMtdFNmUWd1bE9TcmhPcDNHQ0dMbTRpUlR4V2tXaVJvSGhralpRUXRnRUdoeGVKS0dzOEV6bXZfaGtSalpNOEtlSnBmUlByVkxXeDMxZmxmRFZqbjg5M1lqWXk1clRaT29zX2ZmVE9wc2c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "99cb0e0c258f"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "ElevenLabs expands Nvidia partnership to power voice agents",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2xNaTd4ckRWRUxYUG81c3NZczZpWE4td2ZZYlVjZlFUUmZFZ0JYeTJXR2lZU0xuYVZhcEtsQXRtejNHNkRvQl9OaEdqODJKMXhqZFpCX1lKdjhzOEFqZTF0eWdGNDlhRjQtTVRPTm1LRFhDWW9ZeG1hYVNPVGczblh2QmFSOUJGVmIySw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6c752a592fdf"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs Unveils AI Interaction Engine and Customization Tools",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hWlBIZW9HVFp3OWhBVks3ak9yblI2dTR2VVFPLXRValoyUG9HRklzV2M4M3pENTdCSEtPYXhfUHQ1MGQzT0RkSEFnUzFYdVR5a25vSjNLTXhJVWhBVVJlWUlQclVxamkySzBR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "19ca0dcf3738"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "ElevenLabs Expands Nvidia AI Partnership Amid Jensen Huang Scandal",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3dFeE4wdDl1R1Yxc1FkXzI0VGpiVW9sMkI2NlNLS2RhY0VZd1BMaUQ1eE5BQkxnRVdYbHhtRHBWYTE2RnF6UXRaYnRRalFSc3BmeEZsY0ZfNURWcGlQd0t2T0dnd0R3VllZeDloX2NDWVlEclFZNTY2cWJfeWZNUkNEdVZtM1RMNnNsOTRPVkZZNlRfb3BV?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c98c3ef50c25"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Press Release: Immfly partners with KLM to launch Grand Café KLM",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczFZbTY3X2F2djlONjZfUS13ZkVVeFVXSkxLZkdlSEJxVW5hUDFZZlQtQm9jUG9RdEVjaXpmbXUtT3docXEyY0dSYlBGWlBqZEV6YnVwZkdkM2NDcGhvMDE2Q0VvUF9Pc29MbzhNWVBsN28xYkVFdHJ6NGVKNl9wRjJuNm1zZlpMSEg4U05SSXpDQQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "14de726881ea"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Fish Bones Launches Weekend Brunch in Lewiston Auburn With a Waffle Taco",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWGNGMzhJWWdabml4VjM5RHZlOFQyUkhQQWxBNkZfZVgxeGVuanlXNHBuUUliZ0JDYUowMkt4TnJWWWVmOXdBUkRUMU91bE5YMmxwakY0VDQ5QQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a1e0c73d04f8"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Evogene's Cash Runway And Collaboration Count Face A Test As Shares Slide Toward Lows",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWFONmdNWEF0eTJLeVFLWnZkLS1MS2ZVREdsMERCNmhWV0lhbUFnenNFLWhJcDJiSURGQ1ZYbGI3ZDZlczRKT1NvTUV1aEU3QzhEY0xiS3YzU3hxVnVFQkpyUkEwRDVsTjJnX3Y0WDJjZXBVeFlvN3hTN0tGNXJ2TVlCeTlBOWlYYXpjbVVMTjFYOTBGanlnVlNLMHVCN2ZtWXBUYzc2SmRyTmVMN3lTbGJzWElWZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2e8f89c93f7a"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Massie introduces impeachment articles against Hegseth over Iran war - Al-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHBmV3pEX2Y2NS1hUEJEWC1TdFdGTlpHQW9oWThKcG5PcklNdFg1TUI4Vk9USUhzUlAtb1VnU0pLMk4yVXNDVjRZTzdmUWJ3ZWVDNFktZGJ0akNKbFBrMzFaSjBEZ3hDV1ViQWhwakVNS3JDNDZKMnU2dEswLWpzYUEtYTltS05xbmdudmowY3JOOXcyajdsN2tpZnlGTEdRb3F5Q3Z2dTAwVXA0ZFRCUXdFaw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5e45713d2995"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Recraft",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Balk unveils 37m Santa Maria T ReCraft explorer yacht concept",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEh1bmJRSDFmQmtlZlU3SUZPMnVUVmRUSTRDMW1raWJ2QThtNTNCM1E2Y0FocmU2RkZGWTJLV0IzU2ZvOUFCZEhNWXZwS0ZSRk9yUUJRTmxfTWlybDVuTGEyOUxnOHRrdHRrZzlVN1A4NEdmcERjdzlfTjk1UHROblh1YjZlbmtvMUNSUndB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "63ab1563ef0d"
     }
   ],
   "items": [
+    {
+      "id": "0837c539ed86",
+      "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
+      "source": "Search Engine Journal",
+      "summary": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads. The post 6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-17T21:42:30Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "8c88f2314763",
+      "title": "Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/",
+      "source": "Search Engine Journal",
+      "summary": "Check where your Google Ads run: default location settings can expose local campaigns to surcharges in France and Italy. The post Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-17T20:00:06Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d5d40d4b11d1",
+      "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
+      "source": "Search Engine Journal",
+      "summary": "What did the core update change for your site? Nobody outside Google can say. Here’s the question worth asking instead. The post Date: Confirmed, Rating: Meets Expectations, Comments: None appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-11-17T18:01:21Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "549a77347d5e",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "category": "GEO",
+      "published": "2026-11-17T17:45:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "9fe3ab2e1b9b",
+      "title": "Optimizely Says Attacker Used A Signup Flaw To Inject Malware via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/",
+      "source": "Search Engine Journal",
+      "summary": "An attacker added harmful code to customer projects in a widely used A/B testing tool. Teams can check code, account access and their security headers. The post Optimizely Says Attacker Used A Signup Flaw To Inject Malware appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-17T17:32:02Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "2b5359386136",
+      "title": "Temporary threads are now available in AI Mode in Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "source": "Google (Search)",
+      "summary": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+      "category": "GEO",
+      "published": "2026-11-17T17:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "8c69dc623647",
+      "title": "AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work",
+      "url": "https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/",
+      "source": "Search Engine Journal",
+      "summary": "Navigate the complexities of AI visibility. Learn what to measure and how to leverage data for better AI performance. The post AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-17T16:11:24Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "9701f7adf5a0",
+      "title": "Daily Search Forum Recap: November 17, 2026",
+      "url": "https://www.seroundtable.com/recap-11-17-2026-42558.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. The FBI posted an alert about SEO poisoning through malware. Moving a site does not and should not improve a site's quality...",
+      "category": "SEO",
+      "published": "2026-11-17T15:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "02c687186327",
+      "title": "Letaido Review: 10+ Jobs Our Marketing Team Hands to It Every Week",
+      "url": "https://ahrefs.com/blog/letaido-review/",
+      "source": "Ahrefs Blog",
+      "summary": "It keeps our data-led articles up to date, builds and hosts our sites, runs our research, watches our competitors, and plans out our day from start to finish. We’re lucky enough to have lots of credits to use internally, so … Read more ›",
+      "category": "SEO",
+      "published": "2026-11-17T14:28:14Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "028d3b501221",
+      "title": "AI Overviews are taking over the map pack. Here’s what I found",
+      "url": "https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/",
+      "source": "Semrush Blog",
+      "summary": "AI Overviews are taking over the map pack. Learn why ranking in the pack isn’t enough anymore and what your business needs to do to show up.",
+      "category": "GEO",
+      "published": "2026-11-17T13:58:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "1ea084738c7b",
+      "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
+      "source": "Search Engine Journal",
+      "summary": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first. The post Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-17T13:00:47Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "c6a8fc899436",
+      "title": "FBI: SEO Poisoning Led To $28 Million In Ransomware Payments",
+      "url": "https://www.seroundtable.com/fbi-says-seo-poisoning-led-to-28-million-in-ransomware-payments-42546.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The FBI, Federal Bureau of Investigation, has a newsletter named the FBI FLASH, and in the November 16th edition, it highlighted SEO poisoning through Gootloader malware. This resulted in \"over 1000 infected WordPress sites and 216 domains controlled by the Gootloader…",
+      "category": "SEO",
+      "published": "2026-11-17T12:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "f6b0c387d8ca",
+      "title": "Google November 2026 core update: What marketers should know",
+      "url": "https://www.semrush.com/blog/google-core-update-november-2026/",
+      "source": "Semrush Blog",
+      "summary": "Google‘s November 2026 core update could run into Black Friday week, so track your rankings now and hold off on big site changes.",
+      "category": "Algorithms",
+      "published": "2026-11-17T12:48:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "2cb26da7f302",
+      "title": "Google: A Site Move Doesn't Improve A Site's Overall Quality",
+      "url": "https://www.seroundtable.com/google-site-move-quality-42545.html",
+      "source": "Search Engine Roundtable",
+      "summary": "John Mueller from Google said that simply moving a site to a new domain does not improve a site's overall quality. He wrote this on Bluesky, \"A site move doesn't improve the site's overall quality.\" I mean, this is pretty obvious, but sometimes I like to cover the obvious.",
+      "category": "SEO",
+      "published": "2026-11-17T12:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "27f97dfd5e78",
+      "title": "How to use AI for content creation (step-by-step workflow)",
+      "url": "https://www.semrush.com/blog/how-to-use-ai-for-content-creation/",
+      "source": "Semrush Blog",
+      "summary": "How to use AI for content creation, based on the Semrush blog team‘s own process. Includes the research skill we use, ready to copy into Claude.",
+      "category": "SEO",
+      "published": "2026-11-17T12:38:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "792a179db8a1",
+      "title": "Google On Why Serving A 200 Status Code When Your Site Is Down Is Bad",
+      "url": "https://www.seroundtable.com/google-200-status-code-site-down-42542.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller posted two reasons why it would be bad to serve a 200 status code to Googlebot when your site or web pages are down. He said that if your site is down and the page says an error message, that message will be shown in the Google Search results and also, if…",
+      "category": "SEO",
+      "published": "2026-11-17T12:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "4a5ad28dbc54",
+      "title": "Google Local Services Ads Historical Reports Can Now Be Downloaded",
+      "url": "https://www.seroundtable.com/google-local-services-ads-historical-reports-available-for-download-42560.html",
+      "source": "Search Engine Roundtable",
+      "summary": "You can now download your historical Google Local Services Ads reports on the redirection page of Google Local Services Ads. Previously, Google said the download feature was coming and now Google said it is finally here.",
+      "category": "SEO",
+      "published": "2026-11-17T12:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "82cc08552b46",
       "title": "New Google Ads Search Journey Awareness Help Document",
@@ -1602,6 +1789,28 @@
       "impact": 4.0
     },
     {
+      "id": "c6c361c53bc4",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "category": "GEO",
+      "published": "2026-11-17T08:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "e876bab141da",
+      "title": "22 Black Friday Marketing Strategies to Maximize Your Profits",
+      "url": "https://moz.com/blog/black-friday-marketing-strategies",
+      "source": "Moz Blog",
+      "summary": "Discover effective Black Friday marketing strategies to boost your profits. Learn actionable tips to stand out and succeed this shopping season.",
+      "category": "SEO",
+      "published": "2026-11-17T08:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
       "id": "78943ccb2392",
       "title": "We Analyzed 118,00 ChatGPT Prompts from 12,000+ Users to Answer: How Do Americans Use AI Tools in 2026?",
       "url": "https://sparktoro.com/blog/we-analyzed-11800-chatgpt-prompts-from-12000-users-to-answer-how-do-americans-use-ai-tools-in-2026/",
@@ -1629,6 +1838,28 @@
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "source": "OpenAI",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "category": "SEO",
+      "published": "2026-11-17T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "0604bc2b50fc",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "category": "GEO",
+      "published": "2026-11-17T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "58da9c66b145",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "category": "SEO",
       "published": "2026-11-17T00:00:00Z",
       "coverage": 1,
@@ -1668,6 +1899,17 @@
       "impact": 4.0
     },
     {
+      "id": "0a598da8dd31",
+      "title": "GEO vs SEO vs AEO vs LLMO: What’s The Difference?",
+      "url": "https://neilpatel.com/blog/geo-vs-aeo/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways If you’ve been doing SEO for a while, you’ve probably noticed a shift. SEO is no longer the only factor to consider in search visibility. According to Ahrefs research, Google’s AI Overviews are associated with a 58 percent lower click-through rate for top-ranking…",
+      "category": "GEO",
+      "published": "2026-11-16T20:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "f26f2a4dfd6b",
       "title": "Broadening access to AI for scientists",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
@@ -1697,17 +1939,6 @@
       "summary": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny. The post When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay…",
       "category": "SEO",
       "published": "2026-11-16T15:00:34Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bd1db11bb12f",
-      "title": "Daily Search Forum Recap: November 16, 2026",
-      "url": "https://www.seroundtable.com/recap-11-16-2026-42541.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-11-16T15:00:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -2137,8 +2368,8 @@
       "summary": "Google has begun the rollout of the November 2026 core update. Google also had search ranking volatility on November 8th and 9th. Google released a major update to Google Search with Gemini 4 Hydrogen days after Gemini 4 Carbon came out...",
       "category": "Algorithms",
       "published": "2026-11-13T13:01:00Z",
-      "coverage": 1,
-      "impact": 8.0
+      "coverage": 2,
+      "impact": 10.0
     },
     {
       "id": "d139e75f82a6",
@@ -2623,6 +2854,17 @@
       "published": "2026-11-12T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "a045ec708b22",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "source": "OpenAI",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "category": "GEO",
+      "published": "2026-11-12T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "e025024d7e55",
@@ -3439,6 +3681,17 @@
       "impact": 3.0
     },
     {
+      "id": "041eb172e023",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "url": "https://openai.com/ads/customers/vistaprint",
+      "source": "OpenAI",
+      "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+      "category": "GEO",
+      "published": "2026-11-09T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "b8d13cbf8744",
       "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
@@ -4042,259 +4295,6 @@
       "published": "2026-11-04T16:14:00Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "ae12bd18acfd",
-      "title": "Google Search Console Performance Report Multi-Select Device Filters",
-      "url": "https://www.seroundtable.com/google-performance-report-multi-select-device-filters-42457.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search Console has rolled out the ability to select multiple device types within the performance report. Previously, Google added multi-select ability for countries in that report, and now we can do the same for device types.",
-      "category": "SEO",
-      "published": "2026-11-04T15:01:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d405eb2c1580",
-      "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills",
-      "url": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
-      "source": "Search Engine Journal",
-      "summary": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes. The post The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-04T15:00:12Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3a06f84c0f51",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "category": "SEO",
-      "published": "2026-11-04T14:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "581983f9a80c",
-      "title": "Microsoft Clarity With New Agentic Analytics & Ask Clarity",
-      "url": "https://www.seroundtable.com/microsoft-clarity-gains-agentic-analytics-and-ask-clarity-42449.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Clarity added two, well, three, new features today, including agentic analytics, ask Clarity, and brand agent expansion. Microsoft also said, \"AI agents nearly doubled in three weeks to almost 2 million,\" 3 weeks!!!",
-      "category": "SEO",
-      "published": "2026-11-04T14:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ee9087d54a40",
-      "title": "Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras",
-      "url": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/",
-      "source": "Search Engine Journal",
-      "summary": "Reddit conversations help shoppers validate purchases, giving brands a reason to stay engaged as login tests raise questions about search and AI access. The post Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-04T13:00:52Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0c3886600515",
-      "title": "Google Ads New Help Document For Promotion Mode",
-      "url": "https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has posted a super comprehensive help document for Promotion mode. Promotion mode lets you advertise for short-term sales by temporarily lowering your Target ROAS and applying an optional extra daily budget during your promotional window. There is this new help…",
-      "category": "SEO",
-      "published": "2026-11-04T12:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fcc3594901f7",
-      "title": "Why Your Org Isn’t Ready for a Platform-Only Approach to AI Search",
-      "url": "https://ipullrank.com/ai-search-agency-vs-platform",
-      "source": "iPullRank (Rank Report)",
-      "summary": "An AI Search platform can show you that a competitor appears in answers where your brand is missing. The next decision is harder: what should your team change, and who has time to do it? That question belongs in the buying process. A platform demo can make the work look…",
-      "category": "GEO",
-      "published": "2026-11-04T12:43:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "19c691af24bc",
-      "title": "OpenAI Says ChatGPT Is At 20% Of Google Search Volume",
-      "url": "https://www.seroundtable.com/chatgpt-20-percent-google-42451.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI's Adam Fry said \"ChatGPT's volume of search-like queries is now roughly one-fifth the volume of queries of Google,\" in an interview with Alex Kantrowitz. \"ChatGPT has gone from one billion to 1.2 in just the last two months,\" he added.",
-      "category": "GEO",
-      "published": "2026-11-04T12:31:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f9fce156f17b",
-      "title": "Server Side Google Tag Manager To See Full IP Addresses",
-      "url": "https://www.seroundtable.com/google-tag-manager-full-ip-address-42453.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Server-side Google Tag Manager will soon be able to process and see your visitors' full IP addresses. Google wrote, \"Starting January 11, 2027, server-side Google Tag Manager (SGTM) will allow tags to process standard network signals like IP address to facilitate improvements to…",
-      "category": "SEO",
-      "published": "2026-11-04T12:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fd7cd529f284",
-      "title": "List Of Google Twiddlers For Re-Ranking Search Results",
-      "url": "https://www.seroundtable.com/google-twiddlers-42441.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Twiddlers are adjustable rules or systems that Google uses to fine-tune search results. They can re-rank the search results. Twiddlers can boost, demote, or otherwise rework search results based on specific, dynamic criteria, signals, or business rules such as NavBoost, user…",
-      "category": "SEO",
-      "published": "2026-11-04T12:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3c253c7a9209",
-      "title": "WebMCP: What it is, why it matters, and what to do now",
-      "url": "https://www.semrush.com/blog/webmcp/",
-      "source": "Semrush Blog",
-      "summary": "WebMCP is a proposed browser-level web standard that lets any webpage declare its capabilities as structured, callable tools for AI agents.",
-      "category": "SEO",
-      "published": "2026-11-04T10:56:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "373e56b605d5",
-      "title": "How to optimize for ChatGPT shopping",
-      "url": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/",
-      "source": "Semrush Blog",
-      "summary": "How to optimize for ChatGPT shopping: 83% of its carousel products also rank in Google‘s top 40 Shopping results.",
-      "category": "GEO",
-      "published": "2026-11-04T10:36:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "e781e18c9c00",
-      "title": "AI for product marketing (7 actionable use cases)",
-      "url": "https://www.semrush.com/blog/ai-for-product-marketing/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to use AI for product marketing, with use cases for messaging, customer interviews, battlecards, and more.",
-      "category": "SEO",
-      "published": "2026-11-04T10:22:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "a4f4c423c542",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "category": "SEO",
-      "published": "2026-11-04T08:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "dbb56d1e5580",
-      "title": "How To Report SEO Performance When Analytics Data Is Incomplete",
-      "url": "https://moz.com/blog/measure-seo-performance-incomplete-data",
-      "source": "Moz Blog",
-      "summary": "Struggling to track SEO results through privacy and consent blind spots? Learn how to use GSC, GA4, and CRM data to explain SEO impact when the full customer journey isn’t visible.",
-      "category": "SEO",
-      "published": "2026-11-04T08:00:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "75679f5aa60b",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "category": "GEO",
-      "published": "2026-11-04T07:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "6860f667f31e",
-      "title": "Reddit Is Rolling Out a Logged-In Only Experience: Here’s What You Need to Know",
-      "url": "https://foundationinc.co/lab/reddit-logged-in-experience/",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "On October 29, 2026, Reddit CEO Steve Huffman announced that Reddit will become a primarily logged-in site. For two decades, anyone could read almost any thread without an account. Starting this quarter, Reddit will test login walls in select markets outside the US. For B2B SaaS…",
-      "category": "SEO",
-      "published": "2026-11-04T01:01:49Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3c2892a5164e",
-      "title": "Search Central Live in Zurich is back!",
-      "url": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
-      "source": "Google Search Central",
-      "summary": "Search Central Live is coming to Zurich on December 4, 2026!",
-      "category": "SEO",
-      "published": "2026-11-04T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "0a437d67f2ef",
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "source": "OpenAI",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "category": "GEO",
-      "published": "2026-11-04T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "bf25be8f8779",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "category": "GEO",
-      "published": "2026-11-04T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "094549b34808",
-      "title": "Google Updates Crawled - Currently Not Indexed Details",
-      "url": "https://www.seroundtable.com/google-updates-crawled-currently-not-indexed-42450.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the page indexing report help documentation, specifically the \"Crawled - currently not indexed\" section. It now says Google doesn't index all pages, this is a common message, it doesn't necessarily indicate an issue and more.",
-      "category": "SEO",
-      "published": "2026-11-03T21:15:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6a0688bb5a55",
-      "title": "Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
-      "source": "Search Engine Journal",
-      "summary": "ChatGPT's search-like queries equal about a fifth of Google's volume, its maker says, counting each question that sends it to the web. Traffic data differs. The post Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-03T21:13:38Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f1622c73a597",
-      "title": "Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product via @sejournal, @marie_haynes",
-      "url": "https://www.searchenginejournal.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/595484/",
-      "source": "Search Engine Journal",
-      "summary": "SEOs, buckle up. Google says expect rapid improvement from recursive self-improvement, and Search is becoming an agent manager. The post Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-03T20:00:43Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
