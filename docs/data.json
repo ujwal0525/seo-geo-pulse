@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T18:00:53Z",
+  "updated": "2026-11-17T02:49:00Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -849,6 +849,18 @@
       "id": "6251c15b2268"
     },
     {
+      "date": "2026-11-16",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$100M",
+      "title": "ElevenLabs buys Japan's Kotoba in $100M voice AI deal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTNyelp5S2ZJYS1WVWotTzZmRm90eGx2eW1BYUlMWXF4Q3VZRnJMZVVwOTJLYUlVbEhzdTlyQWpwQ0pRWU1jMUllRVk4WUsxQ3JGbjZETnp3OEdaSWZKdzNkbWhEVW04bGxGRXlWV3FIN1hKUHhqTHZHSFZoTXpTOHVNazlxS1hrTXRCTGU4WQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a3aa5b70cdb3"
+    },
+    {
       "date": "2026-11-15",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1531,21 +1543,53 @@
       "source": "Google News",
       "curated": false,
       "id": "2c74221fb322"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Adobe unveils new AI tools for Photoshop, Premiere, and more, with MCP support coming in 2027",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORnpuUFQ0djY4aUFPTWZXZll6UWxJOW0wMndfaG51cWR5U1dNcWFqcl82eTRFazI2MUNCUEFudXJERVowMjJhX0toT3p2S0poel9xVDdyQlVOOTFWdGVMMGdVendQLTlrRUFoV29ONklad0dsZVlxTnNzVklwT0lwSUk3ZVBiei1Yb1h6VERKTHppdlBOdHFyaDdzZERBQThSaWx1eVJaRWp1bzJIV3B3MFBLTGJ1bVdlUWFZVTlCVQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1b29b01aaa3f"
     }
   ],
   "items": [
+    {
+      "id": "0adad73091be",
+      "title": "Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
+      "source": "Search Engine Journal",
+      "summary": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google’s Ask Maps Starts Finding Appointments & Calling Businesses appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-17T01:13:51Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "84a0e87c59a9",
+      "title": "Google Business Profiles Now Lets You Add Facebook Messenger Number",
+      "url": "https://www.seroundtable.com/google-business-profiles-facebook-messenger-42549.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Business Profiles added an option to add your Facebook Messenger account to your Google listing. Google recently sent out emails about this, where they added it automatically for you, but now it lets you manually add it when you edit your profile.",
+      "category": "SEO",
+      "published": "2026-11-16T21:12:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3417376d4348",
+      "title": "OpenAI Launches a New ChatGPT Dashboard. Here’s What It Doesn’t Tell You",
+      "url": "https://foundationinc.co/lab/vol-318",
+      "source": "Ross Simmonds (Foundation)",
+      "summary": "Welcome back to What Matters This Week. In this edition, OpenAI finally handed brands a mirror. But it’s a small one, and it only shows what points back to your own site. Reddit shipped something big the same day, so stick around after the main story. OpenAI Launches a New…",
+      "category": "GEO",
+      "published": "2026-11-16T21:03:10Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "bce9d1120d87",
+      "title": "CMS Market Share Trends: Top Content Management Systems (Nov 2026) via @sejournal, @theshelleywalsh",
+      "url": "https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/",
+      "source": "Search Engine Journal",
+      "summary": "The CMS market is fragmenting, and platform choice now carries direct implications for scalability, SEO, and revenue growth. The post CMS Market Share Trends: Top Content Management Systems (Nov 2026) appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-16T20:00:27Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "f26f2a4dfd6b",
       "title": "Broadening access to AI for scientists",
@@ -1800,6 +1844,17 @@
       "impact": 5.0
     },
     {
+      "id": "3899b6e8ee3c",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "category": "GEO",
+      "published": "2026-11-16T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
       "id": "87d7014c15ee",
       "title": "A step toward defining the Standard Model on a lattice",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -1820,6 +1875,17 @@
       "published": "2026-11-15T22:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "604f1c744039",
+      "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+      "source": "Search Engine Journal",
+      "summary": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-15T11:30:33Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "6930fb6cbd9f",
@@ -4011,6 +4077,17 @@
       "impact": 3.0
     },
     {
+      "id": "373e56b605d5",
+      "title": "How to optimize for ChatGPT shopping",
+      "url": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/",
+      "source": "Semrush Blog",
+      "summary": "How to optimize for ChatGPT shopping: 83% of its carousel products also rank in Google‘s top 40 Shopping results.",
+      "category": "GEO",
+      "published": "2026-11-04T10:36:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
       "id": "e781e18c9c00",
       "title": "AI for product marketing (7 actionable use cases)",
       "url": "https://www.semrush.com/blog/ai-for-product-marketing/",
@@ -4218,83 +4295,6 @@
       "published": "2026-11-03T14:44:00Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "abcd822964cc",
-      "title": "Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt",
-      "url": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
-      "source": "Search Engine Journal",
-      "summary": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post Building A Global Content Factory With AI (Without Losing The Human Touch) appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-03T13:00:01Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "732ef0d89a0b",
-      "title": "Google AI Mode Biased: It Only Shows Links To Google Flights",
-      "url": "https://www.seroundtable.com/google-ai-mode-links-google-flights-42428.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Over the weekend, I tested out using Google AI Mode to get flight information and 100% of the time, the only links available within the AI Mode responses were to Google Flights. I am sure the Digital Markets Act (DMA) folks in Europe are going to like this.",
-      "category": "GEO",
-      "published": "2026-11-03T12:51:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "9bfe901cbf2a",
-      "title": "Google Tests Removing AI Mode Button From Search Bar",
-      "url": "https://www.seroundtable.com/google-removing-ai-mode-42436.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is supposedly testing removing the AI Mode button from the Google Search bar. I cannot replicate this, but it doesn't surprise me that Google would test removing the AI Mode bar for a tiny subset of searchers to compare how it performs versus when the AI Mode button is…",
-      "category": "GEO",
-      "published": "2026-11-03T12:41:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "afab27bd1469",
-      "title": "Only Home Page Indexed? Might Be A Google Search Quality Issue",
-      "url": "https://www.seroundtable.com/google-quality-issues-home-page-indexed-42439.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Is your home page the only page indexed by Google Search? Were other pages of your site previously indexed and are no longer showing up in Google's index? Well, that might be a Google Search quality issue with your website.",
-      "category": "SEO",
-      "published": "2026-11-03T12:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7ce98b631e50",
-      "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries",
-      "url": "https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads updated its How Performance Max interacts with other campaigns in your account help document to add a new section on how \"Performance Max campaigns may also filter out navigational or brand-specific search queries to prioritize serving them through dedicated Search…",
-      "category": "SEO",
-      "published": "2026-11-03T12:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f264aa29fdee",
-      "title": "Google Ads Asset Scheduling With Day Grouping (Weekends/Weekdays)",
-      "url": "https://www.seroundtable.com/google-ads-asset-scheduling-day-grouping-42433.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads improved the asset scheduling advanced options to let you group days, such as weekends versus weekdays and more. This can be found under the advanced options within asset scheduling in Google Ads.",
-      "category": "SEO",
-      "published": "2026-11-03T12:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "9ac622b98859",
-      "title": "Google On How To Block Popups Using Robot.txt In Search",
-      "url": "https://www.seroundtable.com/google-robots-block-popups-42445.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller explained how to prevent pop-up dialogs on your website from appearing in Google Search using the robots.txt file. He mentioned how to do this if you are using JavaScript for the pop-up.",
-      "category": "SEO",
-      "published": "2026-11-03T12:05:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
