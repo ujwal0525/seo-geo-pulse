@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T02:49:00Z",
+  "updated": "2026-11-17T12:50:23Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -825,6 +825,102 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-17",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ElevenLabs to Acquire Kotoba Technologies",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzNHM2lUUlVtcFo1a1h4aEJoRWVaWVVRZi1Dc3NmU0VXUWF6cGoweDkyakU3S0F1VnItQ0FKeGxiSm5QNjJRM2ZiX2J3aEVLaEtxZFR4SUhDdWtrOWdxNG9VaWFMWU5BVVVZS1lFTXk4UjlmaXVXbnFrU2M2eFZ3UEN3alY4aFQ2Ry1qcFlEUWFwLTk3UHlZczdQRi1ZNGM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f902fc4a1dd8"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "$100M",
+      "title": "ElevenLabs agrees to acquire Japan-focused voice AI company Kotoba in reported $100M deal",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb19pZC1OUEZLVUUybmhmUnhxbkswVkRoYW9HSk9SX2pNOGVXQTVTbWhxWUd3MEVaQUVBNE9sM3Jha2JVcUQySjNLTVBVb2MxZnFHVWdydUVkS0h6dlFKcnNBaGhmd21XdFpPOXFBdTY4UmUwS1ZVNElzQkZpa1VVNGhzeUVwUkczc3pJbEVIMEpFbDdwTFhpRzUwMFFTNER6TUxVR0I3TmRJWXV0RFp6a2ZBaU1SYmpKUkRQdVBNMFRmTEtWWm9B?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "888ced6bee42"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ElevenLabs to Acquire Kotoba for Japanese Voice AI Expansion",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEZSTUd5bGUwajdxSzF2Q1VlLW9iX1BWOWxidTRIc1FxQlRZeTR2LXJyX0Y0LS13amRKR0l4SlgyMUF1UWZ1ZTFIQkl4SVhWN3NZUzE0aXltaUhPdlhFWU84dnowU3B5dC1lOGp3QmQ3d2RZc3ROb2VDYjdzd0Y2RnEtVUpHenA4Tmc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "c435c71497c7"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ElevenLabs Makes First Japan Acquisition, Takes Voice AI \"Koto\" Under Its Wing",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IaEM3bFo2Vlk0QzBHRTliV1JPNkpCdUo0c1FPbW5iSGZ4S3ozRWViLWJZUFlnOHZLUENJeWpCTmlfeGVpajZtaUJPNVBlaVN3eU43Z0R4cUozMTB1bWJxTmtQcTlWcU5jQzJnNEtnemthWjJJWHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "36d49249337b"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Japanese Voice AI Startup Kotoba to Be Acquired by ElevenLabs",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wR1ZlcWsxQXh4cTlWRDN5ZnBjYVdRNHRDREROeUVtYV9mdnMtY1IxYmJsRDFXZkdhQjV5WW1RNmI4UEI3aU9YWkJRTTdMeFVieTlR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f746bc7cf220"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Synthesia",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$30M",
+      "title": "Synthesia and Datadog CEOs back AI startup Remanence in $30M funding round",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUdEQk5jYjNWZ1U3YjlMOWYyMF9jTTAtOHZkV04xSjZoYlZMam40dEFfaVBJUUpEZHY3RHo5TmVRa201Q0g2UktfMGRQZ3pyaTNfRTNpSExHQXFMTHNPVWpXN3BaOUFydU43SUxIaXY4dnpHU2R2YkVBdGJXTXVvcXE5Z1ZMODVmY21OeU1mOHQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "9027f6b202c6"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Seven Acclaimed Korean Directors Team Up for AI Films at 'The Collaboration 2026' This November",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVFVMMnRyQmhxRzJPdHM1cUN3cFFIdUxRcjltbTFacTNBSXZ5bFZ2Y0FIa0ZveTEwOFhQOUMwTkZoTTlBbDJFeldFaFZCeWtIcS1BNHdSYVlQeHdWQWVtZURHdGNWbzF3M1B2enJ5LTN1YWpWVWM5OGFFdVJPeDNFVlFXZUNqTjBDT0VmaklzMUN0YXlTMFM4b1VCR2twZl9QOGw3UHhqeVY3UHJJNzRkTmJEUXVWUnJzRzRuOWtuZWE0NFFNMDBKRjdjdnF3dw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5f874541de51"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Partnership",
+      "detail": "",
+      "title": "New data shows Australia is one of Figma’s most collaborative and AI-forward markets—signalling an advantage in the AI era",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTndSOGZrU0w4NWJDTFFoWmd1bFVpY2tGTFh2cWppQXdnR25XU01hd2R4QnM4OVJQTG5GcjZ3VmRsTDFGUWhjRVJDektOWHdKN3dHRXdfVlQ5QW5PYU51TjFXYWJONzQyUlhwOF9TYmtnZDV2dEF2MDBvT2JBZi1rSl9wdEpncnM4MVRrRFB2dUFKWlVfdWZNN2pXZ3Itb1VsdTN0SFhrZkdieHRlT2pfU0VUWEp6MldhaGtCZHlVS2ppRExkdWRqSGNSNVpCZ0R4OFhENHBpNjExX2Z4TC1IMzltbUVZdEJVLUVhdGp0MXFBb3VMSEE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ada9aeeec61f"
+    },
+    {
       "date": "2026-11-16",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -861,16 +957,16 @@
       "id": "a3aa5b70cdb3"
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "company": "Runway",
       "front": "GenAI Media",
       "move": "Funding",
       "detail": "$1 million",
       "title": "Great Salt Lake-inspired fashion collection hits the runway, raises over $1 million in support",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0hfY3U5TzVWT3AyeE8wX0pjQVFGOURuNDRQRzNVRHU3UUNhSTVnaU90dkFpSXpKV1UwWEVyOXo0bHRMRlptYTVQTWNrbkhMbVAzenVyUjJOcW5lbUZwRF9wai0yNjFPaUZmaUh5dVNhTzJYQ0N2SmxyT1R0LUJCMFZSTlB3dXQz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWU53NnFmeGJteEd1aGFZRkw3elJ1NV9JTGpZUUdId2xBblBQa0gxZmR2Y2xHY0ZlNUUycV9taHFOdV9US1laaG1PZ0lyQXA5VW5VV3lrMm9ONmE2eWtNT0hXTFVqNlhsYVUtNU02blhMUF80TmZQTVROM1pFUkF0dzFnQUYzWjhBVnN4bUNFcXY3bThXTl81RDZFeHZuQ094WS1v?oc=5",
       "source": "Google News",
       "curated": false,
-      "id": "f02e88ddc7eb"
+      "id": "a553ea4f14a6"
     },
     {
       "date": "2026-11-15",
@@ -1447,105 +1543,75 @@
       "source": "Google News",
       "curated": false,
       "id": "63ab1563ef0d"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "3,060,796 Figma, Inc. $FIG Shares Acquired by Pictet Asset Management Holding SA",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWNpMlIxQVMtaWVFVEk4bmxRcjRSMmVGaW5hWHlsOHoxUnB5SHh5YkhQLTB6RzY0VW1jX0tMNk5fdWIxMXBmbmFubkJjLU1icl9iX2pwTUJDa3ZFTHJnZm1iM0J2SXVLa0pYSUhJaW5CUmsxbVN1OHZ2b2xROVE5Z0NsTGNyZS0wQTg0NWlPQ2lTWkRabVNUTmRNT0ZiSkZZOFFFMWl2MWFTTERYU29zYkFkZFhuZ1VnU2ZySHNZSk51dFh5UVVLS0NKcHhkM3UtcFE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "df0dd0479566"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Guardsquare buys Runway and Bugfender to cover more of the mobile app lifecycle",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkJCMkxXUG1FRGdRcDB2VFZDcEZNbzVSUUNFc19JNlRlc2NSMTY0U2tWbmh0cGgzdW9BdVRud3ZBU0xXMDFmYTlrV0FUdDBwcVBOaVpMOXp2NEw4ZXRFdjY1MVQ1a0VDVktHVzVaal9HdWZfMzg2am1UdGtXU3p0d2t3ckdvdUtDTzQ0bDFUS0JkVEFBM2lRemZGWkNaUzVITXZreHpoZmZyUmF1aXU5MGdqTQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8ee81baededf"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Adobe unveils AI agents, new tools, and expanded partnerships",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnJRYjR6a3BTTDNpTmF3OHJOYkp3R0plMHc4U253eG5MYUl6QzZLUFFWeElhSFdCY2tLbzR5ZHQwM2ZDOHFKYVROUGoxN0E5QldXZG5rbS1BZEx6WWJYMHgtRmFWTTJXWjBfZHVkWmFjSGVvMUREV19GRTdiZnVmSzZQQkVSU01RMm0tdm04emNoYmZqUW5ZVGVsWnZ5a3BLdDQ3dGpkQl9wTWlkejZVTmwxTmg4UXN6bkxRMGdBU2Vkdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "22581af2b2d3"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "The Habit Burger & Grill partners with chef Olivia Tiedemann on new items",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlZyb083LXJPT0QzaUtZQ0Jaay1JYUEwYy0zMnU2SFpORGs2Q1dwc1czNVcwVzBWN0N6Q3M0MkNLSlJjWHdLRXZKTnFKSkk3RWFWQWJyZnM1ZTgyQzkwdXBKa0VkdWZab2RKMHF3c0pLczE3cnI4aU9LM2RYcnlDTFp3SWRZTUptZEJGQXQ2Y2JpNi1qbTEzdHdmamVtMlp0cE5qc3ppbVhBaVRLWWJj?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "bc2129fa7864"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Figma and Sanrio Celebrate Hello Kitty's Birthday with Playful Collaboration — LBB - LBB",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44ejA2ZmtxTEYyZURUOGlyZHJsSGthTHJIYkpQektjZmdhWGpWLXZlcm5PRVVnUjN6WDJ4S0tIR1VhT2tQU1QzRkdsTjF4aHNhZXM5TlJUZkp6SGxLWldsOFdUemVEakEyN3lPWEJKbUtib0U?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "017188e995cb"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "INO: VOCERYQ’s FDA approval launches commercialization, backed by new financing and runway into late 2027",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOLVBuQWVlX1p4UjYwTEpZSk1RVUhpSXBwYXRsVFVVVGVpc3BhdUNhbFU4Sk40cEdZZ1h4RlYtYU9pcVhQOHhJakV4TUs3cUd1ZnZhUHV4N29WTnFteGJFaGlUXzNRelQ3Y3gwNF9RZl9vTXVzS29aVjBlV0o2eWxaVGlxcGlNQTI3XzZ5NG1zU3VRbV91OUZjY2tkb3hGNjdGd0tmQzFWbkpsVXJKaFI5OG9SYXhlYWkzeW5tWW5OcVQ0Zm5wTm1LUXJVaGxlbTZsZmIyTEtmeFlURjVURzlMUkRXdzVzOERuMUlfZWJJYUFObmQwQ1ViTlZ2WDE5TWl6RnNWZERLTi0xbVNHTTNpeG1qMG4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8ee30bf23dfb"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "PUMA unveils the new winter ball for Serie A",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWtTSFBIaWQ2U2dpNkxZMXVQT1dOUUF2RnRPTFYzYm0tbjY2cjAyTkJ0ZEJkME9jdjBuWlFOdHV1eDNPYUlhZ3hGVmFySlllelZsYkRiZEpJUDRJVXpPcmpDdmFRbURWRlJpZmI0Wm9jYm54c002QjNMV2p1aTIzQWVLYw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dbd13c36ef8a"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway Releases Praxis-1 Robot Model With Open Weights",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcVYxekVqcmhKdW14bjR1VmpfaWVLUFNWN0R6RUhYZU9Rblk4TVdSODJKWTZ2WnRJUGUtZ2k2YTJpcHdKb2NzNEpfcmI5MWl6cl92M0NVdEhRSXdhSUNLdnJJaWZZejRKdTktOUVnQVhMWVB0aHJUYlFLSjllZmYwUUY0dmhXcU5DemdrNy1EaElMUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2c74221fb322"
     }
   ],
   "items": [
+    {
+      "id": "82cc08552b46",
+      "title": "New Google Ads Search Journey Awareness Help Document",
+      "url": "https://www.seroundtable.com/google-ads-search-journey-awareness-doc-42551.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads posted a new help document named About Search Journey Awareness. Journey-Aware Bidding is not new, but I believe this help document is new. Google explained, \"Search Journey Awareness is an improvement to Google Ads Smart Bidding.\"",
+      "category": "SEO",
+      "published": "2026-11-17T12:15:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3396af12863f",
+      "title": "Google Ads Brand Guidelines New Add Visual Guidelines",
+      "url": "https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads added a new option under the brand guidelines for Performance Max campaigns to add visual guidelines. This says, \"Now you can add style references and preferences to help steer how images are created and enhanced for your ads.\"",
+      "category": "SEO",
+      "published": "2026-11-17T12:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "6ea20cd48cbf",
+      "title": "New Google Search Help Document On How To Allow Google-Agent Traffic",
+      "url": "https://www.seroundtable.com/google-agent-bot-42559.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google released a new help document on how to allow Google-Agent to have access to your website. \"Google-Agent is the name used by agents hosted on Google infrastructure to navigate the web and perform actions upon user request,\" the document says.",
+      "category": "SEO",
+      "published": "2026-11-17T12:05:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "947f65b85906",
+      "title": "Google Tests Sign In Protections After First Search To Block Scrapers",
+      "url": "https://www.seroundtable.com/google-sign-in-protections-after-first-search-42557.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has been testing numerous ways to block scrapers and third-party tools from crawling its search results page. The latest effort seems to require a user to sign in immediately after the first search. But Rajan Patel from Google said on X that he will look into this but \"I…",
+      "category": "SEO",
+      "published": "2026-11-17T11:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "d5a00b328719",
+      "title": "Google Adds Branded & Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
+      "source": "Search Engine Journal",
+      "summary": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded & Multimodal Data To Search Console API appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-17T08:00:55Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "78943ccb2392",
+      "title": "We Analyzed 118,00 ChatGPT Prompts from 12,000+ Users to Answer: How Do Americans Use AI Tools in 2026?",
+      "url": "https://sparktoro.com/blog/we-analyzed-11800-chatgpt-prompts-from-12000-users-to-answer-how-do-americans-use-ai-tools-in-2026/",
+      "source": "SparkToro",
+      "summary": "For the last 4 years, the practice of AI visibility optimization has been in the dark about how many AI assistant conversations are relevant to digital marketers. Today, thanks to the panel of data provided by Verso, who makes opt-in, anonymized connections to OpenAI, we’re…",
+      "category": "GEO",
+      "published": "2026-11-17T07:21:09Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "0adad73091be",
       "title": "Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
@@ -1556,6 +1622,17 @@
       "published": "2026-11-17T01:13:51Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "590cb0b9c5dd",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "category": "SEO",
+      "published": "2026-11-17T00:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "84a0e87c59a9",
@@ -1776,6 +1853,17 @@
       "published": "2026-11-16T10:00:32Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "f054a54f8228",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "category": "GEO",
+      "published": "2026-11-16T09:30:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "91e58e2ea930",
@@ -4207,94 +4295,6 @@
       "published": "2026-11-03T20:00:43Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "4a37f9feca4e",
-      "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
-      "source": "Search Engine Journal",
-      "summary": "Google says ad tags in server-side Tag Manager will accept full IP addresses while Analytics tags stay redacted. Here's what changes and how to redact. The post Google Ad Tags In Server-Side GTM To Get Full IP Addresses appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-03T19:30:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c6e4caa30af6",
-      "title": "How To Create Demand You Can Actually Convert (And Prove) via @sejournal, @duchessjenm",
-      "url": "https://www.searchenginejournal.com/how-to-create-demand-you-can-actually-convert-and-prove-recap/595044/",
-      "source": "Search Engine Journal",
-      "summary": "Discover effective strategies to generate demand and measure results for your B2B marketing campaigns successfully. The post How To Create Demand You Can Actually Convert (And Prove) appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-03T19:04:28Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "db54022ea56d",
-      "title": "Rank Trackers Find Google Results About One Word Of A Query via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/rank-trackers-find-google-results-about-one-word-of-a-query/595798/",
-      "source": "Search Engine Journal",
-      "summary": "Rank tracker data shows unrelated Google results that follow one word of the query, mostly below the top spots. Here's how to check a drop. The post Rank Trackers Find Google Results About One Word Of A Query appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-03T18:25:17Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "79ba20dc2b1f",
-      "title": "Every OpenAI Publisher Partnership, and How Often ChatGPT Cites Them",
-      "url": "https://ahrefs.com/blog/openai-publisher-partnerships/",
-      "source": "Ahrefs Blog",
-      "summary": "Each deal works roughly the same way: the publisher licenses its content to OpenAI, and ChatGPT shows summaries of that content with attribution and a link back to the source. That makes these publishers some of the most visible sites … Read more ›",
-      "category": "GEO",
-      "published": "2026-11-03T17:03:55Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "628c143e49dd",
-      "title": "Google Performance Reports Showing Weird Spike In Clicks For Some Sites",
-      "url": "https://www.seroundtable.com/google-performance-reports-spike-clicks-42448.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Search Console's performance report is showing a weird spike in clicks for some sites over the past couple of days. It is not impacting all sites, and it might be a bug, but some are seeing this huge increase in clicks reported by Search Console.",
-      "category": "SEO",
-      "published": "2026-11-03T15:54:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6fc3e3866da9",
-      "title": "The 25 Best AEO/GEO Experts to Follow in 2026",
-      "url": "https://ahrefs.com/blog/aeo-geo-experts/",
-      "source": "Ahrefs Blog",
-      "summary": "Research is how you answer these questions, and how you keep up with what’s changing in AI search. These are the 25 people publishing the most original research on AI search, and the ones worth following. I started with a … Read more ›",
-      "category": "GEO",
-      "published": "2026-11-03T15:19:41Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ca472fdb5455",
-      "title": "5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/google-favors-high-ad-strength-rsas-but-lower-rated-ads-convert-better/595478/",
-      "source": "Search Engine Journal",
-      "summary": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post 5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions appeared first on Search…",
-      "category": "SEO",
-      "published": "2026-11-03T15:00:44Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3d40f8e88616",
-      "title": "Google Will Turn Off Google Search For K-12 Schools & Testing Learning Beta",
-      "url": "https://www.seroundtable.com/google-search-off-k-12-schools-42447.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google announced it will \"entirely\" turn off Google Search, along with Gemini, Gemini Notebook, and Gemini in Classroom for K-12 schools. \"Access to these products will be entirely off for K-12 student accounts until school administrators explicitly turn them on,\" Google wrote.",
-      "category": "GEO",
-      "published": "2026-11-03T14:44:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
