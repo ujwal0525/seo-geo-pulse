@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T23:23:00Z",
+  "updated": "2026-11-18T06:13:45Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -825,6 +825,90 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-18",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs launches Scribe v3 Live Medical for healthcare",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGVSWVFfaUs2el8taGU4UW5WODI5ZUgwUTBqWTRCTWZUV191MXNVVHBla0dueVBGMHlMSlJBSmh3ZW1nVVBES0FIdmtqX2t1RE5ocm5XTFBsaGpQeEdIcEZBMi11c21mbVVrLU9maWp3UzNsZXJiWXRmUmhzSnFFdjJ5THJMVEZ4UUlZYXRNOUZfdEE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "6f84610c957b"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ElevenLabs Acquires Kotoba to Enhance Japanese Voice AI Capabilities",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjcm95WEJscXFTUTNHRTJHcmdKUV9jcW1XUnVoWDRYalRubGo3X2MxUG1mUHlDZm1JTVhPbDBUVjN4NXptOVFmVUdqR1UtU181bEdDYTdINzlpcnVQcTNhaDRna2hGcTZ0dnlPQ29Vczcwc2Y2bVV6cnBpclc3UQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "fb30867e052f"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ElevenLabs Plans Kotoba Acquisition to Expand Japanese Voice AI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UTnNBaG5VNHo0QXB5LUxrMEVuVmhUTGZ5Rkw5YWtndVl6aHI4bVpaNG0yZVp0bDdsaWNDWDA1S3V6V0hscVFkWnNLRzU0MFpjT3ZiYnpRVkQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "67260fd3fa86"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "ElevenLabs to Acquire Japan's Kotoba Technologies, Expanding Japanese Voice AI Research and Local Rollout",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uSGh2dlI5emFZWjVHMHRSVUNGM1NJYTdxZk81TkROeGk3cE9CLWhYN3NxQzg3SE5tZGdfdmk1eDJuemJRazF1QkJTenhPam5ZazNxRWhmcVJ3RE1TSEpMb185UUIxOFpyY1FLNml1Smlodw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "035fec108837"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Launches Kling Image 4.0 with Photographic Realism and Native 8K Generation",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ2RHOWhBWVZZcVhNTm5CdTRnMnpNUVc5N2VBUFRiZFRRTVFLNTBLWlFKSGVTa1k1dTd5aDNIczZCQkdTZFhwdzhPYjl5SVFrRVNMNGgwOTV3bEZMWFpzOXI3NnNJbFZJMTZMMWFfcmUtOUJfR21TdHZsVUw1TUozd0RTWGtRTzJpMW55VXBfYWRqYXIxRFFUbDV1ZGl4SGdkRGV5Sjc2bDBDak5jV2JXQzZkYVNxdjF2QVlpTFhONzQ4LXFtbVlXdUdWSGl2ZVhtVHFSOWdwUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "95dd3a8fc07f"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou's Kling AI Launches Kling Image 4.0, Supporting Native 8K Resolution and Up to 2,000 Characters Per Image",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91NjVlX3gwRmV3UFRGb25xR2dRSUhJaUR4NFBPc1FJUERvREd1TG9ab3pFTWJ0Z2lfREwtNHFVbFBFSUhDbC1aQUdCNXFpN1IwSFB6cV92ZGR5NFA5Z0puSThUb09TREJuVWlRcHFwcGt3VEFxZEE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "dce65d231f41"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou launches Kling Image 4 with native 8K output",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSGUweDhJTlo0d0JldnN3MmJUTWlPOFAzOTkxQV9IOFlPc3A2UndDeHhFbkMxU0d6NWhNdWJQMlVBZDNMOTJzMGVXc3lJOGRLX3ZlckVyUTdzRW52SWxZMDBPNUhPMTNMYW9tQ1h0eUs3N0JwZzJjNVZkdDI1eVJfd1l6cw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "60de758831f6"
+    },
+    {
       "date": "2026-11-17",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -958,18 +1042,6 @@
     },
     {
       "date": "2026-11-17",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kling AI Launches Kling Image 4.0 with Photographic Realism and Native 8K Generation",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVI4cVBuemhTeDI5M05FWlhOcmIxV0xKUG91OElzUEVERkN4c0U3SUxZYjlWb0piTUNGb0VEYkowOVpxUERCRXlpdVpJQmVSeUF1bDJTbTlCdnJaeEYxLUdHQXBkY3JJUm5UYmhYeDRhdTBYZG9UMmNoRU5RV01MX0xXclVrWkY1anloTVlKUHJZOWJEMFF2YUVOaUdwTzBIaXNVcDNVeFRpRm5TaU15am03enFzbjBKT1VMaFd0ZmoyMkJhQXdPalZSdXNJdFZ6SG9Taw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "afe193cb3996"
-    },
-    {
-      "date": "2026-11-17",
       "company": "Topaz Labs",
       "front": "GenAI Media",
       "move": "M&A",
@@ -1015,6 +1087,42 @@
       "source": "Google News",
       "curated": false,
       "id": "c20af8225427"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "HeyGen",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "HeyGen Introduces Avatar 6, an Audio-Driven, Context-Aware AI Model that Alleviates Repetitive or Unnatural Motion in AI-Generated Video",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPTHlPcVpoN1VtYzQ2MUtzblNRWmcwWE5RaFg2SG5Nd0FWMExpUkFhRkozenF2MDViYzhKSFlEdnhZZGNIOFBoZ3pobERNVkNCajRReGpaUWRzR1Q0b0NZZnNUZ1JDWVZWbUE1cktJT2g3RWRPTXk1aHJlcU5YRVZ0d2RscnhEVWZEeG9paE42WnlTeVgxeDVWaEl0SkNtQ3BTSEgtUjhFTGhlNURqeU5CT1Zmbkh1X09RZ3lyTUxQRU9QVFVRR2M2QVB5VjFNTHo4bEUxVE9LNUptNmUyX3hfUUZmcTh3U2N0endLb25JWnhfU0tNSEZ2a2xUQXZMRGV2UGxiNndNbUZxOUZsZEw3Z2NUdHVxcVdENGc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "62dcac0f51da"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0Zha3ZQTEw5QXlEX1BaWGloUmxtQVJqWFpTc05lQVRKaWVOZlRKNkRmZFNUSG5xUlZmcGNXQ3A5ZllLbk9uRWRoSjdCRzk2WFlVOWNVRWZXVE9jRWg5YnpNUHRzOVhpbmt6NzF5Z3J0allPbDdYZzRuWEZ5S05zZTVod3lsUnhYZ0hlbldFaTBhSl9BYnpvUzN4NGNhbmFBQ05TOWhB0gGrAUFVX3lxTE0yNE9NNjJHS0UzbS1QNXhzdktKLW1fMFkwLVpYa1R6bkwxcmc0LTVzN1VvRzBkTllXWWl0d0RwMXFkLXNZenlERXktN0cyMnpTbzJKaWVjR3JvTnJzX1RiVnBreTk0YlQ5Qi1PU3k1YmlQV01HdWFfQW85MmFwc2V5TTdBdno4UmNCNjhPMGdRWXpaUlBJWjJ2OHVqb2hrTm13WTFfNWgxTVZxaw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3bc1fdb9b9bc"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Meta debuts Muse personal AI agent in Australia with Canva, REA, Kogan, MECCA and Ticketek connectors - Mi-3.com.au.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjN1ay1VODEyUU9nMzdQajdpS3J3V014MW9wWU4xX3dQYTE3Qm03Znp0VmZGOWctdy1HZzRlN3QydmYzLXQyT3dYZDFEYkxualB3aXd5aV9aZ2M5Z3kwdmZtUXpmWjNHSHp2T0VnZnplUWFlSVh1U1dsSDZneWJfWnprQWxldkpwbHpwMG56NEZQcjd6VDl0ZXIxZFh1ZmNlcjZsZC1qTTl3ckhSblVtbUVsMzU?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a95fc9a3916a"
     },
     {
       "date": "2026-11-16",
@@ -1063,18 +1171,6 @@
       "source": "Google News",
       "curated": false,
       "id": "a553ea4f14a6"
-    },
-    {
-      "date": "2026-11-16",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0Zha3ZQTEw5QXlEX1BaWGloUmxtQVJqWFpTc05lQVRKaWVOZlRKNkRmZFNUSG5xUlZmcGNXQ3A5ZllLbk9uRWRoSjdCRzk2WFlVOWNVRWZXVE9jRWg5YnpNUHRzOVhpbmt6NzF5Z3J0allPbDdYZzRuWEZ5S05zZTVod3lsUnhYZ0hlbldFaTBhSl9BYnpvUzN4NGNhbmFBQ05TOWhB0gGrAUFVX3lxTE0yNE9NNjJHS0UzbS1QNXhzdktKLW1fMFkwLVpYa1R6bkwxcmc0LTVzN1VvRzBkTllXWWl0d0RwMXFkLXNZenlERXktN0cyMnpTbzJKaWVjR3JvTnJzX1RiVnBreTk0YlQ5Qi1PU3k1YmlQV01HdWFfQW85MmFwc2V5TTdBdno4UmNCNjhPMGdRWXpaUlBJWjJ2OHVqb2hrTm13WTFfNWgxTVZxaw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "34ec62ab6aab"
     },
     {
       "date": "2026-11-15",
@@ -1447,105 +1543,31 @@
       "source": "Google News",
       "curated": false,
       "id": "8269b9159f8b"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Press Release: IAG launches media and ad business, IAG Media",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0tZV3Q4aW11RGhlb0JtRE5IeVdySVVEZTYyZ3Z0blpCUjdLNHhnTjU0cGZsdV9DX0Zwd2Vkd0dzdV9NRTFOSWxSVklyTHM1azduUm1sVmNXZk9tUjZtbFBHMWQtTjZTS3hNRF9fOUJFQW1IbWJTOWRHOXNhZFdrOVd1V1UtQVZGQkFkVDAxbW9nVXgwYXVR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b3e457af47dd"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Framer",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "HomeView review, new Apple TV launches, Apple holiday ad",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yM2F2b2dVblJWVU5EQ1V5VWpZbW5rQmNwY1plZ2RrNGNFWHlKUno0bDZnUlRQZTVfakNGWFlFUUxPQm5RM3RQNzdaV2YtX0tkVlNvT280RFZPdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "242acb2c7267"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Shutterstock",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$410m",
-      "title": "Minerals 260 secures $410m to fund Bullabulling gold",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVlBT05xWllMWXZFTDNLMkswVXRRbTdHREZsbWpjS01kT0FnVXdHak8yeWdjbXZSYlh0UUxhWHVyZ1JqeFBJcGxOWUhPT05IQWpUMU9EbW1JRFJDNkV6b0lFMzdNTjduWEdzbXpEMWJJYmxRc2hYcFJYY1FXMXlzUldha2xhQnZXNThjQ0E4a2IyZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5571ef1ac6f8"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Expressing the culture of ekiden through traditional Japanese beauty. Puma unveils the captivating “Ekiden Pack.”",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KT19aWVh4R3U2UktjN0s1ZXJKTHJLbm43bGYxMlBNTU5fekFuek5jREx4SjFOZWc1dHBNVHRFT1ZoOTE1WmRUVmY5aFQtWHZWNkVR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "f0dafa2d1c7e"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Praxis-1 Is Now Available",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5acXBiLV96NUFWbm9pRmRKR0ZsX29pMDljZ09HSm5XWWJpUXBjNU1pR3ByT1k5alVVOWdtVllWcWRXQU80Y1I1d0JEaVh1dWlFSGJsb3VwY2JqRkY1ZGVlTjRzcVpKVGJRV3prTHl1bw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "30d1ffd1d99e"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "OSHA Releases New Battery Safety Resource",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQm5sdWJoMzRJdXNqdjZ1ay14alNJUDlBSVBMcXJzR1hCQUg2TTE2c1JocWFhcjVTVEdjZGZRNG9KQjhQNlVYTFM2c0h6ZHVMSjdZdG9FQkRKUTdkRTExWWhTZm9aMnIwLVdqMEVhbl9xT3hYUHlobVdLcGk2SlRTWURlbw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ce6f1c51e6af"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E-Commerce",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0trckF1emRqSm1aU01NTjFybzh1R0lkNGRRWlJaSVhGelVWT1ZYTDltZkFOdzd1MTVRWE5xeDIxUFpGeHlvaTh6TEFQNjdTVEJKS1lNV3hmZ0FPcWFvcTYzUHp6Q2JzODZpUGV2eVpRNFBVSDhxY0U4Nm1oMk1NdFJkQkJKRnhVRjF6MU0zekdjU3dZaHVEUFh6cU1pQXRZMC1sUjlSS3RESTY4MXRIWWVNQUNJQTM4alROWGdGbEJGMFhsenc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "85ceac983e8b"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "AI Audio Startup ElevenLabs Expands Nvidia Collaboration Amid CEO Jensen Huang’s Affair Scandal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDRibWVmOWpmc2oxYmk1eUFXYVdqTWVtdmt5LXRTTE5ueXhpRGR4TWhqM2tNNUszZjVnQ3RmUEw5MXZQUFFyY2E2SEMwem5FYmRYQWp0TWd5MzNWdTh5MUtVajMxbVJnU2pwRC0xUVI5MXhtZ3BZLUpucXdtRGI5dnp0N2RCVko5R0Fvd3B1Wlg2dnZPSXFjZWFpVHIxR1drRkFEbmlISFg?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "5e28d031955a"
     }
   ],
   "items": [
+    {
+      "id": "a6c8f8489666",
+      "title": "Google AI Overviews With Unfaded Citation Block",
+      "url": "https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to have rolled out an update to the AI Overviews on the Google Search page where the citation cards or blocks on the right side are not faded out. Instead, the citations are fully visible, and you don't need to click into the AI Overview to view them fully.",
+      "category": "GEO",
+      "published": "2026-11-18T01:36:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "dae0dd65d8b1",
+      "title": "Google Tag & Google Tag Manager Unification",
+      "url": "https://www.seroundtable.com/google-tag-manager-unification-42562.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This past August, Google announced the unification of Google tag and Google Tag Manager. Well, today Google posted a Google Tag Manager release not about the unification. It is titled Google tag and Google Tag Manager unification and dated on November 17, 2026.",
+      "category": "SEO",
+      "published": "2026-11-18T01:16:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "0837c539ed86",
       "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
@@ -4273,28 +4295,6 @@
       "published": "2026-11-04T20:00:00Z",
       "coverage": 1,
       "impact": 1.0
-    },
-    {
-      "id": "7b870a80c9a8",
-      "title": "Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
-      "source": "Search Engine Journal",
-      "summary": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales. The post Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-04T18:00:49Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "1184482762a0",
-      "title": "How to track ChatGPT visibility: a practical guide",
-      "url": "https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to measure ChatGPT visibility, track brand mentions and citations, compare competitors, identify gaps, and improve your AI search presence.",
-      "category": "GEO",
-      "published": "2026-11-04T16:14:00Z",
-      "coverage": 1,
-      "impact": 3.0
     }
   ]
 }
