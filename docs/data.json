@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:33:49Z",
+  "updated": "2026-11-19T22:56:36Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,46 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-19",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Search Officially Rolls Out Collapsible Sidebar",
+      "url": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "be99039199ec"
+    },
+    {
+      "date": "2026-11-19",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
+      "source": "Search Engine Journal",
+      "curated": false,
+      "id": "0573e89c3b25"
+    },
+    {
+      "date": "2026-11-19",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Hotel Search Listings With Continue On Google To Book",
+      "url": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "df1fac159ced"
+    },
+    {
+      "date": "2026-11-19",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google AdSense Unifying Policies Into AdSense For Search Publishers Policy",
+      "url": "https://www.seroundtable.com/google-adsense-for-search-publishers-policy-42573.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "b8dae0bdc103"
+    },
     {
       "date": "2026-11-18",
       "family": "engine",
@@ -782,46 +822,6 @@
       "source": "OpenAI",
       "curated": false,
       "id": "1b1f7660aacb"
-    },
-    {
-      "date": "2026-09-15",
-      "family": "model",
-      "platform": "Gemini",
-      "title": "Google Search Live Now Powered By Gemini 3.8 Live",
-      "url": "https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "e8fdf9fdf1f0"
-    },
-    {
-      "date": "2026-09-14",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google AI Overviews Practice Knowledge Quiz",
-      "url": "https://www.seroundtable.com/google-ai-overviews-global-general-knowledge-quiz-42054.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "8fe08b6c9e39"
-    },
-    {
-      "date": "2026-09-11",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types & Google Maps Photo Scams",
-      "url": "https://www.seroundtable.com/video-09-11-2026-42061.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "2bc94e4807ea"
-    },
-    {
-      "date": "2026-09-11",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google AdSense Max Message Coverage & Optimize My Consent Message",
-      "url": "https://www.seroundtable.com/google-adsense-maximize-message-coverage-optimize-consent-message-42069.html",
-      "source": "Search Engine Roundtable",
-      "curated": false,
-      "id": "39791413139e"
     }
   ],
   "competitors": [
@@ -848,6 +848,90 @@
       "source": "Google News",
       "curated": false,
       "id": "f43b884b4adb"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "City of Richardson Renews Startup Runway Partnership at The IQ®HQ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV00ta2Y4VGZIVkl1N1ZaenF5Q1pjeFRuR2tnZHdJcTVRcGRfZWhuT1VHMGFfWDJGX3RGbGhTOUVYeEUyV0F2RHNzOERmZ0c1ZGVfaGVrem01dGE2ZEJfdzMwVndSbDJObHR2ckZCbUFjVkZiNnRqenctZi1ZQUxzd2pVMGh4MzBRWmlMa3RzbG52X2RxS1NGcQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "69f806f66ff0"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Richardson renews partnership with Startup Runway to bring global business to city",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDIybEZSeGotdmE3dmFQZUpGaTlMaUJNUDBUOXAwUlVPOGltVDhCamlfdFhKa1h1SjI0eVh0SXliLWhsR3lvaFRtX2VpSXhYbzFXT1I4ZEJ0LTFuSWo4Sk51WEZ1aXlVLVJRLXdSSG9iazVqUF9iR1Y1VFJlanZJWU80QkQ2V2RoT1VWQzJibEt3OFFlWThGTVMzZHprQmtLVHZ3QTU2R2FRZFV2WUhBMmN3SElITlFnUFB5cURFSFN3NWpYZy1QNW5xUQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f40f41a0fdaa"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Press Release: Emirates unveils new First Class Lounge in Dubai",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1ctN3pVeklDTEt5bVlpM3RHYVA3QUF0VHZkdFNRZmJVRmRVeXdXWG9QcmUtVUJKNUhfTXZEV0FPWFNUYXllTFptNFhTekxIbXE3bDQ1VzN1N3NaRU5fQ3ExTXMxdDFsVG0tRVFla0RLcERDcTdaelplYUZlTVNFRHZrOUFFUFQ0WlNQcDBIcWg?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "89ab5821b2aa"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Nakamoto Forestry Introduces Pika-Pika® Weathering Stain Silver",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWhSbFU0ZjRRS002SU10ZGdReTYwMU1YdWRDa0V0UnFGTnJaQkFNYWF0WUZRWllKS05JV0JOdU1LWHIwSFljYW9HeGZNR2hHZ3pIUjNJeHExcU0tRGp1c3FJcFRCa1FORUFLbjVIa1h4cFVhc05zd2RQTGUxM0V5bXZQcnl5SGdSUkdtVzFBTm96RDRxekFCNEQ4NlI1YU5veE9KMk40VFN0Wi1CdUpXZXQ3eTdsMDJydHpoVQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "a8f0b62a8566"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva introduces new controls to hide generative AI features",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzRqZk1scndlZWQ5VTlWR09LRjJMcFppaHdReTFrS1d3ZHhFOGxqOG9Da0NTb29ram9iMjJBemt1My1WTnNnVGNSNVpoZ3ZoWmwyTUxZTmtIOWpoNk9PRFlkZDlwckdzNmoyekIyVTdDNkJyVHJIOFVneDNYeXRqMDczellPeklieHVKd2dDaENBNUZ2OUl3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e03227fdec77"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva Launches AI 'Off' Button Amid User Control Debate",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3FRV1VoOU1LcUxndkFDNDl2MkRzOHVRLVNkcDJWMzJaT3VhZ2s5dU9WSG1mbkdIdGhEd19xQU02T3ZPMHZLMTJHNWNWRlNGVEcyWXFIS0hGSC1ydnhCZk1tT1RQVUZoUTJyUmd5dFEtZG9aakR1Qk1YS1JxbGZ1Wk5RQk5SeTdWcVV3ZndYVQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "17c193924f71"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Canva launches 'AI controls' to let users disable AI tools",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWp2Xy1YaS1fd2plTmlrSWppUUR4NDJCQUVBdURXTE90SjVfZ2RVTV9pTVdXQkhyWFlzSHRQdXFDUHFxREgyUmlWTDVSSC1EblExV05nbFNMZW9ta3BRbkotRVNZZmpvLUNkekRwOG45NXlNNHlTUFBLZjFrQk5FZGl6ckd4QnVteHN2cWl5OC1SY19XRmgwN1dpcTZlalpKTHhxV0JB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1c60563e7a4e"
     },
     {
       "date": "2026-11-18",
@@ -1016,6 +1100,18 @@
       "source": "Google News",
       "curated": false,
       "id": "37a619593b5a"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Willy Chavarria Debuts His Dream “Bitchy Little Bags”",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHZlWlAybTdaSlEwYlRzY0xpYVIwMWtsN254UDJNWWlsb2pFOUxzaXBETU1oa29NQlJVanBHTDYtaV92RnFkTE9GRHUwT1RwZHZqbl9ZSENyRFotaGxLQWJQV1J3dFpRbnZYZS1sT1dTSklGbUYxS0p5WW42NUJDcnk0MjdRMGNM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "8f8f5f69d571"
     },
     {
       "date": "2026-11-17",
@@ -1366,6 +1462,18 @@
       "id": "1895b032d332"
     },
     {
+      "date": "2026-11-14",
+      "company": "Figma",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Figma AI Releases MotionGraphicsBench Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzJiU2wwaVJfNmtMbVZQRnZLbUpnanVyUUppM2J6MmtOQWNFQjd1TGwzVzBma2J3NGtfYm1SY0NMWXdhSkhxYy1Ybm1EMWJ4LWlDWmppQzZOVU5WY2tjNnlNcGtIUnFqTFFLd3hjVWhVS1RnT0RIWGQzRVRKZWo4ZHEwanBOX2V1U3Nz?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3a29738d33f9"
+    },
+    {
       "date": "2026-11-13",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1436,117 +1544,163 @@
       "source": "Google News",
       "curated": false,
       "id": "1cec3fd873ec"
-    },
-    {
-      "date": "2026-11-13",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "M&A",
-      "detail": "",
-      "title": "Form SCHEDULE 13G/A Helix Acquisition Corp. Filed by: Affinity Asset Advisors, LLC",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDZ1dkx2a0ZkTVVURm9sQ3ZfY1Z6dnlzMzNWc1ZBaUduZXU4TEhFWXdXaXNyQTJVcEhqVTJPVVdDNC1ydWpHUkNNNHdYb05YbWZQYjZ1cG9YT1oyYlBEeGw1bGYxOWZNLVd2akJFMzZnRkNNN21jQTh6VkdyaTRhaGVaS0w3dmU5TU5ydWNYbC1oM01QSGZ3dGNEN0cwQkZySVNoYzNwV0N1QWhqeGhNNnFjdmdmdURXN2JMb3ozYzNIaU1XcGR4YjY4ZDhiY2FJdXp5WUc5SGc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d38ed2240d80"
-    },
-    {
-      "date": "2026-11-13",
-      "company": "OneSpan",
-      "front": "Documents",
-      "move": "M&A",
-      "detail": "",
-      "title": "OneSpan (OSPN) CEO acquires shares tied to stock-price targets; 100,000 stock units remain.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXVHd2xaZ3Fwak9HTW5FcWpxcHlYcy1rbU04bWpUR3g0MjJIMHlSMk9jVEpBUFkwQjBmblVvZkU3YWZEUDVxWV90R3FaY0ZhaDRmQm05VDNUMC1oVzlYYldSSmF1ckpZLUdPRWZBV2g2dFFUY19TR19YZk9ia0sySHczVDE4NkhLQmtmNFdzeDlBY1E4T3dVc2k3NEs4Ni1wRmJlcVBPeG9Ydw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1d3cb57c5b2b"
-    },
-    {
-      "date": "2026-11-13",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Frankfort/Clinton County Regional Airport Buys 26 Acres for New Hangars, With Runway Extension Planned Later - Avi-Go",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjeTJZaDNPQkxnZDBUZ3NRMXZlN0FHUHd5WVJLWkN5a09fVEx6ckdBdGJlalM5MEJNREEwcVRqQlR5RHlwSElLZGdFby1xS2RnOTB0U0lfVk5IVVVNWlBaVnZqYVhHTk90YTBzazBDaklGMFE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7061e95c097c"
-    },
-    {
-      "date": "2026-11-13",
-      "company": "Midjourney",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Meta partners with Midjourney to bring AI image tech to future products",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUJXMkdZMHVTMHFKOEVvREpFQ1VvUEx2YlpaMzhpM1R1R01oZDRiNkdzRVFmLWJsa0REeW9fRGdCSHJCUUlxOVh6eWY0Y2d1NEVIWEo4b1J3cXhDU182bFRXNnh1UkZHaGltWG9pbW8wUFRHMDM4MGJuSC1fTTF0OTM4cnR6RnlpUTVINWJrMXZfQ3c?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "d68c6d77ac57"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Higgsfield",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Kakao Ventures teams up with AI video platform Higgsfield",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjhDQWRBZFlKdnVVd2FkelVRMTI5dFlTQlk0aWdkQmVHU01kbUpGMWRUODlMdTM5MzZKcTAtRUt6Z01Eam9HRmp4S1FfRnF4bnhIZW9TZjNpMVFwRGpoMFQzOEdjYmhpRWttWXN3d1FmakFwLUZFNTRid0NnRVRZZHBxU0toY2tmN1YwVlJ3dTBnV2VPVk1HSnZvNm9Yc1BYbGVxSUp3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b025fe964f14"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Elevenlabs launches 13 new products and upgrades",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRy1rUjNyU21BWHQ2OHdkWERmWVctZk1OTGNYUVNuZmZOcVU5RlBhcmtsM1hERkRraC1QaEtJTXVQdnlVeDBKUGg2c2JTWEZ0SU1hVjNHNXdiZmNaeW1tTFdReHpNZkE0Ql9QR1hTVEFoYkpGZGg1dFU4RUozeGsyOTVvQjhmSkU?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "df7dae4c8384"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway’s Praxis-1 world action model for robotics is now available",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjllR3pKOWQwckNKdWNnZXRrR00yaC1XUDBzWEh5RWdwVWZ1SDZpdURDNXNIMHkwRkkyeHQxUU5DNFk2WGE0MzRmajBteURBM2dnTXIwVHhMcWNwNTRieldKQS1BdnV6WWFYM01XZ1cwN2pwdU5fNGp2STJOR2czR0pzSmo0TXJYQ3k4M3VrNndCa2dUVGluX01ZU2xUUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "819acec6c1ef"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs builds out the interaction layer for AI with major new model and agent upgrades",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSk5nRlI2WVZLdFZic3hOdUtjUjRnQ2lFcEtZem45WW52SmZ4WFpTdEZUbDhTRzFLYW9yV09UMjNvR0o1QzJqQW9iU3RsWXgyUWN6c181bVNoWDVicEpuY1pYNGxCMXpjWGdoOHY5Q1lvXzlYcE1NUC00U2pvNmNTdjZVVGY3bVRMcmJVeTlmOW9UdmplczY4NGRoRlRmWkZVb2ljbDZIc2tlaDVreXJDT3B6aGxnSW40UXNtUVdzTlc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0f06d42ff950"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs unveils new AI models and enterprise agent capabilities",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2g4QjRQR25vcHFLMFJIejZ0RDRQdDdmZzdiX3BIckZHZmpJOWgxTmhwSFpyWVdiV25ZYTdzZGdiYjYzNmx6M0NLSWNBaUw0a3lPX0Z6ZTZhTDZYdnFLLWdmSTRKa0pmQXdSOXdWcmhQekQ0cDI4VVQ0a0t6cWhDbEFac0d1azdUcUFuUThyak12eU14YkVFcnhUcC1Ub3ZmUnc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "49656a8fcf98"
     }
   ],
   "items": [
+    {
+      "id": "8e2970692479",
+      "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
+      "source": "Search Engine Journal",
+      "summary": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results. The post 21 Alternative Search Engines You Can Use Instead of Google appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-19T20:00:05Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "22f8ed6fec8f",
+      "title": "Google Search Officially Rolls Out Collapsible Sidebar",
+      "url": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google is now officially rolling out what it calls the \"collapsible sidebar\" within Google Search. We spotted this a few weeks ago and we called it then the AI Mode sidebar in Google Search. Robby Stein from Google said \"New on the Google desktop homepage globally: we're rolling…",
+      "category": "GEO",
+      "published": "2026-11-19T19:38:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "54c030d83f8e",
+      "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
+      "source": "Search Engine Journal",
+      "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift. The post Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-19T18:00:31Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "5cbce6fb8aed",
+      "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
+      "url": "https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft has just confirmed that it is now shows ads in AI Overviews in Bing Search. We started seeing ads in Bing AI Overviews about three weeks ago, and Microsoft has now confirmed this on the Microsoft Advertising blog.",
+      "category": "GEO",
+      "published": "2026-11-19T15:24:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "2df2d2c5f27c",
+      "title": "Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
+      "source": "Search Engine Journal",
+      "summary": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them. The post Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-19T15:00:06Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e5fcf13bceed",
+      "title": "Daily Search Forum Recap: November 19, 2026",
+      "url": "https://www.seroundtable.com/recap-11-19-2026-42575.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-11-19T15:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "c2561052d251",
+      "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
+      "source": "Search Engine Journal",
+      "summary": "WordPress 7.1.5 fixes 18 vulnerabilities and adds two security improvements, including an unauthenticated flaw that could lead to RCE. The post WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-19T14:40:05Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "844acc68f1da",
+      "title": "WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
+      "source": "Search Engine Journal",
+      "summary": "WordPress 7.2 plans a default-on random post redirect with no settings toggle. Here's what changes, what can wait, and what's still undecided before release. The post WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-19T13:00:50Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "1f4fa49b750a",
+      "title": "Google Search What People Are Saying AI-Generated Emojis",
+      "url": "https://www.seroundtable.com/google-ai-generated-emojis-42569.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be placing emojis in the AI-generated \"What people are saying\" box in Google Search. Google does show emojis in its search results, but these emojis are not coming from the website it is referencing, but rather from Google Search and its AI-generated descriptions.",
+      "category": "GEO",
+      "published": "2026-11-19T12:51:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "f73805e4e6f0",
+      "title": "Google Hotel Search Listings With Continue On Google To Book",
+      "url": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to be rolling out hotel booking directly on Google in Google Search but through AI Mode. So when you search on Google and Google shows you the hotels, you can now click on a button that says \"Continue on Google\" and it then takes you through the AI Mode hotel…",
+      "category": "GEO",
+      "published": "2026-11-19T12:41:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "5089dd617830",
+      "title": "Google Search Tests \"Show Original Results\" Button",
+      "url": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Search is testing a new button in the search results named \"Show original results.\" It seems this button does something similar to the \"Search instead for\" link, where Google will auto correct or adapt your query when it thinks you have a typo in your query or you meant…",
+      "category": "SEO",
+      "published": "2026-11-19T12:31:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0dde0c72c7d6",
+      "title": "Google Data Feed Validation Tool Has Been Turned Down",
+      "url": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has \"turned down\" its Data Feed validation tool and has removed references to it from the Book actions (Book) structured data help documentation. I am not sure when this tool surfaced but likely sometime between October 2016 and December 2017 alongside the broader Actions…",
+      "category": "SEO",
+      "published": "2026-11-19T12:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "3a708949f2f4",
+      "title": "Google Images Results With Lens To AI Mode Feature",
+      "url": "https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google image search results now let you click a Google Lens button, which takes you into an AI Overview follow-up query or even an AI Mode follow-up query. This is different from when Google added the Google Lens button to image search results.",
+      "category": "GEO",
+      "published": "2026-11-19T12:11:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
+    {
+      "id": "7ac55cead71b",
+      "title": "Google AdSense Unifying Policies Into AdSense For Search Publishers Policy",
+      "url": "https://www.seroundtable.com/google-adsense-for-search-publishers-policy-42573.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google announced it will update and merge the AdSense for Search (AFS) policies and Search ads policies into a single, unified policy set for AdSense for Search publishers. This will happen on January 17, 2027. Google posted a copy of the new, unified policy.",
+      "category": "SEO",
+      "published": "2026-11-19T12:05:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "6d0c96e29ede",
       "title": "5 ways AI is replacing SEO (and 4 things that aren’t changing)",
@@ -1568,6 +1722,17 @@
       "published": "2026-11-19T11:00:00Z",
       "coverage": 1,
       "impact": 3.0
+    },
+    {
+      "id": "6687f7be62c3",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "category": "GEO",
+      "published": "2026-11-19T08:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "4511d049139d",
@@ -1656,17 +1821,6 @@
       "published": "2026-11-18T15:00:12Z",
       "coverage": 1,
       "impact": 3.0
-    },
-    {
-      "id": "179e023c3c17",
-      "title": "Daily Search Forum Recap: November 18, 2026",
-      "url": "https://www.seroundtable.com/recap-11-18-2026-42565.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-11-18T15:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     },
     {
       "id": "f1bf84207764",
@@ -4142,160 +4296,6 @@
       "published": "2026-11-06T15:35:29Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "f5608ed637e1",
-      "title": "OpenAI Working On ChatGPT Tools For Business For Analytics & Citations",
-      "url": "https://www.seroundtable.com/chatgpt-tools-for-business-42476.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI is developing a Search Console- or Webmaster Tools-like tool that lets businesses manage and track their success on ChatGPT. This tool will let you \"Claim your business in ChatGPT.\"",
-      "category": "GEO",
-      "published": "2026-11-06T15:32:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "2c4007ebab8d",
-      "title": "4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google’s Organic Traffic via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
-      "source": "Search Engine Journal",
-      "summary": "Make AI visibility budgets defensible by testing dashboard scores against customer behavior and measuring exposure, recall, and consideration. The post 4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google’s Organic Traffic appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-06T15:00:32Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "366a3e5a1a4f",
-      "title": "Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google & More SEO, PPC & Local",
-      "url": "https://www.seroundtable.com/video-11-06-2026-42469.html",
-      "source": "Search Engine Roundtable",
-      "summary": "This week, we covered Facebook's latest AI-slop strategy that likely will get hit by Google's scaled content abuse policy. Google said important URLs can still show in Google Search even after a 400 status...",
-      "category": "GEO",
-      "published": "2026-11-06T13:01:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "6f73aeff22f7",
-      "title": "Google Business Profiles Manage Offers Help Document",
-      "url": "https://www.seroundtable.com/google-business-profiles-manage-offers-42471.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has created a new help document named Manage offers on your Business Profile. Offers in Google Business Profiles is available only in select regions and languages and these can be created through Offers Post or special offers discovered through linked social media…",
-      "category": "SEO",
-      "published": "2026-11-06T12:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d51d961ae5ba",
-      "title": "Google AI Mode Asking Searchers To Continue With This Search",
-      "url": "https://www.seroundtable.com/google-ai-mode-continue-with-this-search-42475.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is now asking searchers to \"continue with this search\" when they go to AI Mode. This is a way to encourage searchers who started a search in AI Mode to continue and do more searches. You know, because Google needs more searches to show more ads, to make more money.",
-      "category": "GEO",
-      "published": "2026-11-06T12:42:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "01fc38f965bf",
-      "title": "Google Shopping Dominating The European Product Search Results",
-      "url": "https://www.seroundtable.com/google-shopping-eu-dma-42456.html",
-      "source": "Search Engine Roundtable",
-      "summary": "As you know, Google dropped its free product listings in Europe because of the Digital Markets Act. Google called it the biggest reduction in search quality in its history. But data from BrightEdge says that Google Shopping appears 16 to 35 times more often than the next",
-      "category": "SEO",
-      "published": "2026-11-06T12:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "94f8389498df",
-      "title": "Google Pushing AI Mode Users To Opt In To Personal Intelligence",
-      "url": "https://www.seroundtable.com/google-personal-intelligence-popup-42468.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is throwing up pop-up notifications in AI Mode to encourage searchers to turn on Personal Intelligence. The pop-up says \"Supercharge Search with Personal Intelligence\" with a blue continue button to configure it.",
-      "category": "GEO",
-      "published": "2026-11-06T12:31:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "8698825be684",
-      "title": "Bing Search AI Visual Summary Snippet",
-      "url": "https://www.seroundtable.com/bing-search-ai-visual-summary-42455.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft Bing has a new AI feature in its search results named \"AI visual summary.\" This AI visual summary button is appended to an individual search snippet and when you click on it, it loads a an AI-generated graphic summarizing the page's content.",
-      "category": "GEO",
-      "published": "2026-11-06T12:21:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "387f1be111ea",
-      "title": "Google Confirms Issues With Merchant Center, API & Feeds",
-      "url": "https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has confirmed there is an ongoing issue right now with Google Merchant Center. The issue is with Merchant API, Merchant Center, and Feeds, Google posted at 5:26 am ET on the Google Merchant Center status page.",
-      "category": "SEO",
-      "published": "2026-11-06T12:16:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "f6a24b686368",
-      "title": "Google Expands Business Messaging To Google Maps On iOS & Android",
-      "url": "https://www.seroundtable.com/google-maps-messaging-android-ios-42472.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google published its monthly \"Google Small Business Bulletin\" where it gives tips and recaps what new features launched in Google Maps and Google Business Profiles. We covered most of it but I think we missed that Google expanded messaging to Google Maps on iOS and Android.",
-      "category": "SEO",
-      "published": "2026-11-06T12:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bc8f9eac1966",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "category": "SEO",
-      "published": "2026-11-06T08:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "cfd4354afa14",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "category": "SEO",
-      "published": "2026-11-06T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "8f79255b75f8",
-      "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/",
-      "source": "Search Engine Journal",
-      "summary": "Newly unredacted FTC and state complaint alleges Amazon secretly inflated ad auction prices by up to 250% during Prime Day and Black Friday. The post FTC Unseals Details In Amazon Ads Auction Surcharge Suit appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-05T21:23:01Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "b15d732586b4",
-      "title": "Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/google-search-queries-hit-a-5-year-high-and-search-revenue-didnt-follow/595485/",
-      "source": "Search Engine Journal",
-      "summary": "Search revenue grew 12% while queries hit a five-year high. The gap is AI Mode, and Google’s fix is more ads inside the answer. The post Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-05T20:00:58Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
