@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:59:24Z",
+  "updated": "2026-11-19T01:45:59Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -970,6 +970,18 @@
       "id": "7a9926caac7d"
     },
     {
+      "date": "2026-11-18",
+      "company": "iLovePDF",
+      "front": "Documents",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Best Online Spreadsheet Collaboration Tools for Review, Sharing, and Web Publishing",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVEF1bTNmNkxlQUd6TkFnRUdWckdxRC16QnJ6U0F5MFRkeGZ5dGRmQjhiRGNINi1oU3ppWnY3V2IxZUd6QXlMMWxRb09jTlVFamJTekJ4RHltaVVfeVY3b3UwcnRPSklkdjVaMl9ZYmFZYkdFVnFJdWM4WU9oX3RmUUxnYlRHYWxFQ21QU1BPM0x4RVZLVUJQRkNKY3FfTUxFYnBpaDBsN2dJd0RtdnI5cWlFQ1RuOHpIV0hXVF9JMFp0Qks1am9qR0ZtazdvcG5IZVNDTGEzM2dKcW56NkE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5a4b3063fdfc"
+    },
+    {
       "date": "2026-11-17",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1184,6 +1196,18 @@
       "source": "Google News",
       "curated": false,
       "id": "a95fc9a3916a"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Canva",
+      "front": "Creative",
+      "move": "Launch",
+      "detail": "",
+      "title": "Your new Muse? Meta launches AI personal assistant in Australia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0xCYVRiTDY5UnJiTkFKUUJZWXUtT0Q3UHREYm42MjROSjk4MXlhV1c5dk55Y0NkLWpGVmZOZXFWdDNEbWtBX0ZCbUxQeUl0OUlzVXR3TnFZdFFsODhHTjYwakkyV3Q2a0lFRk5jLTlCU0pacWtrbXduZDJtaU4xZzJTZTQ4QmRIalY2b2NrdzZDLUdRZVJmaVo4aTd0WFNLZG83cV90VGt1alBNb3l5NUhNdUJWZ0JReWU4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "dc64cfff88e6"
     },
     {
       "date": "2026-11-16",
@@ -1520,33 +1544,64 @@
       "source": "Google News",
       "curated": false,
       "id": "67beadfc9d9c"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "LCTX: HUNT1 acquisition expands the pipeline as cash runway extends into Q2 2028",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnhhYk9WWVRuQ1JJaE9TTzNGVjBIblJDTkFQR2xvUEJ4Zms4YU1JVVRQN2FvSGYyQTNHdUNPRlpDbXpoOGNLS2h4SFZacXFmNmNIVExGUUxKTE9fak9wVmhuam90dEk4Q1B3MV9wcWd3Q1ByMkRmcjdrUzMwTDVkZ3RsOWlhNHEzdU9vRnN0bmx3YmZKZmZNb0pQMEJPdWRPNVdlWHlPMndfX0FQaWlqWDcxOVdkR1VhbkhRQ2R4MmtXaEZNV295V0RyY0JNNHV0RFZMLXRGRVhMUEN1YVFXUndiejAtaXB2aVVPdjM3MkNObzB6czFMSzVB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7d67f948a31e"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "ElevenLabs CEO Mati Staniszewski on Nvidia partnership amid scandal",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUYwREdVYW9BVWxScFRpSTBNRFcxZVNBVTZydHNMS2NPandoOE9WM2UxbWY4Qi1YS1lZYjUtenJESVZORW1YWmI4R09vWHhzX0pObXZNNGtFN0V6T2N2aWk1T3IxUWMwdG1OOG9rRVNwRlF5d0pNZVVSckV3VkExNmwzZnhKSllCaW8yNk9QeElxS1huVDNtRlhBck1ibVZZOURBZ19BcGVCb0pYRUhB?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0210d8ab2d6c"
     }
   ],
   "items": [
+    {
+      "id": "72ce035c8dd7",
+      "title": "Robots.txt Guide – Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
+      "source": "Search Engine Journal",
+      "summary": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately. The post Robots.txt Guide – Best Practices For Search & AI Crawlers appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-18T20:00:31Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "918a5ce2fe90",
+      "title": "Local SEO Checker: See Where You Rank on Google Maps at Every Point Around Your Business",
+      "url": "https://neilpatel.com/blog/local-seo-checker/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways You search for your own business from your desk and there it is, number two on the map. Looks great. Meanwhile, someone standing six blocks east types the same words into their phone, and you are nowhere on the list. A customer a mile north sees you at number 14…",
+      "category": "SEO",
+      "published": "2026-11-18T20:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "ea7f5fa17abc",
+      "title": "Why Doesn’t Your Brand Appear in ChatGPT Responses? Check Its Reasoning",
+      "url": "https://www.seerinteractive.com/insights/chatgpt-reasoning",
+      "source": "Seer Interactive",
+      "summary": "TL;DR We ran 20 prompts through OpenAI's API and tracked every step and reasoning summary to understand why it picked some brands and ignored others In our prompt runs, fewer than 1 in 10 brands were named before ChatGPT runs a single search (AKA around step 4 in the process)…",
+      "category": "GEO",
+      "published": "2026-11-18T18:42:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "133f99d10916",
+      "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
+      "source": "Search Engine Journal",
+      "summary": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-11-18T18:19:49Z",
+      "coverage": 2,
+      "impact": 5.0
+    },
+    {
+      "id": "5558cb00e918",
+      "title": "How I’m Approaching AI Search (And How You Should To)",
+      "url": "https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/",
+      "source": "Search Engine Journal",
+      "summary": "Citation tactics miss the point. Build a brand worth recommending and a business that benefits whether the citation comes or not. The post How I’m Approaching AI Search (And How You Should To) appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-18T18:00:01Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "0671df2b349d",
       "title": "How to Promote Your MCP Server (So AI Agents Can Actually Find It)",
@@ -1680,17 +1735,6 @@
       "impact": 5.0
     },
     {
-      "id": "4a62b2d75b7a",
-      "title": "Microsoft Advertising Announces Biggest Upgrade To Bidding Models",
-      "url": "https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft announced the \"biggest upgrade\" to bidding models in a decade within Microsoft Advertising. Microsoft wrote, \"we're continuously listening to customer feedback to understand the ways we can make our bidding deliver better results for advertisers, and now we're rolling…",
-      "category": "SEO",
-      "published": "2026-11-18T12:31:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
       "id": "598c5c67f495",
       "title": "Google Ads PMax Setup Now With Channel Prioritization & Promo Mode",
       "url": "https://www.seroundtable.com/google-ads-pmax-setup-update-42561.html",
@@ -1735,6 +1779,17 @@
       "impact": 3.0
     },
     {
+      "id": "e683d40fba10",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "category": "SEO",
+      "published": "2026-11-18T10:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "41241322a1f5",
       "title": "AI-influenced traffic: A new Semrush metric to measure AI search performance",
       "url": "https://www.semrush.com/blog/ai-influenced-traffic-metric/",
@@ -1746,6 +1801,39 @@
       "impact": 4.0
     },
     {
+      "id": "9fa731b0ef6c",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "category": "SEO",
+      "published": "2026-11-18T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "b527b6f0ddce",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "category": "GEO",
+      "published": "2026-11-18T08:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "53f2a14376dd",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "category": "SEO",
+      "published": "2026-11-18T08:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "27948a45b354",
       "title": "Catch weak alt text: five new assessments, fix with AI for stores, and more abilities",
       "url": "https://yoast.com/release-2026-11-17/",
@@ -1755,6 +1843,17 @@
       "published": "2026-11-18T07:50:35Z",
       "coverage": 1,
       "impact": 2.0
+    },
+    {
+      "id": "8b6ac2940fdc",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "category": "SEO",
+      "published": "2026-11-18T06:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
     },
     {
       "id": "a6c8f8489666",
@@ -1788,6 +1887,17 @@
       "published": "2026-11-18T00:00:00Z",
       "coverage": 1,
       "impact": 6.0
+    },
+    {
+      "id": "c7d3ecb00643",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "category": "GEO",
+      "published": "2026-11-18T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "0837c539ed86",
@@ -1830,8 +1940,8 @@
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "category": "GEO",
       "published": "2026-11-17T17:45:00Z",
-      "coverage": 1,
-      "impact": 6.0
+      "coverage": 2,
+      "impact": 8.0
     },
     {
       "id": "9fe3ab2e1b9b",
@@ -4186,116 +4296,6 @@
       "published": "2026-11-05T18:00:28Z",
       "coverage": 2,
       "impact": 5.0
-    },
-    {
-      "id": "e74c1f799a3e",
-      "title": "The AEO KPIs Enterprise Brands Should Track in 2027",
-      "url": "https://foundationinc.co/lab/aeo-kpis",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "AEO KPIs show whether AI engines mention, cite, and recommend your brand, and whether that turns into pipeline. Track five: visibility, citation share by engine, sentiment and accuracy, AI referral traffic, and AI-assisted pipeline. Your team already pays for a tool that tracks…",
-      "category": "GEO",
-      "published": "2026-11-05T17:00:03Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "b58fee4edbbb",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "category": "GEO",
-      "published": "2026-11-05T17:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "c1c055849a47",
-      "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
-      "source": "Search Engine Journal",
-      "summary": "New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on. The post Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-05T15:15:08Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "00367f1d1cbc",
-      "title": "How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC via @sejournal, @navahf",
-      "url": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/",
-      "source": "Search Engine Journal",
-      "summary": "Improve lead quality by teaching ad platforms which conversions become qualified opportunities and revenue. The post How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-05T15:00:32Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "5a6d272895a7",
-      "title": "We Opted Out of Google AI Search - Here's What Happened",
-      "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
-      "source": "Zyppy Signal",
-      "summary": "Google let’s you opt out of appearing in generative AI answers, but it’s probably going to hit your website traffic.",
-      "category": "GEO",
-      "published": "2026-11-05T14:07:28Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "53c824439178",
-      "title": "Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse",
-      "url": "https://www.seroundtable.com/facebook-answers-google-42467.html",
-      "source": "Search Engine Roundtable",
-      "summary": "If you looked at the Google Search results recently, you may have stumbled on content from Facebook Answers. Facebook Answers are AI-generated pages, and answers are made up of Facebook posts and pages and are then open for indexing by Google and others. Currently, Google has…",
-      "category": "SEO",
-      "published": "2026-11-05T13:01:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "3e5d358979e9",
-      "title": "GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW",
-      "url": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/",
-      "source": "Search Engine Journal",
-      "summary": "GEO's low referral traffic can hide its influence on buying decisions, while cited research shows ChatGPT visitors convert nearly five times better than search visitors. The post GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions appeared first on…",
-      "category": "GEO",
-      "published": "2026-11-05T13:00:43Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "ab0cbf4654f8",
-      "title": "Google Ads Expands AI Content Disclosure Label To More Regions",
-      "url": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York.",
-      "category": "SEO",
-      "published": "2026-11-05T12:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "676cd2af2175",
-      "title": "Google Ads PMax Channel Report Definitions Coming To Search & Shopping",
-      "url": "https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google updated its Definition: Performance Max channel help document to specify that channel definitions are coming to the Performance Max channel report for standard Search and Shopping reports in 2027.",
-      "category": "SEO",
-      "published": "2026-11-05T12:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c833c92a8818",
-      "title": "Google AI Mode Integrates With Home Services Booking",
-      "url": "https://www.seroundtable.com/google-ai-mode-home-services-booking-42459.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has added home services booking integration within AI Mode. Google has partnered with partners like Angi Home, Thumbtack, Housecall, and GetJobber and will add ServiceTitan soon. It works as expected, Google adds booking buttons to the home services listing within the AI…",
-      "category": "GEO",
-      "published": "2026-11-05T12:31:00Z",
-      "coverage": 1,
-      "impact": 6.0
     }
   ]
 }
