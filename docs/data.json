@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:45:59Z",
+  "updated": "2026-11-19T12:33:49Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -826,6 +826,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-19",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs Unveils 'Scribe v3' Speech Recognition Model With Stronger Speaker Diarization for Multi-Party Conversations",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3YTJEX0s3SXZZeE4xSWlKR2U2TFUyVlFxa2xpREdZVGV0NDVJNnhGTk1lXy1SQ0s0NGVKdUJrcXctcDNULUoweVd5RFBONGJiTVpLM05teEtBb050UmxqcWt3SnFsR3ZLeDhUbW1GZi1OWDQzQ2c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "41267f229b44"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "ElevenLabs unveils Scribe v3 and Scribe v3 Live speech-to-text models",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWlZMWxmVncxVTJUbi1tMEJYTEdtUm1DZ0FiN2tIQUFFS2ExUDZURnM3M1F4NEdQUEYtTEFSSHlsbGdBTG5VN3QwOWlRR1dqcW5QZlA3dHJvM25lMk1lc25sVWtkalczWjh0RnJZZjdDXzRLSDJxNW5STXFQQXlJU29UUUw0WGVlU213bXZhdE9kaE93cm03eXV5bDVmVFA3NktQS20xOW9pY21jUnhLX0NhQmtYZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "f43b884b4adb"
+    },
+    {
       "date": "2026-11-18",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -980,6 +1004,18 @@
       "source": "Google News",
       "curated": false,
       "id": "5a4b3063fdfc"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "China’s Kling AI launches 8K image model",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PNmNReG5lZHU0NjJpVjJrdHUwSU9LQXZ3SGp6cGlFNl91RjIxZWFtS2FXZnlJWGVGUkFULVgtUG01M3hZNi1lQW5faVRPMWJqWGV1cGhyVkVVTW5pbFNxbUNKTnVpczlJdVFiZ0J6U0RzM3pTdVZWQzE3aw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "37a619593b5a"
     },
     {
       "date": "2026-11-17",
@@ -1508,45 +1544,42 @@
       "source": "Google News",
       "curated": false,
       "id": "49656a8fcf98"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva launches Affinity for iPad with Apple Pencil",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmxUZUE0SkJ6NVNkMFBvRjdiMGZ6a2RJdDIwVUpoNWJOTFYzNlpTaUlGazlJeU1SRUFQLUQtWndpYjFCblVjVkxTWVYxZ1Q4OVpOTmJNcDNvNkdvdGtjemNVOFNibzB6MjJ6QUJGRFh0Ny1wUHg3U3B0R2h0Wnd5MGc4ZG9DUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "01ff816c617e"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Campaign",
-      "detail": "",
-      "title": "Rebrand for Direct Affinity CX - AM-online",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14LVEzVWFxMTE3WWxJWmZBYi1tc21HN3pGMkY4Tzk0UHF1Z1pETHI4cEtrVVRnUG8zcmRmNEZtQ2lqUGRrZWMwb1Z6S1BTcmRKd3BIaUlKSEE3d3lseXROb1ZhcE1rZVZ3WFNxT0hR?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c7fa1fc951ba"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Direct Affinity CX relaunches as Affinity",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2x1WHRReUNZN2dCOXN4UV9CbFdDY1FTdmU3cmJjRnNveEFqUkt1QUUzanJzY2xYeFpScTBoZTdTMGEwYk5NTTNYNnlIbWh5TWRuelFnNDJSN0tlM1lsQ0RnZmZZem9rclNNRWpBanI5cGVDUC0xSlhUdGc5STk3ZXlzbElZTG5jMGdGbEpQQkJuNzhCVTdGay1IcmhkdEpNaHlYWHFYLVMyQm1UYVZuWlVNV1o?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "67beadfc9d9c"
     }
   ],
   "items": [
+    {
+      "id": "6d0c96e29ede",
+      "title": "5 ways AI is replacing SEO (and 4 things that aren’t changing)",
+      "url": "https://www.semrush.com/blog/will-ai-replace-seo/",
+      "source": "Semrush Blog",
+      "summary": "Will AI replace SEO? Yes, by expanding search and taking clicks from publishers. But 4 things stay the same.",
+      "category": "SEO",
+      "published": "2026-11-19T11:14:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "7ede25b91542",
+      "title": "What is topical authority in SEO? A forward-looking guide for 2027",
+      "url": "https://www.semrush.com/blog/topical-authority/",
+      "source": "Semrush Blog",
+      "summary": "Topical authority in SEO, updated for AI search: define it, pick the right topics, measure your share against competitors, and track progress.",
+      "category": "SEO",
+      "published": "2026-11-19T11:00:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "4511d049139d",
+      "title": "SEO is fine. The future of AI is tied to search.",
+      "url": "https://dejan.ai/blog/seo-is-fine/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "LLMs function best as reasoning engines rather than static databases, relying on search indexes and massive context rather than model weights to access facts.",
+      "category": "GEO",
+      "published": "2026-11-19T05:19:32Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "72ce035c8dd7",
       "title": "Robots.txt Guide – Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
@@ -4263,39 +4296,6 @@
       "published": "2026-11-05T20:00:58Z",
       "coverage": 1,
       "impact": 6.0
-    },
-    {
-      "id": "c88b52d0b210",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "category": "SEO",
-      "published": "2026-11-05T20:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "7b020f77f545",
-      "title": "OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC",
-      "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
-      "source": "Search Engine Roundtable",
-      "summary": "OpenAI has just emailed advertisers within ChatGPT Ads about bidding options changes coming Monday, November 9. This impacts advertisers using Max Bid or Max CPC bidding options.",
-      "category": "GEO",
-      "published": "2026-11-05T18:29:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "280e0d11da25",
-      "title": "November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports via @sejournal, @marie_haynes",
-      "url": "https://www.searchenginejournal.com/november-click-spikes-in-google-search-console-are-bot-traffic-how-to-filter-your-reports/595834/",
-      "source": "Search Engine Journal",
-      "summary": "Seeing a vertical jump in Search Console clicks? Bots, not humans, are behind it. Here’s how to spot it and filter your reports. The post November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-05T18:00:28Z",
-      "coverage": 2,
-      "impact": 5.0
     }
   ]
 }
