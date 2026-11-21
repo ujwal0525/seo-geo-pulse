@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T01:08:29Z",
+  "updated": "2026-11-21T12:13:03Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -827,6 +827,30 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-21",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Zoox launches its first robotaxi rides in L.A. County",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVpseUpWdjdRQjZ4YUUtaUNRdzB3ell5ck9zNHZWYVAxc3BKdVFMS1l0WkcyVXY4Q0d5a1M1dUJZYllxNkNTalppWVBNQURLN284ZVNraW9RU0ZNWnlQVFBGc3BpaVR1N3VjOWNDdGRTZ2ZYRVdtTXJteUlqTUthLXhOMVNwXzNKay1YNkR0aDNYYzFEVGZXY2szeDVEWjJhSXFr?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "04f56838034f"
+    },
+    {
+      "date": "2026-11-21",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "‘Grand Theft Auto VI’ includes unreleased song by late singer D’Angelo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYkpVaDU5Y1ZreXY5YWF0WVdjUnVNQ2Y5Z1FBTndMTGR4MktkZWxSSTVpckNFbkdldm5QTHEzLVNFSWZsLUx6dU5iOVFoVm9wWXpxSTZNWHdfRGM5ajJKRndWWFljTEpBUVZOeVdzYjEyY0dqOEpsZnJqUlNIQ2lxbk5hSVhjdEtuRnZlWE1yXzUzVXdTQmFLQ2cxOHRab0o1dWJieEFPY0lRbkdkRlZlWXFXV3hncGVheUZB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5eb339a717bd"
+    },
+    {
       "date": "2026-11-20",
       "company": "Runway",
       "front": "GenAI Media",
@@ -1175,6 +1199,18 @@
       "id": "ba87f5818c9e"
     },
     {
+      "date": "2026-11-18",
+      "company": "Luma AI",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "EasyPost, the Leading Shipping AI and API Platform for Modern Commerce, to Go Public on Nasdaq Through Business Combination with American Drive Acquisition Company",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUXVQNUF2SFRCUXpKQVpyc09yd3JhMl9HYzVZQ1dfOG9yZG45VmdKTWxDejAtXzByVTgxM1RVWGt6c0dlNko1STd5WGtGNS1RdW1lVzJBbFBTWnUyS2pFNU1vVXp6eG5IdDJUNk9FUnhFdVJSeEswZWlOc0lWalRWOVR6aUhHRlBuSUdiNGpuajFHMHpIQ1M5bGRWT0xua1ZZelUxbk14WE5xV2lGT1RWVUt2QVA3OGVRclROeVd6WVNOWDlvYWVfc0g4T3dPamMtVFpaR2tzQTg5dmt1eWdObkV2QnNpVXJsU3BmRVFhLVJTY0RwV3VJS2pRRUpNenRTNnY2bXlqdXd6VWd6OFZyYXNTYVVPa2tUTDBNOXpTcEl6aVFPdUt4ZjJSemdSanprSzhkc2NDbW1BdmsxZzZ3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "0a9f9f646bd4"
+    },
+    {
       "date": "2026-11-17",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1509,42 +1545,6 @@
       "source": "Google News",
       "curated": false,
       "id": "685371f5654c"
-    },
-    {
-      "date": "2026-11-14",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runtime: AWS rolls out a Nitro boost",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QUZnZFdhejFVbHQ5b3RTZW00OExKX1RSWWQ4VjJjaTBKWk5iUDc5dkF2eWZZR01SRV9sYlFOUFo3R0JKVWNkUWdQSUFDZUtpcHpRNDh2YTZqZG8xcUhOREJCS1h0NThsdXE5bEZZOF9zb2JuMkow?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "36c270c10303"
-    },
-    {
-      "date": "2026-11-14",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Runway releases Praxis-1 weights and training code",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKcVlzWVNBaXp6YjdRMU9MbzNLU1BVWW52LWZkMlFueE9NRDJKejdfSmpvS19YYlFTY0J2SjMxcC1ha3k3WF9HbHl6LXNQMmRrRzJmMC1ZWVBnN0JPNmhReS1JY1BIZ2F2ekF4UFZ4bXpOYnM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b5fae96a66b3"
-    },
-    {
-      "date": "2026-11-14",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "HK airport introduces automatic runway-painting robots in world first",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFYwNUZXanFJRUlydkVKZ2JlZWszYkNuSjZ6Vm9zNXZDcTI5QzNGQ0sxMHN5YWp3NDRLcHk1ZWxrZnUydjJiN1dNcnIxWW5JU2JsdkU2dmN1MkVHNlRON3BEOGFJSmhQMF94ak9TZE00TTdsRnNLZlJyeHhaZUJ2d1loeFN2WGRZdFlxcHpzN094cnhHOE1rSTlRQmVGVWpPTE9uNTd4aFJneEhETGRwd0V3NEl4bVhvRVdrbA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "1895b032d332"
     }
   ],
   "items": [
