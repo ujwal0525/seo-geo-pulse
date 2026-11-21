@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:45:38Z",
+  "updated": "2026-11-21T01:08:29Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -9,6 +9,7 @@
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
+    "Marie Haynes",
     "Moz Blog",
     "Neil Patel",
     "OpenAI",
@@ -32,6 +33,16 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "54b58b97e585"
+    },
+    {
+      "date": "2026-11-20",
+      "family": "model",
+      "platform": "OpenAI",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "curated": false,
+      "id": "6ba7b977f2d1"
     },
     {
       "date": "2026-11-19",
@@ -812,16 +823,6 @@
       "source": "Search Engine Journal",
       "curated": false,
       "id": "12ae308555dc"
-    },
-    {
-      "date": "2026-09-24",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
-      "source": "Search Engine Journal",
-      "curated": false,
-      "id": "1af471f3952c"
     }
   ],
   "competitors": [
@@ -860,6 +861,18 @@
       "source": "Google News",
       "curated": false,
       "id": "c8b4481df9f7"
+    },
+    {
+      "date": "2026-11-20",
+      "company": "Affinity",
+      "front": "Creative",
+      "move": "Funding",
+      "detail": "$32 million",
+      "title": "Jared Kushner's firm discloses $32 million Arxis stake",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHRfVlVGWGtta2RVSWhZS2VYQ3hONFVuZmxNTTRTOS1ZT2xRby00SnlSUG5aYXZHN1JqM1FsNUF2aUZyU3hpeGdYLUVvYkVpcXFSb0Z2bmFULWIycmpzOGp6T2QwMzlOVWZUZkhiak5pY2lPbkNDcnJ4ekFhd0t6TVZyWmxrWWlaVkVhN1ZGd1NHdnlOSHc?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "ac254f794a18"
     },
     {
       "date": "2026-11-19",
@@ -1532,21 +1545,53 @@
       "source": "Google News",
       "curated": false,
       "id": "1895b032d332"
-    },
-    {
-      "date": "2026-11-14",
-      "company": "Figma",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Figma AI Releases MotionGraphicsBench Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzJiU2wwaVJfNmtMbVZQRnZLbUpnanVyUUppM2J6MmtOQWNFQjd1TGwzVzBma2J3NGtfYm1SY0NMWXdhSkhxYy1Ybm1EMWJ4LWlDWmppQzZOVU5WY2tjNnlNcGtIUnFqTFFLd3hjVWhVS1RnT0RIWGQzRVRKZWo4ZHEwanBOX2V1U3Nz?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "3a29738d33f9"
     }
   ],
   "items": [
+    {
+      "id": "d477595b955c",
+      "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+      "source": "Search Engine Journal",
+      "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce’s own guide says SEO remains the foundation. The post Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-20T20:20:52Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "47e3bcb3837f",
+      "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
+      "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
+      "source": "Search Engine Journal",
+      "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don’t. Here’s why putting real human experts first keeps paying off in search. The post Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search appeared first on Search…",
+      "category": "GEO",
+      "published": "2026-11-20T20:00:34Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "38487d8fe234",
+      "title": "I Ran a Blind Taste Test of Gemini 4 Neon vs. Hydrogen vs. 3.8 Flash on Real SEO Questions (Here Is What Won and What It Costs)",
+      "url": "https://www.mariehaynes.com/gemini-4-neon-vs-hydrogen-vs-3-8-flash-blind-seo-test/",
+      "source": "Marie Haynes",
+      "summary": "Over the last few months, I have been quietly building something I call Marie’s Brain - a private AI co-pilot grounded in my hand-curated Open Knowledge Format (OKF) library of Search and AI research, paired with a client’s actual site context and $500 Diagnostic Report…",
+      "category": "SEO",
+      "published": "2026-11-20T18:25:58Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "a755b69741ef",
+      "title": "Get your year-end tasks done with new Connected Apps.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+      "source": "Google (Search)",
+      "summary": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "category": "SEO",
+      "published": "2026-11-20T18:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
     {
       "id": "0e1e633638a8",
       "title": "Google Told CMOs To Stop ‘Top 10’ Listicles. Here’s Its Example via @sejournal, @MattGSouthern",
@@ -1667,6 +1712,50 @@
       "published": "2026-11-20T12:11:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "3ea993db7e3c",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "category": "SEO",
+      "published": "2026-11-20T10:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "9d7c46d0239b",
+      "title": "Create High-Impact Content Using Backward Design — Whiteboard Friday",
+      "url": "https://moz.com/blog/high-impact-content-using-backward-design-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "Join Purna in this week’s episode of Whiteboard Friday as she reveals how to create high-impact content using backward design, a strategic approach that prioritizes measurement to achieve better marketing results.",
+      "category": "SEO",
+      "published": "2026-11-20T08:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "d15c45643214",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "category": "GEO",
+      "published": "2026-11-20T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "f4784c304003",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "category": "GEO",
+      "published": "2026-11-20T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
     },
     {
       "id": "8e2970692479",
@@ -4208,94 +4297,6 @@
       "published": "2026-11-09T13:00:04Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "f37b680abcf7",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "category": "SEO",
-      "published": "2026-11-09T13:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b3567b25217a",
-      "title": "Google Search Ranking Volatility Status: Update November 8th/9th?",
-      "url": "https://www.seroundtable.com/google-search-ranking-volatility-november-9th-42486.html",
-      "source": "Search Engine Roundtable",
-      "summary": "It's been about two weeks since we reported on a Google Search ranking update, whether confirmed or unconfirmed. But the truth is, the October 27th update lingered on for like a full week. Since then, ranking volatility has been relatively calm, but that may be changing over the…",
-      "category": "Algorithms",
-      "published": "2026-11-09T12:55:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "5319d59490e0",
-      "title": "Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads",
-      "url": "https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html",
-      "source": "Search Engine Roundtable",
-      "summary": "A couple of weeks ago, Google announced Multiturn ads, ads show up on responses to follow-up user queries. Well, those ads seem live. I was testing AI Mode on Friday afternoon and here are screenshots and videos of Multiturn ads in AI Mode.",
-      "category": "GEO",
-      "published": "2026-11-09T12:51:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "12bc3368b561",
-      "title": "Google Adding Booking Links To Business Profiles Automatically?",
-      "url": "https://www.seroundtable.com/google-business-profiles-adding-booking-links-42477.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google may automatically add booking links to some local business profile listings. I noticed that on my own profile, I had a booking link added and Brandon Schmidt, Joy Hawkins and Syed Amir posted on Friday that this seems to be happening for more businesses. And in some…",
-      "category": "SEO",
-      "published": "2026-11-09T12:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "8bea951c5cf8",
-      "title": "Google Ads AI-Generated Summaries Above & Within Ads",
-      "url": "https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing more AI-generated summaries within its search ads. This one shows AI-generated summaries above the grouping of the sponsored results, summarizing all the ads from all the advertisers, with also AI-generated summaries below each ad description.",
-      "category": "GEO",
-      "published": "2026-11-09T12:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "5576e89a4e0f",
-      "title": "New Data Manager In Google Analytics Beta",
-      "url": "https://www.seroundtable.com/data-manager-in-google-analytics-42480.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has launched Data Manager in Google Analytics. Data Manager in Google Analytics, \"is a centralized data management tool, which lets you manage your data streams and connected products all from a single home page,\" Google wrote. \"It can help you visualize your data…",
-      "category": "SEO",
-      "published": "2026-11-09T12:11:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "c69547efe83a",
-      "title": "Google Aggregator & Supplier Units Gain 'Things To Do' Query Support",
-      "url": "https://www.seroundtable.com/google-aggregator-supplier-units-things-to-do-42484.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated two help documents, the aggregator unit and supplier unit documentation to include support for \"things to do\" queries. Things to do is not new in Google Search, but Google has just added them to the aggregator unit and supplier unit help documentation.",
-      "category": "SEO",
-      "published": "2026-11-09T11:03:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "63461a6b161f",
-      "title": "Ziff Davis Says Organic Google Referrals Fell About 37% via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
-      "source": "Search Engine Journal",
-      "summary": "A large publisher says organic Google referrals fell again and pointed to Search Console's AI report. Here's what its AI impressions comparison measures. The post Ziff Davis Says Organic Google Referrals Fell About 37% appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-09T11:00:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
