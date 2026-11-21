@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:13:03Z",
+  "updated": "2026-11-21T21:29:08Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -851,6 +851,18 @@
       "id": "5eb339a717bd"
     },
     {
+      "date": "2026-11-21",
+      "company": "DocuSign",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "SurveyMonkey Unveils Workday, BambooHR Integrations and DocuSign Feature",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG01bGhlUFA3b1dhcXlYR3dlSFFFd21fSW4zVy1jdktuNWhReTVoYkpnV1AzeERzc1NHZEY4UDhsY0R5TE9RYTE2NjZqUmV2ZURrQ19KTDJsNHMwR1NUSEROemNWUWJyVzFwX0ZxNGViTUlxRnlTQVF4WHFOeXp3azdDQ2h6TXhXSXBFUWZuYldmSlRJWnpCU0tFRXYwblA3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "028563324985"
+    },
+    {
       "date": "2026-11-20",
       "company": "Runway",
       "front": "GenAI Media",
@@ -897,6 +909,18 @@
       "source": "Google News",
       "curated": false,
       "id": "ac254f794a18"
+    },
+    {
+      "date": "2026-11-20",
+      "company": "Pika",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "MEI SEMONES RELEASES NEW SINGLE, “KIRA KIRA”",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWtweHN3aXFJLXJ6cEx3dkR3c0hYV19ROTNORVFBOGdYV1BENTVRUkpnZ3pnblBmX0lDRDBPRnZ5V1htei1iODFPcEFtaVFleUNwV2xpcXlCd3FtQVZZZDNXc2UzSHFWcmtKbXl3ZER5enRmMk11NjJCc21weFpNZl95MHB4S3NLTXQ4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "377b57c61c78"
     },
     {
       "date": "2026-11-19",
@@ -1521,33 +1545,31 @@
       "source": "Google News",
       "curated": false,
       "id": "7a029eeb4bb5"
-    },
-    {
-      "date": "2026-11-15",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Listen: Final Song Recorded by Dolly Parton Released - 'It's Her Last Prayer... for America'",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdnZId3dQSEFmaElUaHdhMjNuT2NueFVNVm44OE0zeFVySE9xRUxBeFlXN3ZybEFIRzYzc2l5RkF5N1hDOVNsQ1B0X0htSWU2ZldKcWhtSFpYcE11aU5FdjFGc2lKZ2F3QW15RFA4VUtON04zNzlnVGZIWHZpWktqdkZqdHVDaFY1Rk94QmVfZW5TZkFFYUQ2SXFyS052d3hLMFE?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7600581874bf"
-    },
-    {
-      "date": "2026-11-14",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "ElevenLabs launches new app for team meetings, transcription, and dictation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVdsTldIT2tyQ1ZxX1hjSnZWcHI4Z1NxOERTS1kyUGpGZnFta0dhY193UHVCMmhWc2ZTV051a0o5UW9ramZaVUUwa0tERHhEVnNtZy1DY2wyaDhDdlk5cThDMTd6RUNYdmVqZlowUDJienc1bS1FQnRrRmpnVlotME5xTlVUTUdjbERnLWpyME1wVzdzWVJKYV92aHdCYkFzaldQRUpmVkZLYkRVZXpBSkJLQThMWkhPNHVYWFI2X1o1dw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "685371f5654c"
     }
   ],
   "items": [
+    {
+      "id": "fc7650807702",
+      "title": "Keyword Ranking: How to Track and Improve SEO Performance",
+      "url": "https://neilpatel.com/blog/right-keywords-seo/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways Chances are, you want more website traffic. After all, more traffic means more business revenue, right? Not necessarily. More traffic’s all well and good, but attracting the wrong audience won’t do much for your bottom line. Instead, focus on improving traffic…",
+      "category": "SEO",
+      "published": "2026-11-21T20:00:00Z",
+      "coverage": 1,
+      "impact": 1.0
+    },
+    {
+      "id": "13b61555bdcc",
+      "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+      "source": "Search Engine Journal",
+      "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-11-21T13:00:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "d477595b955c",
       "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
@@ -4275,28 +4297,6 @@
       "published": "2026-11-09T13:49:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "d4fdca051c5e",
-      "title": "How software buyers use AI",
-      "url": "https://www.growth-memo.com/p/how-software-buyers-use-ai",
-      "source": "Growth Memo",
-      "summary": "What the prompts of 200 study participants tell us about the software buying process on AI",
-      "category": "GEO",
-      "published": "2026-11-09T13:42:36Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "2de106d56f91",
-      "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
-      "url": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
-      "source": "Search Engine Journal",
-      "summary": "Build an organic growth stack around the sources Google's AI answers and standalone chatbots cite most in your category. The post The New Organic Growth Stack: Search, Social, Communities & AI appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-09T13:00:04Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
