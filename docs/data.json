@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:59:18Z",
+  "updated": "2026-11-22T21:41:09Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -863,6 +863,18 @@
       "id": "db960dc2f704"
     },
     {
+      "date": "2026-11-22",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "NYC 9/11 toxin portal gets 11 million visits in two months as Mamdani orders more documents released",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUZhV2phNC1vczYyOWZjS00zTlMyX2hPSnhjMG5IWEVkOERQaUVvWjVTSGRnWVdNNkc2akxPMEtjXzY3Q3NqTE1WY2hyU2R1YW1zYUhGanRyT2NreGNjYTF6Z2l2dlRvNWlXMlVvemJLWS03anhJa3hyeDBfU05ZUTdUS09yV0dGLXhDRl9OeTNXckJLNUwzRER5R1BDQ0xsQTItckdYNXhvc0VBRld2QVNSRDRqazlDbE8tTkxDdnp1V0lNVTF1SQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "1395f2d68b56"
+    },
+    {
       "date": "2026-11-21",
       "company": "Getty Images",
       "front": "GenAI Media",
@@ -1533,21 +1545,20 @@
       "source": "Google News",
       "curated": false,
       "id": "a95fc9a3916a"
-    },
-    {
-      "date": "2026-11-17",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Your new Muse? Meta launches AI personal assistant in Australia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0xCYVRiTDY5UnJiTkFKUUJZWXUtT0Q3UHREYm42MjROSjk4MXlhV1c5dk55Y0NkLWpGVmZOZXFWdDNEbWtBX0ZCbUxQeUl0OUlzVXR3TnFZdFFsODhHTjYwakkyV3Q2a0lFRk5jLTlCU0pacWtrbXduZDJtaU4xZzJTZTQ4QmRIalY2b2NrdzZDLUdRZVJmaVo4aTd0WFNLZG83cV90VGt1alBNb3l5NUhNdUJWZ0JReWU4?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "dc64cfff88e6"
     }
   ],
   "items": [
+    {
+      "id": "de5cd1a6d51d",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "category": "GEO",
+      "published": "2026-11-22T00:00:00Z",
+      "coverage": 1,
+      "impact": 7.0
+    },
     {
       "id": "fc7650807702",
       "title": "Keyword Ranking: How to Track and Improve SEO Performance",
@@ -4284,17 +4295,6 @@
       "summary": "SEO will remain relevant as AI changes how people search. Learn what to expect and how to prepare.",
       "category": "SEO",
       "published": "2026-11-09T14:24:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "2a6ffc01d1cf",
-      "title": "Social media competitor analysis [+ free template]",
-      "url": "https://www.semrush.com/blog/social-media-competitor-analysis/",
-      "source": "Semrush Blog",
-      "summary": "Social media competitor analysis starts with the competitors you’re missing. Learn what to measure and turn their content into strategy with a free template.",
-      "category": "SEO",
-      "published": "2026-11-09T13:49:00Z",
       "coverage": 1,
       "impact": 2.0
     }
