@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:29:08Z",
+  "updated": "2026-11-22T05:28:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -827,6 +827,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-22",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Athletes honor community advocate, team up with Ainsley's Angels at annual Ron Smith Memorial Run the Runway",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTE45Q0hYaWY2VUlDdFBhMEpJclJXeEFsVk1OSF9tSlhGcWxmNWZxTTY1bjc2SE9sN2ZLNGE0UnY5b2xaaUtZWmdOdXROYlk4S1Zwc3Z4eUV0NGstX3VPeWdmSG1CSnU2RFlsOE9RV25Rc1FHUkdUYjhzTlJlRWxLa0x4RVJ0X2tYSjYzNjlURDFaeE5wZWhaVmRXQjEyRDZzNVJrRnc3aUVUQU9pbk1mWHYxRnVqdzdFOVdyODlaUDEwRFRXZ1Izbmxid3Z2QQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7b6b015e12b2"
+    },
+    {
       "date": "2026-11-21",
       "company": "Getty Images",
       "front": "GenAI Media",
@@ -861,6 +873,18 @@
       "source": "Google News",
       "curated": false,
       "id": "028563324985"
+    },
+    {
+      "date": "2026-11-21",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "California Voice: State needs to better resist job-killing entertainment megamergers",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFk5aGl5N25lYXJ3NWdENl9yR3dZY1F1NEpFTDA2Q2t0UGZOT2lkSnBHUUdYUXdiUENkWFJEcWl0U25yUVlHT1FLczhreE0xMzA2VExsaE5LZ2xlUVQ3ZXI3cmg5U0RidlBwTzNzd0xsTTM0S1hqWjZRQ3JGWlBPNEpTSWZ4VVgxQktVQXYxWFRJaXBVWlpiYzYxUjhrMXJiN2V1d0RkeWhEdHhoalZz?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "7568f3dfa783"
     },
     {
       "date": "2026-11-20",
@@ -1029,6 +1053,18 @@
       "source": "Google News",
       "curated": false,
       "id": "0f4f2ed81500"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Krea",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Google Cloud Launches Gemini Omni 1.2 Flash For Business Video",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWhncmZQdXE1eVFPVVpJMm5iMFdmX3prNlR1VkZEOHV5U0MxTUl4VS1CR0lBMmZPYS1rQTVHa2xVclNodkVvdlBua0tPMTF5aGZFN0g1MVAwWmVpZ2I1R2kwNzVjQ3RVSmEwaHF5ZVNDNmZGRnducklYZTY3SGRaSTVUN1BGblpxMUNDeUdveVQ1QUZR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4f7ed50fc532"
     },
     {
       "date": "2026-11-18",
@@ -1509,42 +1545,6 @@
       "source": "Google News",
       "curated": false,
       "id": "6251c15b2268"
-    },
-    {
-      "date": "2026-11-16",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "$100M",
-      "title": "ElevenLabs buys Japan's Kotoba in $100M voice AI deal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTNyelp5S2ZJYS1WVWotTzZmRm90eGx2eW1BYUlMWXF4Q3VZRnJMZVVwOTJLYUlVbEhzdTlyQWpwQ0pRWU1jMUllRVk4WUsxQ3JGbjZETnp3OEdaSWZKdzNkbWhEVW04bGxGRXlWV3FIN1hKUHhqTHZHSFZoTXpTOHVNazlxS1hrTXRCTGU4WQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a3aa5b70cdb3"
-    },
-    {
-      "date": "2026-11-16",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$1 million",
-      "title": "Great Salt Lake-inspired fashion collection hits the runway, raises over $1 million in support",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWU53NnFmeGJteEd1aGFZRkw3elJ1NV9JTGpZUUdId2xBblBQa0gxZmR2Y2xHY0ZlNUUycV9taHFOdV9US1laaG1PZ0lyQXA5VW5VV3lrMm9ONmE2eWtNT0hXTFVqNlhsYVUtNU02blhMUF80TmZQTVROM1pFUkF0dzFnQUYzWjhBVnN4bUNFcXY3bThXTl81RDZFeHZuQ094WS1v?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a553ea4f14a6"
-    },
-    {
-      "date": "2026-11-15",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Skyways launches Skyreach, a runway-free cargo drone that can fly 1,300 miles",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcF9qNUQ4dFdzU3NraEpfWHBnQ01aREtXNTFvSjZWa3A1QlVRSlptY3NPRU9FOTRFaUVxV0VkVXctVzltMXB3TV9LQnNIRF9iaUtzeHloYk1ZSEZydlBpM3ZsSHBwTnZuRzFMcFpzZUVlLU03YVBvSUtkM3lMelhRcl84QU9oSFZROVhQeUVyUUl5aklFZ0NydjdDN013OXYtRm1ESmo5eGRZcGJoUVB6RzAtLWs1d1dN?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7a029eeb4bb5"
     }
   ],
   "items": [
