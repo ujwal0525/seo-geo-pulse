@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:28:34Z",
+  "updated": "2026-11-22T15:59:18Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -839,6 +839,30 @@
       "id": "7b6b015e12b2"
     },
     {
+      "date": "2026-11-22",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Runway releases Praxis-1 open-weight world action model for robotics",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEpZX1pxNkZOQ29DdXdKcnl2dS04Um1lNHQ0QXZncWpWOUxPUkxIbHRBcjF2WE9UTlBVUmZUZy1MZUg0WmN0b2dFY184WHh3ZmxPWGpzZjFRemFiR21NODFaWER3OTJRWGd0VXg2MVdnanlkdXR0TkJ6QzNRRV93N3E4SWFjY19HRlNXcGtGcWwya1JKekkyV0RlNFMwU1hWWDdiOE01RTlyNmpxeW9NbkR4LV9IU2NJUHp4bnRjZ0xJaTA?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "3daecd5d8273"
+    },
+    {
+      "date": "2026-11-22",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Runway Growth Finance CFO Carmela Thomson buys $6,670 in stock By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUhuYy1iUEZBNzhqVEtvVHp0RDRDcGJ1NXFieUhSdzNDTW9Ldkx3MkFjSUZNN1Y0OUJwdm94SVcyaUZ5ZUxwVVBmeTZHUWtMbTFyVDBvRWphaDJwMEFVdXhXOWtXUGRZWEJCblFXWEVyYks2VzJkWnpXMVpXeXlwcTg0Z0VyR1g4bkpSMklHaTc1eG5sWUdlVkl0Ync1bV8wX1pndVhWWS13emJ1dTdKU25CQUJ3NU4wQmk2VW1n?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "db960dc2f704"
+    },
+    {
       "date": "2026-11-21",
       "company": "Getty Images",
       "front": "GenAI Media",
@@ -945,6 +969,18 @@
       "source": "Google News",
       "curated": false,
       "id": "377b57c61c78"
+    },
+    {
+      "date": "2026-11-20",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Partnership",
+      "detail": "",
+      "title": "Ye’s Yeezy returns with LA runway show and JD Sports partnership",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajhDOUd1Z0VsdUZuTDlnTl81aEdzSzNZOXpzbkFEWkY5cTZUb1gyOVROS3RUdkVpUHNkN25ZY29rZzg3aW90OXpWYW1LenFnTXJwd0lnVGdKT2tTbXZsRk04T3dVY21DVHZuTmRwOVpORHpQNjRMekRwLVNvTGFQUFk1RXJlQzBmOHlEa2hZVjJIb0pnYy1vTlZBVS16VVF0WFdyMlp3?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "adc7e1cca068"
     },
     {
       "date": "2026-11-19",
@@ -1065,6 +1101,18 @@
       "source": "Google News",
       "curated": false,
       "id": "4f7ed50fc532"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "Photoroom",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "MHCLG launches consultation on simplifying planning paperwork",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYThSNWlDX1EyWEU0bDYzTHJ6SEJzX2toTzFmNEhaaHFmUkNYak9EVGNkSTZ5czlaZWFPaDF6VUd0TEJCT1hDRHF1czZUaDVMTEdJQ1FITU9qSHZmTnVYQjF6TnpOZjhOQjVJUzZkVDlnSWc0NHZ2Zk5DZ0lFRzFEZGhtanBtUXdWTWltRk4xbkxuVEtaZmtLSDBtZnp6aTZIRDk1QVg2bXNSWHd6TGVySWJSdw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "34d690b29f07"
     },
     {
       "date": "2026-11-18",
@@ -1497,54 +1545,6 @@
       "source": "Google News",
       "curated": false,
       "id": "dc64cfff88e6"
-    },
-    {
-      "date": "2026-11-17",
-      "company": "Nitro",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "AWS Rolls Out Nitro Sandboxes to Give Containers Their Own VM Security Boundary",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXppcHVGQWQwd0dFYWpXaEFlcjNYdzdmOXFvYWRDaDBYU3BIVmpZVG1DQTQ0V2RMU1VDZ0tzY3ItaWdrTEZIUHRXdTN1bEdLUDZWbDcyYWM0MTNQWHdzTXpyOWlLalBpMkozbTI2VmQ0anltTlk4TTY3THEwSGZGemYzUXEtT0JjbEJUMVpGWXBLTXMyM182U2kwN1E4NVI2ZGh0eDR1TXhBcmdUX2hiQlJXczRHaGM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "067ba77280d4"
-    },
-    {
-      "date": "2026-11-17",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "ElevenLabs Acquires Kotoba: Koto Japanese Voice Models Join ElevenAgents",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTlNqU3lYYk9GRTZiU3VQV2lMeENqa0tuT3dMMmlKS0tGa09QY19IVWZUYmJWQ0ppWklPNW13cEM2UTZhWlA5dzFEWGFEdFZVcUt1ZEtBS0d3MzNLUGVDaXFhY2phd2JXOGd1RzFKSF94VjBGclQ4aEFua0dPU08tbkQ2dXQ3OEdVNG5pN3ZVUG9Kdw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a460efe6bbe4"
-    },
-    {
-      "date": "2026-11-16",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Master Concept Partners with ElevenLabs to Accelerate Enterprise Voice AI Adoption",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnJZUEtra1R5bE5lMDdIZURfMFViLXlxc1AyS1JjUElWQlpJeWhWcVlrODBMdUdIWDRJRUxOLUFvYUpvY1djTUxaR1ZkNk9VRGYzN19tNGtNRWVpZTNxdkNaUl9reUtMR055YWFFOVJrWS10ZGNqMUQxTmpURDEzQWJ3Njd5YWRQTFNhVFBhbGNhRXY4Um4tQ0lBY1p3QkVQbnBjdjBpTlRqdmo2TlVzblhISTRUZE9ZaWV6ZlNtR3ZuVlVUc2ExSQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "b4851ee69ab4"
-    },
-    {
-      "date": "2026-11-16",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Direct Affinity CX relaunches to bridge retail gaps",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1d4d3ZTREhLZU9STDRNajY3SjlUSkdObTNEdHl4ZlhQZ3RVQmZJc0hPS1FlVlBpekdfN0JMelNZeWV0SWk4Qi16MzBEQmZXZnlLYlhGeFlUSzhIYllpMmtYRVpWODl4OE1sbEZ1QTBMeVc3TXlrTkR3MndfX2pFRUlkM2g5Z2V0Q3V2RmZOQnF0Y0RL?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6251c15b2268"
     }
   ],
   "items": [
