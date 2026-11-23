@@ -1,11 +1,10 @@
 {
-  "updated": "2026-11-22T21:41:09Z",
+  "updated": "2026-11-23T06:06:02Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
     "Andrea Volpini (WordLift)",
     "Dan Petrovic (DEJAN)",
-    "Glenn Gabe (GSQi)",
     "Google (Search)",
     "Google Search Central",
     "Growth Memo",
@@ -24,6 +23,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-22",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Google Search Profiles Is Rolling Out Globally",
+      "url": "https://www.seroundtable.com/google-search-profiles-global-42591.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "266bd91d9cb4"
+    },
     {
       "date": "2026-11-20",
       "family": "model",
@@ -813,16 +822,6 @@
       "source": "Search Engine Roundtable",
       "curated": false,
       "id": "d2e6ffd350b2"
-    },
-    {
-      "date": "2026-09-24",
-      "family": "engine",
-      "platform": "Google",
-      "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
-      "source": "Search Engine Journal",
-      "curated": false,
-      "id": "12ae308555dc"
     }
   ],
   "competitors": [
@@ -1548,6 +1547,50 @@
     }
   ],
   "items": [
+    {
+      "id": "67e3451b42c1",
+      "title": "TreeWalker for Gemini 4: Mapping what Google's AI says about any brand, site, product, or person from memory",
+      "url": "https://dejan.ai/blog/treewalker-gemini-4-probability-distribution-tree/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "TreeWalker maps the probability distribution of descriptions Google's Gemini 4 model generates for any website, brand, product, or person from memory alone.",
+      "category": "GEO",
+      "published": "2026-11-23T04:38:07Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "0351bb0b2dba",
+      "title": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking & More",
+      "url": "https://www.seroundtable.com/google-starsearch-42594.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has posted a new job listing for a Senior Software Engineer, Discover Feed Recommendations. And in that job listing, it lists a number of interesting Google Search tidbits, including something called \"StarSearch,\" as well as AIGC, Zero-History Discovery, Feed Ranking, and…",
+      "category": "SEO",
+      "published": "2026-11-23T00:30:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "151087d8b6d7",
+      "title": "You Can Connect ChatGPT Business Hub With ChatGPT Ad Account",
+      "url": "https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Did you know that you can connect your ChatGPT Ads account in your new ChatGPT Business Hub? There is a button at the top of the ChatGPT Business Hub that says, \"Connect an ad account,\" and adds, \"This will let you promote your business and reach more customers across ChatGPT.\"",
+      "category": "GEO",
+      "published": "2026-11-22T23:24:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "77e525fac1ac",
+      "title": "Google Search Profiles Is Rolling Out Globally",
+      "url": "https://www.seroundtable.com/google-search-profiles-global-42591.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google seems to have rolled out Search Profiles globally, this has not yet been announced but now folks outside of the United States, Canada and India can now claim their profile without having to go through VPNs to pretend they are in those countries.",
+      "category": "SEO",
+      "published": "2026-11-22T22:33:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
     {
       "id": "de5cd1a6d51d",
       "title": "Perplexity and Intelligence",
@@ -4253,50 +4296,6 @@
       "published": "2026-11-09T16:30:00Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "5d4a555a0028",
-      "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
-      "url": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
-      "source": "Search Engine Journal",
-      "summary": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue. The post SEO Split Testing In 2027: How To Prove A Change Actually Worked appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-09T15:00:42Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "622d64d0c3af",
-      "title": "Why An AI Usage Report Stopped Comparing AI With Search Engines via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
-      "source": "Search Engine Journal",
-      "summary": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and says it can no longer reliably compare AI search use with search engines. The post Why An AI Usage Report Stopped Comparing AI With Search Engines appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-09T15:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "8e56584d297b",
-      "title": "The Impact of Google AI Overviews rolling out in France – The clearest evidence of impact to clicks and click-through rate yet [GSC Data]",
-      "url": "https://www.gsqi.com/marketing-blog/google-ai-overviews-roll-out-in-france-impact/",
-      "source": "Glenn Gabe (GSQi)",
-      "summary": "Data from Google Search Console reveals some big drops in clicks and click-through rate based on AIOs rolling out in France on July 22, 2026. But not all sites dropped. You might be surprised by what the data shows. Google rolled out its generative AI features in France on July…",
-      "category": "GEO",
-      "published": "2026-11-09T14:48:15Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "b36169149a68",
-      "title": "The future of SEO: Where search is heading in 2027",
-      "url": "https://www.semrush.com/blog/future-of-seo/",
-      "source": "Semrush Blog",
-      "summary": "SEO will remain relevant as AI changes how people search. Learn what to expect and how to prepare.",
-      "category": "SEO",
-      "published": "2026-11-09T14:24:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
