@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:55:11Z",
+  "updated": "2026-11-24T04:39:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -826,6 +826,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-24",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "$1.59 billion",
+      "title": "PC Gold unveils $1.59 billion vision for Spring Hill",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVAtakJzQmI3aDNFU1M5V2htZHRLd19lTlBPTUozNm5FT1VtYWNHWm14amQ5a1lqZUowUmxOYVg5OEN3MTJpUDQwRTBiV0N5eTdYODdIWTBaLWpLUjIzYXNkcGxiSUpacnBLLUpvWTBzalVaOENCT2llLWplZXFOeWJYT085dDRrcEMtUERyRHAxQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "b9fc35ddca4d"
+    },
+    {
       "date": "2026-11-23",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -908,6 +920,18 @@
       "source": "Google News",
       "curated": false,
       "id": "418e9966dcbd"
+    },
+    {
+      "date": "2026-11-23",
+      "company": "Nitro",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBac3N1TFhlNEVGYjlael9Uejk3NXBPMzBNVFR5X3NGcEJKM3pEcS1RZ0RIMGdVZk5ySFBwdFJWci1QSnhjamVQZmdCMm9rV1Frd0c3c1I3eWlVSjNHVGZjbzR6WG5BTTFoZEUxeXFpYVFkVHdlYVoxOEoyMnlIQQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "586920cd11d2"
     },
     {
       "date": "2026-11-22",
@@ -1210,6 +1234,18 @@
       "id": "34d690b29f07"
     },
     {
+      "date": "2026-11-19",
+      "company": "Synthesia",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "EXEC: Colt CZ Sees H1 Revenues Surge on Acquisition Bump; U.S. Sales Fall DD",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTFfck1HWnEwWlJpSFpwSkdBSENFRWVkNDU1bjU4QXJ3Mk1acEJqeGZQaHdDQmlXQ3Ywd2EyVGtCcEhWV0d3bFlQZjZ1Q2lzTTg3QUx1RjZIZUtFOEprbUNHbDlGOVR4bmpsNEp6UmhPY3JQTTczUTdISTFfZEVVWEFmUjFEMnllbWJNTmJnb2lsV3ZnTFhzd3hkNE0?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d0f2a5d2e7aa"
+    },
+    {
       "date": "2026-11-18",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1402,6 +1438,18 @@
       "id": "0a9f9f646bd4"
     },
     {
+      "date": "2026-11-18",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kling AI Launches Kling Image 4.0 with Native 8K and Multi-Image Generation - citybuzz -",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1JKaVhzcHhjUXZsQ3RZTmNDdDRKT1hNX2VQMEdMWjZpcTF4NkIwQ1hzQlNzZS1zY1lFREZLYXludFVIRkNqUVQzbk42d0lwV2RVZVlXYXVIay1TdUhxaVozaWxkNTc1S2UzRmhjYlNpcEJydDc0SzFGVmhwRnhEVjNMM3d0TEJxQ0F6VFpnUU9VVTk5cTFlTjBveTJRRldKaWFUajdPUzljN2RqX2Fj?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "46243779b244"
+    },
+    {
       "date": "2026-11-17",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1496,57 +1544,64 @@
       "source": "Google News",
       "curated": false,
       "id": "ada9aeeec61f"
-    },
-    {
-      "date": "2026-11-17",
-      "company": "Luma AI",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$58 million",
-      "title": "LanceDB raises nearly $58 million to manage AI training data for Microsoft, Netflix and Runway",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemYtZU1Dd0lnNGtCUnZVQTRLMWV4TExabmpYTmxQdndMRlUyRjdVNEdnOEFHZGRONkVBTUF4Y0NleDFQWGFfRDdEM1VubmMwME5iWHprVHlUVS1JVFV0LWZ5RjhucmFOcjBfdThKQ29GaWhwdGQyZ3cyOERsSGRUZVRwcjlSV3Z3SmFKamMySkZ1WGdOdnNnNmxwWklmbFd5RTkxOEhLN2Z1WTFzcG80Ri16UQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ffec4e0f8093"
-    },
-    {
-      "date": "2026-11-17",
-      "company": "ElevenLabs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "$100M",
-      "title": "ElevenLabs Finalizes $100M Acquisition of Kotoba Voice AI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEZBT1JqbWtKQTJ5SXZaRnZzdGlkOEJzUkE1MXF3Yll4U19yNkhpMFQ2a2ZkU3VodE1oNFpHak1mVENPQm9BRVJmbFJmRUEwNUZkdDNWTl8ySzQtOFFIeWFxUzZ3Q3R3VzZSWUtzMU04UGdhWWRLaXgwcEZpWkFubFZRRE51aTlDRy1n?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ba57c798d17c"
-    },
-    {
-      "date": "2026-11-17",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "HeyGen Launches Avatar 6 with Script-Aware Gestures and 2K Video",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSkxSX0ZubEVnbmRXNE9MOGdfNk42RjBTaktaU01haV9NeGYtdE9jcl9rUGdERmQyU1E5WE1xYUYxRVFWWkt1WjZ6TnBpc1pEeVUzMmg5ZEM3bmJaSWk1T0E4Wld4b3lhZEhQUDIzdElKdFFPOGhEQWNYa3V2VjNYN3NoWk1Id0FsbzFNaEljZw?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2c6fb7fe8bf6"
-    },
-    {
-      "date": "2026-11-17",
-      "company": "Topaz Labs",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "Adobe Completes Topaz Labs Acquisition, Adds AI Media Tools",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQy1NdTM3MTRDMDFOWUVJSzVYT1puc0huenhaSUNpaDBXVjBaYTJyM1hmMUZiSWZhSzJRVnNFRDdnNlhpajVHWTkzb3VKUGRoM1o3V1BEMnRJUWJ4VVZLOEdKYnREazZfYW5Ka0dPVWJTUFlnMENlemZTS1hGWDBfa01ucE94WnZYR0lmMGR1MA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "23f2e0ab183b"
     }
   ],
   "items": [
+    {
+      "id": "f529859837af",
+      "title": "New Google Business Profiles Controls For Appointments & Dinner Reservations",
+      "url": "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google has added self-serve control to appointment bookings and dining reservations on your Google Business Profile. This is the same as what Google added for restaurant ordering services a month ago, and it now also works for appointment bookings and dining reservations.",
+      "category": "SEO",
+      "published": "2026-11-24T00:29:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "435189d1d10e",
+      "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
+      "source": "Search Engine Journal",
+      "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Reddit’s AEO Tool Recommendations Have A Promoter Problem appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-23T22:52:42Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "1d0c151fefed",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "category": "SEO",
+      "published": "2026-11-23T21:20:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "110f5449c4c6",
+      "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/",
+      "source": "Search Engine Journal",
+      "summary": "Here's how Marie Haynes blind-tested Gemini 4 Neon, Hydrogen, and 3.8 Flash on six SEO questions, plus what each model really costs per prompt. The post I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-23T20:00:33Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "ab2f89ef2300",
+      "title": "Ubersuggest vs. Semrush vs. Ahrefs: Which SEO Tool Is Best?",
+      "url": "https://neilpatel.com/blog/ubersuggest-vs-semrush/",
+      "source": "Neil Patel",
+      "summary": "Key Takeaways If you’re looking for SEO help, chances are you’ve come across online tools like Ubersuggest, Semrush, Ahrefs, and Moz. They’re four of the biggest names in SEO software, and they all promise to help you improve your search rankings. Which ones are actually worth…",
+      "category": "SEO",
+      "published": "2026-11-23T20:00:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
     {
       "id": "95ad61bc683a",
       "title": "Google Documents Previously Undocumented Crawlers & Fetchers",
@@ -1777,6 +1832,17 @@
       "published": "2026-11-23T08:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "680b35173b97",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "category": "GEO",
+      "published": "2026-11-23T08:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "6f246a1ffb11",
@@ -4228,72 +4294,6 @@
       "summary": "ChatGPT gets its information from training data, live web searches, licensed publisher content, and your own context. Here's how each one works. Read more ›",
       "category": "GEO",
       "published": "2026-11-10T16:22:07Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "fa08699501d7",
-      "title": "Yahoo Search Launches Pivot Search, Yahoo Scout App & More",
-      "url": "https://www.seroundtable.com/yahoo-pivot-search-yahoo-scout-42501.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Yahoo announced updates across Yahoo Search and Yahoo Scout including that Yahoo Scout is now out of beta and Yahoo Search added Pivot Search. Plus, Scout has now processed over 3 billion answers since it launched earlier this year.",
-      "category": "SEO",
-      "published": "2026-11-10T15:50:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "ac82a7a1792b",
-      "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman",
-      "url": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
-      "source": "Search Engine Journal",
-      "summary": "Build programmatic SEO pages that earn their place with unique data, clear publishing standards, and pruning rules that keep scale from becoming spam. The post Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines appeared first on Search Engine Journal…",
-      "category": "SEO",
-      "published": "2026-11-10T15:00:54Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "e68a664eaeb3",
-      "title": "Semrush vs. Ahrefs: Which is right for your team?",
-      "url": "https://www.semrush.com/blog/semrush-vs-ahrefs/",
-      "source": "Semrush Blog",
-      "summary": "Semrush vs. Ahrefs compared on AI visibility, backlinks, rank tracking, pricing, features, add-ons, scalability, and more.",
-      "category": "SEO",
-      "published": "2026-11-10T13:12:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "1c3587a30d18",
-      "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
-      "source": "Search Engine Journal",
-      "summary": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms. The post Jon Miller On AI And The Future Of Marketing Automation appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-10T13:00:26Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "6c1a4e170f43",
-      "title": "Prompt tracking methodology to measure AI visibility",
-      "url": "https://www.semrush.com/blog/ai-prompt-tracking-methodology/",
-      "source": "Semrush Blog",
-      "summary": "Learn why tracking more AI prompts can still create blind spots and use a prompt tracking methodology that balances coverage, discovery, and verification.",
-      "category": "GEO",
-      "published": "2026-11-10T12:59:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "99808c868f78",
-      "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites",
-      "url": "https://www.seroundtable.com/google-new-sites-time-value-42489.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google's John Mueller said it can take Google Search some time to understand a new site's \"unique value\" and then rank it accordingly. He said on Bluesky in response to a new site not being fully indexed quickly enough, \"It's a fairly new site, and you've been busy with content…",
-      "category": "SEO",
-      "published": "2026-11-10T12:51:00Z",
       "coverage": 1,
       "impact": 4.0
     }
