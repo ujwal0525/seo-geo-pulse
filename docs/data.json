@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:23:37Z",
+  "updated": "2026-11-25T03:24:39Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -826,6 +826,18 @@
   ],
   "competitors": [
     {
+      "date": "2026-11-25",
+      "company": "Runway",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Close the Gap: Runway to Hope launches new campaign to help families battling pediatric cancer",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlFGa3NENzJIQTk0REplN1ZzM1BvaDNLZGlyWDZyX3lNVE1HMUFBSlVYWFUzemNUSXFGQVhwYVpaZkpUZVdIS2JYNzZoeU81RkNJQjRhMFFvdkFfanZGeGIwY2g5X2RhOE8tX052SXZSdTBvM1daVGI2RmtlaWVhVXlraGxQVTBQcDg5ZHYtSFI2LS1vR2c?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d8ba7eff3324"
+    },
+    {
       "date": "2026-11-24",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -920,6 +932,30 @@
       "source": "Google News",
       "curated": false,
       "id": "be0c38f392dc"
+    },
+    {
+      "date": "2026-11-24",
+      "company": "Getty Images",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "Disputed NextEra memo to be kept under seal in Dominion merger case, SCC rules - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDBnREtpUDI5TFBFT3BqY1VBUVBubkFIX05ndmkxbTVIalFJNnd0eE1TM1dQUi1WbEZUYWRCVnFzV0xRLTZpQXVfbzZaQ1REUjl0eldlblo3eUlhR3oybzQ1YVY4S3hFdUFCOHRkZnp4VTFnZl8wZXpuM2YwWWp5cERhLVdhV2M?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "792e30282e72"
+    },
+    {
+      "date": "2026-11-24",
+      "company": "Foxit",
+      "front": "Documents",
+      "move": "Launch",
+      "detail": "",
+      "title": "Menxtt Technology NG Unveils Affordable ICT Solutions, Black Friday Deals in Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV3lvZkxKa3JoMHpNUGtsT1dmd0xYMERpUGQyYW5YMXdPb3VKcThjTFI0RmNjZGtlN2xtVUJYVVVXakdaYU5BdGphcVFUTXA4aFRWV0JBRlVoRG9za2NBdFJPY1NHTUdJYVdsSFd6NXhJTmdTTXJXY2o2VDU2VHR1bVE3OHJHTUZvWm9BR2IxZkhFSmxhM0V2V1VXc1BELXd5aEl1ajhfLVkxLXFUT0RRT1pxdkZLLWthT09aRk45WTFkSVk0NnExSGtxUlRjMkR0blhtQUlR?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "4b000a28ed99"
     },
     {
       "date": "2026-11-23",
@@ -1508,45 +1544,42 @@
       "source": "Google News",
       "curated": false,
       "id": "ba87f5818c9e"
-    },
-    {
-      "date": "2026-11-18",
-      "company": "Luma AI",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "EasyPost, the Leading Shipping AI and API Platform for Modern Commerce, to Go Public on Nasdaq Through Business Combination with American Drive Acquisition Company",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUXVQNUF2SFRCUXpKQVpyc09yd3JhMl9HYzVZQ1dfOG9yZG45VmdKTWxDejAtXzByVTgxM1RVWGt6c0dlNko1STd5WGtGNS1RdW1lVzJBbFBTWnUyS2pFNU1vVXp6eG5IdDJUNk9FUnhFdVJSeEswZWlOc0lWalRWOVR6aUhHRlBuSUdiNGpuajFHMHpIQ1M5bGRWT0xua1ZZelUxbk14WE5xV2lGT1RWVUt2QVA3OGVRclROeVd6WVNOWDlvYWVfc0g4T3dPamMtVFpaR2tzQTg5dmt1eWdObkV2QnNpVXJsU3BmRVFhLVJTY0RwV3VJS2pRRUpNenRTNnY2bXlqdXd6VWd6OFZyYXNTYVVPa2tUTDBNOXpTcEl6aVFPdUt4ZjJSemdSanprSzhkc2NDbW1BdmsxZzZ3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "0a9f9f646bd4"
-    },
-    {
-      "date": "2026-11-18",
-      "company": "Kling AI",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Kling AI Launches Kling Image 4.0 with Native 8K and Multi-Image Generation - citybuzz -",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1JKaVhzcHhjUXZsQ3RZTmNDdDRKT1hNX2VQMEdMWjZpcTF4NkIwQ1hzQlNzZS1zY1lFREZLYXludFVIRkNqUVQzbk42d0lwV2RVZVlXYXVIay1TdUhxaVozaWxkNTc1S2UzRmhjYlNpcEJydDc0SzFGVmhwRnhEVjNMM3d0TEJxQ0F6VFpnUU9VVTk5cTFlTjBveTJRRldKaWFUajdPUzljN2RqX2Fj?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "46243779b244"
-    },
-    {
-      "date": "2026-11-18",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "Funding",
-      "detail": "$81 billion",
-      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "a498d5da57c5"
     }
   ],
   "items": [
+    {
+      "id": "768a3a0eaee3",
+      "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
+      "source": "Search Engine Journal",
+      "summary": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route. The post Google Documents Advance Notice For Significant Ranking Updates appeared first on Search Engine Journal .",
+      "category": "Algorithms",
+      "published": "2026-11-24T22:06:57Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "afdb36fd51b7",
+      "title": "Google On How Links Are Selected & Shown In AI Overviews & AI Mode",
+      "url": "https://www.seroundtable.com/google-ai-overviews-ai-mode-link-selection-42617.html",
+      "source": "Search Engine Roundtable",
+      "summary": "As part of the updated documentation and Google Search ranking hub we covered a new document named Attribution and factuality in Search generative AI features. This document is chock-full of information on how Google selects which links to show in AI Mode, AI Overviews and other…",
+      "category": "GEO",
+      "published": "2026-11-24T21:41:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "e49d97488d59",
+      "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
+      "source": "Search Engine Journal",
+      "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot appeared first on Search Engine…",
+      "category": "SEO",
+      "published": "2026-11-24T20:00:04Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "acdd4726201e",
       "title": "New Google Search Ranking Hub, Ranking Principles, Feedback & AI Training Control",
@@ -1645,6 +1678,17 @@
       "published": "2026-11-24T13:00:08Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "3c6728c1bfd1",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "category": "GEO",
+      "published": "2026-11-24T13:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
     },
     {
       "id": "23431de6c1da",
@@ -1757,6 +1801,17 @@
       "impact": 4.0
     },
     {
+      "id": "f3aa9260f109",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "category": "SEO",
+      "published": "2026-11-24T11:00:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
       "id": "aacb97a4cec7",
       "title": "NEW Feature: Share of Influence Lets You Calculate which Channels Contribute to any Buyer Journey",
       "url": "https://sparktoro.com/blog/new-feature-share-of-influence-lets-you-calculate-which-channels-contribute-to-any-buyer-journey/",
@@ -1790,15 +1845,37 @@
       "impact": 5.0
     },
     {
-      "id": "435189d1d10e",
-      "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
-      "source": "Search Engine Journal",
-      "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Reddit’s AEO Tool Recommendations Have A Promoter Problem appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-23T22:52:42Z",
+      "id": "ec442b764e04",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "category": "SEO",
+      "published": "2026-11-24T00:00:00Z",
       "coverage": 1,
       "impact": 5.0
+    },
+    {
+      "id": "99b93f3e1098",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "category": "GEO",
+      "published": "2026-11-24T00:00:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "435189d1d10e",
+      "title": "Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
+      "source": "Search Engine Journal",
+      "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-23T22:52:42Z",
+      "coverage": 1,
+      "impact": 4.0
     },
     {
       "id": "1d0c151fefed",
@@ -4217,83 +4294,6 @@
       "summary": "Google Ads has just released a minor update to its Google Ads API - version 26.2. This update touches on assets, campaigns, reporting, and more general updates.",
       "category": "SEO",
       "published": "2026-11-11T20:45:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "972093ed4c60",
-      "title": "Google Search AI Overview Definitions Expanded By Default",
-      "url": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is expanding the AI Overviews for definitions by default, where you no longer have to click on \"Show more\" to see the full version of the AI Overview. This is similar to when Google confirmed it dynamically expands some AI Overviews based on the query, but now Google is…",
-      "category": "GEO",
-      "published": "2026-11-11T19:51:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "0962b08a218b",
-      "title": "How to Increase Form Conversions and Generate More Leads",
-      "url": "https://neilpatel.com/blog/the-definitive-guide-to-lead-generation-form-optimization/",
-      "source": "Neil Patel",
-      "summary": "Key Takeaways The forms on your website are full of opportunity. Unfortunately, not everyone gets forms right, and they don’t convert the way they should. Simply putting a form on a landing page doesn’t guarantee people will submit. One study showed that more than half of people…",
-      "category": "SEO",
-      "published": "2026-11-11T17:00:00Z",
-      "coverage": 1,
-      "impact": 1.0
-    },
-    {
-      "id": "092c2de61178",
-      "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
-      "url": "https://www.seroundtable.com/google-search-cdn-42511.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Gary Illyes and Chery Prommawin released the final video in the Non-Canonical Cabinet series, this one is on CDNs, content delivery networks. They discuss why migrating a website to a CDN can suddenly increase Googlebot crawling activity, why this may overload your origin…",
-      "category": "SEO",
-      "published": "2026-11-11T15:55:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "c51f73aae968",
-      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
-      "url": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
-      "source": "Search Engine Journal",
-      "summary": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes. The post Visibility Gets You On The List, Evidence Helps You Stay There appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-11T15:00:59Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f513c13bdb71",
-      "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
-      "source": "Search Engine Journal",
-      "summary": "Google analyzed millions of Nano Banana prompts and found how businesses are using it for marketing. The post Google Discovers Unexpected Patterns In AI Image Generation appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-11T14:18:51Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "5a78ed99d9fb",
-      "title": "The 100 Most Mentioned Brands in ChatGPT (November 2026)",
-      "url": "https://ahrefs.com/blog/most-mentioned-brands-chatgpt/",
-      "source": "Ahrefs Blog",
-      "summary": "We counted how many of 5.5 million US ChatGPT answers mention each brand. Walmart comes first, named in 95,605 answers, almost twice as many as second-placed Target. Stores take six of the top 10 spots. Carmakers make up 15 of … Read more ›",
-      "category": "GEO",
-      "published": "2026-11-11T13:13:26Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "0f2b90fa3ac6",
-      "title": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
-      "source": "Search Engine Journal",
-      "summary": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split appeared first on Search Engine…",
-      "category": "SEO",
-      "published": "2026-11-11T13:00:37Z",
       "coverage": 1,
       "impact": 4.0
     }
