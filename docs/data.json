@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:24:39Z",
+  "updated": "2026-11-25T13:57:32Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -838,6 +838,18 @@
       "id": "d8ba7eff3324"
     },
     {
+      "date": "2026-11-25",
+      "company": "Midjourney",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Midjourney Unveils 'Niji V8' Anime Image Generation AI [with Examples]",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zMlhYSEFGY0xqbXBHSjJrclBLc04tenZNaTV6eW1xM1dFM1laOU9EU3UxYWh5SXNkQ0h1bldJUVR4QmhfbXBQTzlkLVFSR3JUMW8teURFV1Y?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d71aae0df364"
+    },
+    {
       "date": "2026-11-24",
       "company": "Shutterstock",
       "front": "GenAI Media",
@@ -956,6 +968,18 @@
       "source": "Google News",
       "curated": false,
       "id": "4b000a28ed99"
+    },
+    {
+      "date": "2026-11-24",
+      "company": "Freepik",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "GSK India launches antibody-drug conjugate BLENREP for multiple myeloma",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNUs1SURpN19pc3h5YkpxaGk3QjBRRGoyQmNHa2RLYzRhNElZMUFxZEF5aWdHcUZDMjYzcGFrV3NzZnJfTDZfVUhTQ3hqTXF3MnBUZ3VYN05OMkZHZWVybEF3ckFpWjNPbldobXh1Q2pYOE9HUV9WWFo0VkdKaUJvMzdfWEwxVmV3WGZ1c0xzM2psa0NBa3ZDRURuV0FNSERfT2loME9LSDVOOFJjTXJaM0plLWIyTXZWNmxmSUVpNFBlYVBXcXlJaGtzWdIBywFBVV95cUxQNUs1SURpN19pc3h5YkpxaGk3QjBRRGoyQmNHa2RLYzRhNElZMUFxZEF5aWdHcUZDMjYzcGFrV3NzZnJfTDZfVUhTQ3hqTXF3MnBUZ3VYN05OMkZHZWVybEF3ckFpWjNPbldobXh1Q2pYOE9HUV9WWFo0VkdKaUJvMzdfWEwxVmV3WGZ1c0xzM2psa0NBa3ZDRURuV0FNSERfT2loME9LSDVOOFJjTXJaM0plLWIyTXZWNmxmSUVpNFBlYVBXcXlJaGtzWQ?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "38bc5fac9f2a"
     },
     {
       "date": "2026-11-23",
@@ -1520,33 +1544,130 @@
       "source": "Google News",
       "curated": false,
       "id": "37a619593b5a"
-    },
-    {
-      "date": "2026-11-18",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "Willy Chavarria Debuts His Dream “Bitchy Little Bags”",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHZlWlAybTdaSlEwYlRzY0xpYVIwMWtsN254UDJNWWlsb2pFOUxzaXBETU1oa29NQlJVanBHTDYtaV92RnFkTE9GRHUwT1RwZHZqbl9ZSENyRFotaGxLQWJQV1J3dFpRbnZYZS1sT1dTSklGbUYxS0p5WW42NUJDcnk0MjdRMGNM?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "8f8f5f69d571"
-    },
-    {
-      "date": "2026-11-18",
-      "company": "HeyGen",
-      "front": "GenAI Media",
-      "move": "Launch",
-      "detail": "",
-      "title": "HeyGen Launches Avatar 6 AI Avatar Model",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFhIejYwdFlYaTQxQjVlczgyX00wOWZyb3NBY1hCSDQ2NnpkX3BXWHFhVUZlTk96Wm5hNkRBd3pveE1sc2V4RnlvTkJzSTRWZHluX21KMUVFTldqU2p5WTV1bEsyZ0E4cklxQm9lZEI5ZjhJalc3ajdZeTdCZFljNU1rQU1mSW9HZ0E?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ba87f5818c9e"
     }
   ],
   "items": [
+    {
+      "id": "ca7bd6bbb767",
+      "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/",
+      "source": "Search Engine Journal",
+      "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence. The post Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? appeared first on…",
+      "category": "GEO",
+      "published": "2026-11-25T13:00:23Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "37d6401804f3",
+      "title": "Premium email: Algo Scorer",
+      "url": "https://www.growth-memo.com/p/premium-email-algo-scorer",
+      "source": "Growth Memo",
+      "summary": "Did an algo update hit you, or just feel like it?",
+      "category": "SEO",
+      "published": "2026-11-25T12:54:22Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "03d6771ebbd5",
+      "title": "Google Ads Encourages Dynamically Scoring Conversion Values Hack",
+      "url": "https://www.seroundtable.com/google-ads-dynamically-scoring-conversion-values-42609.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Ginny Marvin, the Google Ads Liaison, said that the Google Ads platform \"we strongly encourage\" \"dynamically scoring conversion values\" and they do not consider it a \"hack\" of any kind. \"Optimizing for deep conversion actions and feeding high-fidelity, first-party data is the…",
+      "category": "SEO",
+      "published": "2026-11-25T12:51:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a216ec556db8",
+      "title": "Bing Image Search Ask Visual Search Button",
+      "url": "https://www.seroundtable.com/bing-search-ask-visual-search-image-button-42590.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft seems to be testing a new button when you overlay your mouse cursor over an image in the Bing Search results. Previously, a visual search button took you to a new screen when clicked; now, an Ask button lets you add context to your query for that image search.",
+      "category": "SEO",
+      "published": "2026-11-25T12:41:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "23e20b66381c",
+      "title": "Google Image Collections & Saved Items Adds Ask Anything AI Mode",
+      "url": "https://www.seroundtable.com/google-image-collections-ask-anything-ai-mode-42595.html",
+      "source": "Search Engine Roundtable",
+      "summary": "The Google Images collections & saved items section added an \"Ask anything\" button, where it will take all the images in the collection and let you ask Google AI Mode about them in one shot. Yes, Google is even sticking AI Mode into the images you save to your collections in…",
+      "category": "GEO",
+      "published": "2026-11-25T12:31:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "2c5b59cfc7a3",
+      "title": "Google On Inventory Pages Per Geographic Region: Fewer Pages Better",
+      "url": "https://www.seroundtable.com/google-geographic-inventory-pages-42607.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google's John Mueller gave advice on how to handle inventory pages for each geographic area that you might have. Instead of creating a page for each product and geographic area with its inventory, create a single product page and show the inventory levels for that product in…",
+      "category": "GEO",
+      "published": "2026-11-25T12:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "09c345adb492",
+      "title": "Google AdSense Opt-Out, Messaging & Privacy Updates",
+      "url": "https://www.seroundtable.com/google-adsense-updates-42550.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google AdSense posted a few updates related to regulatory changes around opt-out controls, messaging and privacy regulations for the ad product. I figured I'd group them into one post and sum it up.",
+      "category": "SEO",
+      "published": "2026-11-25T12:11:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "42255899c11e",
+      "title": "10 ways to use Semrush historical data (with examples)",
+      "url": "https://www.semrush.com/blog/semrush-historical-data/",
+      "source": "Semrush Blog",
+      "summary": "Learn 10 ways to use Semrush historical data to diagnose traffic drops, track keyword ranking history, spot seasonality, and research AI visibility.",
+      "category": "SEO",
+      "published": "2026-11-25T12:07:00Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "0a1d2b961955",
+      "title": "Google Snoopy Thanksgiving Prep 2026 Doodle",
+      "url": "https://www.seroundtable.com/google-thanksgiving-prep-2026-doodle-logo-42618.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Tomorrow is Thanksgiving in the United States and Google is getting ready with a new Thanksgiving 2026 prep Doodle or logo. You can see the characters from Snoopy preparing the Thanksgiving table outside in this animated Doodle.",
+      "category": "SEO",
+      "published": "2026-11-25T12:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "477dc42a6c04",
+      "title": "AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You",
+      "url": "https://ahrefs.com/blog/ai-sentiment-analysis/",
+      "source": "Ahrefs Blog",
+      "summary": "It can help you spot recurring objections, see what competitors get praised for, and find ways to improve your products and how you explain them. After all, AI visibility isn’t just about whether your brand appears in AI answers. What … Read more ›",
+      "category": "GEO",
+      "published": "2026-11-25T08:18:04Z",
+      "coverage": 1,
+      "impact": 2.0
+    },
+    {
+      "id": "c592a8967cc9",
+      "title": "The Best Damn Fashion Gift Guide 2026",
+      "url": "https://sparktoro.com/blog/the-best-damn-fashion-gift-guide-2026/",
+      "source": "SparkToro",
+      "summary": "I can’t believe it. This is our SIXTH YEAR publishing SparkToro’s best damn gift guide (here’s 2025, 2024, 2023, 2022, and 2021). After a delicious half-decade sharing our favorite food and drink recommendations, we’ve decided to try something new: fashion and wearable…",
+      "category": "SEO",
+      "published": "2026-11-25T05:53:26Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
     {
       "id": "768a3a0eaee3",
       "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
@@ -1670,10 +1791,10 @@
     },
     {
       "id": "07713995fef3",
-      "title": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd",
+      "title": "Bing’s AI Cites Support Pages, PDFs & Staff Bios – 883,313 Citations Analyzed via @sejournal, @dodgejd",
       "url": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
       "source": "Search Engine Journal",
-      "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post What Bing’s AI Actually Cites: 883,000 Citations Analyzed appeared first on Search Engine Journal .",
+      "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing’s AI Cites Support Pages, PDFs & Staff Bios – 883,313 Citations Analyzed appeared first on Search Engine Journal .",
       "category": "GEO",
       "published": "2026-11-24T13:00:08Z",
       "coverage": 1,
@@ -4175,127 +4296,6 @@
       "published": "2026-11-12T12:05:00Z",
       "coverage": 1,
       "impact": 5.0
-    },
-    {
-      "id": "90d79223706e",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "category": "GEO",
-      "published": "2026-11-12T12:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "50264ceb54b6",
-      "title": "13 Things Google Search Console Ranking Data Says",
-      "url": "https://ipullrank.com/gsc-ranking-data",
-      "source": "iPullRank (Rank Report)",
-      "summary": "Drawn from Google Search Console data for 166 brands, roughly 9.5 billion impressions and 105 million clicks a month over ~16 months. Findings at a Glance Finding 1 The −0.29 link between a site’s branded search demand and how well it ranks for the plain keyword falls once other…",
-      "category": "SEO",
-      "published": "2026-11-12T12:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c42ff464a2c0",
-      "title": "AI traffic quality: Look past the industry benchmarks and measure ROI",
-      "url": "https://www.semrush.com/blog/ai-traffic-quality/",
-      "source": "Semrush Blog",
-      "summary": "Published benchmarks describe someone else‘s site. Here‘s how to measure AI traffic quality in your own analytics and decide whether to invest more.",
-      "category": "SEO",
-      "published": "2026-11-12T11:21:00Z",
-      "coverage": 1,
-      "impact": 2.0
-    },
-    {
-      "id": "0990939c7d6e",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "category": "SEO",
-      "published": "2026-11-12T09:30:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "e2c9111b060d",
-      "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
-      "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
-      "source": "Search Engine Journal",
-      "summary": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers. The post AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-12T06:00:23Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "7986392286e2",
-      "title": "Which YouTube Videos Does AI Cite? 7 Findings from Prompt Tracking Data",
-      "url": "https://foundationinc.co/lab/project-management-youtube-citations/",
-      "source": "Ross Simmonds (Foundation)",
-      "summary": "YouTube was the biggest single source of AI citations on one Foundation client’s tracked prompts. It earned 6.7% of all citations, 1.7 points ahead of the next domain and more than double the client’s own site. The client sells project management software, which had the highest…",
-      "category": "GEO",
-      "published": "2026-11-12T01:47:18Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "c5f0321fb6cf",
-      "title": "Google Placing Source Icons At Bottom Of AI Overviews",
-      "url": "https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google is testing moving the citations or sources icons to the very bottom of the AI Overviews. Previously, these icons appeared at the top of the AI Overview; now Google is testing placing them at the bottom, which may make it even harder to find the sources of the answers…",
-      "category": "GEO",
-      "published": "2026-11-12T01:15:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "f28f90d2895a",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "category": "SEO",
-      "published": "2026-11-12T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "b06379671ede",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "category": "SEO",
-      "published": "2026-11-12T00:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "a045ec708b22",
-      "title": "ChatGPT Ads increases its market presence in 44 countries",
-      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
-      "source": "OpenAI",
-      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
-      "category": "GEO",
-      "published": "2026-11-12T00:00:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "e025024d7e55",
-      "title": "Google Ads API Version 26.2 Now Out Available",
-      "url": "https://www.seroundtable.com/google-ads-api-version-262-42517.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads has just released a minor update to its Google Ads API - version 26.2. This update touches on assets, campaigns, reporting, and more general updates.",
-      "category": "SEO",
-      "published": "2026-11-11T20:45:00Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
