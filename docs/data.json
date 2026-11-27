@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T07:02:58Z",
+  "updated": "2026-11-27T17:56:00Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -23,6 +23,16 @@
     "iPullRank (Rank Report)"
   ],
   "milestones": [
+    {
+      "date": "2026-11-27",
+      "family": "engine",
+      "platform": "Google",
+      "title": "Search News Buzz Video Recap: Google November Core Update, December Core Preannounced, Search Ranking Hub, Google StarSearch & Search Ad News",
+      "url": "https://www.seroundtable.com/video-11-2273-2026-42627.html",
+      "source": "Search Engine Roundtable",
+      "curated": false,
+      "id": "b9002c2530ee"
+    },
     {
       "date": "2026-11-24",
       "family": "engine",
@@ -812,16 +822,6 @@
       "source": "OpenAI",
       "curated": false,
       "id": "944dd949d12a"
-    },
-    {
-      "date": "2026-09-29",
-      "family": "model",
-      "platform": "OpenAI",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "curated": false,
-      "id": "95840e8c4cb9"
     }
   ],
   "competitors": [
@@ -836,6 +836,18 @@
       "source": "Google News",
       "curated": false,
       "id": "1ade2bfe6e91"
+    },
+    {
+      "date": "2026-11-27",
+      "company": "Shutterstock",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Egypt’s Namaa Holding Launches Asset Management Arm With EGP 5.5 Billion Portfolio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnhlcEZQNVVONk4xVUhBek5Sc0JVNE1QSXZhZ01xYWJjd0JyRkg5VnMzRlhoNkU4Wk9mV3ZhZlc4M3N5czlPS0FNaHl6bWpfdEJPU0lUclRGQ0xxOXo2a3g1ZUNYNnlVeEtxQVFhVzNrVGljVVNTemxKLXRUMFZhVFR3dkJRVXV4NV90b1pqOEZiQl9jdjE2a1VabjB2LWlqS3FKU0xVUmdNSjB2eEE?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "5e7cc784c41d"
     },
     {
       "date": "2026-11-26",
@@ -1016,6 +1028,18 @@
       "source": "Google News",
       "curated": false,
       "id": "5a67cd8dbc3f"
+    },
+    {
+      "date": "2026-11-26",
+      "company": "Synthesia",
+      "front": "GenAI Media",
+      "move": "M&A",
+      "detail": "",
+      "title": "COLT: Acquisitions lifted revenue and added Energetics, while cash flow fell and financing expanded",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQeEhRVXBRRWpYRGpOV09jSkVPbDRZbmJfYW9Wa3lrRW1mS0NtX21xU2RIYkxuNGZ1QW5nd2NMVDRXaDd2eDNscFNkMUg5ZXI2LXdQRGxxUGJ4LUZqX0ZxbkF3dUtIMU50eFhwb0JmNXlRdXg2TFRWMHR2bnU2RXdnWDNEajVVNFl6TXJadVB1TGpWS2dTekJwRmdSTU5zV1l1VHVBVEhwS3NfTjJteU16Rkt6WkZYUkZzNTVsSENMYmh1U1NLdGttSzJaeXpNTGJ4R1BhZ2E4YVdPSTItQXVEeEN3T3ZJYU52MkR5ZUV6cWlNcGpPcWdSRk83RzVSZmxhbXBYNG1DUWowaTM4?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "191ddaa3e54d"
     },
     {
       "date": "2026-11-25",
@@ -1306,6 +1330,18 @@
       "id": "81faf37ed1b5"
     },
     {
+      "date": "2026-11-24",
+      "company": "Freepik",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$300 Million",
+      "title": "Adani Airport Holdings Raises $300 Million In Fresh Funding As Infrastructure Expansion Continues Across India",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3JKZjhrUG1SYTVBQjFqbnFkclJDZUpNZzFOVFk2X1BIRTFmZTh1VmlIQmUtYVFzdlh2blhKV2NoTldlTzhQbzZtbnh2TkVKQXFtSzNZcEVnMVQtVE5YTWZIbHN4WXoydTlnaGs1MTVxZkVMbExIV21YZzJvc296VnVLT0NkWVlhTzNZZ1pyR2lFVUlCYTlVT2lPckNFRVNsOHhobnIzMWlJT2duSW95ZnR5ZTRoZWgwMWJ0b2Jwb21aTTRlRWlMMkdKeDEwM1pwQVHSAeIBQVVfeXFMUC1pNmlPTmk3RE1EaVlmeFF0T3lpTFh5UkhHS2UxV0RJeFBpWURpUzk1d09lSVFvd1NiWWVIQWRwakppRDVoTWxPd2U1VWNuRmhJbTlSSk5sN2RHZk1TeWcwTnlSLUJzN3VZVWwyNHhUQTkxVl9LdWl4VUVMZVluT1Y3anRSVHd2dWFhcWt2MmF2WjNYMExmSmVnZlpZaHJoc3NoaEtrZHMwcHBZcnhwWWZ4TVBObDRkNGFJRUJWYU1fcHJweWZZMDYyMVBXOHdKVk5uMWR4aW5JZDhBaldUMFlBZw?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "2eb1250d94f4"
+    },
+    {
       "date": "2026-11-23",
       "company": "Higgsfield",
       "front": "GenAI Media",
@@ -1508,45 +1544,141 @@
       "source": "Google News",
       "curated": false,
       "id": "2aaf7ffc1ac6"
-    },
-    {
-      "date": "2026-11-20",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva Rolls Out New AI Control Settings for Free and Pro Users",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0p6RTU3dHdkVHFwZktGV1dkWXNWWjFsd3VCRFlwaFdQZ3hOeXduSkpFbXJnTkl0cTlQbG15MS1ObUZybkxKQUVOYVFoV0pxaXk5LUpZTTg2UGtGYTFEQnpsY2RIbFJ3T1JaeGZ6WHpHSWg0WEwtWTJJeUhCNTN1MXlVYmhyM3hiNS05bDBnazZ4R21LWmhicGNmdm5xeWg3Wmx5ajVOMFJZUdIBrwFBVV95cUxQajRTbjkzU1hNZ2htWkFoUG9oYzlvOVg3dnBMd2VGX0VaT2NacWNKYWItelVEZjdoSUpjaURoOXNGNXlCZWRSaGxBc2FHRWlkZU5LQnlQMHlaZGxOVkNDNkNZTDBoeDc1M2laYjBvQzJHVlhKcGw1UUR6dlJjWUFXMmI5eXBTNE16Z09HVTA0clh5MmV1YkY0cXd5UnJ1M19IWlNBbzlPblZ5ZHF5X1hn?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "6c6d9c1c1745"
-    },
-    {
-      "date": "2026-11-20",
-      "company": "Canva",
-      "front": "Creative",
-      "move": "Launch",
-      "detail": "",
-      "title": "Canva introduces two new AI Controls; Available on Canva Free and Pro at no extra cost",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaWFHSzB6b0t3Qi1lXzJfOWd2ODRVU25QUUFtWVNUMXZVNGdVaFhDeVptM0ZPNFE1bDdocEZjVW8taG1EbUhLbWZGX0ZGNXloU2c5U0paeHZlYWpLWHBqMUV3Z25kMXEtT2kxVjBYbUxhckJvZF9mUHE1bzdKNDhLQnRKZE1LcGNKNVhxWHdqZ0ZBWnFOZjNiaGp2bDM2RnpiQWFXdHRuMy1vLU9oMmI1TF9OYXlwUTk4bmI0dEU3bEdHdVlSczlsSGNXMWtnZDNMcHRfdWVFRGluS0U?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "c8b4481df9f7"
-    },
-    {
-      "date": "2026-11-20",
-      "company": "Affinity",
-      "front": "Creative",
-      "move": "Funding",
-      "detail": "$32 million",
-      "title": "Jared Kushner's firm discloses $32 million Arxis stake",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHRfVlVGWGtta2RVSWhZS2VYQ3hONFVuZmxNTTRTOS1ZT2xRby00SnlSUG5aYXZHN1JqM1FsNUF2aUZyU3hpeGdYLUVvYkVpcXFSb0Z2bmFULWIycmpzOGp6T2QwMzlOVWZUZkhiak5pY2lPbkNDcnJ4ekFhd0t6TVZyWmxrWWlaVkVhN1ZGd1NHdnlOSHc?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "ac254f794a18"
     }
   ],
   "items": [
+    {
+      "id": "25001fcbba1a",
+      "title": "16 best competitor analysis tools for 2027 (compared)",
+      "url": "https://www.semrush.com/blog/competitor-analysis-tools/",
+      "source": "Semrush Blog",
+      "summary": "Compare 16 competitor analysis tools for SEO, AI visibility, social media, and more, with starting prices and free options.",
+      "category": "SEO",
+      "published": "2026-11-27T15:14:00Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "923015b42821",
+      "title": "Paid Search Has An AI Blind Spot – IAB Blueprint Says A Claim Is Not Credit via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/paid-search-has-an-ai-blind-spot-iab-blueprint-says-a-claim-is-not-credit/597307/",
+      "source": "Search Engine Journal",
+      "summary": "Paid search may be booking sales that AI assistants created. The IAB’s new blueprint sets evidence, with four steps to test it in Google Ads. The post Paid Search Has An AI Blind Spot – IAB Blueprint Says A Claim Is Not Credit appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-27T15:00:17Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "18a4faca6bba",
+      "title": "Daily Search Forum Recap: November 27, 2026",
+      "url": "https://www.seroundtable.com/recap-11-27-2026-42630.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "category": "SEO",
+      "published": "2026-11-27T15:00:00Z",
+      "coverage": 2,
+      "impact": 6.0
+    },
+    {
+      "id": "ed1f5424115b",
+      "title": "Search News Buzz Video Recap: Google November Core Update, December Core Preannounced, Search Ranking Hub, Google StarSearch & Search Ad News",
+      "url": "https://www.seroundtable.com/video-11-2273-2026-42627.html",
+      "source": "Search Engine Roundtable",
+      "summary": "This week, we covered the completion of the Google November 2026 core update and then were hit by a surprise, preannounced Google December 2026 core update; no, it is not live yet. Google launched a new search ranking hub....",
+      "category": "Algorithms",
+      "published": "2026-11-27T13:01:00Z",
+      "coverage": 1,
+      "impact": 8.0
+    },
+    {
+      "id": "015651e51085",
+      "title": "B2B Podcasts Reach Buyers Search Can’t – Where Most Shows Go Wrong",
+      "url": "https://www.searchenginejournal.com/b2b-podcast-growth-channel-search-cant-replace/596484/",
+      "source": "Search Engine Journal",
+      "summary": "HubSpot's revenue grew as its blog traffic fell 80%. Here's how B2B podcasts help buyers notice, hear, trust, and name you, and where shows fail. The post B2B Podcasts Reach Buyers Search Can’t – Where Most Shows Go Wrong appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-27T13:00:41Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "e5f20fc2afe2",
+      "title": "Bing AI Mode Ads Blending More With Organic Results",
+      "url": "https://www.seroundtable.com/bing-ai-mode-ads-differentiate-42625.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft Advertising is making it harder to distinguish ads in Bing AI Mode results from organic results. Microsoft has a very long history of making it hard to understand what is an advertisement versus what is an organic listing in its search results, so you can expect them…",
+      "category": "GEO",
+      "published": "2026-11-27T12:51:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "c9f8125b34ed",
+      "title": "Google AI Mode Image Results Ask A Follow Up Button",
+      "url": "https://www.seroundtable.com/google-ai-mode-images-ask-a-follow-up-42622.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google AI Mode now lets you Ask a follow up question on image results, after you click on the image and see the image on the right side image pane. I see two variations of this, including \"Ask a follow-up\" that has an animated Google ring around the button and a \"Ask about this…",
+      "category": "GEO",
+      "published": "2026-11-27T12:41:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "38afb7225cac",
+      "title": "Google AI Mode Gains Multiple Image Uploads",
+      "url": "https://www.seroundtable.com/google-ai-mode-multiple-images-42620.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google AI Mode now lets you snap multiple photos or upload multiple images for one query. Similar to what we saw with the image collections AI Mode feature, you can now attach up to 10 images to an AI Mode query and Google will respond taking into consideration all the images.",
+      "category": "GEO",
+      "published": "2026-11-27T12:31:00Z",
+      "coverage": 1,
+      "impact": 6.0
+    },
+    {
+      "id": "faebd1c57a95",
+      "title": "Google Ads Search Insights Tool",
+      "url": "https://www.seroundtable.com/google-ads-search-insights-42626.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Ads has a search ads insights tool, also known as search insights, that shows you emerging and declining trends related to your topic or category. I don't think this is super new, as I found some Google Ads documents and blog posts on it recently but I have never covered…",
+      "category": "SEO",
+      "published": "2026-11-27T12:21:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "d5c4617aed56",
+      "title": "Google Merchant Center Ads Opportunities With New Features?",
+      "url": "https://www.seroundtable.com/google-merchant-center-ads-opportunities-42621.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google Merchant Center may be rolling out the Ads opportunities feature in Google Merchant Center for Agencies, which we covered twice already. Now, some advertisers are seeing the \"new\" label on the \"Ads opportunities\" section in the console.",
+      "category": "SEO",
+      "published": "2026-11-27T12:11:00Z",
+      "coverage": 1,
+      "impact": 5.0
+    },
+    {
+      "id": "83c3424fcbb1",
+      "title": "Copilot Has Ads From Microsoft Advertising",
+      "url": "https://www.seroundtable.com/microsoft-advertising-ads-in-copilot-42629.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Microsoft is showing ads in Copilot responses to some users powered by Microsoft Advertising. I don't think this is new, I see some examples of this from earlier this year, but this is the first time I am covering it.",
+      "category": "GEO",
+      "published": "2026-11-27T12:05:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "9262e188f41e",
+      "title": "9 AI Workflows That Turn Marketing Data Into Content AI Cites via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/9-ai-workflows-that-turn-marketing-data-into-content-ai-cites-recap/598061/",
+      "source": "Search Engine Journal",
+      "summary": "A repeated customer question can point to a missing service page. CallRail’s Ryann Hogan and Guru Media Hub’s Jay Schwedelson explained how they chose what to publish and what to measure afterward. The post 9 AI Workflows That Turn Marketing Data Into Content AI Cites appeared…",
+      "category": "SEO",
+      "published": "2026-11-27T08:45:12Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "6bc7e9e86f50",
       "title": "Document Chunker now uses Decision 1 boundary classification for 100% verbatim chunking up to 15,000 words",
@@ -1746,17 +1878,6 @@
       "impact": 5.0
     },
     {
-      "id": "663bdb8d4c3e",
-      "title": "Daily Search Forum Recap: November 25, 2026",
-      "url": "https://www.seroundtable.com/recap-11-25-2026-42619.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "category": "SEO",
-      "published": "2026-11-25T15:00:00Z",
-      "coverage": 2,
-      "impact": 6.0
-    },
-    {
       "id": "e86b40f34f1b",
       "title": "10 tactics that actually work to get backlinks to your site in 2027",
       "url": "https://www.semrush.com/blog/how-to-get-backlinks/",
@@ -1797,17 +1918,6 @@
       "summary": "Ginny Marvin, the Google Ads Liaison, said that the Google Ads platform \"we strongly encourage\" \"dynamically scoring conversion values\" and they do not consider it a \"hack\" of any kind. \"Optimizing for deep conversion actions and feeding high-fidelity, first-party data is the…",
       "category": "SEO",
       "published": "2026-11-25T12:51:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "a216ec556db8",
-      "title": "Bing Image Search Ask Visual Search Button",
-      "url": "https://www.seroundtable.com/bing-search-ask-visual-search-image-button-42590.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Microsoft seems to be testing a new button when you overlay your mouse cursor over an image in the Bing Search results. Previously, a visual search button took you to a new screen when clicked; now, an Ask button lets you add context to your query for that image search.",
-      "category": "SEO",
-      "published": "2026-11-25T12:41:00Z",
       "coverage": 1,
       "impact": 4.0
     },
@@ -4186,116 +4296,6 @@
       "published": "2026-11-13T12:24:00Z",
       "coverage": 1,
       "impact": 2.0
-    },
-    {
-      "id": "14d0be555fca",
-      "title": "Google Ads Updates Conversion Lift Set Up Documentation",
-      "url": "https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google Ads updated its Conversion Lift help documentation primarily to provide more detailed technical requirements and troubleshooting guidance for advertisers setting up incrementality studies. There are a lot of changes to the document but here are the big ones.",
-      "category": "SEO",
-      "published": "2026-11-13T12:21:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "f4640814eccb",
-      "title": "Google Shopping Section Named Highlighted On The Web",
-      "url": "https://www.seroundtable.com/google-shopping-highlighted-on-the-web-42376.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has added a section to the mobile version of Google Shopping (maybe desktop as well) named \"Highlighted on the web.\" I can see this section when I search for product in Google Shopping on mobile, but I do not see it on the desktop interface.",
-      "category": "SEO",
-      "published": "2026-11-13T12:11:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "d1318183fe17",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "category": "SEO",
-      "published": "2026-11-13T08:00:00Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "63cf5a3a1c10",
-      "title": "4 Prompt Tracking Mistakes — Whiteboard Friday",
-      "url": "https://moz.com/blog/prompt-tracking-mistakes-whiteboard-friday",
-      "source": "Moz Blog",
-      "summary": "Are you measuring AI visibility wrong? Tom Capper reveals the 4 biggest mistakes in AI prompt tracking and 4 creative ways to expand your list of prompts.",
-      "category": "GEO",
-      "published": "2026-11-13T08:00:00Z",
-      "coverage": 1,
-      "impact": 3.0
-    },
-    {
-      "id": "49cba9a28673",
-      "title": "239,266 brands, ranked by authority in Gemini 4 Hydrogen, Google's new AI search model",
-      "url": "https://dejan.ai/blog/gemini-4-hydrogen-brand-authority/",
-      "source": "Dan Petrovic (DEJAN)",
-      "summary": "The day after Gemini 4 Hydrogen became the default model in Google's AI Mode, we asked it about brands 52,923 times and ranked the brands it recalls, overall and in 74 industries.",
-      "category": "GEO",
-      "published": "2026-11-13T07:25:03Z",
-      "coverage": 1,
-      "impact": 5.0
-    },
-    {
-      "id": "6d8db93f424d",
-      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
-      "source": "Search Engine Journal",
-      "summary": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-12T21:01:44Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bfa9c0cbe2e1",
-      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
-      "source": "Search Engine Journal",
-      "summary": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions. The post Google Makes Gemini 4 Hydrogen The Default Model In AI Mode appeared first on Search Engine Journal .",
-      "category": "GEO",
-      "published": "2026-11-12T20:09:18Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "c98570e7099e",
-      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO via @sejournal, @rollerblader",
-      "url": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
-      "source": "Search Engine Journal",
-      "summary": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection. The post Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO appeared first on Search Engine…",
-      "category": "GEO",
-      "published": "2026-11-12T20:00:07Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "5b0f73df89a6",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "category": "GEO",
-      "published": "2026-11-12T20:00:00Z",
-      "coverage": 1,
-      "impact": 7.0
-    },
-    {
-      "id": "3940f6833374",
-      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11",
-      "url": "https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has confirmed a data logging bug in the Search Console Generative AI performance report in Search between the dates of November 9 and November 11, 2026 which resulted in a decrease in impressions.",
-      "category": "SEO",
-      "published": "2026-11-12T19:55:00Z",
-      "coverage": 1,
-      "impact": 5.0
     }
   ]
 }
