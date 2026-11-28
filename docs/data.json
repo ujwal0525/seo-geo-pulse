@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T02:31:27Z",
+  "updated": "2026-11-28T12:45:34Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -862,6 +862,18 @@
       "id": "d3bbe33330e3"
     },
     {
+      "date": "2026-11-27",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Funding",
+      "detail": "$33bn",
+      "title": "London-founded ElevenLabs reportedly seeks $33bn valuation in early funding talks",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzJCcklIMVE5UWl6RFpsQk4wMEZpcC01OXBwMkpVZ1k3N1U4VFBfRTZVdXFDTWFsYVRxUUpEbzJmRHNPSXRXWmtQWlJYSE9VZjJvM2t1RGVEa1ExNFJjcTJfektFdGdnd0t4dmxweXpsbDBhVWNiMXo4QzhiZ1RJME1uVzZ3bnhDY2E5UU5saVNwM25tZEt3UlR5a2V6dFlhRkJlQjc4VTdSQUVoSk5F?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d212a5c915e7"
+    },
+    {
       "date": "2026-11-26",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1136,6 +1148,18 @@
       "source": "Google News",
       "curated": false,
       "id": "7d71e7ff94b6"
+    },
+    {
+      "date": "2026-11-25",
+      "company": "ElevenLabs",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Murf Launches Streaming Speech-to-Text Model, Claims Top Spot Across Every Indian Language Ahead of ElevenLabs, OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZFJoY01DZ1pCR2xMd3ZTclVLcmZjb0ctdlU2eFhjeEVWNFZEdGZHa1ppUE91ZkpmRVJfOGhCSEpVX0ZBLXdpU25fRkFDdUZISXVJTlRRcEtFd00yN0FjeG1nMmxVQWVqMk9VZDRFX2swdUdFVVJyNmM1M190LVR3UlhQZXU0NDFZbmRlX3RjOU9GZGQyU3J3eEdLcG1JbDZaUHFWMGZFM0k1cWQ1ZUdSdWpweUYxYk5PZENPNDItTzljVlc4UnBjREhuYzlNeU01U0xlM3UtSTlIZHpRQ0E1bUtOZldmWXFtVFN4YTZPbG9UNmJkaTBoaXNhZ2Y0Tmg0QkhlQkZjakJoQkHSAYsCQVVfeXFMUGRSaGNNQ2daQkdsTHd2U3JVS3JmY29HLXZVNnhYY3hFVjRWRHRmR2taaVBPdWZKZkVSXzhoQkhKVV9GQS13aVNuX0ZBQ3VGSEl1SU5UUXBLRXdNMjdBY3htZzJsVUFlajJPVWQ0RV9rMHVHRVVScjZjNTNfdC1Ud1JYUGV1NDQxWW5kZV90YzlPRmRkMlNyd3hHS3BtSWw2WlBxVjBmRTNJNXFkNWVHUnVqcHlGMWJOT2RDTzQyLU85Y1ZXOFJwY0RIbmM5TXlNNVNMZTN1LUk5SGR6UUNBNW1LTmZXZllxbVRTeGE2T2xvVDZiZGkwaGlzYWdmNE5oNEJIZUJGY2pCaEJB?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "e319208a535e"
     },
     {
       "date": "2026-11-24",
@@ -1520,30 +1544,6 @@
       "source": "Google News",
       "curated": false,
       "id": "5eb339a717bd"
-    },
-    {
-      "date": "2026-11-21",
-      "company": "DocuSign",
-      "front": "Documents",
-      "move": "Launch",
-      "detail": "",
-      "title": "SurveyMonkey Unveils Workday, BambooHR Integrations and DocuSign Feature",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG01bGhlUFA3b1dhcXlYR3dlSFFFd21fSW4zVy1jdktuNWhReTVoYkpnV1AzeERzc1NHZEY4UDhsY0R5TE9RYTE2NjZqUmV2ZURrQ19KTDJsNHMwR1NUSEROemNWUWJyVzFwX0ZxNGViTUlxRnlTQVF4WHFOeXp3azdDQ2h6TXhXSXBFUWZuYldmSlRJWnpCU0tFRXYwblA3?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "028563324985"
-    },
-    {
-      "date": "2026-11-21",
-      "company": "Getty Images",
-      "front": "GenAI Media",
-      "move": "M&A",
-      "detail": "",
-      "title": "California Voice: State needs to better resist job-killing entertainment megamergers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFk5aGl5N25lYXJ3NWdENl9yR3dZY1F1NEpFTDA2Q2t0UGZOT2lkSnBHUUdYUXdiUENkWFJEcWl0U25yUVlHT1FLczhreE0xMzA2VExsaE5LZ2xlUVQ3ZXI3cmg5U0RidlBwTzNzd0xsTTM0S1hqWjZRQ3JGWlBPNEpTSWZ4VVgxQktVQXYxWFRJaXBVWlpiYzYxUjhrMXJiN2V1d0RkeWhEdHhoalZz?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "7568f3dfa783"
     }
   ],
   "items": [
@@ -1571,10 +1571,10 @@
     },
     {
       "id": "fa67f6a75b15",
-      "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+      "title": "Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
       "source": "Search Engine Journal",
-      "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google’s 404 Guide Says 410s Generally Get Crawled Less Often appeared first on Search Engine Journal .",
+      "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note appeared first on Search Engine Journal .",
       "category": "SEO",
       "published": "2026-11-27T20:26:24Z",
       "coverage": 1,
@@ -1733,6 +1733,17 @@
       "published": "2026-11-27T08:45:12Z",
       "coverage": 1,
       "impact": 4.0
+    },
+    {
+      "id": "76ccb1e0db0f",
+      "title": "How To Speak the Language of Your Top SEO Stakeholders — Whiteboard Friday",
+      "url": "https://moz.com/blog/how-to-speak-stakeholder-language-whiteboard-friday",
+      "source": "Moz Blog",
+      "summary": "Are your SEO proposals getting lost in translation? In this week’s episode of Whiteboard Friday, Helen discusses why traditional SEO language often falls short with senior leaders and how you can better communicate the value of your work. Learn how using the metrics and outcomes…",
+      "category": "SEO",
+      "published": "2026-11-27T08:05:00Z",
+      "coverage": 1,
+      "impact": 2.0
     },
     {
       "id": "6bc7e9e86f50",
@@ -4285,17 +4296,6 @@
       "published": "2026-11-13T13:01:00Z",
       "coverage": 2,
       "impact": 10.0
-    },
-    {
-      "id": "d139e75f82a6",
-      "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
-      "url": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
-      "source": "Search Engine Journal",
-      "summary": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries. The post What Reddit Reviews Reveals About Your Products appeared first on Search Engine Journal .",
-      "category": "SEO",
-      "published": "2026-11-13T13:00:09Z",
-      "coverage": 1,
-      "impact": 4.0
     }
   ]
 }
