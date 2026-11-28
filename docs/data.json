@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T17:56:00Z",
+  "updated": "2026-11-28T02:31:27Z",
   "count": 250,
   "sources": [
     "Ahrefs Blog",
@@ -850,6 +850,18 @@
       "id": "5e7cc784c41d"
     },
     {
+      "date": "2026-11-27",
+      "company": "Kling AI",
+      "front": "GenAI Media",
+      "move": "Launch",
+      "detail": "",
+      "title": "Kuaishou’s Kling launches 8K image model as revenue goes quiet",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlE1ZGtLT0FjemtJZHZ3NVJEbW1NRGpJQ3hpeXRwZl9VWGFsdkRNU205SjE5YkpCQkpTQVFOSVEtNEJyMGw5aXpSeS1aQTZ2Vzg1VVozTHR0dmJSY2J4UHFncG1JbFhwUTZBRTNob3ZVSWtsTXhwWXAwMk1xRTBLd1RXNDNzSVhwRTE2TFJYVjZvSHBqVE5XSTJOWHM2SmM?oc=5",
+      "source": "Google News",
+      "curated": false,
+      "id": "d3bbe33330e3"
+    },
+    {
       "date": "2026-11-26",
       "company": "ElevenLabs",
       "front": "GenAI Media",
@@ -1532,21 +1544,64 @@
       "source": "Google News",
       "curated": false,
       "id": "7568f3dfa783"
-    },
-    {
-      "date": "2026-11-20",
-      "company": "Runway",
-      "front": "GenAI Media",
-      "move": "Partnership",
-      "detail": "",
-      "title": "Richardson renews partnership with Startup Runway to bring global business to city",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDIybEZSeGotdmE3dmFQZUpGaTlMaUJNUDBUOXAwUlVPOGltVDhCamlfdFhKa1h1SjI0eVh0SXliLWhsR3lvaFRtX2VpSXhYbzFXT1I4ZEJ0LTFuSWo4Sk51WEZ1aXlVLVJRLXdSSG9iazVqUF9iR1Y1VFJlanZJWU80QkQ2V2RoT1VWQzJibEt3OFFlWThGTVMzZHprQmtLVHZ3QTU2R2FRZFV2WUhBMmN3SElITlFnUFB5cURFSFN3NWpYZy1QNW5xUQ?oc=5",
-      "source": "Google News",
-      "curated": false,
-      "id": "2aaf7ffc1ac6"
     }
   ],
   "items": [
+    {
+      "id": "50e1bddbad1f",
+      "title": "52% of AI SEO agencies are absent from frontier model memory: 7-model study and open dataset",
+      "url": "https://dejan.ai/blog/ai-seo-agencies-parametric-memory-study/",
+      "source": "Dan Petrovic (DEJAN)",
+      "summary": "Seven-model zero-grounding parametric memory study across 972 verified organizations (639 core search and AI visibility agencies), 58,320 Monte Carlo samples, 48,196 peer associations, and downloadable dataset.",
+      "category": "SEO",
+      "published": "2026-11-28T01:23:29Z",
+      "coverage": 1,
+      "impact": 3.0
+    },
+    {
+      "id": "79302e53bd28",
+      "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/",
+      "source": "Search Engine Journal",
+      "summary": "Join us on December 2 to learn where enterprise AI agent programs stall and how to choose your AEO data, measurement, and investment priorities for 2027. The post Know What To Fix Before Scaling AI Agents For AEO In 2027 appeared first on Search Engine Journal .",
+      "category": "GEO",
+      "published": "2026-11-27T22:41:34Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "fa67f6a75b15",
+      "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
+      "source": "Search Engine Journal",
+      "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google’s 404 Guide Says 410s Generally Get Crawled Less Often appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-27T20:26:24Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "a77813a268ca",
+      "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
+      "source": "Search Engine Journal",
+      "summary": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says. The post Google Adds Shopping Campaigns To Promotion Mode Eligibility appeared first on Search Engine Journal .",
+      "category": "SEO",
+      "published": "2026-11-27T19:57:15Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
+    {
+      "id": "83b645b47633",
+      "title": "Google On When To Fix 404 Errors & Updates 404 & Sitemaps Docs",
+      "url": "https://www.seroundtable.com/google-404-and-sitemaps-docs-42634.html",
+      "source": "Search Engine Roundtable",
+      "summary": "Google just pushed an update to its troubleshooting Google Search crawling errors help document and the what is a sitemap help document. The biggest change is that Google explains whether to fix 404 errors in Search Console or not. But there are other changes in these documents…",
+      "category": "SEO",
+      "published": "2026-11-27T17:12:00Z",
+      "coverage": 1,
+      "impact": 4.0
+    },
     {
       "id": "25001fcbba1a",
       "title": "16 best competitor analysis tools for 2027 (compared)",
@@ -4241,61 +4296,6 @@
       "published": "2026-11-13T13:00:09Z",
       "coverage": 1,
       "impact": 4.0
-    },
-    {
-      "id": "fcf4495a1d83",
-      "title": "Yahoo Scout To Pay Publishers Through The ILC For Using Content In AI Answers",
-      "url": "https://www.seroundtable.com/ilc-yahoo-42528.html",
-      "source": "Search Engine Roundtable",
-      "summary": "The Internet Licensing Collective, a nonprofit, publisher-led licensing collective for Internet publishers and creators, launched the other day with Yahoo Scout as its first commercial partner. Yahoo Scout, through the ILC will pay publishers for using their content in its AI…",
-      "category": "GEO",
-      "published": "2026-11-13T12:51:00Z",
-      "coverage": 1,
-      "impact": 6.0
-    },
-    {
-      "id": "56aabc9920b7",
-      "title": "Google AI Overviews AI-Generated Images Have Returned For Some",
-      "url": "https://www.seroundtable.com/google-ai-overviews-ai-generated-images-back-42532.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google seems to be bringing back the ability for Google Search to generate images on the fly within Google Search. Google initially announced this back in July of this year and then paused the test the next month after some controversy. Now, it seems to be coming back for some…",
-      "category": "GEO",
-      "published": "2026-11-13T12:42:00Z",
-      "coverage": 1,
-      "impact": 8.0
-    },
-    {
-      "id": "98358fc55220",
-      "title": "Google Merchant Center Promotions Titles Now Disallows Redemption Dates",
-      "url": "https://www.seroundtable.com/google-merchant-center-promotions-titles-date-42488.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has updated the editorial requirements for Merchant Center titles saying you can no longer \"include dates in any format\" within the title of the listing in the redemption section. Previously, the document allowed some date formats, I believe.",
-      "category": "SEO",
-      "published": "2026-11-13T12:41:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "bdc211a6c190",
-      "title": "Google Merchant Center Deal Ends Annotation No Longer Experimental",
-      "url": "https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html",
-      "source": "Search Engine Roundtable",
-      "summary": "Google has dropped the \"experimental\" label from the Deal Ends annotation for Google Merchant Center Product Listing Ads. Google has also said this feature is no longer available in India; previously, it was.",
-      "category": "SEO",
-      "published": "2026-11-13T12:31:00Z",
-      "coverage": 1,
-      "impact": 4.0
-    },
-    {
-      "id": "ee2d6c54e476",
-      "title": "How to do an SEO competitor analysis with the Semrush MCP",
-      "url": "https://www.semrush.com/blog/competitor-analysis-semrush-mcp/",
-      "source": "Semrush Blog",
-      "summary": "Learn how to use the Semrush MCP to analyze your competitors’ keywords, pages, and backlinks.",
-      "category": "SEO",
-      "published": "2026-11-13T12:24:00Z",
-      "coverage": 1,
-      "impact": 2.0
     }
   ]
 }
